@@ -105,7 +105,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3201.90",
             "hs_code": "100",
             "desc": "1 タンニン及びその誘導体",
             "rate": {
@@ -148,7 +148,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3201.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -342,7 +342,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3203.00",
         "hs_code": "100",
         "desc": "− 天然あい及びバターダイ",
         "rate": {
@@ -385,7 +385,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3203.00",
         "hs_code": "",
         "desc": "− その他のもの",
         "rate": {
@@ -425,7 +425,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3203.00",
             "hs_code": "210",
             "desc": "−− 植物性着色料",
             "rate": {
@@ -468,7 +468,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3203.00",
             "hs_code": "290",
             "desc": "−− 動物性着色料",
             "rate": {
@@ -524,7 +524,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "32.04",
         "hs_code": "",
         "desc": "有機合成着色料及びこの類の注3の調製品で有機合成着色料をもととしたもの",
         "rate": {},
@@ -618,7 +618,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3204.12",
                 "hs_code": "010",
                 "desc": "− 酸性染料（金属塩にしてあるかないかを問わない。）及びこれをもととした調製品",
                 "rate": {
@@ -663,7 +663,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3204.12",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -930,7 +930,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3204.17",
                 "hs_code": "010",
                 "desc": "− 顔料",
                 "rate": {
@@ -975,7 +975,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3204.17",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1107,7 +1107,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3204.19",
                 "hs_code": "020",
                 "desc": "− 有機溶剤溶解染料",
                 "rate": {
@@ -1152,7 +1152,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3204.19",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1353,7 +1353,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "32.06",
         "hs_code": "",
         "desc": "二酸化チタンをもととした顔料及び調製品",
         "rate": {},
@@ -1496,7 +1496,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "32.06",
         "hs_code": "",
         "desc": "その他の着色料及び調製品",
         "rate": {},
@@ -1514,7 +1514,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3206.41",
                 "hs_code": "010",
                 "desc": "1 ウルトラマリンブルー（群青）",
                 "rate": {
@@ -1558,7 +1558,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3206.41",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1613,7 +1613,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3206.42",
                 "hs_code": "010",
                 "desc": "1 リトポン",
                 "rate": {
@@ -1657,7 +1657,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3206.42",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1712,7 +1712,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3206.49",
                 "hs_code": "100",
                 "desc": "1 ヘキサシアノ鉄酸塩（フェロシアン酸塩及びフェリシアン酸塩）をもととした顔料及び調製品",
                 "rate": {
@@ -1756,7 +1756,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3206.49",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2164,7 +2164,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3208.90",
             "hs_code": "020",
             "desc": "− 合成樹脂を含有する塗料",
             "rate": {
@@ -2209,7 +2209,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3208.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2378,7 +2378,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3210.00",
         "hs_code": "010",
         "desc": "1 歴青質塗料",
         "rate": {
@@ -2422,7 +2422,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3210.00",
         "hs_code": "020",
         "desc": "2 その他のもの",
         "rate": {
@@ -2580,7 +2580,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3212.90",
             "hs_code": "010",
             "desc": "1 パールエッセンス",
             "rate": {
@@ -2624,7 +2624,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3212.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -2874,7 +2874,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "32.15",
         "hs_code": "",
         "desc": "印刷用インキ",
         "rate": {},

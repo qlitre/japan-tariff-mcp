@@ -191,7 +191,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.02",
         "hs_code": "",
         "desc": "蒸気発生ボイラー",
         "rate": {},
@@ -779,7 +779,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.06",
         "hs_code": "",
         "desc": "その他のタービン",
         "rate": {},
@@ -965,7 +965,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.07",
         "hs_code": "",
         "desc": "船舶推進用エンジン",
         "rate": {},
@@ -1058,7 +1058,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.07",
         "hs_code": "",
         "desc": "ピストン式往復動機関（第87類の車両の駆動に使用する種類のものに限る。）",
         "rate": {},
@@ -1407,7 +1407,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8408.90",
             "hs_code": "",
             "desc": "− 陸用のもの（出力が500馬力以下のものに限る。）及び第84.27項の作業トラックのもの",
             "rate": {},
@@ -1416,7 +1416,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8408.90",
                 "hs_code": "011",
                 "desc": "−− 出力が100馬力以下のもの",
                 "rate": {
@@ -1457,7 +1457,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8408.90",
                 "hs_code": "019",
                 "desc": "−− 出力が100馬力を超えるもの",
                 "rate": {
@@ -1500,7 +1500,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8408.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -1509,7 +1509,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8408.90",
                 "hs_code": "091",
                 "desc": "−− 陸用のもの",
                 "rate": {
@@ -1550,7 +1550,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8408.90",
                 "hs_code": "099",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1647,7 +1647,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.09",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1696,7 +1696,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8409.91",
                 "hs_code": "010",
                 "desc": "− 自動車用のもの",
                 "rate": {
@@ -1737,7 +1737,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8409.91",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1820,7 +1820,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8409.99",
                 "hs_code": "010",
                 "desc": "− 自動車用のもの",
                 "rate": {
@@ -1861,7 +1861,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8409.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1917,7 +1917,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.10",
         "hs_code": "",
         "desc": "液体タービン及び水車",
         "rate": {},
@@ -2103,7 +2103,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.11",
         "hs_code": "",
         "desc": "ターボジェット",
         "rate": {},
@@ -2200,7 +2200,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.11",
         "hs_code": "",
         "desc": "ターボプロペラ",
         "rate": {},
@@ -2297,7 +2297,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.11",
         "hs_code": "",
         "desc": "その他のガスタービン",
         "rate": {},
@@ -2346,7 +2346,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8411.81",
                 "hs_code": "010",
                 "desc": "− 航空機用のもの",
                 "rate": {
@@ -2389,7 +2389,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8411.81",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2479,7 +2479,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.11",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -2571,7 +2571,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8411.99",
                 "hs_code": "010",
                 "desc": "− 航空機用のもの",
                 "rate": {
@@ -2614,7 +2614,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8411.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2715,7 +2715,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.12",
         "hs_code": "",
         "desc": "液体原動機",
         "rate": {},
@@ -2808,7 +2808,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.12",
         "hs_code": "",
         "desc": "気体原動機",
         "rate": {},
@@ -2986,7 +2986,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8412.90",
             "hs_code": "010",
             "desc": "− 液体原動機のもの",
             "rate": {
@@ -3027,7 +3027,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8412.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -3036,7 +3036,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8412.90",
                 "hs_code": "021",
                 "desc": "−− 航空機用のもの",
                 "rate": {
@@ -3077,7 +3077,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8412.90",
                 "hs_code": "029",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -3133,7 +3133,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.13",
         "hs_code": "",
         "desc": "ポンプ（計器付きのもの及び計器を取り付けるように設計したものに限る。）",
         "rate": {},
@@ -3307,7 +3307,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.30",
             "hs_code": "010",
             "desc": "− ギヤポンプ、ベーンポンプ及びスクリューポンプ（油圧ポンプを除く。）",
             "rate": {
@@ -3348,7 +3348,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.30",
             "hs_code": "020",
             "desc": "− その他のもの",
             "rate": {
@@ -3472,7 +3472,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.50",
             "hs_code": "010",
             "desc": "− 油圧ポンプ",
             "rate": {
@@ -3513,7 +3513,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3596,7 +3596,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.60",
             "hs_code": "",
             "desc": "− 油圧ポンプ",
             "rate": {},
@@ -3605,7 +3605,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8413.60",
                 "hs_code": "011",
                 "desc": "−− かじ取り倍力装置用のもの（ギヤ式又はベーン式のもので第87.03項の乗用自動車用のものに限る。）",
                 "rate": {
@@ -3646,7 +3646,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8413.60",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -3689,7 +3689,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.60",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -3698,7 +3698,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8413.60",
                 "hs_code": "091",
                 "desc": "−− ギヤポンプ、ベーンポンプ及びスクリューポンプ",
                 "rate": {
@@ -3739,7 +3739,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8413.60",
                 "hs_code": "099",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -3824,7 +3824,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.70",
             "hs_code": "010",
             "desc": "− 渦巻ポンプ",
             "rate": {
@@ -3865,7 +3865,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8413.70",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3908,7 +3908,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.13",
         "hs_code": "",
         "desc": "その他のポンプ及び液体エレベーター",
         "rate": {},
@@ -4001,7 +4001,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.13",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -4227,7 +4227,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8414.30",
             "hs_code": "010",
             "desc": "− 重量が1,000キログラム以下のもの（往復式のものを除く。）",
             "rate": {
@@ -4268,7 +4268,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8414.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -4352,7 +4352,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.14",
         "hs_code": "",
         "desc": "ファン",
         "rate": {},
@@ -4401,7 +4401,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.51",
                 "hs_code": "010",
                 "desc": "− 扇風機（電池内蔵式のものを除く。）",
                 "rate": {
@@ -4442,7 +4442,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.51",
                 "hs_code": "020",
                 "desc": "− 換気扇（羽根の先端によつて描かれる円の直径が50センチメートル以下のものに限る。）",
                 "rate": {
@@ -4483,7 +4483,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.51",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -4566,7 +4566,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.59",
                 "hs_code": "010",
                 "desc": "− 自動車用排気タービン過給機",
                 "rate": {
@@ -4607,7 +4607,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.59",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -4616,7 +4616,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8414.59",
                     "hs_code": "021",
                     "desc": "−− ピストン式の圧縮点火内燃機関用排気タービン過給機",
                     "rate": {
@@ -4657,7 +4657,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8414.59",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -4828,7 +4828,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8414.80",
             "hs_code": "",
             "desc": "− 気体圧縮機（重量が1,000キログラム以下のものに限る。）",
             "rate": {},
@@ -4837,7 +4837,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.80",
                 "hs_code": "011",
                 "desc": "−− 往復式のもの",
                 "rate": {
@@ -4878,7 +4878,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.80",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -4921,7 +4921,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8414.80",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -4930,7 +4930,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.80",
                 "hs_code": "091",
                 "desc": "−− 気体ポンプ",
                 "rate": {
@@ -4971,7 +4971,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.80",
                 "hs_code": "093",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -5056,7 +5056,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8414.90",
             "hs_code": "010",
             "desc": "− ファン（第8414.51号のものに限る。）又は自動車用排気タービン過給機のもの",
             "rate": {
@@ -5097,7 +5097,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8414.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -5106,7 +5106,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.90",
                 "hs_code": "091",
                 "desc": "−− 気体ポンプ、真空ポンプ又は気体圧縮機のもの",
                 "rate": {
@@ -5147,7 +5147,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8414.90",
                 "hs_code": "099",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -5245,7 +5245,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8415.10",
             "hs_code": "010",
             "desc": "− 定格冷房消費電力が3キロワット以下のもの",
             "rate": {
@@ -5289,7 +5289,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8415.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -5379,7 +5379,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.15",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -5428,7 +5428,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8415.81",
                 "hs_code": "019",
                 "desc": "− 定格冷房消費電力が3キロワット以下のもの",
                 "rate": {
@@ -5472,7 +5472,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8415.81",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5558,7 +5558,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8415.82",
                 "hs_code": "019",
                 "desc": "− 定格冷房消費電力が3キロワット以下のもの",
                 "rate": {
@@ -5602,7 +5602,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8415.82",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -5611,7 +5611,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8415.82",
                     "hs_code": "021",
                     "desc": "−− パッケージ型のもの（圧縮式のものに限る。）",
                     "rate": {
@@ -5655,7 +5655,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8415.82",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -5743,7 +5743,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8415.83",
                 "hs_code": "091",
                 "desc": "− 定格冷房消費電力が3キロワット以下のもの",
                 "rate": {
@@ -5787,7 +5787,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8415.83",
                 "hs_code": "099",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5875,7 +5875,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8415.90",
             "hs_code": "010",
             "desc": "− 自動車用のもの",
             "rate": {
@@ -5919,7 +5919,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8415.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -6370,7 +6370,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.18",
         "hs_code": "",
         "desc": "家庭用冷蔵庫",
         "rate": {},
@@ -6509,7 +6509,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8418.30",
             "hs_code": "010",
             "desc": "− 容量が400リットル以下のもの",
             "rate": {
@@ -6553,7 +6553,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8418.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -6683,7 +6683,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8418.50",
             "hs_code": "010",
             "desc": "− 容量が800リットル以下のもの（冷凍専用のものにあつては、容量が400リットル以下のものに限る。）",
             "rate": {
@@ -6727,7 +6727,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8418.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -6773,7 +6773,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.18",
         "hs_code": "",
         "desc": "その他の冷蔵用又は冷凍用の機器及びヒートポンプ",
         "rate": {},
@@ -6822,7 +6822,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8418.61",
                 "hs_code": "010",
                 "desc": "− 重量が100キログラム以下のもの",
                 "rate": {
@@ -6866,7 +6866,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8418.61",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -6952,7 +6952,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8418.69",
                 "hs_code": "010",
                 "desc": "− 冷蔵庫及び冷凍庫",
                 "rate": {
@@ -6996,7 +6996,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8418.69",
                 "hs_code": "020",
                 "desc": "− アイスクリームフリーザー及び製氷機",
                 "rate": {
@@ -7040,7 +7040,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8418.69",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -7049,7 +7049,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8418.69",
                     "hs_code": "091",
                     "desc": "−− 冷蔵用又は冷凍用の機器（重量が100キログラム以下のものに限る。）",
                     "rate": {
@@ -7093,7 +7093,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8418.69",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -7143,7 +7143,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.18",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -7253,7 +7253,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.19",
         "hs_code": "",
         "desc": "瞬間湯沸器及び貯蔵式湯沸器（電気式のものを除く。）",
         "rate": {},
@@ -7440,7 +7440,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.19",
         "hs_code": "",
         "desc": "乾燥機",
         "rate": {},
@@ -7759,7 +7759,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.19",
         "hs_code": "",
         "desc": "その他の機器",
         "rate": {},
@@ -7954,7 +7954,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.20",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -8058,7 +8058,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.21",
         "hs_code": "",
         "desc": "遠心分離機（遠心式脱水機を含む。）",
         "rate": {},
@@ -8198,7 +8198,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.21",
         "hs_code": "",
         "desc": "液体のろ過機及び清浄機",
         "rate": {},
@@ -8333,7 +8333,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.23",
                 "hs_code": "010",
                 "desc": "− 自動車用のもの",
                 "rate": {
@@ -8376,7 +8376,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.23",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8461,7 +8461,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.29",
                 "hs_code": "010",
                 "desc": "− 自動車用のもの",
                 "rate": {
@@ -8504,7 +8504,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8551,7 +8551,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.21",
         "hs_code": "",
         "desc": "気体のろ過機及び清浄機",
         "rate": {},
@@ -8686,7 +8686,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.39",
                 "hs_code": "010",
                 "desc": "− 空気のろ過用又は清浄用のもの（電池式のものを除く。）",
                 "rate": {
@@ -8729,7 +8729,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.39",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8776,7 +8776,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.21",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -8868,7 +8868,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.99",
                 "hs_code": "010",
                 "desc": "− 自動車用のもの",
                 "rate": {
@@ -8911,7 +8911,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8421.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8969,7 +8969,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.22",
         "hs_code": "",
         "desc": "皿洗機",
         "rate": {},
@@ -9149,7 +9149,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8422.30",
             "hs_code": "020",
             "desc": "− 容器成形充てん機",
             "rate": {
@@ -9192,7 +9192,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8422.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -9277,7 +9277,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8422.40",
             "hs_code": "010",
             "desc": "− オートマチックラッピングマシン",
             "rate": {
@@ -9320,7 +9320,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8422.40",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -9542,7 +9542,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.23",
         "hs_code": "",
         "desc": "その他の重量測定機器",
         "rate": {},
@@ -9863,7 +9863,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.24",
         "hs_code": "",
         "desc": "農業用又は園芸用の噴霧器",
         "rate": {},
@@ -9964,7 +9964,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.24",
         "hs_code": "",
         "desc": "その他の機器",
         "rate": {},
@@ -10105,7 +10105,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8424.90",
             "hs_code": "010",
             "desc": "− 消火器、スプレーガン、蒸気又は砂の吹付け機その他これらに類する噴射用機器のもの",
             "rate": {
@@ -10150,7 +10150,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8424.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -10208,7 +10208,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.25",
         "hs_code": "",
         "desc": "プーリータックル及びホイスト（スキップホイスト及び車両持上げに使用する種類のホイストを除く。）",
         "rate": {},
@@ -10301,7 +10301,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.25",
         "hs_code": "",
         "desc": "ウインチ及びキャプスタン",
         "rate": {},
@@ -10394,7 +10394,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.25",
         "hs_code": "",
         "desc": "ジャッキ及び車両持上げに使用する種類のホイスト",
         "rate": {},
@@ -10539,7 +10539,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.26",
         "hs_code": "",
         "desc": "天井クレーン、トランスポータークレーン、ガントリークレーン、橋型クレーン、移動式リフティングフレーム及びストラッドルキャリヤー",
         "rate": {},
@@ -10755,7 +10755,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.26",
         "hs_code": "",
         "desc": "その他の機械（自走式のものに限る。）",
         "rate": {},
@@ -10848,7 +10848,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.26",
         "hs_code": "",
         "desc": "その他の機械",
         "rate": {},
@@ -11168,7 +11168,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.28",
         "hs_code": "",
         "desc": "その他の連続作動式の昇降機及びコンベヤ（貨物用のものに限る。）",
         "rate": {},
@@ -11518,7 +11518,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.29",
         "hs_code": "",
         "desc": "ブルドーザー及びアングルドーザー",
         "rate": {},
@@ -11734,7 +11734,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.29",
         "hs_code": "",
         "desc": "メカニカルショベル、エキスカベーター及びショベルローダー",
         "rate": {},
@@ -11961,7 +11961,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.30",
         "hs_code": "",
         "desc": "コールカッター、削岩機及びトンネル掘削機",
         "rate": {},
@@ -12054,7 +12054,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.30",
         "hs_code": "",
         "desc": "その他のせん孔用又は掘削用の機械",
         "rate": {},
@@ -12188,7 +12188,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.30",
         "hs_code": "",
         "desc": "その他の機械（自走式のものを除く。）",
         "rate": {},
@@ -12374,7 +12374,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.31",
         "hs_code": "",
         "desc": "第84.28項の機械のもの",
         "rate": {},
@@ -12467,7 +12467,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.31",
         "hs_code": "",
         "desc": "第84.26項、第84.29項又は第84.30項の機械のもの",
         "rate": {},
@@ -12639,7 +12639,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8431.49",
                 "hs_code": "010",
                 "desc": "− 第84.26項の機械のもの",
                 "rate": {
@@ -12680,7 +12680,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8431.49",
                 "hs_code": "020",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12779,7 +12779,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.32",
         "hs_code": "",
         "desc": "ハロー、スカリファイヤー、カルチベーター、除草機及びホー",
         "rate": {},
@@ -12876,7 +12876,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.32",
         "hs_code": "",
         "desc": "播種機、植付け機及び移植機",
         "rate": {},
@@ -12973,7 +12973,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.32",
         "hs_code": "",
         "desc": "肥料散布機",
         "rate": {},
@@ -13165,7 +13165,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.33",
         "hs_code": "",
         "desc": "芝生用、公園用又は運動場用の草刈機",
         "rate": {},
@@ -13387,7 +13387,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.33",
         "hs_code": "",
         "desc": "その他の収穫機及び脱穀機",
         "rate": {},
@@ -13941,7 +13941,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.36",
         "hs_code": "",
         "desc": "家きんの飼育器、ふ卵器及び育すう器",
         "rate": {},
@@ -14075,7 +14075,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.36",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -14791,7 +14791,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.39",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -14935,7 +14935,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8440.10",
             "hs_code": "010",
             "desc": "− 本とじ機及び製本ミシン",
             "rate": {
@@ -14976,7 +14976,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8440.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -15462,7 +15462,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.43",
         "hs_code": "",
         "desc": "印刷機（第84.42項のプレート、シリンダーその他の印刷用コンポーネントにより印刷に使用するもの）",
         "rate": {},
@@ -15817,7 +15817,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.43",
         "hs_code": "",
         "desc": "その他のプリンター、複写機及びファクシミリ（結合してあるかないかを問わない。）",
         "rate": {},
@@ -15909,7 +15909,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8443.32",
                 "hs_code": "010",
                 "desc": "− インクジェット方式のプリンター（専ら一辺の長さが297ミリメートルを超え、その他の辺の長さが420ミリメートルを超える長方形（正方形を含む。）のもの（紙であるかないかを問わない。）に印刷するものに限る。）",
                 "rate": {
@@ -15952,7 +15952,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8443.32",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -16042,7 +16042,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.43",
         "hs_code": "",
         "desc": "部分品及び附属品",
         "rate": {},
@@ -16201,7 +16201,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.45",
         "hs_code": "",
         "desc": "紡績準備機械",
         "rate": {},
@@ -16592,7 +16592,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.46",
         "hs_code": "",
         "desc": "織幅が30センチメートルを超えるもの（シャットル式のものに限る。）",
         "rate": {},
@@ -16737,7 +16737,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.47",
         "hs_code": "",
         "desc": "丸編機",
         "rate": {},
@@ -16923,7 +16923,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.48",
         "hs_code": "",
         "desc": "第84.44項から第84.47項までの機械の補助機械",
         "rate": {},
@@ -17057,7 +17057,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.48",
         "hs_code": "",
         "desc": "第84.45項の機械又はその補助機械の部分品及び附属品",
         "rate": {},
@@ -17232,7 +17232,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.48",
         "hs_code": "",
         "desc": "織機又はその補助機械の部分品及び附属品",
         "rate": {},
@@ -17322,7 +17322,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8448.49",
                 "hs_code": "010",
                 "desc": "− 織機のもの",
                 "rate": {
@@ -17363,7 +17363,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8448.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -17408,7 +17408,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.48",
         "hs_code": "",
         "desc": "第84.47項の機械又はその補助機械の部分品及び附属品",
         "rate": {},
@@ -17457,7 +17457,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8448.51",
                 "hs_code": "010",
                 "desc": "− メリヤス針",
                 "rate": {
@@ -17498,7 +17498,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8448.51",
                 "hs_code": "020",
                 "desc": "− その他のもの",
                 "rate": {
@@ -17646,7 +17646,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.50",
         "hs_code": "",
         "desc": "洗濯機（1回の洗濯容量が乾燥した繊維製品の重量で10キログラム以下のものに限る。）",
         "rate": {},
@@ -17914,7 +17914,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.51",
         "hs_code": "",
         "desc": "乾燥機",
         "rate": {},
@@ -18264,7 +18264,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.52",
         "hs_code": "",
         "desc": "その他のミシン",
         "rate": {},
@@ -18313,7 +18313,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8452.21",
                 "hs_code": "010",
                 "desc": "− 単針直線縫いのもの",
                 "rate": {
@@ -18354,7 +18354,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8452.21",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -18363,7 +18363,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8452.21",
                     "hs_code": "021",
                     "desc": "−− へり縫いミシン",
                     "rate": {
@@ -18404,7 +18404,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8452.21",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -18489,7 +18489,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8452.29",
                 "hs_code": "010",
                 "desc": "− 単針直線縫いのもの",
                 "rate": {
@@ -18530,7 +18530,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8452.29",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -18539,7 +18539,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8452.29",
                     "hs_code": "021",
                     "desc": "−− へり縫いミシン",
                     "rate": {
@@ -18580,7 +18580,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8452.29",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -18708,7 +18708,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8452.90",
             "hs_code": "100",
             "desc": "− ミシン用の家具、台及びカバー並びにこれらの部分品",
             "rate": {
@@ -18749,7 +18749,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8452.90",
             "hs_code": "",
             "desc": "− ミシンのその他の部分品",
             "rate": {},
@@ -18758,7 +18758,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8452.90",
                 "hs_code": "010",
                 "desc": "−− 家庭用ミシンのもの",
                 "rate": {
@@ -18799,7 +18799,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8452.90",
                 "hs_code": "090",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -19246,7 +19246,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.55",
         "hs_code": "",
         "desc": "その他の圧延機",
         "rate": {},
@@ -19432,7 +19432,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.56",
         "hs_code": "",
         "desc": "レーザーその他の光子ビームによるもの",
         "rate": {},
@@ -19606,7 +19606,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8456.30",
             "hs_code": "",
             "desc": "− 数値制御式のもの",
             "rate": {},
@@ -19615,7 +19615,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8456.30",
                 "hs_code": "011",
                 "desc": "−− ワイヤカット放電加工機",
                 "rate": {
@@ -19656,7 +19656,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8456.30",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -19699,7 +19699,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8456.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -20010,7 +20010,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.58",
         "hs_code": "",
         "desc": "横旋盤",
         "rate": {},
@@ -20103,7 +20103,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.58",
         "hs_code": "",
         "desc": "その他の旋盤",
         "rate": {},
@@ -20248,7 +20248,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.59",
         "hs_code": "",
         "desc": "その他のボール盤",
         "rate": {},
@@ -20341,7 +20341,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.59",
         "hs_code": "",
         "desc": "その他の中ぐりフライス盤",
         "rate": {},
@@ -20434,7 +20434,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.59",
         "hs_code": "",
         "desc": "その他の中ぐり盤",
         "rate": {},
@@ -20527,7 +20527,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.59",
         "hs_code": "",
         "desc": "膝形フライス盤",
         "rate": {},
@@ -20620,7 +20620,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.59",
         "hs_code": "",
         "desc": "その他のフライス盤",
         "rate": {},
@@ -20765,7 +20765,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.60",
         "hs_code": "",
         "desc": "平面研削盤",
         "rate": {},
@@ -20858,7 +20858,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.60",
         "hs_code": "",
         "desc": "その他の研削盤",
         "rate": {},
@@ -21033,7 +21033,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.60",
         "hs_code": "",
         "desc": "工具研削盤",
         "rate": {},
@@ -21435,7 +21435,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.62",
         "hs_code": "",
         "desc": "熱間鍛造用の鍛造機、型鍛造機（プレスを含む。）及びハンマー",
         "rate": {},
@@ -21528,7 +21528,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.62",
         "hs_code": "",
         "desc": "ベンディングマシン、フォールディングマシン、ストレートニングマシン及びフラットニングマシン（プレスブレーキを含む。）（圧延製品用のものに限る。）",
         "rate": {},
@@ -21785,7 +21785,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.62",
         "hs_code": "",
         "desc": "スリッター機、切断機及びその他の剪断機（パンチング機能及び剪断機能を組み合わせた機械並びにプレスを除く。）（圧延製品用のものに限る。）",
         "rate": {},
@@ -21919,7 +21919,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.62",
         "hs_code": "",
         "desc": "パンチングマシン、ノッチングマシン及びニブリングマシン（プレスを除くものとし、パンチング機能及び剪断機能を組み合わせた機械を含む。）（圧延製品用のものに限る。）",
         "rate": {},
@@ -22012,7 +22012,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.62",
         "hs_code": "",
         "desc": "炉心管、管、中空断面材及び棒用の機械（プレスを除く。）",
         "rate": {},
@@ -22105,7 +22105,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.62",
         "hs_code": "",
         "desc": "冷間金属加工プレス",
         "rate": {},
@@ -22723,7 +22723,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.65",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -23072,7 +23072,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8466.10",
             "hs_code": "010",
             "desc": "− ツールホルダー",
             "rate": {
@@ -23113,7 +23113,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8466.10",
             "hs_code": "090",
             "desc": "− 自動開きダイヘッド",
             "rate": {
@@ -23238,7 +23238,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.66",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -23424,7 +23424,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.67",
         "hs_code": "",
         "desc": "ニューマチックツール",
         "rate": {},
@@ -23517,7 +23517,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.67",
         "hs_code": "",
         "desc": "電気式の原動機を自蔵するもの",
         "rate": {},
@@ -23648,7 +23648,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8467.29",
                 "hs_code": "010",
                 "desc": "− グラインダー",
                 "rate": {
@@ -23689,7 +23689,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8467.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -23734,7 +23734,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.67",
         "hs_code": "",
         "desc": "その他の工具",
         "rate": {},
@@ -23827,7 +23827,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.67",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -24188,7 +24188,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.70",
         "hs_code": "",
         "desc": "その他の電子式計算機",
         "rate": {},
@@ -24456,7 +24456,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.71",
         "hs_code": "",
         "desc": "その他の自動データ処理機械",
         "rate": {},
@@ -24671,7 +24671,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8471.70",
             "hs_code": "010",
             "desc": "− 主記憶装置",
             "rate": {
@@ -24712,7 +24712,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8471.70",
             "hs_code": "030",
             "desc": "− 磁気ディスク装置",
             "rate": {
@@ -24753,7 +24753,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8471.70",
             "hs_code": "050",
             "desc": "− 光ディスク装置",
             "rate": {
@@ -24794,7 +24794,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8471.70",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -25064,7 +25064,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.73",
         "hs_code": "",
         "desc": "第84.70項の機械の部分品及び附属品",
         "rate": {},
@@ -25197,7 +25197,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8473.30",
             "hs_code": "",
             "desc": "− 自動データ処理機械又はこれを構成する機器のもの",
             "rate": {},
@@ -25206,7 +25206,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8473.30",
                 "hs_code": "011",
                 "desc": "−− DRAM（ダイナミックランダムアクセスメモリー）モジュール（一又は二以上のDRAMを基板上に装着し、かつ、自動データ処理機械等に接続するための端子を有しているもの（DRAMの機能を補助するためのDRAM以外の部分品が装着されているかいないかを問わない。）をいう。）",
                 "rate": {
@@ -25247,7 +25247,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8473.30",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -25290,7 +25290,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8473.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -25508,7 +25508,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.74",
         "hs_code": "",
         "desc": "混合機及び捏和機",
         "rate": {},
@@ -25776,7 +25776,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.75",
         "hs_code": "",
         "desc": "ガラス又はその製品の製造用又は熱間加工用の機械",
         "rate": {},
@@ -25921,7 +25921,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.76",
         "hs_code": "",
         "desc": "飲料の自動販売機",
         "rate": {},
@@ -26014,7 +26014,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.76",
         "hs_code": "",
         "desc": "その他の自動販売機",
         "rate": {},
@@ -26323,7 +26323,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.77",
         "hs_code": "",
         "desc": "その他の機械（成形用機械に限る。）",
         "rate": {},
@@ -26497,7 +26497,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8477.90",
             "hs_code": "010",
             "desc": "− 第8477.10号から第8477.59号までの機械のもの及び第8477.80号の捏和機のもの",
             "rate": {
@@ -26538,7 +26538,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8477.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -26933,7 +26933,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.79",
         "hs_code": "",
         "desc": "旅客搭乗橋",
         "rate": {},
@@ -27026,7 +27026,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.79",
         "hs_code": "",
         "desc": "その他の機械類",
         "rate": {},
@@ -27378,7 +27378,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.80",
         "hs_code": "",
         "desc": "金属又は金属炭化物の成形用の型",
         "rate": {},
@@ -27553,7 +27553,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.80",
         "hs_code": "",
         "desc": "ゴム又はプラスチックの成形用の型",
         "rate": {},
@@ -27861,7 +27861,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8481.80",
             "hs_code": "010",
             "desc": "− 鉄鋼製のもの",
             "rate": {
@@ -27902,7 +27902,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8481.80",
             "hs_code": "020",
             "desc": "− 銅製のもの",
             "rate": {
@@ -27943,7 +27943,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8481.80",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -28284,7 +28284,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "84.82",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -28428,7 +28428,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.10",
             "hs_code": "010",
             "desc": "− 自動車用のもの",
             "rate": {
@@ -28469,7 +28469,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.10",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -28478,7 +28478,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8483.10",
                 "hs_code": "021",
                 "desc": "−− クランクシャフト",
                 "rate": {
@@ -28519,7 +28519,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8483.10",
                 "hs_code": "029",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -28645,7 +28645,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.30",
             "hs_code": "010",
             "desc": "− 自動車用のもの",
             "rate": {
@@ -28686,7 +28686,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -28769,7 +28769,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.40",
             "hs_code": "010",
             "desc": "− 船舶用の減速機（原動機により駆動される軸が1分間につき10,000回以上回転することができるものを除く。）及び逆転機並びに無段変速機",
             "rate": {
@@ -28810,7 +28810,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.40",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -28893,7 +28893,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.50",
             "hs_code": "010",
             "desc": "− 自動車用のもの",
             "rate": {
@@ -28934,7 +28934,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -29058,7 +29058,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.90",
             "hs_code": "010",
             "desc": "− 自動車用のもの",
             "rate": {
@@ -29099,7 +29099,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8483.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -29108,7 +29108,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8483.90",
                 "hs_code": "031",
                 "desc": "−− 無段変速機、クランクシャフト、はずみ車又はプーリー（プーリーブロックを含む。）のもの",
                 "rate": {
@@ -29149,7 +29149,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8483.90",
                 "hs_code": "039",
                 "desc": "−− その他のもの",
                 "rate": {

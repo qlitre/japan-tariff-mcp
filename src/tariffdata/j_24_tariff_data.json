@@ -278,7 +278,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "24.03",
         "hs_code": "",
         "desc": "喫煙用たばこ（たばこ代用物を含有するかしないかを問わないものとし、その含有量のいかんを問わない。）",
         "rate": {},
@@ -337,7 +337,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2403.19",
                 "hs_code": "100",
                 "desc": "1 パイプたばこ",
                 "rate": {
@@ -378,7 +378,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2403.19",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -423,7 +423,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "24.03",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -482,7 +482,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2403.99",
                 "hs_code": "100",
                 "desc": "1 たばこのエキス及びエッセンス",
                 "rate": {
@@ -523,7 +523,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2403.99",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -579,7 +579,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "24.04",
         "hs_code": "",
         "desc": "非燃焼吸引用の物品",
         "rate": {},
@@ -597,7 +597,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2404.11",
                 "hs_code": "100",
                 "desc": "1 シートたばこ",
                 "rate": {
@@ -638,7 +638,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2404.11",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -733,7 +733,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2404.19",
                 "hs_code": "100",
                 "desc": "1 製造たばこ代用品",
                 "rate": {
@@ -774,7 +774,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2404.19",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -821,7 +821,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "24.04",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -839,7 +839,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2404.91",
                 "hs_code": "100",
                 "desc": "1 チューインガム",
                 "rate": {
@@ -882,7 +882,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2404.91",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {

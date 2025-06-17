@@ -51,7 +51,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7401.00",
         "hs_code": "010",
         "desc": "− 銅のマット",
         "rate": {
@@ -92,7 +92,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7401.00",
         "hs_code": "020",
         "desc": "− セメントカッパー（沈殿銅）",
         "rate": {
@@ -154,7 +154,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7402.00",
         "hs_code": "010",
         "desc": "1 課税価格が1キログラムにつき475円以下のもの",
         "rate": {
@@ -195,7 +195,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7402.00",
         "hs_code": "020",
         "desc": "2 課税価格が1キログラムにつき475円を超え490円以下のもの",
         "rate": {
@@ -236,7 +236,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7402.00",
         "hs_code": "030",
         "desc": "3 課税価格が1キログラムにつき490円を超えるもの",
         "rate": {
@@ -288,7 +288,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.03",
         "hs_code": "",
         "desc": "精製銅",
         "rate": {},
@@ -306,7 +306,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.11",
                 "hs_code": "010",
                 "desc": "1 課税価格が1キログラムにつき485円以下のもの",
                 "rate": {
@@ -347,7 +347,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.11",
                 "hs_code": "020",
                 "desc": "2 課税価格が1キログラムにつき485円を超え500円以下のもの",
                 "rate": {
@@ -388,7 +388,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.11",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき500円を超えるもの",
                 "rate": {
@@ -440,7 +440,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.12",
                 "hs_code": "010",
                 "desc": "1 課税価格が1キログラムにつき485円以下のもの",
                 "rate": {
@@ -481,7 +481,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.12",
                 "hs_code": "020",
                 "desc": "2 課税価格が1キログラムにつき485円を超え500円以下のもの",
                 "rate": {
@@ -522,7 +522,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.12",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき500円を超えるもの",
                 "rate": {
@@ -574,7 +574,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.13",
                 "hs_code": "010",
                 "desc": "1 課税価格が1キログラムにつき485円以下のもの",
                 "rate": {
@@ -615,7 +615,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.13",
                 "hs_code": "020",
                 "desc": "2 課税価格が1キログラムにつき485円を超え500円以下のもの",
                 "rate": {
@@ -656,7 +656,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.13",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき500円を超えるもの",
                 "rate": {
@@ -708,7 +708,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.19",
                 "hs_code": "",
                 "desc": "1 課税価格が1キログラムにつき485円以下のもの",
                 "rate": {
@@ -748,7 +748,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7403.19",
                     "hs_code": "011",
                     "desc": "− 精錬用のもの（銅の含有量が全重量の99.8％以下のものに限る。）",
                     "rate": {
@@ -789,7 +789,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7403.19",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -832,7 +832,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.19",
                 "hs_code": "",
                 "desc": "2 課税価格が1キログラムにつき485円を超え500円以下のもの",
                 "rate": {
@@ -872,7 +872,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7403.19",
                     "hs_code": "021",
                     "desc": "− 精錬用のもの（銅の含有量が全重量の99.8％以下のものに限る。）",
                     "rate": {
@@ -913,7 +913,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7403.19",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -956,7 +956,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.19",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき500円を超えるもの",
                 "rate": {
@@ -1001,7 +1001,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.03",
         "hs_code": "",
         "desc": "銅合金",
         "rate": {},
@@ -1060,7 +1060,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.22",
                 "hs_code": "010",
                 "desc": "1 課税価格が1キログラムにつき485円以下のもの",
                 "rate": {
@@ -1101,7 +1101,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.22",
                 "hs_code": "020",
                 "desc": "2 課税価格が1キログラムにつき485円を超え500円以下のもの",
                 "rate": {
@@ -1142,7 +1142,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.22",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき500円を超えるもの",
                 "rate": {
@@ -1194,7 +1194,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.29",
                 "hs_code": "010",
                 "desc": "1 課税価格が1キログラムにつき485円以下のもの",
                 "rate": {
@@ -1235,7 +1235,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.29",
                 "hs_code": "020",
                 "desc": "2 課税価格が1キログラムにつき485円を超え500円以下のもの",
                 "rate": {
@@ -1276,7 +1276,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7403.29",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき500円を超えるもの",
                 "rate": {
@@ -1373,7 +1373,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7404.00",
         "hs_code": "010",
         "desc": "− 銅（合金を除く。）のもの",
         "rate": {
@@ -1414,7 +1414,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7404.00",
         "hs_code": "",
         "desc": "− 銅合金のもの",
         "rate": {},
@@ -1423,7 +1423,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7404.00",
             "hs_code": "091",
             "desc": "−− 銅・亜鉛合金（黄銅）又は銅・すず合金（青銅）のもの",
             "rate": {
@@ -1464,7 +1464,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7404.00",
             "hs_code": "099",
             "desc": "−− その他のもの",
             "rate": {
@@ -1702,7 +1702,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7407.10",
             "hs_code": "010",
             "desc": "− 中空で内面に溝をつけたもの",
             "rate": {
@@ -1743,7 +1743,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7407.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1786,7 +1786,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.07",
         "hs_code": "",
         "desc": "銅合金のもの",
         "rate": {},
@@ -1845,7 +1845,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7407.29",
                 "hs_code": "100",
                 "desc": "1 銅・ニッケル合金（白銅）又は銅・ニッケル・亜鉛合金（洋白）のもの",
                 "rate": {
@@ -1886,7 +1886,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7407.29",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1926,7 +1926,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7407.29",
                     "hs_code": "910",
                     "desc": "− 銅・すず合金（青銅）のもの",
                     "rate": {
@@ -1967,7 +1967,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7407.29",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2025,7 +2025,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.08",
         "hs_code": "",
         "desc": "精製銅のもの",
         "rate": {},
@@ -2118,7 +2118,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.08",
         "hs_code": "",
         "desc": "銅合金のもの",
         "rate": {},
@@ -2249,7 +2249,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7408.29",
                 "hs_code": "010",
                 "desc": "− 銅・すず合金（青銅）のもの",
                 "rate": {
@@ -2290,7 +2290,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7408.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2346,7 +2346,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.09",
         "hs_code": "",
         "desc": "精製銅のもの",
         "rate": {},
@@ -2439,7 +2439,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.09",
         "hs_code": "",
         "desc": "銅・亜鉛合金（黄銅）のもの",
         "rate": {},
@@ -2532,7 +2532,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.09",
         "hs_code": "",
         "desc": "銅・すず合金（青銅）のもの",
         "rate": {},
@@ -2718,7 +2718,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.10",
         "hs_code": "",
         "desc": "裏張りしてないもの",
         "rate": {},
@@ -2811,7 +2811,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.10",
         "hs_code": "",
         "desc": "裏張りしたもの",
         "rate": {},
@@ -2956,7 +2956,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.11",
         "hs_code": "",
         "desc": "銅合金のもの",
         "rate": {},
@@ -3286,7 +3286,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.15",
         "hs_code": "",
         "desc": "その他のもの（ねじを切つたものを除く。）",
         "rate": {},
@@ -3379,7 +3379,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "74.15",
         "hs_code": "",
         "desc": "その他のもの（ねじを切つたものに限る。）",
         "rate": {},

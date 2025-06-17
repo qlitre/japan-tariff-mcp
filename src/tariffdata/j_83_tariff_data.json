@@ -431,7 +431,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "83.02",
         "hs_code": "",
         "desc": "その他の取付具その他これに類する物品",
         "rate": {},
@@ -937,7 +937,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "83.06",
         "hs_code": "",
         "desc": "小像その他の装飾品",
         "rate": {},
@@ -1272,7 +1272,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8308.90",
             "hs_code": "100",
             "desc": "1 ビーズ及びスパングル（貴金属をめつきしたものに限る。）",
             "rate": {
@@ -1313,7 +1313,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8308.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {

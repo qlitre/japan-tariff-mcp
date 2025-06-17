@@ -349,7 +349,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "82.02",
         "hs_code": "",
         "desc": "サーキュラーソーのブレード（切開き用又は溝彫り用ののこぎりのブレードを含む。）",
         "rate": {},
@@ -483,7 +483,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "82.02",
         "hs_code": "",
         "desc": "その他ののこぎりのブレード",
         "rate": {},
@@ -762,7 +762,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "82.04",
         "hs_code": "",
         "desc": "スパナー及びレンチ（手回しのものに限る。）",
         "rate": {},
@@ -1079,7 +1079,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "82.05",
         "hs_code": "",
         "desc": "その他の手道具及び手工具（ダイヤモンドガラス切りを含む。）",
         "rate": {},
@@ -1367,7 +1367,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "82.07",
         "hs_code": "",
         "desc": "削岩用又は土壌せん孔用の工具",
         "rate": {},
@@ -1623,7 +1623,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8207.50",
             "hs_code": "010",
             "desc": "− 高速度鋼のもの",
             "rate": {
@@ -1664,7 +1664,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8207.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1788,7 +1788,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8207.70",
             "hs_code": "010",
             "desc": "− 高速度鋼のもの",
             "rate": {
@@ -1829,7 +1829,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8207.70",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1953,7 +1953,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8207.90",
             "hs_code": "010",
             "desc": "− 作用する部分にダイヤモンドを使用したもの",
             "rate": {
@@ -1994,7 +1994,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8207.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2305,7 +2305,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "8209.00",
         "hs_code": "010",
         "desc": "− スローアウェイチップ",
         "rate": {
@@ -2346,7 +2346,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "8209.00",
         "hs_code": "090",
         "desc": "− その他のもの",
         "rate": {
@@ -2495,7 +2495,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "82.11",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -2777,7 +2777,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8212.10",
             "hs_code": "010",
             "desc": "− 安全かみそり（刃入りのセットを含む。）",
             "rate": {
@@ -2818,7 +2818,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8212.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3225,7 +3225,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "82.15",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},

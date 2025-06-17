@@ -94,7 +94,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1201.90",
             "hs_code": "010",
             "desc": "− 黄白色系のもの",
             "rate": {
@@ -138,7 +138,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1201.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -235,7 +235,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1202.30",
             "hs_code": "",
             "desc": "− この号、第1202.41号及び第1202.42号に掲げる落花生について、75,000トンを基準とし、当該年度における国内需要見込数量から国内生産見込数量を控除した数量、国際市況その他の条件を勘案して政令で定める数量（以下この項において「共通の限度数量」という。）以内のもの",
             "rate": {
@@ -275,7 +275,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.30",
                 "hs_code": "011",
                 "desc": "−− 殻付きのもの",
                 "rate": {
@@ -319,7 +319,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.30",
                 "hs_code": "019",
                 "desc": "−− 殻を除いたもの（割つてあるかないかを問わない。）",
                 "rate": {
@@ -365,7 +365,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1202.30",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {
@@ -405,7 +405,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.30",
                 "hs_code": "091",
                 "desc": "−− 殻付きのもの",
                 "rate": {
@@ -449,7 +449,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.30",
                 "hs_code": "099",
                 "desc": "−− 殻を除いたもの（割つてあるかないかを問わない。）",
                 "rate": {
@@ -497,7 +497,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "12.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -546,7 +546,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.41",
                 "hs_code": "010",
                 "desc": "− 採油用のもの（税関の監督の下で採油用の原料として使用するものに限る。）",
                 "rate": {
@@ -590,7 +590,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.41",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -599,7 +599,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1202.41",
                     "hs_code": "091",
                     "desc": "−− 共通の限度数量以内のもの",
                     "rate": {
@@ -643,7 +643,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1202.41",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -731,7 +731,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.42",
                 "hs_code": "010",
                 "desc": "− 採油用のもの（税関の監督の下で採油用の原料として使用するものに限る。）",
                 "rate": {
@@ -775,7 +775,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1202.42",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -784,7 +784,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1202.42",
                     "hs_code": "091",
                     "desc": "−− 共通の限度数量以内のもの",
                     "rate": {
@@ -828,7 +828,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1202.42",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -1190,7 +1190,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "12.07",
         "hs_code": "",
         "desc": "綿実",
         "rate": {},
@@ -1509,7 +1509,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "12.07",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1603,7 +1603,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1207.99",
                 "hs_code": "010",
                 "desc": "− 大麻の種",
                 "rate": {
@@ -1648,7 +1648,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1207.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1847,7 +1847,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "12.09",
         "hs_code": "",
         "desc": "飼料用植物の種",
         "rate": {},
@@ -2111,7 +2111,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1209.29",
                 "hs_code": "010",
                 "desc": "− チモシーの種",
                 "rate": {
@@ -2154,7 +2154,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1209.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2244,7 +2244,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "12.09",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -2293,7 +2293,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1209.91",
                 "hs_code": "010",
                 "desc": "− 大根の種",
                 "rate": {
@@ -2336,7 +2336,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1209.91",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2520,7 +2520,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1210.20",
             "hs_code": "100",
             "desc": "− ホップ",
             "rate": {
@@ -2563,7 +2563,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1210.20",
             "hs_code": "200",
             "desc": "− ルプリン",
             "rate": {
@@ -2628,7 +2628,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1211.20",
             "hs_code": "100",
             "desc": "1 生鮮のもの及び乾燥したもの",
             "rate": {
@@ -2676,7 +2676,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1211.20",
             "hs_code": "900",
             "desc": "2 その他のもの",
             "rate": {
@@ -2923,7 +2923,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1211.90",
             "hs_code": "",
             "desc": "1 ヤボランジ葉、パチュリ葉、センナ葉、ウワウルシ葉、ホミカ、クベバ、コロシント実、コルヒクム子、トンカ豆、ストロファンツス子、プランタゴプシリウムの種、キナ皮、コンズランゴ皮、カスカラサグラダ、吐根、りんどう属の植物の茎及び根、セネガ根、遠志、甘松香、コロンボ根、海葱、ヤラッパ根、デリス根、インド蛇木根、木香、白及、キューベ根、セメンシナその他のサントニン採取用のもの、沈香、槐花、大黄並びに甘草",
             "rate": {
@@ -2963,7 +2963,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1211.90",
                 "hs_code": "120",
                 "desc": "− 甘草",
                 "rate": {
@@ -3010,7 +3010,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1211.90",
                 "hs_code": "190",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3059,7 +3059,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1211.90",
             "hs_code": "",
             "desc": "2 除虫菊",
             "rate": {},
@@ -3068,7 +3068,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1211.90",
                 "hs_code": "710",
                 "desc": "(1) 生鮮のもの及び乾燥したもの",
                 "rate": {
@@ -3115,7 +3115,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1211.90",
                 "hs_code": "790",
                 "desc": "(2) その他のもの",
                 "rate": {
@@ -3164,7 +3164,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1211.90",
             "hs_code": "600",
             "desc": "3 大麻草",
             "rate": {
@@ -3211,7 +3211,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1211.90",
             "hs_code": "500",
             "desc": "4 ルイボス",
             "rate": {
@@ -3255,7 +3255,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1211.90",
             "hs_code": "",
             "desc": "5 その他のもの",
             "rate": {},
@@ -3264,7 +3264,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1211.90",
                 "hs_code": "",
                 "desc": "(1) 茎、樹皮及び根並びにこの類の備考１の物品（乾燥したものに限るものとし、粉状にしたものを除く。）",
                 "rate": {
@@ -3304,7 +3304,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1211.90",
                     "hs_code": "931",
                     "desc": "− この類の備考１の物品",
                     "rate": {
@@ -3351,7 +3351,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1211.90",
                     "hs_code": "939",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3400,7 +3400,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1211.90",
                 "hs_code": "",
                 "desc": "(2) その他のもの",
                 "rate": {
@@ -3440,7 +3440,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1211.90",
                     "hs_code": "991",
                     "desc": "A びやくだん",
                     "rate": {
@@ -3487,7 +3487,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1211.90",
                     "hs_code": "992",
                     "desc": "B はとむぎ",
                     "rate": {
@@ -3534,7 +3534,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1211.90",
                     "hs_code": "999",
                     "desc": "C その他のもの",
                     "rate": {
@@ -3598,7 +3598,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "12.12",
         "hs_code": "",
         "desc": "海草その他の藻類",
         "rate": {},
@@ -3616,7 +3616,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1212.21",
                 "hs_code": "100",
                 "desc": "1 長方形（正方形を含む。）の紙状に抄製したもので、1枚の面積が430平方センチメートル以下のもの",
                 "rate": {
@@ -3662,7 +3662,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1212.21",
                 "hs_code": "200",
                 "desc": "2 あまのり属のもの及びこれを交えたもの（この号の1に掲げる物品を除く。）",
                 "rate": {
@@ -3708,7 +3708,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1212.21",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -3748,7 +3748,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.21",
                     "hs_code": "310",
                     "desc": "− ひじき（ヒジキア・フスィフォルミス）",
                     "rate": {
@@ -3794,7 +3794,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.21",
                     "hs_code": "",
                     "desc": "− わかめ（ウンダリア・ピンナティフィダ）",
                     "rate": {
@@ -3834,7 +3834,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1212.21",
                         "hs_code": "321",
                         "desc": "−− 乾燥したもの",
                         "rate": {
@@ -3880,7 +3880,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1212.21",
                         "hs_code": "",
                         "desc": "−− その他のもの",
                         "rate": {},
@@ -3889,7 +3889,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "1212.21",
                             "hs_code": "322",
                             "desc": "−−− 常温保存のもの",
                             "rate": {
@@ -3935,7 +3935,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "1212.21",
                             "hs_code": "329",
                             "desc": "−−− その他のもの",
                             "rate": {
@@ -3985,7 +3985,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.21",
                     "hs_code": "390",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4044,7 +4044,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1212.29",
                 "hs_code": "",
                 "desc": "1 ふのり属、あまのり属、あおのり属、ひとえぐさ属、とろろこんぶ属又はこんぶ属のもの",
                 "rate": {
@@ -4084,7 +4084,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.29",
                     "hs_code": "110",
                     "desc": "− ふのり属のもの",
                     "rate": {
@@ -4129,7 +4129,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.29",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4176,7 +4176,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1212.29",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4216,7 +4216,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.29",
                     "hs_code": "",
                     "desc": "− てんぐさその他の寒天製造用の海草",
                     "rate": {},
@@ -4225,7 +4225,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1212.29",
                         "hs_code": "211",
                         "desc": "−− てんぐさ科のもの",
                         "rate": {
@@ -4270,7 +4270,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1212.29",
                         "hs_code": "219",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -4317,7 +4317,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.29",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4368,7 +4368,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "12.12",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -4562,7 +4562,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1212.99",
                 "hs_code": "",
                 "desc": "1 こんにやく芋（アモルフォファルス）（切り、乾燥し又は粉状にしたものであるかないかを問わない。）",
                 "rate": {
@@ -4602,7 +4602,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.99",
                     "hs_code": "110",
                     "desc": "− 267トン（荒粉換算数量とし、政令で定めるところにより換算するものとする。）を基準とし、当該年度における国内需要見込数量から国内生産見込数量を控除した数量、国際市況その他の条件を勘案して政令で定める数量以内のもの",
                     "rate": {
@@ -4646,7 +4646,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.99",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4692,7 +4692,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1212.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4732,7 +4732,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.99",
                     "hs_code": "910",
                     "desc": "− あんず、桃（ネクタリンを含む。）又はプラムの核及び仁",
                     "rate": {
@@ -4776,7 +4776,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1212.99",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4975,7 +4975,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1214.90",
             "hs_code": "010",
             "desc": "− キューブ状のもの",
             "rate": {
@@ -5019,7 +5019,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1214.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

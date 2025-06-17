@@ -102,7 +102,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.02",
         "hs_code": "",
         "desc": "その他の石碑用又は建築用の石及びその製品（単に切り又はのこぎりでひいたもので、表面が平らなものに限る。）",
         "rate": {},
@@ -236,7 +236,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -285,7 +285,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6802.91",
                 "hs_code": "",
                 "desc": "− 大理石",
                 "rate": {},
@@ -294,7 +294,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6802.91",
                     "hs_code": "011",
                     "desc": "−− 板",
                     "rate": {
@@ -335,7 +335,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6802.91",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -378,7 +378,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6802.91",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -617,7 +617,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6804.10",
             "hs_code": "010",
             "desc": "1 人造研磨材料製のもの",
             "rate": {
@@ -658,7 +658,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6804.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -701,7 +701,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.04",
         "hs_code": "",
         "desc": "その他のミルストーン、グラインドストーン、グラインディングホイールその他これらに類する物品",
         "rate": {},
@@ -760,7 +760,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6804.22",
                 "hs_code": "",
                 "desc": "1 凝結させた人造研磨材料製のもの",
                 "rate": {
@@ -800,7 +800,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6804.22",
                     "hs_code": "011",
                     "desc": "− 一般回転研削用砥石（軸付きのものを除くものとし、ビトリファイド法又はレジノイド法により製造されたものに限る。）",
                     "rate": {
@@ -841,7 +841,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6804.22",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -884,7 +884,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6804.22",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1434,7 +1434,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.09",
         "hs_code": "",
         "desc": "ボード、シート、パネル、タイルその他これらに類する製品（装飾してないものに限る。）",
         "rate": {},
@@ -1579,7 +1579,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.10",
         "hs_code": "",
         "desc": "タイル、敷石、れんがその他これらに類する製品",
         "rate": {},
@@ -1672,7 +1672,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.10",
         "hs_code": "",
         "desc": "その他の製品",
         "rate": {},
@@ -1819,7 +1819,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.11",
         "hs_code": "",
         "desc": "石綿を含有しないもの",
         "rate": {},
@@ -2007,7 +2007,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.12",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -2124,7 +2124,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6813.20",
             "hs_code": "100",
             "desc": "1 自動車の部分品",
             "rate": {
@@ -2167,7 +2167,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6813.20",
             "hs_code": "900",
             "desc": "2 その他のもの",
             "rate": {
@@ -2212,7 +2212,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.13",
         "hs_code": "",
         "desc": "石綿を含有しないもの",
         "rate": {},
@@ -2230,7 +2230,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6813.81",
                 "hs_code": "100",
                 "desc": "1 自動車の部分品",
                 "rate": {
@@ -2271,7 +2271,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6813.81",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2323,7 +2323,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6813.89",
                 "hs_code": "100",
                 "desc": "1 自動車の部分品",
                 "rate": {
@@ -2364,7 +2364,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6813.89",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2513,7 +2513,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.15",
         "hs_code": "",
         "desc": "炭素繊維及びその製品（電気用品を除く。）並びにその他の黒鉛又はその他の炭素の製品（電気用品を除く。）",
         "rate": {},
@@ -2729,7 +2729,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "68.15",
         "hs_code": "",
         "desc": "その他の製品",
         "rate": {},
@@ -2819,7 +2819,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6815.99",
                 "hs_code": "010",
                 "desc": "− 電気鋳造耐火れんが",
                 "rate": {
@@ -2860,7 +2860,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6815.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {

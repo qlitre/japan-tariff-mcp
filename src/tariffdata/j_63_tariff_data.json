@@ -101,7 +101,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6301.20",
             "hs_code": "010",
             "desc": "− 毛布（起毛したものに限る。）",
             "rate": {
@@ -142,7 +142,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6301.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -225,7 +225,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6301.30",
             "hs_code": "010",
             "desc": "− 毛布（起毛したものに限る。）",
             "rate": {
@@ -266,7 +266,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6301.30",
             "hs_code": "091",
             "desc": "− テリータオル地その他のテリー織物のもの",
             "rate": {
@@ -307,7 +307,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6301.30",
             "hs_code": "099",
             "desc": "− その他のもの",
             "rate": {
@@ -390,7 +390,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6301.40",
             "hs_code": "010",
             "desc": "− 毛布（起毛したものに限る。）",
             "rate": {
@@ -431,7 +431,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6301.40",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -567,7 +567,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.02",
         "hs_code": "",
         "desc": "その他のベッドリネン（なせんしたものに限る。）",
         "rate": {},
@@ -657,7 +657,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.22",
                 "hs_code": "010",
                 "desc": "− 不織布製のもの",
                 "rate": {
@@ -698,7 +698,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.22",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -750,7 +750,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.29",
                 "hs_code": "010",
                 "desc": "1 亜麻製又はラミー製のもの",
                 "rate": {
@@ -791,7 +791,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.29",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -836,7 +836,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.02",
         "hs_code": "",
         "desc": "その他のベッドリネン",
         "rate": {},
@@ -926,7 +926,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.32",
                 "hs_code": "010",
                 "desc": "− 不織布製のもの",
                 "rate": {
@@ -967,7 +967,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.32",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1019,7 +1019,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.39",
                 "hs_code": "010",
                 "desc": "1 亜麻製又はラミー製のもの",
                 "rate": {
@@ -1060,7 +1060,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.39",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1146,7 +1146,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.02",
         "hs_code": "",
         "desc": "その他のテーブルリネン",
         "rate": {},
@@ -1236,7 +1236,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.53",
                 "hs_code": "100",
                 "desc": "− 不織布製のもの",
                 "rate": {
@@ -1277,7 +1277,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.53",
                 "hs_code": "900",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1329,7 +1329,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.59",
                 "hs_code": "030",
                 "desc": "1 亜麻製又はラミー製のもの",
                 "rate": {
@@ -1370,7 +1370,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.59",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1456,7 +1456,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1546,7 +1546,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.93",
                 "hs_code": "010",
                 "desc": "− 不織布製のもの",
                 "rate": {
@@ -1587,7 +1587,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.93",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1639,7 +1639,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.99",
                 "hs_code": "100",
                 "desc": "1 亜麻製のもの",
                 "rate": {
@@ -1680,7 +1680,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6302.99",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1736,7 +1736,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.03",
         "hs_code": "",
         "desc": "メリヤス編み又はクロセ編みのもの",
         "rate": {},
@@ -1829,7 +1829,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.03",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1919,7 +1919,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6303.92",
                 "hs_code": "010",
                 "desc": "− 不織布製のもの",
                 "rate": {
@@ -1960,7 +1960,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6303.92",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2012,7 +2012,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6303.99",
                 "hs_code": "010",
                 "desc": "1 亜麻製又はラミー製のもの",
                 "rate": {
@@ -2053,7 +2053,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6303.99",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2109,7 +2109,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.04",
         "hs_code": "",
         "desc": "ベッドスプレッド",
         "rate": {},
@@ -2168,7 +2168,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6304.19",
                 "hs_code": "010",
                 "desc": "1 綿製のもの",
                 "rate": {
@@ -2209,7 +2209,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6304.19",
                 "hs_code": "020",
                 "desc": "2 亜麻製又はラミー製のもの",
                 "rate": {
@@ -2250,7 +2250,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6304.19",
                 "hs_code": "090",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -2336,7 +2336,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.04",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -2467,7 +2467,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6304.93",
                 "hs_code": "010",
                 "desc": "− 不織布製のもの",
                 "rate": {
@@ -2508,7 +2508,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6304.93",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2560,7 +2560,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6304.99",
                 "hs_code": "010",
                 "desc": "1 亜麻製又はラミー製のもの",
                 "rate": {
@@ -2601,7 +2601,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6304.99",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2739,7 +2739,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.05",
         "hs_code": "",
         "desc": "人造繊維材料製のもの",
         "rate": {},
@@ -2829,7 +2829,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6305.33",
                 "hs_code": "010",
                 "desc": "− ポリエチレン製のもの（重量が1平方メートルにつき100グラム以下の織物類から製造したものに限る。）",
                 "rate": {
@@ -2870,7 +2870,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6305.33",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3008,7 +3008,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.06",
         "hs_code": "",
         "desc": "ターポリン及び日よけ",
         "rate": {},
@@ -3067,7 +3067,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6306.19",
                 "hs_code": "100",
                 "desc": "1 綿製のもの",
                 "rate": {
@@ -3108,7 +3108,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6306.19",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3153,7 +3153,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "63.06",
         "hs_code": "",
         "desc": "テント（仮設の日よけテントその他これに類する物品を含む。）",
         "rate": {},
@@ -3212,7 +3212,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6306.29",
                 "hs_code": "100",
                 "desc": "1 綿製のもの",
                 "rate": {
@@ -3253,7 +3253,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6306.29",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3348,7 +3348,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6306.40",
             "hs_code": "100",
             "desc": "1 綿製のもの",
             "rate": {
@@ -3389,7 +3389,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6306.40",
             "hs_code": "900",
             "desc": "2 その他の紡織用繊維製のもの",
             "rate": {
@@ -3441,7 +3441,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6306.90",
             "hs_code": "100",
             "desc": "1 綿製のもの",
             "rate": {
@@ -3482,7 +3482,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6306.90",
             "hs_code": "900",
             "desc": "2 その他の紡織用繊維製のもの",
             "rate": {
@@ -3545,7 +3545,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6307.10",
             "hs_code": "010",
             "desc": "1 綿製のもの",
             "rate": {
@@ -3586,7 +3586,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6307.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -3638,7 +3638,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6307.20",
             "hs_code": "010",
             "desc": "1 綿製のもの",
             "rate": {
@@ -3679,7 +3679,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6307.20",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -3731,7 +3731,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6307.90",
             "hs_code": "",
             "desc": "1 綿製のもの",
             "rate": {
@@ -3771,7 +3771,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6307.90",
                 "hs_code": "011",
                 "desc": "− マスク",
                 "rate": {
@@ -3812,7 +3812,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6307.90",
                 "hs_code": "019",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3855,7 +3855,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6307.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -3895,7 +3895,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6307.90",
                 "hs_code": "021",
                 "desc": "− 絹製のもの（長方形（正方形を含む。）以外の形状に単に裁断したものに限る。）",
                 "rate": {
@@ -3936,7 +3936,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6307.90",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3976,7 +3976,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6307.90",
                     "hs_code": "",
                     "desc": "−− マスク",
                     "rate": {},
@@ -3985,7 +3985,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6307.90",
                         "hs_code": "022",
                         "desc": "−−− N95マスク（米国国立労働安全衛生研究所の認証を受けたものに限る。）",
                         "rate": {
@@ -4026,7 +4026,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6307.90",
                         "hs_code": "023",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -4069,7 +4069,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6307.90",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {

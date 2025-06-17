@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "46.01",
         "hs_code": "",
         "desc": "敷物及びすだれ（植物性材料製のものに限る。）",
         "rate": {},
@@ -116,7 +116,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4601.29",
                 "hs_code": "100",
                 "desc": "1 いぐさ製又は七島い製のもの",
                 "rate": {
@@ -160,7 +160,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4601.29",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -208,7 +208,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "46.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -314,7 +314,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4601.94",
                 "hs_code": "100",
                 "desc": "1 むしろ、こも及びアンペラ",
                 "rate": {
@@ -358,7 +358,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4601.94",
                 "hs_code": "",
                 "desc": "2 さなだその他これに類する組物材料から成る物品（ストリップ状であるかないかを問わない。）",
                 "rate": {
@@ -398,7 +398,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "4601.94",
                     "hs_code": "210",
                     "desc": "− ばつかんさなだ",
                     "rate": {
@@ -442,7 +442,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "4601.94",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -488,7 +488,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4601.94",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {},
@@ -497,7 +497,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "4601.94",
                     "hs_code": "",
                     "desc": "(1)いぐさ製又は七島い製のもの",
                     "rate": {
@@ -537,7 +537,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "4601.94",
                         "hs_code": "911",
                         "desc": "− 畳表",
                         "rate": {
@@ -581,7 +581,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "4601.94",
                         "hs_code": "919",
                         "desc": "− その他のもの",
                         "rate": {
@@ -627,7 +627,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "4601.94",
                     "hs_code": "990",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -684,7 +684,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4601.99",
                 "hs_code": "100",
                 "desc": "1 さなだその他これに類する組物材料から成る物品（ストリップ状であるかないかを問わない。）",
                 "rate": {
@@ -728,7 +728,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4601.99",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -787,7 +787,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "46.02",
         "hs_code": "",
         "desc": "植物性材料製のもの",
         "rate": {},
@@ -805,7 +805,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4602.11",
                 "hs_code": "100",
                 "desc": "1 扇子及びうちわ並びにこれらの部分品",
                 "rate": {
@@ -849,7 +849,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4602.11",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -948,7 +948,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4602.19",
                 "hs_code": "100",
                 "desc": "1 瓶用のわらづと",
                 "rate": {
@@ -992,7 +992,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4602.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1032,7 +1032,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "4602.19",
                     "hs_code": "910",
                     "desc": "− 畳床",
                     "rate": {
@@ -1076,7 +1076,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "4602.19",
                     "hs_code": "",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1116,7 +1116,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "4602.19",
                         "hs_code": "991",
                         "desc": "−− 畳（厚さが8ミリメートル以上、面積が1平方メートル未満のもので、かつ、いぐさ製又は七島い製の畳表を有するものに限る。）",
                         "rate": {
@@ -1160,7 +1160,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "4602.19",
                         "hs_code": "999",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -1221,7 +1221,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4602.90",
             "hs_code": "010",
             "desc": "1 扇子、うちわ、これらの骨及び柄並びに扇子又はうちわの骨又は柄の部分品",
             "rate": {
@@ -1265,7 +1265,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4602.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {

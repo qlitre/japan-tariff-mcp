@@ -61,7 +61,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "88.02",
         "hs_code": "",
         "desc": "ヘリコプター",
         "rate": {},
@@ -433,7 +433,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "88.05",
         "hs_code": "",
         "desc": "航空用地上訓練装置及びその部分品",
         "rate": {},
@@ -580,7 +580,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "88.06",
         "hs_code": "",
         "desc": "その他のもの（遠隔制御飛行専用のものに限る。）",
         "rate": {},
@@ -806,7 +806,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "88.06",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1083,7 +1083,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8807.10",
             "hs_code": "010",
             "desc": "− 飛行機用プロペラ",
             "rate": {
@@ -1124,7 +1124,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8807.10",
             "hs_code": "020",
             "desc": "− ヘリコプター用の回転翼及び回転翼のブレード",
             "rate": {
@@ -1165,7 +1165,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8807.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

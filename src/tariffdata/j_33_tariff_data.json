@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "33.01",
         "hs_code": "",
         "desc": "精油（かんきつ類の果実のものに限る。）",
         "rate": {},
@@ -114,7 +114,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.19",
                 "hs_code": "100",
                 "desc": "1 ベルガモットのもの",
                 "rate": {
@@ -157,7 +157,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -197,7 +197,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.19",
                     "hs_code": "210",
                     "desc": "− ライムのもの",
                     "rate": {
@@ -240,7 +240,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.19",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -289,7 +289,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "33.01",
         "hs_code": "",
         "desc": "精油（かんきつ類の果実のものを除く。）",
         "rate": {},
@@ -350,7 +350,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.25",
                 "hs_code": "",
                 "desc": "1 ペパーミント油（メンタ・アルヴェンスィスから採取したものに限る。）",
                 "rate": {},
@@ -359,7 +359,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.25",
                     "hs_code": "011",
                     "desc": "(1)政令で定める試験方法による総メントールの含有量が全重量の65％を超えるもの",
                     "rate": {
@@ -402,7 +402,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.25",
                     "hs_code": "019",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -447,7 +447,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.25",
                 "hs_code": "020",
                 "desc": "2 その他のペパーミント油",
                 "rate": {
@@ -490,7 +490,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.25",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -544,7 +544,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.29",
                 "hs_code": "100",
                 "desc": "1 ベイ葉油、カナンガ油、けい皮油、シダー油、シトロネラ油、丁子油、ユーカリ油、小ういきよう油、大ういきよう油、プチグレン油、ローズマリー油、ローズウッド油、びやくだん油、イランイラン油、けい葉油、ジンジャグラス油、パルマローザ油、タイム油、牛樟油、レモングラス油及びパチュリ油",
                 "rate": {
@@ -587,7 +587,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.29",
                 "hs_code": "200",
                 "desc": "2 芳油",
                 "rate": {
@@ -630,7 +630,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.29",
                 "hs_code": "",
                 "desc": "3 ゼラニウム又はベチベルのもの",
                 "rate": {
@@ -670,7 +670,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.29",
                     "hs_code": "310",
                     "desc": "− ゼラニウムのもの",
                     "rate": {
@@ -713,7 +713,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.29",
                     "hs_code": "320",
                     "desc": "− ベチベルのもの",
                     "rate": {
@@ -758,7 +758,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.29",
                 "hs_code": "400",
                 "desc": "4 ラベンダー又はラバンジンのもの",
                 "rate": {
@@ -801,7 +801,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3301.29",
                 "hs_code": "",
                 "desc": "5 その他のもの",
                 "rate": {
@@ -841,7 +841,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.29",
                     "hs_code": "910",
                     "desc": "− ジャスミンのもの",
                     "rate": {
@@ -884,7 +884,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3301.29",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1039,7 +1039,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3302.10",
             "hs_code": "100",
             "desc": "1 アルコール分が10％以上のもの",
             "rate": {
@@ -1082,7 +1082,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3302.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -1122,7 +1122,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3302.10",
                 "hs_code": "210",
                 "desc": "− 食品工業において使用する種類のもの",
                 "rate": {
@@ -1165,7 +1165,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3302.10",
                 "hs_code": "290",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1456,7 +1456,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "33.04",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1550,7 +1550,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3304.99",
                 "hs_code": "010",
                 "desc": "− クリームその他油、脂又はろうをもととした調製品",
                 "rate": {
@@ -1596,7 +1596,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3304.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2126,7 +2126,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "33.07",
         "hs_code": "",
         "desc": "室内に芳香を付けるため又は室内防臭用の調製品（宗教的儀式用の香気性の調製品を含む。）",
         "rate": {},

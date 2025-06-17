@@ -92,7 +92,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.01",
         "hs_code": "",
         "desc": "回転腰掛け（高さを調節することができるものに限る。）",
         "rate": {},
@@ -110,7 +110,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.31",
                 "hs_code": "010",
                 "desc": "1 革張りのもの",
                 "rate": {
@@ -151,7 +151,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.31",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -203,7 +203,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.39",
                 "hs_code": "010",
                 "desc": "1 革張りのもの",
                 "rate": {
@@ -244,7 +244,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.39",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -289,7 +289,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.01",
         "hs_code": "",
         "desc": "腰掛け（寝台として兼用することができるものに限るものとし、庭園用のもの及びキャンプ装具用のものを除く。）",
         "rate": {},
@@ -307,7 +307,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.41",
                 "hs_code": "010",
                 "desc": "1 革張りのもの",
                 "rate": {
@@ -348,7 +348,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.41",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -400,7 +400,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.49",
                 "hs_code": "010",
                 "desc": "1 革張りのもの",
                 "rate": {
@@ -441,7 +441,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.49",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -486,7 +486,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.01",
         "hs_code": "",
         "desc": "とう、オージア、竹その他これらに類する材料製の腰掛け",
         "rate": {},
@@ -620,7 +620,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.01",
         "hs_code": "",
         "desc": "その他の腰掛け（木製フレームのものに限る。）",
         "rate": {},
@@ -669,7 +669,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.61",
                 "hs_code": "010",
                 "desc": "− 革張りのもの",
                 "rate": {
@@ -710,7 +710,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.61",
                 "hs_code": "020",
                 "desc": "− その他のもの",
                 "rate": {
@@ -796,7 +796,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.01",
         "hs_code": "",
         "desc": "その他の腰掛け（金属製フレームのものに限る。）",
         "rate": {},
@@ -845,7 +845,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.71",
                 "hs_code": "010",
                 "desc": "1 革張りのもの",
                 "rate": {
@@ -886,7 +886,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.71",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -969,7 +969,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.79",
                 "hs_code": "010",
                 "desc": "1 革張りのもの",
                 "rate": {
@@ -1010,7 +1010,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.79",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1064,7 +1064,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9401.80",
             "hs_code": "010",
             "desc": "1 革張りのもの",
             "rate": {
@@ -1105,7 +1105,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9401.80",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1148,7 +1148,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.01",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -1207,7 +1207,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.99",
                 "hs_code": "",
                 "desc": "1 革製のもの",
                 "rate": {
@@ -1247,7 +1247,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "9401.99",
                     "hs_code": "021",
                     "desc": "− 自動車に使用する種類のもの",
                     "rate": {
@@ -1288,7 +1288,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "9401.99",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1331,7 +1331,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9401.99",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1729,7 +1729,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9403.60",
             "hs_code": "010",
             "desc": "− 棚付き家具（食器棚及び本箱を除く。掛け若しくは壁に取り付けて又は一方の上に他方を載せて使用するように設計したものに限る。）",
             "rate": {
@@ -1770,7 +1770,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9403.60",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {
@@ -1810,7 +1810,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9403.60",
                 "hs_code": "110",
                 "desc": "−− 仏壇",
                 "rate": {
@@ -1851,7 +1851,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9403.60",
                 "hs_code": "190",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1937,7 +1937,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.03",
         "hs_code": "",
         "desc": "その他の材料（とう、オージア、竹その他これらに類する材料を含む。）製の家具",
         "rate": {},
@@ -2071,7 +2071,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.03",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -2161,7 +2161,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9403.99",
                 "hs_code": "010",
                 "desc": "− 金属製のもの",
                 "rate": {
@@ -2202,7 +2202,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9403.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2299,7 +2299,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.04",
         "hs_code": "",
         "desc": "マットレス",
         "rate": {},
@@ -2473,7 +2473,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9404.40",
             "hs_code": "010",
             "desc": "− 羽根布団（羽根又は羽毛を詰物に使用したもの）",
             "rate": {
@@ -2514,7 +2514,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9404.40",
             "hs_code": "020",
             "desc": "− 人造繊維のみを詰物に使用したもの",
             "rate": {
@@ -2555,7 +2555,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9404.40",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2654,7 +2654,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.05",
         "hs_code": "",
         "desc": "シャンデリアその他の天井用又は壁掛け用の電気式の照明器具（公共の広場又は街路の照明に使用する種類のものを除く。）",
         "rate": {},
@@ -2747,7 +2747,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.05",
         "hs_code": "",
         "desc": "卓上用、机上用、ベッドサイド用又は床置き用の電気式の照明器具",
         "rate": {},
@@ -2840,7 +2840,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.05",
         "hs_code": "",
         "desc": "クリスマスツリーに使用する種類のストリングライト",
         "rate": {},
@@ -2933,7 +2933,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.05",
         "hs_code": "",
         "desc": "その他の電気式の照明器具",
         "rate": {},
@@ -3108,7 +3108,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.05",
         "hs_code": "",
         "desc": "イルミネーションサイン、発光ネームプレートその他これらに類する物品",
         "rate": {},
@@ -3126,7 +3126,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9405.61",
                 "hs_code": "010",
                 "desc": "1 ガラス製、木製、腸製、ゴールドビーターススキン製、ぼうこう製又は腱製のもの",
                 "rate": {
@@ -3167,7 +3167,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9405.61",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3219,7 +3219,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9405.69",
                 "hs_code": "010",
                 "desc": "1 ガラス製、木製、腸製、ゴールドビーターススキン製、ぼうこう製又は腱製のもの",
                 "rate": {
@@ -3260,7 +3260,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9405.69",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3305,7 +3305,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "94.05",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -3490,7 +3490,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9406.10",
             "hs_code": "010",
             "desc": "− 床のあるもの（一部屋の床面積が9平方メートル以上のものを含むものに限る。）",
             "rate": {
@@ -3531,7 +3531,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9406.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3614,7 +3614,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9406.20",
             "hs_code": "010",
             "desc": "− 床のあるもの（一部屋の床面積が9平方メートル以上のものを含むものに限る。）",
             "rate": {
@@ -3655,7 +3655,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9406.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3738,7 +3738,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9406.90",
             "hs_code": "010",
             "desc": "− 床のあるもの（一部屋の床面積が9平方メートル以上のものを含むものに限る。）",
             "rate": {
@@ -3779,7 +3779,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9406.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

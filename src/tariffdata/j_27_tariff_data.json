@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "27.01",
         "hs_code": "",
         "desc": "石炭（粉状にしてあるかないかを問わないものとし、凝結させたものを除く。）",
         "rate": {},
@@ -100,7 +100,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2701.12",
                 "hs_code": "",
                 "desc": "− 灰分の含有量が乾燥状態において全重量の8％以下のもの",
                 "rate": {
@@ -140,7 +140,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2701.12",
                     "hs_code": "011",
                     "desc": "−− 強粘結性のコークス用炭",
                     "rate": {
@@ -181,7 +181,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2701.12",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -224,7 +224,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2701.12",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -264,7 +264,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2701.12",
                     "hs_code": "091",
                     "desc": "−− 強粘結性のコークス用炭",
                     "rate": {
@@ -305,7 +305,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2701.12",
                     "hs_code": "092",
                     "desc": "−− その他のコークス用炭",
                     "rate": {
@@ -346,7 +346,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2701.12",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -431,7 +431,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2701.19",
                 "hs_code": "010",
                 "desc": "− 灰分の含有量が乾燥状態において全重量の8％以下のもの",
                 "rate": {
@@ -472,7 +472,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2701.19",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -725,7 +725,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2704.00",
         "hs_code": "010",
         "desc": "1 コークス及び半成コークス",
         "rate": {
@@ -766,7 +766,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2704.00",
         "hs_code": "020",
         "desc": "2 レトルトカーボン",
         "rate": {
@@ -1148,7 +1148,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "27.07",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1394,7 +1394,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2709.00",
         "hs_code": "100",
         "desc": "− エチレン、プロピレン、ブチレン、ブタジエン、ベンゼン、トルエン、キシレン又は石油樹脂を製造するため、オレフィン製造設備（エチレンの製造を主たる目的とするものに限る。）の分解炉で熱分解用に供されるもの",
         "rate": {
@@ -1437,7 +1437,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2709.00",
         "hs_code": "900",
         "desc": "− その他のもの",
         "rate": {
@@ -1491,7 +1491,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "27.10",
         "hs_code": "",
         "desc": "石油及び歴青油（原油を除く。）並びにこれらの調製品（石油又は歴青油の含有量が全重量の70％以上のもので、かつ、石油又は歴青油が基礎的な成分を成すものに限るものとし、バイオディーゼルを含有するもの及び他の号に該当するものを除く。）",
         "rate": {},
@@ -1509,7 +1509,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.12",
                 "hs_code": "",
                 "desc": "1 石油及び歴青油（石油及び歴青油以外の物品を加えたもので、その物品の重量が全重量の5％未満のものを含む。）",
                 "rate": {},
@@ -1518,7 +1518,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.12",
                     "hs_code": "",
                     "desc": "(1)揮発油",
                     "rate": {},
@@ -1527,7 +1527,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.12",
                         "hs_code": "",
                         "desc": "A 低重合度の混合アルキレン",
                         "rate": {},
@@ -1536,7 +1536,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.12",
                             "hs_code": "111",
                             "desc": "(a)トリプロピレン",
                             "rate": {
@@ -1582,7 +1582,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.12",
                             "hs_code": "119",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -1630,7 +1630,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.12",
                         "hs_code": "120",
                         "desc": "B 政令で定める分留性状の試験方法による減失量加算5％留出温度と減失量加算95％留出温度との温度差が2度以内のもの（低重合度の混合アルキレンを除く。）",
                         "rate": {
@@ -1676,7 +1676,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.12",
                         "hs_code": "",
                         "desc": "C その他のもの",
                         "rate": {
@@ -1716,7 +1716,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.12",
                             "hs_code": "181",
                             "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                             "rate": {
@@ -1762,7 +1762,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.12",
                             "hs_code": "",
                             "desc": "− その他のもの",
                             "rate": {
@@ -1802,7 +1802,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.12",
                                 "hs_code": "",
                                 "desc": "−− 航空機用のもの（アンチノック剤を加えてないものを含む。）",
                                 "rate": {},
@@ -1811,7 +1811,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.12",
                                     "hs_code": "131",
                                     "desc": "−−− 温度15度における比重が0.8017以下のもの",
                                     "rate": {
@@ -1857,7 +1857,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.12",
                                     "hs_code": "132",
                                     "desc": "−−− その他のもの",
                                     "rate": {
@@ -1905,7 +1905,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.12",
                                 "hs_code": "137",
                                 "desc": "−− 自動車の燃料用のもの",
                                 "rate": {
@@ -1951,7 +1951,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.12",
                                 "hs_code": "139",
                                 "desc": "−− その他のもの",
                                 "rate": {
@@ -2003,7 +2003,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.12",
                     "hs_code": "",
                     "desc": "(2)灯油",
                     "rate": {},
@@ -2012,7 +2012,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.12",
                         "hs_code": "141",
                         "desc": "A 低重合度の混合アルキレン",
                         "rate": {
@@ -2058,7 +2058,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.12",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {
@@ -2098,7 +2098,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.12",
                             "hs_code": "144",
                             "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                             "rate": {
@@ -2144,7 +2144,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.12",
                             "hs_code": "",
                             "desc": "− その他のもの",
                             "rate": {
@@ -2184,7 +2184,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.12",
                                 "hs_code": "142",
                                 "desc": "−− ノルマルパラフィン（直鎖飽和炭化水素の含有量が全重量の95％以上のものに限る。）",
                                 "rate": {
@@ -2230,7 +2230,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.12",
                                 "hs_code": "",
                                 "desc": "−− その他のもの",
                                 "rate": {},
@@ -2239,7 +2239,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.12",
                                     "hs_code": "143",
                                     "desc": "−−− ジェットエンジンの燃料用のもの",
                                     "rate": {
@@ -2285,7 +2285,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.12",
                                     "hs_code": "149",
                                     "desc": "−−− その他のもの",
                                     "rate": {
@@ -2339,7 +2339,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.12",
                     "hs_code": "",
                     "desc": "(3)軽油",
                     "rate": {
@@ -2379,7 +2379,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.12",
                         "hs_code": "151",
                         "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                         "rate": {
@@ -2425,7 +2425,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.12",
                         "hs_code": "159",
                         "desc": "− その他のもの",
                         "rate": {
@@ -2475,7 +2475,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.12",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2532,7 +2532,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.19",
                 "hs_code": "",
                 "desc": "1 石油及び歴青油（石油及び歴青油以外の物品を加えたもので、その物品の重量が全重量の5％未満のものを含む。）",
                 "rate": {},
@@ -2541,7 +2541,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.19",
                     "hs_code": "",
                     "desc": "(1)灯油",
                     "rate": {},
@@ -2550,7 +2550,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "141",
                         "desc": "A 低重合度の混合アルキレン",
                         "rate": {
@@ -2596,7 +2596,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {
@@ -2636,7 +2636,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "144",
                             "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                             "rate": {
@@ -2682,7 +2682,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "",
                             "desc": "− その他のもの",
                             "rate": {
@@ -2722,7 +2722,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "142",
                                 "desc": "−− ノルマルパラフィン（直鎖飽和炭化水素の含有量が全重量の95％以上のものに限る。）",
                                 "rate": {
@@ -2768,7 +2768,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "",
                                 "desc": "−− その他のもの",
                                 "rate": {},
@@ -2777,7 +2777,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "143",
                                     "desc": "−−− ジェットエンジンの燃料用のもの",
                                     "rate": {
@@ -2823,7 +2823,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "149",
                                     "desc": "−−− その他のもの",
                                     "rate": {
@@ -2877,7 +2877,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.19",
                     "hs_code": "",
                     "desc": "(2)軽油",
                     "rate": {
@@ -2917,7 +2917,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "151",
                         "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                         "rate": {
@@ -2963,7 +2963,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "159",
                         "desc": "− その他のもの",
                         "rate": {
@@ -3011,7 +3011,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.19",
                     "hs_code": "",
                     "desc": "(3)重油及び粗油",
                     "rate": {},
@@ -3020,7 +3020,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "",
                         "desc": "A 温度15度における比重が0.9037以下のもの",
                         "rate": {},
@@ -3029,7 +3029,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "",
                             "desc": "(a)製油の原料として使用するもの（関税法第56条第1項に規定する保税作業による製品で、これらの物品を原料とする製油により得たものを含む。以下この号及び第2710.20号において同じ。）",
                             "rate": {
@@ -3069,7 +3069,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "161",
                                 "desc": "− 重油",
                                 "rate": {
@@ -3115,7 +3115,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "162",
                                 "desc": "− 粗油",
                                 "rate": {
@@ -3163,7 +3163,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "",
                             "desc": "(b)温度15度における比重が0.83以上で引火点が温度130度以下のもの（本邦に到着した時においてこれらの性質を有するもの又は政令で定めるところにより本邦に到着した石油製品に他の石油製品を混合して得たものでこれらの性質を有するものに限る。第2710.20号において同じ。）のうち、農林漁業の用に供するもの",
                             "rate": {
@@ -3203,7 +3203,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "163",
                                 "desc": "− 重油",
                                 "rate": {
@@ -3249,7 +3249,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "164",
                                 "desc": "− 粗油",
                                 "rate": {
@@ -3297,7 +3297,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "",
                             "desc": "(c)その他のもの",
                             "rate": {
@@ -3337,7 +3337,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "",
                                 "desc": "− 硫黄の含有量が全重量の0.3％以下のもの",
                                 "rate": {},
@@ -3346,7 +3346,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "165",
                                     "desc": "−− 重油",
                                     "rate": {
@@ -3392,7 +3392,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "166",
                                     "desc": "−− 粗油",
                                     "rate": {
@@ -3440,7 +3440,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "",
                                 "desc": "− その他のもの",
                                 "rate": {},
@@ -3449,7 +3449,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "167",
                                     "desc": "−− 重油",
                                     "rate": {
@@ -3495,7 +3495,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "169",
                                     "desc": "−− 粗油",
                                     "rate": {
@@ -3547,7 +3547,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "",
                         "desc": "B 温度15度における比重が0.9037を超えるもの",
                         "rate": {},
@@ -3556,7 +3556,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "",
                             "desc": "(a)製油の原料として使用するもの",
                             "rate": {
@@ -3596,7 +3596,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "171",
                                 "desc": "− 重油",
                                 "rate": {
@@ -3642,7 +3642,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "172",
                                 "desc": "− 粗油",
                                 "rate": {
@@ -3690,7 +3690,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -3730,7 +3730,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "",
                                 "desc": "− 硫黄の含有量が全重量の0.3％以下のもの",
                                 "rate": {},
@@ -3739,7 +3739,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "173",
                                     "desc": "−− 重油",
                                     "rate": {
@@ -3785,7 +3785,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "174",
                                     "desc": "−− 粗油",
                                     "rate": {
@@ -3833,7 +3833,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "",
                                 "desc": "− その他のもの",
                                 "rate": {},
@@ -3842,7 +3842,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "175",
                                     "desc": "−− 重油",
                                     "rate": {
@@ -3888,7 +3888,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2710.19",
                                     "hs_code": "179",
                                     "desc": "−− 粗油",
                                     "rate": {
@@ -3942,7 +3942,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.19",
                     "hs_code": "",
                     "desc": "(4)潤滑油（流動パラフィンを含む。）",
                     "rate": {},
@@ -3951,7 +3951,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "",
                         "desc": "A 温度15度における比重が0.8494を超えるもの（流動パラフィン、切削油、絶縁油及び航空機用潤滑油並びに焼入油、作動油、防錆油その他主として潤滑用に供しない油に限る。）及び温度15度における比重が0.8494以下のもの",
                         "rate": {
@@ -3991,7 +3991,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "188",
                             "desc": "− 温度15度における比重が0.8494以下のもの",
                             "rate": {
@@ -4037,7 +4037,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "",
                             "desc": "− その他のもの",
                             "rate": {},
@@ -4046,7 +4046,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "193",
                                 "desc": "−− 流動パラフィン",
                                 "rate": {
@@ -4092,7 +4092,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "194",
                                 "desc": "−− 切削油、絶縁油及び航空機用潤滑油",
                                 "rate": {
@@ -4138,7 +4138,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.19",
                                 "hs_code": "195",
                                 "desc": "−− 焼入油、作動油、防錆油その他主として潤滑用に供しない油",
                                 "rate": {
@@ -4188,7 +4188,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "196",
                         "desc": "B その他のもの",
                         "rate": {
@@ -4236,7 +4236,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.19",
                     "hs_code": "199",
                     "desc": "(5)その他のもの",
                     "rate": {
@@ -4284,7 +4284,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4324,7 +4324,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.19",
                     "hs_code": "210",
                     "desc": "− グリース",
                     "rate": {
@@ -4370,7 +4370,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.19",
                     "hs_code": "",
                     "desc": "− その他のもの",
                     "rate": {},
@@ -4379,7 +4379,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "291",
                         "desc": "−− 温度15度における比重が0.8494以下のもの",
                         "rate": {
@@ -4425,7 +4425,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.19",
                         "hs_code": "",
                         "desc": "−− その他のもの",
                         "rate": {},
@@ -4434,7 +4434,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "293",
                             "desc": "−−− 液状の潤滑剤",
                             "rate": {
@@ -4480,7 +4480,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.19",
                             "hs_code": "299",
                             "desc": "−−− その他のもの",
                             "rate": {
@@ -4545,7 +4545,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2710.20",
             "hs_code": "",
             "desc": "1 石油及び歴青油（石油及び歴青油以外の物品を加えたもので、その物品の重量が全重量の5％未満のものを含む。）",
             "rate": {},
@@ -4554,7 +4554,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "",
                 "desc": "(1)揮発油",
                 "rate": {},
@@ -4563,7 +4563,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "",
                     "desc": "A 低重合度の混合アルキレン",
                     "rate": {},
@@ -4572,7 +4572,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "111",
                         "desc": "(a)トリプロピレン",
                         "rate": {
@@ -4618,7 +4618,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "119",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -4666,7 +4666,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "120",
                     "desc": "B 政令で定める分留性状の試験方法による減失量加算5％留出温度と減失量加算95％留出温度との温度差が2度以内のもの（低重合度の混合アルキレンを除く。）",
                     "rate": {
@@ -4712,7 +4712,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "",
                     "desc": "C その他のもの",
                     "rate": {
@@ -4752,7 +4752,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "181",
                         "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                         "rate": {
@@ -4798,7 +4798,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4838,7 +4838,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "",
                             "desc": "−− 航空機用のもの（アンチノック剤を加えてないものを含む。）",
                             "rate": {},
@@ -4847,7 +4847,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "131",
                                 "desc": "−−− 温度15度における比重が0.8017以下のもの",
                                 "rate": {
@@ -4893,7 +4893,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "132",
                                 "desc": "−−− その他のもの",
                                 "rate": {
@@ -4941,7 +4941,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "137",
                             "desc": "−− 自動車の燃料用のもの",
                             "rate": {
@@ -4987,7 +4987,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "139",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -5039,7 +5039,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "",
                 "desc": "(2)灯油",
                 "rate": {},
@@ -5048,7 +5048,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "141",
                     "desc": "A 低重合度の混合アルキレン",
                     "rate": {
@@ -5094,7 +5094,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "",
                     "desc": "B その他のもの",
                     "rate": {
@@ -5134,7 +5134,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "144",
                         "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                         "rate": {
@@ -5180,7 +5180,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5220,7 +5220,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "142",
                             "desc": "−− ノルマルパラフィン（直鎖飽和炭化水素の含有量が全重量の95％以上のものに限る。）",
                             "rate": {
@@ -5266,7 +5266,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "",
                             "desc": "−− その他のもの",
                             "rate": {},
@@ -5275,7 +5275,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "143",
                                 "desc": "−−− ジェットエンジンの燃料用のもの",
                                 "rate": {
@@ -5321,7 +5321,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "149",
                                 "desc": "−−− その他のもの",
                                 "rate": {
@@ -5375,7 +5375,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "",
                 "desc": "(3)軽油",
                 "rate": {
@@ -5415,7 +5415,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "151",
                     "desc": "− 政令で定める石油化学製品の製造に使用するもの",
                     "rate": {
@@ -5461,7 +5461,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "159",
                     "desc": "− その他のもの",
                     "rate": {
@@ -5509,7 +5509,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "",
                 "desc": "(4)重油及び粗油",
                 "rate": {},
@@ -5518,7 +5518,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "",
                     "desc": "A 温度15度における比重が0.9037以下のもの",
                     "rate": {},
@@ -5527,7 +5527,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "(a)製油の原料として使用するもの",
                         "rate": {
@@ -5567,7 +5567,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "161",
                             "desc": "− 重油",
                             "rate": {
@@ -5613,7 +5613,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "162",
                             "desc": "− 粗油",
                             "rate": {
@@ -5661,7 +5661,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "(b)温度15度における比重が0.83以上で引火点が温度130度以下のもののうち、農林漁業の用に供するもの",
                         "rate": {
@@ -5701,7 +5701,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "163",
                             "desc": "− 重油",
                             "rate": {
@@ -5747,7 +5747,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "164",
                             "desc": "− 粗油",
                             "rate": {
@@ -5795,7 +5795,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "(c)その他のもの",
                         "rate": {
@@ -5835,7 +5835,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "",
                             "desc": "− 硫黄の含有量が全重量の0.3％以下のもの",
                             "rate": {},
@@ -5844,7 +5844,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "165",
                                 "desc": "−− 重油",
                                 "rate": {
@@ -5890,7 +5890,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "166",
                                 "desc": "−− 粗油",
                                 "rate": {
@@ -5938,7 +5938,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "",
                             "desc": "− その他のもの",
                             "rate": {},
@@ -5947,7 +5947,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "167",
                                 "desc": "−− 重油",
                                 "rate": {
@@ -5993,7 +5993,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "169",
                                 "desc": "−− 粗油",
                                 "rate": {
@@ -6045,7 +6045,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "",
                     "desc": "B 温度15度における比重が0.9037を超えるもの",
                     "rate": {},
@@ -6054,7 +6054,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "(a)製油の原料として使用するもの",
                         "rate": {
@@ -6094,7 +6094,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "171",
                             "desc": "− 重油",
                             "rate": {
@@ -6140,7 +6140,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "172",
                             "desc": "− 粗油",
                             "rate": {
@@ -6188,7 +6188,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -6228,7 +6228,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "",
                             "desc": "− 硫黄の含有量が全重量の0.3％以下のもの",
                             "rate": {},
@@ -6237,7 +6237,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "173",
                                 "desc": "−− 重油",
                                 "rate": {
@@ -6283,7 +6283,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "174",
                                 "desc": "−− 粗油",
                                 "rate": {
@@ -6331,7 +6331,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "",
                             "desc": "− その他のもの",
                             "rate": {},
@@ -6340,7 +6340,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "175",
                                 "desc": "−− 重油",
                                 "rate": {
@@ -6386,7 +6386,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2710.20",
                                 "hs_code": "179",
                                 "desc": "−− 粗油",
                                 "rate": {
@@ -6440,7 +6440,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "",
                 "desc": "(5)潤滑油（流動パラフィンを含む。）",
                 "rate": {},
@@ -6449,7 +6449,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "",
                     "desc": "A 温度15度における比重が0.8494を超えるもの（流動パラフィン、切削油、絶縁油及び航空機用潤滑油並びに焼入油、作動油、防錆油その他主として潤滑用に供しない油に限る。）及び温度15度における比重が0.8494以下のもの",
                     "rate": {
@@ -6489,7 +6489,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "188",
                         "desc": "− 温度15度における比重が0.8494以下のもの",
                         "rate": {
@@ -6535,7 +6535,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {},
@@ -6544,7 +6544,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "193",
                             "desc": "−− 流動パラフィン",
                             "rate": {
@@ -6590,7 +6590,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "194",
                             "desc": "−− 切削油、絶縁油及び航空機用潤滑油",
                             "rate": {
@@ -6636,7 +6636,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2710.20",
                             "hs_code": "195",
                             "desc": "−− 焼入油、作動油、防錆油その他主として潤滑用に供しない油",
                             "rate": {
@@ -6686,7 +6686,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "196",
                     "desc": "B その他のもの",
                     "rate": {
@@ -6734,7 +6734,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "199",
                 "desc": "(6)その他のもの",
                 "rate": {
@@ -6782,7 +6782,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2710.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -6822,7 +6822,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "210",
                 "desc": "− グリース",
                 "rate": {
@@ -6868,7 +6868,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2710.20",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -6877,7 +6877,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "291",
                     "desc": "−− 温度15度における比重が0.8494以下のもの",
                     "rate": {
@@ -6923,7 +6923,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2710.20",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {},
@@ -6932,7 +6932,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "293",
                         "desc": "−−− 液状の潤滑剤",
                         "rate": {
@@ -6978,7 +6978,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2710.20",
                         "hs_code": "299",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -7032,7 +7032,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "27.10",
         "hs_code": "",
         "desc": "廃油",
         "rate": {},
@@ -7146,7 +7146,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "27.11",
         "hs_code": "",
         "desc": "液化したもの",
         "rate": {},
@@ -7281,7 +7281,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2711.13",
                 "hs_code": "010",
                 "desc": "− アンモニア、オレフィン系炭化水素又は無水マレイン酸の製造に使用するもの",
                 "rate": {
@@ -7324,7 +7324,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2711.13",
                 "hs_code": "020",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7378,7 +7378,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2711.14",
                 "hs_code": "010",
                 "desc": "1 エチレン",
                 "rate": {
@@ -7421,7 +7421,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2711.14",
                 "hs_code": "020",
                 "desc": "2 プロピレン、ブチレン及びブタジエン",
                 "rate": {
@@ -7475,7 +7475,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2711.19",
                 "hs_code": "010",
                 "desc": "1 石油ガス",
                 "rate": {
@@ -7518,7 +7518,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2711.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -7565,7 +7565,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "27.11",
         "hs_code": "",
         "desc": "ガス状のもの",
         "rate": {},
@@ -7813,7 +7813,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "27.13",
         "hs_code": "",
         "desc": "石油コークス",
         "rate": {},
@@ -7962,7 +7962,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2713.90",
             "hs_code": "100",
             "desc": "1 潤滑油を溶剤により精製する際に生ずる副生抽出物（流動点が温度35度以下のものに限る。）",
             "rate": {
@@ -8005,7 +8005,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2713.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {

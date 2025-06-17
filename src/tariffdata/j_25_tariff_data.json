@@ -20,7 +20,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2501.00",
         "hs_code": "010",
         "desc": "1 塩及び純塩化ナトリウム（目開きが2.8ミリメートルのふるい（織金網製のものに限る。）に対する通過率が全重量の70％以上のもの及び凝結させたものに限るものとし、水溶液を除く。）",
         "rate": {
@@ -63,7 +63,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2501.00",
         "hs_code": "090",
         "desc": "2 その他のもの",
         "rate": {
@@ -671,7 +671,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2508.40",
             "hs_code": "010",
             "desc": "− ばん土頁岩",
             "rate": {
@@ -712,7 +712,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2508.40",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1321,7 +1321,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "25.15",
         "hs_code": "",
         "desc": "大理石及びトラバーチン",
         "rate": {},
@@ -1466,7 +1466,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "25.16",
         "hs_code": "",
         "desc": "花こう岩",
         "rate": {},
@@ -1775,7 +1775,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "25.17",
         "hs_code": "",
         "desc": "第25.15項又は第25.16項の岩石の粒、破片及び粉（熱処理をしてあるかないかを問わない。）",
         "rate": {},
@@ -2053,7 +2053,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2519.90",
             "hs_code": "010",
             "desc": "− 酸化マグネシウム（天然の炭酸マグネシウムを焼いたものを除く。）",
             "rate": {
@@ -2094,7 +2094,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2519.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2198,7 +2198,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2520.20",
             "hs_code": "010",
             "desc": "1 天然石膏を焼いたもの",
             "rate": {
@@ -2239,7 +2239,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2520.20",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -2519,7 +2519,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "25.23",
         "hs_code": "",
         "desc": "ポートランドセメント",
         "rate": {},
@@ -3121,7 +3121,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "25.29",
         "hs_code": "",
         "desc": "ほたる石",
         "rate": {},

@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "17.01",
         "hs_code": "",
         "desc": "粗糖（香味料又は着色料を加えてないものに限る。）",
         "rate": {},
@@ -28,7 +28,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1701.12",
                 "hs_code": "100",
                 "desc": "1 乾燥状態において、全重量に対するしよ糖の含有量が、検糖計の読みで98.5度未満に相当するもの",
                 "rate": {
@@ -72,7 +72,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1701.12",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -171,7 +171,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1701.14",
                 "hs_code": "",
                 "desc": "1 乾燥状態において、全重量に対するしよ糖の含有量が、検糖計の読みで98.5度未満に相当するもの",
                 "rate": {},
@@ -180,7 +180,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1701.14",
                     "hs_code": "110",
                     "desc": "(1)分蜜糖",
                     "rate": {
@@ -224,7 +224,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1701.14",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -270,7 +270,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1701.14",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -318,7 +318,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "17.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -380,7 +380,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1701.99",
                 "hs_code": "100",
                 "desc": "1 氷砂糖、角砂糖、棒砂糖その他これらに類するもの",
                 "rate": {
@@ -424,7 +424,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1701.99",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -483,7 +483,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "17.02",
         "hs_code": "",
         "desc": "乳糖及び乳糖水",
         "rate": {},
@@ -593,7 +593,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.20",
             "hs_code": "100",
             "desc": "1 かえで糖",
             "rate": {
@@ -638,7 +638,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.20",
             "hs_code": "200",
             "desc": "2 かえで糖水",
             "rate": {
@@ -694,7 +694,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.30",
             "hs_code": "100",
             "desc": "1 香味料又は着色料を加えたもの",
             "rate": {
@@ -739,7 +739,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -748,7 +748,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.30",
                 "hs_code": "210",
                 "desc": "(1)砂糖を加えたもの",
                 "rate": {
@@ -793,7 +793,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.30",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -802,7 +802,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1702.30",
                     "hs_code": "221",
                     "desc": "A 精製したもの",
                     "rate": {
@@ -847,7 +847,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1702.30",
                     "hs_code": "229",
                     "desc": "B その他のもの",
                     "rate": {
@@ -907,7 +907,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.40",
             "hs_code": "100",
             "desc": "1 香味料又は着色料を加えたもの",
             "rate": {
@@ -952,7 +952,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.40",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -992,7 +992,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.40",
                 "hs_code": "210",
                 "desc": "− 砂糖を加えたもの",
                 "rate": {
@@ -1037,7 +1037,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.40",
                 "hs_code": "220",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1140,7 +1140,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.60",
             "hs_code": "100",
             "desc": "1 香味料又は着色料を加えたもの",
             "rate": {
@@ -1185,7 +1185,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.60",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -1225,7 +1225,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.60",
                 "hs_code": "210",
                 "desc": "− 砂糖を加えたもの",
                 "rate": {
@@ -1270,7 +1270,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.60",
                 "hs_code": "220",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1328,7 +1328,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.90",
             "hs_code": "",
             "desc": "1 砂糖",
             "rate": {
@@ -1368,7 +1368,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "110",
                 "desc": "− 分蜜糖",
                 "rate": {
@@ -1413,7 +1413,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "190",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1460,7 +1460,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.90",
             "hs_code": "",
             "desc": "2 砂糖水",
             "rate": {
@@ -1500,7 +1500,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "211",
                 "desc": "− 分蜜糖のもの",
                 "rate": {
@@ -1545,7 +1545,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "219",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1592,7 +1592,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.90",
             "hs_code": "",
             "desc": "3 人造はちみつ及びカラメル",
             "rate": {
@@ -1632,7 +1632,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "290",
                 "desc": "− 人造はちみつ",
                 "rate": {
@@ -1677,7 +1677,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "300",
                 "desc": "− カラメル",
                 "rate": {
@@ -1724,7 +1724,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.90",
             "hs_code": "",
             "desc": "4 ハイ・テスト・モラセス",
             "rate": {},
@@ -1733,7 +1733,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "410",
                 "desc": "(1)グルタミン酸及びその塩、酵母、リジン、5'-リボヌクレオチド及びその塩その他政令で定める物品の製造に使用するもの",
                 "rate": {
@@ -1778,7 +1778,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "420",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1825,7 +1825,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1702.90",
             "hs_code": "",
             "desc": "5 その他のもの",
             "rate": {},
@@ -1834,7 +1834,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "510",
                 "desc": "(1)香味料又は着色料を加えたもの",
                 "rate": {
@@ -1879,7 +1879,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1702.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -1888,7 +1888,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1702.90",
                     "hs_code": "521",
                     "desc": "A 砂糖を加えたもの",
                     "rate": {
@@ -1933,7 +1933,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1702.90",
                     "hs_code": "",
                     "desc": "B その他のもの",
                     "rate": {},
@@ -1942,7 +1942,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1702.90",
                         "hs_code": "522",
                         "desc": "(a)ソルボース",
                         "rate": {
@@ -1987,7 +1987,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1702.90",
                         "hs_code": "523",
                         "desc": "(b)麦芽糖",
                         "rate": {
@@ -2032,7 +2032,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1702.90",
                         "hs_code": "529",
                         "desc": "(c)その他のもの",
                         "rate": {
@@ -2105,7 +2105,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1703.10",
             "hs_code": "020",
             "desc": "1 グルタミン酸及びその塩、酵母、リジン、5'-リボヌクレオチド及びその塩その他政令で定める物品の製造に使用するもの",
             "rate": {
@@ -2148,7 +2148,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1703.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -2188,7 +2188,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1703.10",
                 "hs_code": "010",
                 "desc": "− 飼料用のもの（税関の監督の下で飼料の原料として使用するものに限る。）",
                 "rate": {
@@ -2231,7 +2231,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1703.10",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2287,7 +2287,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1703.90",
             "hs_code": "020",
             "desc": "1 グルタミン酸及びその塩、酵母、リジン、5'-リボヌクレオチド及びその塩その他政令で定める物品の製造に使用するもの",
             "rate": {
@@ -2330,7 +2330,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1703.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -2370,7 +2370,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1703.90",
                 "hs_code": "010",
                 "desc": "− 飼料用のもの（税関の監督の下で飼料の原料として使用するものに限る。）",
                 "rate": {
@@ -2413,7 +2413,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1703.90",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2523,7 +2523,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1704.90",
             "hs_code": "100",
             "desc": "1 甘草エキス（菓子にしたものを除く。）",
             "rate": {
@@ -2566,7 +2566,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1704.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -2606,7 +2606,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1704.90",
                 "hs_code": "210",
                 "desc": "− キャンデー類",
                 "rate": {
@@ -2649,7 +2649,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1704.90",
                 "hs_code": "220",
                 "desc": "− キャラメル",
                 "rate": {
@@ -2692,7 +2692,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1704.90",
                 "hs_code": "230",
                 "desc": "− ホワイトチョコレート",
                 "rate": {
@@ -2735,7 +2735,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1704.90",
                 "hs_code": "290",
                 "desc": "− その他のもの",
                 "rate": {

@@ -116,7 +116,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2202.10",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -159,7 +159,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2202.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -204,7 +204,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "22.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -222,7 +222,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2202.91",
                 "hs_code": "100",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {
@@ -265,7 +265,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2202.91",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -319,7 +319,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2202.99",
                 "hs_code": "100",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {
@@ -362,7 +362,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2202.99",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -516,7 +516,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "22.04",
         "hs_code": "",
         "desc": "その他のぶどう酒及びぶどう搾汁でアルコール添加により発酵を止めたもの",
         "rate": {},
@@ -534,7 +534,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2204.21",
                 "hs_code": "010",
                 "desc": "1 シェリー、ポートその他の強化ぶどう酒",
                 "rate": {
@@ -577,7 +577,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2204.21",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -674,7 +674,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2204.29",
                 "hs_code": "010",
                 "desc": "1 150リットル以下の容器入りにしたもの",
                 "rate": {
@@ -717,7 +717,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2204.29",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -773,7 +773,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2204.30",
             "hs_code": "",
             "desc": "1 アルコール分が1％未満のもの",
             "rate": {},
@@ -782,7 +782,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2204.30",
                 "hs_code": "",
                 "desc": "(1)砂糖を加えたもの",
                 "rate": {},
@@ -791,7 +791,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2204.30",
                     "hs_code": "111",
                     "desc": "A しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -834,7 +834,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2204.30",
                     "hs_code": "119",
                     "desc": "B その他のもの",
                     "rate": {
@@ -879,7 +879,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2204.30",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -888,7 +888,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2204.30",
                     "hs_code": "191",
                     "desc": "A しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -931,7 +931,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2204.30",
                     "hs_code": "199",
                     "desc": "B その他のもの",
                     "rate": {
@@ -978,7 +978,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2204.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -1086,7 +1086,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2205.90",
             "hs_code": "100",
             "desc": "1 アルコール分が1％未満のもの",
             "rate": {
@@ -1129,7 +1129,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2205.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -1195,7 +1195,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2206.00",
         "hs_code": "100",
         "desc": "1 アルコール分が1％未満のもの",
         "rate": {
@@ -1238,7 +1238,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2206.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {},
@@ -1247,7 +1247,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2206.00",
             "hs_code": "210",
             "desc": "(1)清酒及び濁酒",
             "rate": {
@@ -1290,7 +1290,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2206.00",
             "hs_code": "",
             "desc": "(2)その他のもの",
             "rate": {},
@@ -1299,7 +1299,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2206.00",
                 "hs_code": "221",
                 "desc": "A 発酵酒（清酒を除く。）と第20.09項又は第22.02項の物品との混合物",
                 "rate": {
@@ -1342,7 +1342,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2206.00",
                 "hs_code": "",
                 "desc": "B その他のもの",
                 "rate": {},
@@ -1351,7 +1351,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2206.00",
                     "hs_code": "",
                     "desc": "(a)麦芽を原料の一部としたもので発泡性を有するもの",
                     "rate": {
@@ -1391,7 +1391,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2206.00",
                         "hs_code": "223",
                         "desc": "− 所得税法等の一部を改正する等の法律（平成29年法律第４号）第７条の規定による改正前の酒税法第23条第２項第３号ロに規定するもの（発泡酒（酒税法施行令等の一部を改正する政令（平成29年政令第110号）第１条の規定による改正前の酒税法施行令（ 以下この項において「旧酒税法施行令」という。）で定めるものに限る。）にスピリッツ（旧酒税法施行令で定めるものに限る。）を加えたもの）",
                         "rate": {
@@ -1434,7 +1434,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2206.00",
                         "hs_code": "224",
                         "desc": "− その他のもの",
                         "rate": {
@@ -1479,7 +1479,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2206.00",
                     "hs_code": "",
                     "desc": "(b)その他のもの",
                     "rate": {
@@ -1519,7 +1519,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2206.00",
                         "hs_code": "228",
                         "desc": "− 所得税法等の一部を改正する等の法律（平成29年法律第４号）第７条の規定による改正前の酒税法第23条第２項第３号イに規定するもの（糖類、ホップ、水及び旧酒税法施行令で定める物品を原料として発酵させたもの）",
                         "rate": {
@@ -1562,7 +1562,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2206.00",
                         "hs_code": "229",
                         "desc": "− その他のもの",
                         "rate": {
@@ -1633,7 +1633,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2207.10",
             "hs_code": "",
             "desc": "1 アルコール分が90％以上のもの",
             "rate": {
@@ -1673,7 +1673,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2207.10",
                 "hs_code": "",
                 "desc": "(1)工業用アルコール又は酢酸エチル若しくはエチルアミンの製造の用に供するもの",
                 "rate": {
@@ -1713,7 +1713,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2207.10",
                     "hs_code": "121",
                     "desc": "− 工業用アルコールの製造の用に供するもの",
                     "rate": {
@@ -1758,7 +1758,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2207.10",
                     "hs_code": "122",
                     "desc": "− 酢酸エチルの製造の用に供するもの",
                     "rate": {
@@ -1803,7 +1803,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2207.10",
                     "hs_code": "123",
                     "desc": "− エチルアミンの製造の用に供するもの",
                     "rate": {
@@ -1850,7 +1850,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2207.10",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -1859,7 +1859,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2207.10",
                     "hs_code": "130",
                     "desc": "A アルコール飲料の原料アルコールの製造用のもの（連続式蒸留機により蒸留して使用するものに限る。）",
                     "rate": {
@@ -1904,7 +1904,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2207.10",
                     "hs_code": "",
                     "desc": "B その他のもの",
                     "rate": {
@@ -1944,7 +1944,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2207.10",
                         "hs_code": "191",
                         "desc": "〔1〕 バイオマス（動植物に由来する有機物（原油、石油ガス、可燃性天然ガス及び石炭並びにこれらから製造される製品を除く。）をいう。）から製造したものである旨が政令で定めるところにより証明されたものであり、かつ、エチル−ターシャリ−ブチルエーテルの製造の用に供するもの",
                         "rate": {
@@ -1989,7 +1989,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2207.10",
                         "hs_code": "199",
                         "desc": "〔2〕 その他のもの",
                         "rate": {
@@ -2040,7 +2040,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2207.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -2080,7 +2080,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2207.10",
                 "hs_code": "220",
                 "desc": "(1)アルコール飲料の原料アルコールの製造用のもの（連続式蒸留機により蒸留して使用するものに限る。）",
                 "rate": {
@@ -2125,7 +2125,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2207.10",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2183,7 +2183,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2207.20",
             "hs_code": "100",
             "desc": "1 アルコール分が90％以上のもの",
             "rate": {
@@ -2228,7 +2228,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2207.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -2559,7 +2559,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2208.90",
             "hs_code": "",
             "desc": "1 エチルアルコール及び蒸留酒",
             "rate": {},
@@ -2568,7 +2568,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2208.90",
                 "hs_code": "110",
                 "desc": "(1)フルーツブランデー",
                 "rate": {
@@ -2612,7 +2612,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2208.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -2621,7 +2621,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2208.90",
                     "hs_code": "",
                     "desc": "A エチルアルコール",
                     "rate": {
@@ -2661,7 +2661,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2208.90",
                         "hs_code": "124",
                         "desc": "(a)アルコール飲料の原料アルコールの製造用のもの（連続式蒸留機により蒸留して使用するものに限る。）",
                         "rate": {
@@ -2705,7 +2705,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2208.90",
                         "hs_code": "123",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -2751,7 +2751,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2208.90",
                     "hs_code": "",
                     "desc": "B その他のもの",
                     "rate": {
@@ -2791,7 +2791,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2208.90",
                         "hs_code": "125",
                         "desc": "(a)アルコール飲料の原料アルコールの製造用のもの（連続式蒸留機により蒸留して使用するものに限る。）",
                         "rate": {
@@ -2835,7 +2835,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2208.90",
                         "hs_code": "129",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -2885,7 +2885,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2208.90",
             "hs_code": "",
             "desc": "2 その他のアルコール飲料",
             "rate": {},
@@ -2894,7 +2894,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2208.90",
                 "hs_code": "220",
                 "desc": "(1)合成清酒及び白酒",
                 "rate": {
@@ -2938,7 +2938,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2208.90",
                 "hs_code": "230",
                 "desc": "(2)果汁をもととした飲料（アルコール分が1％未満のものに限る。）",
                 "rate": {
@@ -2982,7 +2982,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2208.90",
                 "hs_code": "240",
                 "desc": "(3)その他のもの",
                 "rate": {

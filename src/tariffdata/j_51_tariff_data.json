@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "51.01",
         "hs_code": "",
         "desc": "脂付きのもの（フリースウォッシュしたものを含む。）",
         "rate": {},
@@ -109,7 +109,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "51.01",
         "hs_code": "",
         "desc": "脂を除いたもの（化炭処理をしてないものに限る。）",
         "rate": {},
@@ -263,7 +263,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "51.02",
         "hs_code": "",
         "desc": "繊獣毛",
         "rate": {},
@@ -658,7 +658,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "51.05",
         "hs_code": "",
         "desc": "羊毛のトップその他の羊毛（コームしたものに限る。）",
         "rate": {},
@@ -757,7 +757,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "51.05",
         "hs_code": "",
         "desc": "繊獣毛（カードし又はコームしたものに限る。）",
         "rate": {},
@@ -1044,7 +1044,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5107.10",
             "hs_code": "010",
             "desc": "− メートル式番手40以上のもので、かつ、より数が1メートルにつき400以下のもの及びメートル式番手40未満のもので、かつ、より数が1メートルにつき350以下のもの",
             "rate": {
@@ -1085,7 +1085,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5107.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1168,7 +1168,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5107.20",
             "hs_code": "010",
             "desc": "− メートル式番手40以上のもので、かつ、より数が1メートルにつき400以下のもの及びメートル式番手40未満のもので、かつ、より数が1メートルにつき350以下のもの",
             "rate": {
@@ -1209,7 +1209,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5107.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1365,7 +1365,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5109.10",
             "hs_code": "",
             "desc": "1 1個の重量が125グラム以下のもの",
             "rate": {
@@ -1405,7 +1405,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.10",
                 "hs_code": "011",
                 "desc": "− 紡毛糸",
                 "rate": {
@@ -1446,7 +1446,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.10",
                 "hs_code": "019",
                 "desc": "− 梳毛糸",
                 "rate": {
@@ -1489,7 +1489,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5109.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -1529,7 +1529,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.10",
                 "hs_code": "021",
                 "desc": "− 紡毛糸",
                 "rate": {
@@ -1570,7 +1570,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.10",
                 "hs_code": "022",
                 "desc": "− 梳毛糸",
                 "rate": {
@@ -1624,7 +1624,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5109.90",
             "hs_code": "",
             "desc": "1 1個の重量が125グラム以下のもの",
             "rate": {
@@ -1664,7 +1664,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.90",
                 "hs_code": "011",
                 "desc": "− 紡毛糸",
                 "rate": {
@@ -1705,7 +1705,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.90",
                 "hs_code": "019",
                 "desc": "− 梳毛糸",
                 "rate": {
@@ -1748,7 +1748,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5109.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -1788,7 +1788,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.90",
                 "hs_code": "021",
                 "desc": "− 紡毛糸",
                 "rate": {
@@ -1829,7 +1829,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5109.90",
                 "hs_code": "022",
                 "desc": "− 梳毛糸",
                 "rate": {
@@ -1936,7 +1936,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "51.11",
         "hs_code": "",
         "desc": "羊毛又は繊獣毛の重量が全重量の85％以上のもの",
         "rate": {},
@@ -1954,7 +1954,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.11",
                 "hs_code": "010",
                 "desc": "1 絹の重量が全重量の10％を超えるもの",
                 "rate": {
@@ -1995,7 +1995,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.11",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -2004,7 +2004,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5111.11",
                     "hs_code": "021",
                     "desc": "(1)重量が1平方メートルにつき200グラムを超えるもの",
                     "rate": {
@@ -2045,7 +2045,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5111.11",
                     "hs_code": "022",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -2099,7 +2099,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.19",
                 "hs_code": "010",
                 "desc": "1 絹の重量が全重量の10％を超えるもの",
                 "rate": {
@@ -2140,7 +2140,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2194,7 +2194,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5111.20",
             "hs_code": "010",
             "desc": "1 絹の重量が全重量の10％を超えるもの",
             "rate": {
@@ -2235,7 +2235,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5111.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2244,7 +2244,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.20",
                 "hs_code": "021",
                 "desc": "(1)重量が1平方メートルにつき200グラムを超えるもの",
                 "rate": {
@@ -2285,7 +2285,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.20",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2339,7 +2339,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5111.30",
             "hs_code": "010",
             "desc": "1 絹の重量が全重量の10％を超えるもの",
             "rate": {
@@ -2380,7 +2380,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5111.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2389,7 +2389,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.30",
                 "hs_code": "021",
                 "desc": "(1)重量が1平方メートルにつき200グラムを超えるもの",
                 "rate": {
@@ -2430,7 +2430,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.30",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2484,7 +2484,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5111.90",
             "hs_code": "010",
             "desc": "1 絹の重量が全重量の10％を超えるもの",
             "rate": {
@@ -2525,7 +2525,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5111.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2534,7 +2534,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.90",
                 "hs_code": "021",
                 "desc": "(1)重量が1平方メートルにつき200グラムを超えるもの",
                 "rate": {
@@ -2575,7 +2575,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5111.90",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2631,7 +2631,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "51.12",
         "hs_code": "",
         "desc": "羊毛又は繊獣毛の重量が全重量の85％以上のもの",
         "rate": {},
@@ -2649,7 +2649,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.11",
                 "hs_code": "010",
                 "desc": "1 絹の重量が全重量の10％を超えるもの",
                 "rate": {
@@ -2690,7 +2690,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.11",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2742,7 +2742,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.19",
                 "hs_code": "010",
                 "desc": "1 絹の重量が全重量の10％を超えるもの",
                 "rate": {
@@ -2783,7 +2783,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2837,7 +2837,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5112.20",
             "hs_code": "010",
             "desc": "1 絹の重量が全重量の10％を超えるもの",
             "rate": {
@@ -2878,7 +2878,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5112.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2887,7 +2887,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.20",
                 "hs_code": "021",
                 "desc": "(1)重量が1平方メートルにつき200グラムを超えるもの",
                 "rate": {
@@ -2928,7 +2928,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.20",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2982,7 +2982,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5112.30",
             "hs_code": "010",
             "desc": "1 絹の重量が全重量の10％を超えるもの",
             "rate": {
@@ -3023,7 +3023,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5112.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -3032,7 +3032,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.30",
                 "hs_code": "021",
                 "desc": "(1)重量が1平方メートルにつき200グラムを超えるもの",
                 "rate": {
@@ -3073,7 +3073,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.30",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -3127,7 +3127,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5112.90",
             "hs_code": "010",
             "desc": "1 絹の重量が全重量の10％を超えるもの",
             "rate": {
@@ -3168,7 +3168,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5112.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -3177,7 +3177,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.90",
                 "hs_code": "021",
                 "desc": "(1)重量が1平方メートルにつき200グラムを超えるもの",
                 "rate": {
@@ -3218,7 +3218,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5112.90",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {

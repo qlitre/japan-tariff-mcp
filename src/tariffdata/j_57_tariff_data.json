@@ -193,7 +193,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "57.02",
         "hs_code": "",
         "desc": "その他のもの（パイル織物のものに限るものとし、製品にしたものを除く。）",
         "rate": {},
@@ -297,7 +297,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.39",
                 "hs_code": "010",
                 "desc": "1 綿製のもの",
                 "rate": {
@@ -340,7 +340,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.39",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -387,7 +387,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "57.02",
         "hs_code": "",
         "desc": "その他のもの（パイル織物のもので製品にしたものに限る。）",
         "rate": {},
@@ -479,7 +479,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.42",
                 "hs_code": "100",
                 "desc": "1 自動車用に適する寸法及び形状のもの",
                 "rate": {
@@ -522,7 +522,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.42",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -576,7 +576,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.49",
                 "hs_code": "010",
                 "desc": "1 綿製のもの",
                 "rate": {
@@ -619,7 +619,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.49",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -675,7 +675,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5702.50",
             "hs_code": "100",
             "desc": "1 綿製のもの",
             "rate": {
@@ -718,7 +718,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5702.50",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -758,7 +758,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.50",
                 "hs_code": "910",
                 "desc": "− 羊毛製又は繊獣毛製のもの",
                 "rate": {
@@ -801,7 +801,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.50",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {
@@ -848,7 +848,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "57.02",
         "hs_code": "",
         "desc": "その他のもの（製品にしたものに限るものとし、パイル織物のものを除く。）",
         "rate": {},
@@ -952,7 +952,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.99",
                 "hs_code": "010",
                 "desc": "1 綿製のもの",
                 "rate": {
@@ -995,7 +995,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5702.99",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1096,7 +1096,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "57.03",
         "hs_code": "",
         "desc": "ナイロンその他のポリアミド製のもの",
         "rate": {},
@@ -1188,7 +1188,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5703.29",
                 "hs_code": "100",
                 "desc": "1 自動車用に適する寸法及び形状のもの",
                 "rate": {
@@ -1231,7 +1231,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5703.29",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1271,7 +1271,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5703.29",
                     "hs_code": "210",
                     "desc": "− タイル（表面積が0.3平方メートル以下のものに限る。）",
                     "rate": {
@@ -1314,7 +1314,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5703.29",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1363,7 +1363,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "57.03",
         "hs_code": "",
         "desc": "その他の人造繊維材料製のもの",
         "rate": {},
@@ -1455,7 +1455,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5703.39",
                 "hs_code": "100",
                 "desc": "1 自動車用に適する寸法及び形状のもの",
                 "rate": {
@@ -1498,7 +1498,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5703.39",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1554,7 +1554,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5703.90",
             "hs_code": "010",
             "desc": "1 綿製のもの",
             "rate": {
@@ -1597,7 +1597,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5703.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -1779,7 +1779,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5704.90",
             "hs_code": "100",
             "desc": "1 自動車用に適する寸法及び形状のもの",
             "rate": {
@@ -1822,7 +1822,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5704.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -1888,7 +1888,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5705.00",
         "hs_code": "010",
         "desc": "1 綿製のもの",
         "rate": {
@@ -1931,7 +1931,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5705.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {
@@ -1971,7 +1971,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5705.00",
             "hs_code": "022",
             "desc": "− 人造繊維材料製のもの",
             "rate": {
@@ -2014,7 +2014,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5705.00",
             "hs_code": "029",
             "desc": "− その他のもの",
             "rate": {

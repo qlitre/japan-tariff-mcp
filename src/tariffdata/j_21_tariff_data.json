@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "21.01",
         "hs_code": "",
         "desc": "コーヒーのエキス、エッセンス及び濃縮物並びにこれらをもととした調製品並びにコーヒーをもととした調製品",
         "rate": {},
@@ -28,7 +28,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.11",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {
@@ -68,7 +68,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.11",
                     "hs_code": "110",
                     "desc": "− しよ糖の含有量が全重量の50％以上のもの",
                     "rate": {
@@ -112,7 +112,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.11",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -157,7 +157,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.11",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -166,7 +166,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.11",
                     "hs_code": "210",
                     "desc": "(1)インスタントコーヒー",
                     "rate": {
@@ -209,7 +209,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.11",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -265,7 +265,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.12",
                 "hs_code": "",
                 "desc": "1 エキス、エッセンス又は濃縮物をもととした調製品",
                 "rate": {},
@@ -274,7 +274,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.12",
                     "hs_code": "",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {
@@ -314,7 +314,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "111",
                         "desc": "− しよ糖の含有量が全重量の50％以上のもの",
                         "rate": {
@@ -358,7 +358,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "112",
                         "desc": "− その他のもの",
                         "rate": {
@@ -403,7 +403,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.12",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -412,7 +412,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "121",
                         "desc": "A インスタントコーヒー",
                         "rate": {
@@ -455,7 +455,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "122",
                         "desc": "B その他のもの",
                         "rate": {
@@ -502,7 +502,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.12",
                 "hs_code": "",
                 "desc": "2 コーヒーをもととした調製品",
                 "rate": {},
@@ -511,7 +511,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.12",
                     "hs_code": "",
                     "desc": "(1)ミルクの天然の組成分の含有量の合計が乾燥状態において全重量の30％以上のもの",
                     "rate": {},
@@ -520,7 +520,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "",
                         "desc": "A 乳脂肪分が全重量の30％以下のもの",
                         "rate": {
@@ -560,7 +560,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.12",
                             "hs_code": "231",
                             "desc": "− その他の乳製品に係る共通の限度数量以内のもの",
                             "rate": {
@@ -603,7 +603,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.12",
                             "hs_code": "232",
                             "desc": "− その他のもの",
                             "rate": {
@@ -648,7 +648,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {
@@ -688,7 +688,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.12",
                             "hs_code": "236",
                             "desc": "− その他の乳製品に係る共通の限度数量以内のもの",
                             "rate": {
@@ -731,7 +731,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.12",
                             "hs_code": "237",
                             "desc": "− その他のもの",
                             "rate": {
@@ -778,7 +778,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.12",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -787,7 +787,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "",
                         "desc": "A 砂糖を加えたもの",
                         "rate": {},
@@ -796,7 +796,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.12",
                             "hs_code": "",
                             "desc": "(a)しよ糖の含有量が全重量の50％未満のもの",
                             "rate": {
@@ -836,7 +836,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2101.12",
                                 "hs_code": "241",
                                 "desc": "− 各成分のうち砂糖の重量が最大のもの",
                                 "rate": {
@@ -879,7 +879,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2101.12",
                                 "hs_code": "242",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -924,7 +924,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.12",
                             "hs_code": "246",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -970,7 +970,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.12",
                         "hs_code": "249",
                         "desc": "B その他のもの",
                         "rate": {
@@ -1030,7 +1030,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2101.20",
             "hs_code": "",
             "desc": "1 茶又はマテのエキス、エッセンス及び濃縮物並びにこれらをもととした調製品",
             "rate": {},
@@ -1039,7 +1039,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.20",
                 "hs_code": "110",
                 "desc": "(1)インスタントティー",
                 "rate": {
@@ -1082,7 +1082,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.20",
                 "hs_code": "120",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1127,7 +1127,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2101.20",
             "hs_code": "",
             "desc": "2 茶又はマテをもととした調製品",
             "rate": {},
@@ -1136,7 +1136,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.20",
                 "hs_code": "",
                 "desc": "(1)ミルクの天然の組成分の含有量の合計が乾燥状態において全重量の30％以上のもの",
                 "rate": {},
@@ -1145,7 +1145,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.20",
                     "hs_code": "",
                     "desc": "A 乳脂肪分が全重量の30％以下のもの",
                     "rate": {
@@ -1185,7 +1185,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.20",
                         "hs_code": "231",
                         "desc": "− その他の乳製品に係る共通の限度数量以内のもの",
                         "rate": {
@@ -1228,7 +1228,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.20",
                         "hs_code": "232",
                         "desc": "− その他のもの",
                         "rate": {
@@ -1273,7 +1273,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.20",
                     "hs_code": "",
                     "desc": "B その他のもの",
                     "rate": {
@@ -1313,7 +1313,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.20",
                         "hs_code": "236",
                         "desc": "− その他の乳製品に係る共通の限度数量以内のもの",
                         "rate": {
@@ -1356,7 +1356,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.20",
                         "hs_code": "237",
                         "desc": "− その他のもの",
                         "rate": {
@@ -1403,7 +1403,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2101.20",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -1412,7 +1412,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.20",
                     "hs_code": "",
                     "desc": "A 砂糖を加えたもの",
                     "rate": {},
@@ -1421,7 +1421,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.20",
                         "hs_code": "",
                         "desc": "(a)しよ糖の含有量が全重量の50％未満のもの",
                         "rate": {
@@ -1461,7 +1461,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.20",
                             "hs_code": "241",
                             "desc": "− 各成分のうち砂糖の重量が最大のもの",
                             "rate": {
@@ -1504,7 +1504,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2101.20",
                             "hs_code": "242",
                             "desc": "− その他のもの",
                             "rate": {
@@ -1549,7 +1549,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2101.20",
                         "hs_code": "246",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -1595,7 +1595,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2101.20",
                     "hs_code": "247",
                     "desc": "B その他のもの",
                     "rate": {
@@ -1750,7 +1750,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2102.20",
             "hs_code": "100",
             "desc": "1 酵母",
             "rate": {
@@ -1793,7 +1793,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2102.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -1944,7 +1944,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2103.20",
             "hs_code": "010",
             "desc": "1 トマトケチャップ",
             "rate": {
@@ -1987,7 +1987,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2103.20",
             "hs_code": "090",
             "desc": "2 その他のトマトソース",
             "rate": {
@@ -2041,7 +2041,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2103.30",
             "hs_code": "100",
             "desc": "1 小売用の容器入りにしたもの",
             "rate": {
@@ -2084,7 +2084,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2103.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -2138,7 +2138,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2103.90",
             "hs_code": "",
             "desc": "1 ソース",
             "rate": {},
@@ -2147,7 +2147,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2103.90",
                 "hs_code": "110",
                 "desc": "(1)マヨネーズ",
                 "rate": {
@@ -2190,7 +2190,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2103.90",
                 "hs_code": "120",
                 "desc": "(2)フレンチドレッシング及びサラダドレッシング",
                 "rate": {
@@ -2233,7 +2233,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2103.90",
                 "hs_code": "130",
                 "desc": "(3)その他のもの",
                 "rate": {
@@ -2278,7 +2278,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2103.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2287,7 +2287,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2103.90",
                 "hs_code": "210",
                 "desc": "(1)インスタントカレーその他のカレー調製品",
                 "rate": {
@@ -2330,7 +2330,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2103.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -2339,7 +2339,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2103.90",
                     "hs_code": "221",
                     "desc": "A グルタミン酸ソーダを主成分とするもの",
                     "rate": {
@@ -2382,7 +2382,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2103.90",
                     "hs_code": "229",
                     "desc": "B その他のもの",
                     "rate": {
@@ -2453,7 +2453,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2104.10",
             "hs_code": "010",
             "desc": "1 野菜のもの（気密容器入りのものに限る。）",
             "rate": {
@@ -2496,7 +2496,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2104.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -2605,7 +2605,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2105.00",
         "hs_code": "",
         "desc": "1 砂糖を加えたもの",
         "rate": {},
@@ -2614,7 +2614,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2105.00",
             "hs_code": "",
             "desc": "(1)しよ糖の含有量が全重量の50％未満のもの",
             "rate": {
@@ -2654,7 +2654,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2105.00",
                 "hs_code": "",
                 "desc": "− 各成分のうち砂糖の重量が最大のもの",
                 "rate": {},
@@ -2663,7 +2663,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2105.00",
                     "hs_code": "111",
                     "desc": "−− アイスクリーム",
                     "rate": {
@@ -2706,7 +2706,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2105.00",
                     "hs_code": "112",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -2751,7 +2751,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2105.00",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -2760,7 +2760,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2105.00",
                     "hs_code": "113",
                     "desc": "−− アイスクリーム",
                     "rate": {
@@ -2803,7 +2803,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2105.00",
                     "hs_code": "119",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -2850,7 +2850,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2105.00",
             "hs_code": "",
             "desc": "(2)その他のもの",
             "rate": {
@@ -2890,7 +2890,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2105.00",
                 "hs_code": "191",
                 "desc": "− アイスクリーム",
                 "rate": {
@@ -2933,7 +2933,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2105.00",
                 "hs_code": "199",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2980,7 +2980,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2105.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {
@@ -3020,7 +3020,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2105.00",
             "hs_code": "210",
             "desc": "− アイスクリーム",
             "rate": {
@@ -3063,7 +3063,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2105.00",
             "hs_code": "290",
             "desc": "− その他のもの",
             "rate": {
@@ -3128,7 +3128,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2106.10",
             "hs_code": "",
             "desc": "1 ミルクの天然の組成分の含有量の合計が乾燥状態において全重量の30％以上の調製品（たんぱく質の含有量が全重量の80％以上でその成分中植物性たんぱくの重量が最大のたんぱく質濃縮物のうち、小売用の容器入りにしたもので1個の正味重量が500グラム未満のものを除く。）",
             "rate": {
@@ -3168,7 +3168,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.10",
                 "hs_code": "",
                 "desc": "− その他の乳製品に係る共通の限度数量以内のもの",
                 "rate": {},
@@ -3177,7 +3177,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.10",
                     "hs_code": "120",
                     "desc": "−− 植物性たんぱくの調製品",
                     "rate": {
@@ -3221,7 +3221,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.10",
                     "hs_code": "130",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -3267,7 +3267,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.10",
                 "hs_code": "140",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3313,7 +3313,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2106.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -3322,7 +3322,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.10",
                 "hs_code": "",
                 "desc": "(1)砂糖を加えたもの",
                 "rate": {},
@@ -3331,7 +3331,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.10",
                     "hs_code": "211",
                     "desc": "A しよ糖の含有量が全重量の50％未満のもの",
                     "rate": {
@@ -3375,7 +3375,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.10",
                     "hs_code": "219",
                     "desc": "B その他のもの",
                     "rate": {
@@ -3422,7 +3422,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.10",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -3431,7 +3431,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.10",
                     "hs_code": "",
                     "desc": "A 植物性たんぱく",
                     "rate": {
@@ -3471,7 +3471,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.10",
                         "hs_code": "221",
                         "desc": "− たんぱく質の含有量が全重量の80％以上でその成分中植物性たんぱくの重量が最大のたんぱく質濃縮物のうち、小売用の容器入りにしたもので1個の正味重量が500グラム未満のもの",
                         "rate": {
@@ -3515,7 +3515,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.10",
                         "hs_code": "222",
                         "desc": "− その他のもの",
                         "rate": {
@@ -3561,7 +3561,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.10",
                     "hs_code": "229",
                     "desc": "B その他のもの",
                     "rate": {
@@ -3620,7 +3620,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2106.90",
             "hs_code": "",
             "desc": "1 ミルクの天然の組成分の含有量の合計が乾燥状態において全重量の30％以上の調製品",
             "rate": {},
@@ -3629,7 +3629,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.90",
                 "hs_code": "",
                 "desc": "(1)乳脂肪分が全重量の30％以下のもの",
                 "rate": {
@@ -3669,7 +3669,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "− その他の乳製品に係る共通の限度数量以内のもの",
                     "rate": {},
@@ -3678,7 +3678,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "111",
                         "desc": "−− アルコールを含有しない飲料のもと、ビタミンをもととした栄養補助食品及び植物性たんぱくを加水分解したもの",
                         "rate": {
@@ -3726,7 +3726,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "112",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -3776,7 +3776,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "119",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3826,7 +3826,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -3866,7 +3866,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "− 調製食用脂（第04.05項の物品の含有量が全重量の30％を超え70％以下のものに限る。）",
                     "rate": {},
@@ -3875,7 +3875,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "",
                         "desc": "−− 18,977トンを基準とし、前年度における輸入数量、国際市況その他の条件を勘案して政令で定める数量以内のもの",
                         "rate": {
@@ -3915,7 +3915,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "121",
                             "desc": "−−− ニュージーランドを原産地とするもの",
                             "rate": {
@@ -3963,7 +3963,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "122",
                             "desc": "−−− その他のもの",
                             "rate": {
@@ -4013,7 +4013,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "123",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -4063,7 +4063,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "− その他の乳製品に係る共通の限度数量以内のもの",
                     "rate": {},
@@ -4072,7 +4072,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "124",
                         "desc": "−− アルコールを含有しない飲料のもと、ビタミンをもととした栄養補助食品及び植物性たんぱくを加水分解したもの",
                         "rate": {
@@ -4120,7 +4120,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "125",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -4170,7 +4170,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "129",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4222,7 +4222,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2106.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -4231,7 +4231,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.90",
                 "hs_code": "",
                 "desc": "(1)米、小麦（ライ小麦を含む。）又は大麦（裸麦を含む。）のいずれかの含有量が全重量の30％を超える調製食料品",
                 "rate": {},
@@ -4240,7 +4240,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "A 米の含有量が全重量の30％を超えるもの",
                     "rate": {
@@ -4280,7 +4280,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "517",
                         "desc": "− 政府が主要食糧の需給及び価格の安定に関する法律第30条の規定により輸入するもの、同法第31条の規定による連名による申込みに応じて行う政府の買入れ及び売渡しに係る米穀等として輸入されるもの並びに同法第34条第1項第3号に規定する政令で定める米穀等のうち政令で定めるところにより農林水産大臣の証明を受けて輸入されるもの",
                         "rate": {
@@ -4328,7 +4328,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "518",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4378,7 +4378,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "B その他のもの",
                     "rate": {},
@@ -4387,7 +4387,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "",
                         "desc": "(a)小麦（ライ小麦を含む。）の含有量が全重量の30％を超えるもの",
                         "rate": {
@@ -4427,7 +4427,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "214",
                             "desc": "− 政府が主要食糧の需給及び価格の安定に関する法律第42条の規定により輸入するもの、同法第43条の規定による連名による申込みに応じて行う政府の買入れ及び売渡しに係る麦等として輸入されるもの並びに同法第45条第1項第3号に規定する政令で定める麦等のうち政令で定めるところにより農林水産大臣の証明を受けて輸入されるもの",
                             "rate": {
@@ -4475,7 +4475,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "215",
                             "desc": "− その他のもの",
                             "rate": {
@@ -4525,7 +4525,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "",
                         "desc": "(b)大麦（裸麦を含む。）の含有量が全重量の30％を超えるもの",
                         "rate": {
@@ -4565,7 +4565,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "216",
                             "desc": "− 政府が主要食糧の需給及び価格の安定に関する法律第42条の規定により輸入するもの、同法第43条の規定による連名による申込みに応じて行う政府の買入れ及び売渡しに係る麦等として輸入されるもの並びに同法第45条第1項第3号に規定する政令で定める麦等のうち政令で定めるところにより農林水産大臣の証明を受けて輸入されるもの",
                             "rate": {
@@ -4613,7 +4613,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "219",
                             "desc": "− その他のもの",
                             "rate": {
@@ -4667,7 +4667,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2106.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -4676,7 +4676,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "A 糖水（着色料又は香味料を加えたものに限る。）",
                     "rate": {
@@ -4716,7 +4716,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "221",
                         "desc": "− 分蜜糖のもの",
                         "rate": {
@@ -4764,7 +4764,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "229",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4814,7 +4814,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "230",
                     "desc": "B チューインガム",
                     "rate": {
@@ -4862,7 +4862,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "240",
                     "desc": "C こんにやく",
                     "rate": {
@@ -4910,7 +4910,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "D 飲料製造に使用する種類の調製品でアルコールを含有するもの（アルコール分が0.5％を超えるものに限る。）",
                     "rate": {},
@@ -4919,7 +4919,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "246",
                         "desc": "(a)果汁をもととした調製品（アルコール分が1％未満のものに限る。）",
                         "rate": {
@@ -4967,7 +4967,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "247",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -5017,7 +5017,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2106.90",
                     "hs_code": "",
                     "desc": "E その他のもの",
                     "rate": {},
@@ -5026,7 +5026,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "",
                         "desc": "(a)砂糖を加えたもの",
                         "rate": {},
@@ -5035,7 +5035,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "",
                             "desc": "イ おたねにんじん又はそのエキスを含有する飲料のもと",
                             "rate": {
@@ -5075,7 +5075,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "252",
                                 "desc": "− しよ糖の含有量が全重量の50％以上のもの",
                                 "rate": {
@@ -5123,7 +5123,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "",
                                 "desc": "− その他のもの",
                                 "rate": {},
@@ -5132,7 +5132,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "253",
                                     "desc": "−− 各成分のうち砂糖の重量が最大のもの",
                                     "rate": {
@@ -5180,7 +5180,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "259",
                                     "desc": "−− その他のもの",
                                     "rate": {
@@ -5232,7 +5232,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "",
                             "desc": "ロ ビタミンをもととした栄養補助食品",
                             "rate": {
@@ -5272,7 +5272,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "",
                                 "desc": "− 各成分のうち砂糖の重量が最大のもの",
                                 "rate": {},
@@ -5281,7 +5281,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "261",
                                     "desc": "−− 乳糖、乳たんぱく又は乳脂肪を含有するもの",
                                     "rate": {
@@ -5329,7 +5329,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "262",
                                     "desc": "−− その他のもの",
                                     "rate": {
@@ -5379,7 +5379,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "269",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -5429,7 +5429,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "",
                             "desc": "ハ その他のもの",
                             "rate": {},
@@ -5438,7 +5438,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "",
                                 "desc": "(ｲ)しよ糖の含有量が全重量の50％未満のもの",
                                 "rate": {
@@ -5478,7 +5478,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "",
                                     "desc": "− 各成分のうち砂糖の重量が最大のもの",
                                     "rate": {},
@@ -5487,7 +5487,7 @@
                                     "children": [
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "271",
                                         "desc": "−− 乳糖、乳たんぱく又は乳脂肪を含有するもの",
                                         "rate": {
@@ -5535,7 +5535,7 @@
                                       },
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "272",
                                         "desc": "−− その他のもの",
                                         "rate": {
@@ -5585,7 +5585,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "279",
                                     "desc": "− その他のもの",
                                     "rate": {
@@ -5635,7 +5635,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "",
                                 "desc": "(ﾛ)その他のもの",
                                 "rate": {},
@@ -5644,7 +5644,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "281",
                                     "desc": "I  小売用の容器入りにしたもので、容器ともの1個の重量が500グラム以下のもの",
                                     "rate": {
@@ -5692,7 +5692,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "282",
                                     "desc": "II しよ糖の含有量が全重量の85％以上のもの（小売用の容器入りにしたもの（容器ともの1個の重量が500グラム以下のものに限る。）、成分に変更を加えることなく小売用の容器入りのもの（容器ともの1個の重量が500グラム以下のものに限る。）にする旨が政令で定める手続により証明されたもの及び課税価格が1キログラムにつき257円を超えるものを除く。）",
                                     "rate": {
@@ -5740,7 +5740,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "",
                                     "desc": "III その他のもの",
                                     "rate": {
@@ -5780,7 +5780,7 @@
                                     "children": [
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "284",
                                         "desc": "(I)乳糖、乳たんぱく又は乳脂肪を含有するもの",
                                         "rate": {
@@ -5821,7 +5821,7 @@
                                       },
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "",
                                         "desc": "(II)その他のもの",
                                         "rate": {
@@ -5861,7 +5861,7 @@
                                         "children": [
                                           {
                                             "level": 10,
-                                            "stat_code": "",
+                                            "stat_code": "2106.90",
                                             "hs_code": "510",
                                             "desc": "− 砂糖を除く各成分のうち、ソルビトールの重量が最大のもの",
                                             "rate": {
@@ -5909,7 +5909,7 @@
                                           },
                                           {
                                             "level": 10,
-                                            "stat_code": "",
+                                            "stat_code": "2106.90",
                                             "hs_code": "590",
                                             "desc": "− その他のもの",
                                             "rate": {
@@ -5967,7 +5967,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2106.90",
                         "hs_code": "",
                         "desc": "(b)その他のもの",
                         "rate": {},
@@ -5976,7 +5976,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "291",
                             "desc": "イ 調製食用脂（第04.05項の物品の含有量が全重量の15％を超え30％未満のものに限る。）",
                             "rate": {
@@ -6024,7 +6024,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "",
                             "desc": "ロ アルコールを含有しない飲料のもと",
                             "rate": {},
@@ -6033,7 +6033,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "292",
                                 "desc": "(ｲ)おたねにんじん又はそのエキスを含有するもの",
                                 "rate": {
@@ -6081,7 +6081,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "293",
                                 "desc": "(ﾛ)その他のもの",
                                 "rate": {
@@ -6131,7 +6131,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2106.90",
                             "hs_code": "",
                             "desc": "ハ その他のもの",
                             "rate": {},
@@ -6140,7 +6140,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "294",
                                 "desc": "(ｲ)第04.10項の物品のもの",
                                 "rate": {
@@ -6188,7 +6188,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2106.90",
                                 "hs_code": "",
                                 "desc": "(ﾛ)その他のもの",
                                 "rate": {},
@@ -6197,7 +6197,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "",
                                     "desc": "I  ビタミンをもととした栄養補助食品及び植物性たんぱくを加水分解したもの",
                                     "rate": {
@@ -6237,7 +6237,7 @@
                                     "children": [
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "295",
                                         "desc": "− ビタミンをもととした栄養補助食品",
                                         "rate": {
@@ -6285,7 +6285,7 @@
                                       },
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "296",
                                         "desc": "− 植物性たんぱくを加水分解したもの",
                                         "rate": {
@@ -6335,7 +6335,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2106.90",
                                     "hs_code": "",
                                     "desc": "II その他のもの",
                                     "rate": {},
@@ -6344,7 +6344,7 @@
                                     "children": [
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "301",
                                         "desc": "(I)たんぱく質変性防止剤（冷凍すり身の製造に使用する種類のものでソルビトールその他の政令で定める物品に政令で定める調製を加えたものに限る。）",
                                         "rate": {
@@ -6392,7 +6392,7 @@
                                       },
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2106.90",
                                         "hs_code": "299",
                                         "desc": "(II)その他のもの",
                                         "rate": {

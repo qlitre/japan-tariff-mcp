@@ -19,7 +19,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2001.10",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -62,7 +62,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2001.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -116,7 +116,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2001.90",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -125,7 +125,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "110",
                 "desc": "(1)パパイヤ、ポポー、アボカドー、グアバ、ドリアン、ビリンビ、チャンペダ、ナンカ、パンの実、ランブータン、ジャンボ、レンブ、サポテ、チェリモア、サントル、シュガーアップル、カスターアップル、パッションフルーツ、ランソム、サワーサップ、レイシ、マンゴー及びマンゴスチン",
                 "rate": {
@@ -168,7 +168,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "120",
                 "desc": "(2)スイートコーン",
                 "rate": {
@@ -211,7 +211,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "130",
                 "desc": "(3)ヤングコーンコブ",
                 "rate": {
@@ -254,7 +254,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "140",
                 "desc": "(4)その他のもの",
                 "rate": {
@@ -301,7 +301,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2001.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -310,7 +310,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "210",
                 "desc": "(1)パパイヤ、ポポー、アボカドー、グアバ、ドリアン、ビリンビ、チャンペダ、ナンカ、パンの実、ランブータン、ジャンボ、レンブ、サポテ、チェリモア、サントル、シュガーアップル、カスターアップル、パッションフルーツ、ランソム、サワーサップ及びレイシ",
                 "rate": {
@@ -353,7 +353,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "220",
                 "desc": "(2)マンゴー及びマンゴスチン",
                 "rate": {
@@ -396,7 +396,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "230",
                 "desc": "(3)スイートコーン",
                 "rate": {
@@ -439,7 +439,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "240",
                 "desc": "(4)ヤングコーンコブ",
                 "rate": {
@@ -482,7 +482,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2001.90",
                 "hs_code": "",
                 "desc": "(5)その他のもの",
                 "rate": {
@@ -522,7 +522,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2001.90",
                     "hs_code": "250",
                     "desc": "− しようが",
                     "rate": {
@@ -565,7 +565,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2001.90",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -679,7 +679,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2002.90",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -722,7 +722,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2002.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -731,7 +731,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2002.90",
                 "hs_code": "",
                 "desc": "(1)トマトピューレー及びトマトペースト",
                 "rate": {
@@ -771,7 +771,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2002.90",
                     "hs_code": "",
                     "desc": "− 気密容器入りのもの\n注:保税工場において輸出用の魚又は貝類の缶詰の製造に使用し、かつ、積み戻したものは、関税法により輸入貨物とせず、関税を課さない。",
                     "rate": {
@@ -811,7 +811,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2002.90",
                         "hs_code": "211",
                         "desc": "−− トマトケチャップその他のトマトソースの製造に使用するものについて、当該年度における国内需要見込数量から国内生産見込数量を控除した数量を基準とし、国際市況その他の条件を勘案して政令で定める数量以内のもの",
                         "rate": {
@@ -854,7 +854,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2002.90",
                         "hs_code": "219",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -899,7 +899,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2002.90",
                     "hs_code": "",
                     "desc": "− その他のもの",
                     "rate": {
@@ -939,7 +939,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2002.90",
                         "hs_code": "221",
                         "desc": "−− トマトケチャップその他のトマトソースの製造に使用するものについて、当該年度における国内需要見込数量から国内生産見込数量を控除した数量を基準とし、国際市況その他の条件を勘案して政令で定める数量以内のもの",
                         "rate": {
@@ -982,7 +982,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2002.90",
                         "hs_code": "229",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -1029,7 +1029,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2002.90",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1096,7 +1096,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2003.10",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -1139,7 +1139,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2003.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -1148,7 +1148,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2003.10",
                 "hs_code": "",
                 "desc": "(1)気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
                 "rate": {
@@ -1188,7 +1188,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2003.10",
                     "hs_code": "211",
                     "desc": "− フレンチマッシュルーム",
                     "rate": {
@@ -1231,7 +1231,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2003.10",
                     "hs_code": "219",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1276,7 +1276,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2003.10",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1332,7 +1332,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2003.90",
             "hs_code": "",
             "desc": "1 トリフ",
             "rate": {},
@@ -1341,7 +1341,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2003.90",
                 "hs_code": "010",
                 "desc": "(1)気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
                 "rate": {
@@ -1384,7 +1384,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2003.90",
                 "hs_code": "020",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1429,7 +1429,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2003.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -1438,7 +1438,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2003.90",
                 "hs_code": "100",
                 "desc": "(1)砂糖を加えたもの",
                 "rate": {
@@ -1481,7 +1481,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2003.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -1490,7 +1490,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2003.90",
                     "hs_code": "210",
                     "desc": "A 気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
                     "rate": {
@@ -1533,7 +1533,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2003.90",
                     "hs_code": "220",
                     "desc": "B その他のもの",
                     "rate": {
@@ -1602,7 +1602,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2004.10",
             "hs_code": "100",
             "desc": "1 単に加熱による調理をしたもの",
             "rate": {
@@ -1645,7 +1645,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2004.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -1654,7 +1654,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.10",
                 "hs_code": "210",
                 "desc": "(1)マッシュポテト",
                 "rate": {
@@ -1697,7 +1697,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.10",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1753,7 +1753,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2004.90",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -1762,7 +1762,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.90",
                 "hs_code": "110",
                 "desc": "(1)スイートコーン",
                 "rate": {
@@ -1805,7 +1805,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.90",
                 "hs_code": "120",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1850,7 +1850,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2004.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -1859,7 +1859,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.90",
                 "hs_code": "",
                 "desc": "(1)アスパラガス及び豆",
                 "rate": {
@@ -1899,7 +1899,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2004.90",
                     "hs_code": "211",
                     "desc": "− アスパラガス",
                     "rate": {
@@ -1942,7 +1942,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2004.90",
                     "hs_code": "212",
                     "desc": "− 豆",
                     "rate": {
@@ -1987,7 +1987,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.90",
                 "hs_code": "220",
                 "desc": "(2)たけのこ",
                 "rate": {
@@ -2030,7 +2030,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.90",
                 "hs_code": "230",
                 "desc": "(3)スイートコーン",
                 "rate": {
@@ -2073,7 +2073,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.90",
                 "hs_code": "",
                 "desc": "(4)ヤングコーンコブ",
                 "rate": {
@@ -2113,7 +2113,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2004.90",
                     "hs_code": "240",
                     "desc": "− 気密容器入りのもの",
                     "rate": {
@@ -2156,7 +2156,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2004.90",
                     "hs_code": "291",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2201,7 +2201,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2004.90",
                 "hs_code": "299",
                 "desc": "(5)その他のもの",
                 "rate": {
@@ -2268,7 +2268,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.10",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -2311,7 +2311,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -2365,7 +2365,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.20",
             "hs_code": "100",
             "desc": "1 マッシュポテト及びポテトフレーク",
             "rate": {
@@ -2408,7 +2408,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2417,7 +2417,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.20",
                 "hs_code": "210",
                 "desc": "(1)気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
                 "rate": {
@@ -2460,7 +2460,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.20",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2516,7 +2516,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.40",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -2525,7 +2525,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.40",
                 "hs_code": "110",
                 "desc": "(1)さや付きのもの",
                 "rate": {
@@ -2568,7 +2568,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.40",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2608,7 +2608,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.40",
                     "hs_code": "191",
                     "desc": "− しよ糖の含有量が乾燥状態において全重量の50％以上のもの",
                     "rate": {
@@ -2652,7 +2652,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.40",
                     "hs_code": "199",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2699,7 +2699,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.40",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2708,7 +2708,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.40",
                 "hs_code": "",
                 "desc": "(1)気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
                 "rate": {},
@@ -2717,7 +2717,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.40",
                     "hs_code": "211",
                     "desc": "A さや付きのもの",
                     "rate": {
@@ -2760,7 +2760,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.40",
                     "hs_code": "212",
                     "desc": "B その他のもの",
                     "rate": {
@@ -2805,7 +2805,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.40",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -2814,7 +2814,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.40",
                     "hs_code": "221",
                     "desc": "A さや付きのもの",
                     "rate": {
@@ -2857,7 +2857,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.40",
                     "hs_code": "222",
                     "desc": "B その他のもの",
                     "rate": {
@@ -2906,7 +2906,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.05",
         "hs_code": "",
         "desc": "ささげ属又はいんげんまめ属の豆",
         "rate": {},
@@ -2924,7 +2924,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.51",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -2933,7 +2933,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.51",
                     "hs_code": "110",
                     "desc": "(1)気密容器入りのもの（豚の肉又はラードその他の豚脂及びトマトピューレーその他のトマトの調製品を含むものに限る。）",
                     "rate": {
@@ -2976,7 +2976,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.51",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3016,7 +3016,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.51",
                         "hs_code": "191",
                         "desc": "− しよ糖の含有量が乾燥状態において全重量の50％以上のもの",
                         "rate": {
@@ -3060,7 +3060,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.51",
                         "hs_code": "199",
                         "desc": "− その他のもの",
                         "rate": {
@@ -3107,7 +3107,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.51",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3161,7 +3161,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.59",
                 "hs_code": "100",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {
@@ -3204,7 +3204,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.59",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3213,7 +3213,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.59",
                     "hs_code": "210",
                     "desc": "(1)気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
                     "rate": {
@@ -3256,7 +3256,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.59",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3314,7 +3314,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.60",
             "hs_code": "010",
             "desc": "1 気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
             "rate": {
@@ -3357,7 +3357,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.60",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -3411,7 +3411,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.70",
             "hs_code": "010",
             "desc": "1 気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
             "rate": {
@@ -3454,7 +3454,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.70",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -3508,7 +3508,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.80",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -3551,7 +3551,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2005.80",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -3596,7 +3596,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.05",
         "hs_code": "",
         "desc": "その他の野菜及び野菜を混合したもの",
         "rate": {},
@@ -3614,7 +3614,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.91",
                 "hs_code": "100",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {
@@ -3657,7 +3657,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.91",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3711,7 +3711,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.99",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -3720,7 +3720,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.99",
                     "hs_code": "",
                     "desc": "(1)豆（さや付きのものを除く。）",
                     "rate": {},
@@ -3729,7 +3729,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.99",
                         "hs_code": "111",
                         "desc": "A 気密容器入りのもの（豚の肉又はラードその他の豚脂及びトマトピューレーその他のトマトの調製品を含むものに限る。）",
                         "rate": {
@@ -3772,7 +3772,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.99",
                         "hs_code": "119",
                         "desc": "B その他のもの",
                         "rate": {
@@ -3817,7 +3817,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.99",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3862,7 +3862,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2005.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3871,7 +3871,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.99",
                     "hs_code": "",
                     "desc": "(1)ヤングコーンコブ",
                     "rate": {
@@ -3911,7 +3911,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.99",
                         "hs_code": "211",
                         "desc": "− 気密容器入りのもの",
                         "rate": {
@@ -3954,7 +3954,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.99",
                         "hs_code": "219",
                         "desc": "− その他のもの",
                         "rate": {
@@ -3999,7 +3999,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.99",
                     "hs_code": "220",
                     "desc": "(2)豆（さや付きのものを除く。）",
                     "rate": {
@@ -4042,7 +4042,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.99",
                     "hs_code": "230",
                     "desc": "(3)サワークラウト",
                     "rate": {
@@ -4085,7 +4085,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2005.99",
                     "hs_code": "",
                     "desc": "(4)その他のもの",
                     "rate": {},
@@ -4094,7 +4094,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.99",
                         "hs_code": "",
                         "desc": "A 気密容器入りのもの（容器ともの1個の重量が10キログラム以下のものに限る。）",
                         "rate": {},
@@ -4103,7 +4103,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2005.99",
                             "hs_code": "911",
                             "desc": "(a)にんにくの粉",
                             "rate": {
@@ -4146,7 +4146,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2005.99",
                             "hs_code": "919",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -4191,7 +4191,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2005.99",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {},
@@ -4200,7 +4200,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2005.99",
                             "hs_code": "991",
                             "desc": "(a)にんにくの粉",
                             "rate": {
@@ -4243,7 +4243,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2005.99",
                             "hs_code": "999",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -4317,7 +4317,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2006.00",
         "hs_code": "010",
         "desc": "1 マロングラッセ",
         "rate": {
@@ -4360,7 +4360,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2006.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {
@@ -4400,7 +4400,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2006.00",
             "hs_code": "021",
             "desc": "− あんず",
             "rate": {
@@ -4443,7 +4443,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2006.00",
             "hs_code": "029",
             "desc": "− その他のもの",
             "rate": {
@@ -4508,7 +4508,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2007.10",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -4551,7 +4551,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2007.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -4596,7 +4596,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.07",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -4614,7 +4614,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2007.91",
                 "hs_code": "",
                 "desc": "1 ジャム、フルーツゼリー及びマーマレード",
                 "rate": {},
@@ -4623,7 +4623,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.91",
                     "hs_code": "",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {
@@ -4663,7 +4663,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.91",
                         "hs_code": "111",
                         "desc": "− ジャム",
                         "rate": {
@@ -4706,7 +4706,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.91",
                         "hs_code": "119",
                         "desc": "− フルーツゼリー及びマーマレード",
                         "rate": {
@@ -4751,7 +4751,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.91",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -4791,7 +4791,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.91",
                         "hs_code": "121",
                         "desc": "− ジャム",
                         "rate": {
@@ -4834,7 +4834,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.91",
                         "hs_code": "129",
                         "desc": "− フルーツゼリー及びマーマレード",
                         "rate": {
@@ -4881,7 +4881,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2007.91",
                 "hs_code": "",
                 "desc": "2 フルーツピューレー及びフルーツペースト",
                 "rate": {},
@@ -4890,7 +4890,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.91",
                     "hs_code": "210",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {
@@ -4933,7 +4933,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.91",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -4989,7 +4989,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2007.99",
                 "hs_code": "",
                 "desc": "1 ジャム及びフルーツゼリー",
                 "rate": {},
@@ -4998,7 +4998,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.99",
                     "hs_code": "",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {
@@ -5038,7 +5038,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "111",
                         "desc": "− ジャム",
                         "rate": {
@@ -5081,7 +5081,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "119",
                         "desc": "− フルーツゼリー",
                         "rate": {
@@ -5126,7 +5126,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.99",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5166,7 +5166,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "121",
                         "desc": "− ジャム",
                         "rate": {
@@ -5209,7 +5209,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "129",
                         "desc": "− フルーツゼリー",
                         "rate": {
@@ -5256,7 +5256,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2007.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5265,7 +5265,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.99",
                     "hs_code": "",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {
@@ -5305,7 +5305,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "211",
                         "desc": "− フルーツピューレー及びフルーツペースト",
                         "rate": {
@@ -5348,7 +5348,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "219",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5393,7 +5393,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2007.99",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5433,7 +5433,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "221",
                         "desc": "− フルーツピューレー及びフルーツペースト",
                         "rate": {
@@ -5476,7 +5476,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2007.99",
                         "hs_code": "229",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5538,7 +5538,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.08",
         "hs_code": "",
         "desc": "ナット、落花生その他の種（これらを相互に混合してあるかないかを問わない。）",
         "rate": {},
@@ -5556,7 +5556,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.11",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -5565,7 +5565,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.11",
                     "hs_code": "110",
                     "desc": "(1)ピーナツバター",
                     "rate": {
@@ -5608,7 +5608,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.11",
                     "hs_code": "120",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5653,7 +5653,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.11",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5662,7 +5662,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.11",
                     "hs_code": "210",
                     "desc": "(1)ピーナツバター",
                     "rate": {
@@ -5705,7 +5705,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.11",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5745,7 +5745,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.11",
                         "hs_code": "",
                         "desc": "− 煎つた落花生",
                         "rate": {},
@@ -5754,7 +5754,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.11",
                             "hs_code": "291",
                             "desc": "−− さや付きのもの",
                             "rate": {
@@ -5797,7 +5797,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.11",
                             "hs_code": "292",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -5842,7 +5842,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.11",
                         "hs_code": "299",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5900,7 +5900,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.19",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -5909,7 +5909,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.19",
                     "hs_code": "110",
                     "desc": "(1)パルプ状のもの",
                     "rate": {
@@ -5952,7 +5952,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.19",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -5961,7 +5961,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "",
                         "desc": "A カシューナット及びその他の煎つたナット",
                         "rate": {
@@ -6001,7 +6001,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "191",
                             "desc": "− カシューナット",
                             "rate": {
@@ -6044,7 +6044,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "192",
                             "desc": "− その他のもの",
                             "rate": {
@@ -6089,7 +6089,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {
@@ -6129,7 +6129,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "193",
                             "desc": "− くり（気密容器入りのもので、容器ともの1個の重量が10キログラム以下のものに限るものとし、煎つたものを除く。）",
                             "rate": {
@@ -6172,7 +6172,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "199",
                             "desc": "− その他のもの",
                             "rate": {
@@ -6221,7 +6221,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6230,7 +6230,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.19",
                     "hs_code": "",
                     "desc": "(1)パルプ状のもの",
                     "rate": {
@@ -6270,7 +6270,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "211",
                         "desc": "A カシューナット（煎つたものを除く。）",
                         "rate": {
@@ -6313,7 +6313,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "219",
                         "desc": "B その他のもの",
                         "rate": {
@@ -6358,7 +6358,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.19",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -6367,7 +6367,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "",
                         "desc": "A アーモンド（煎つたものに限る。）及びマカダミアナット（煎つたものを除く。）",
                         "rate": {
@@ -6407,7 +6407,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "227",
                             "desc": "− マカダミアナット（煎つたものを除く。）",
                             "rate": {
@@ -6450,7 +6450,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "222",
                             "desc": "− アーモンド（煎つたものに限る。）",
                             "rate": {
@@ -6495,7 +6495,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "",
                         "desc": "B マカダミアナット（煎つたものに限る。）及びペカン（煎つたものに限る。）",
                         "rate": {
@@ -6535,7 +6535,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "221",
                             "desc": "− マカダミアナット（煎つたものに限る。）",
                             "rate": {
@@ -6578,7 +6578,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "223",
                             "desc": "− ペカン（煎つたものに限る。）",
                             "rate": {
@@ -6623,7 +6623,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "",
                         "desc": "C ココやしの実、ブラジルナット、パラダイスナット、ヘーゼルナット（コリュルス属のもの）、カシューナット及びぎんなん",
                         "rate": {
@@ -6663,7 +6663,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "224",
                             "desc": "− ココやしの実、ブラジルナット、パラダイスナット及びヘーゼルナット（コリュルス属のもの）",
                             "rate": {
@@ -6706,7 +6706,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "225",
                             "desc": "− カシューナット",
                             "rate": {
@@ -6749,7 +6749,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "226",
                             "desc": "− ぎんなん",
                             "rate": {
@@ -6794,7 +6794,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.19",
                         "hs_code": "",
                         "desc": "D その他のもの",
                         "rate": {},
@@ -6803,7 +6803,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "228",
                             "desc": "(a)煎つたもの",
                             "rate": {
@@ -6846,7 +6846,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.19",
                             "hs_code": "229",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -6908,7 +6908,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.20",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -6917,7 +6917,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.20",
                 "hs_code": "",
                 "desc": "(1)気密容器入りのもので、容器ともの1個の重量が10キログラム以下のもの（細片にし、破砕し又はパルプ状にしたものを除く。）",
                 "rate": {
@@ -6957,7 +6957,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.20",
                     "hs_code": "111",
                     "desc": "− この号の1の(1)及び2の(1)に掲げるパイナップルについて、当該年度における国内需要見込数量から国内で生産されるもの（国内産の生鮮のパイナップルを原料とするものに限る。）の見込数量を控除した数量を基準とし、国際市況その他の条件を勘案して政令で定める数量（以下この号において「共通の限度数量」という。）以内のもの",
                     "rate": {
@@ -7000,7 +7000,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.20",
                     "hs_code": "119",
                     "desc": "− その他のもの",
                     "rate": {
@@ -7045,7 +7045,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.20",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -7054,7 +7054,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.20",
                     "hs_code": "191",
                     "desc": "A 気密容器入りのもので、容器ともの1個の重量が10キログラム以下のもの（細片にし、破砕し又はパルプ状にしたものに限る。）",
                     "rate": {
@@ -7097,7 +7097,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.20",
                     "hs_code": "199",
                     "desc": "B その他のもの",
                     "rate": {
@@ -7144,7 +7144,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -7153,7 +7153,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.20",
                 "hs_code": "",
                 "desc": "(1)気密容器入りのもので、容器ともの1個の重量が10キログラム以下のもの（細片にし、破砕し又はパルプ状にしたものを除く。）",
                 "rate": {
@@ -7193,7 +7193,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.20",
                     "hs_code": "211",
                     "desc": "− 共通の限度数量以内のもの",
                     "rate": {
@@ -7236,7 +7236,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.20",
                     "hs_code": "219",
                     "desc": "− その他のもの",
                     "rate": {
@@ -7281,7 +7281,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.20",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -7337,7 +7337,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.30",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -7346,7 +7346,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.30",
                 "hs_code": "110",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -7389,7 +7389,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.30",
                 "hs_code": "190",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -7434,7 +7434,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -7443,7 +7443,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.30",
                 "hs_code": "210",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -7486,7 +7486,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.30",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -7542,7 +7542,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.40",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -7551,7 +7551,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.40",
                 "hs_code": "",
                 "desc": "(1)パルプ状のもの",
                 "rate": {},
@@ -7560,7 +7560,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "111",
                     "desc": "A 気密容器入りのもの",
                     "rate": {
@@ -7603,7 +7603,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "119",
                     "desc": "B その他のもの",
                     "rate": {
@@ -7648,7 +7648,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.40",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -7657,7 +7657,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "191",
                     "desc": "A 気密容器入りのもの",
                     "rate": {
@@ -7700,7 +7700,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "199",
                     "desc": "B その他のもの",
                     "rate": {
@@ -7747,7 +7747,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.40",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -7756,7 +7756,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.40",
                 "hs_code": "",
                 "desc": "(1)パルプ状のもの",
                 "rate": {},
@@ -7765,7 +7765,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "211",
                     "desc": "A 気密容器入りのもの",
                     "rate": {
@@ -7808,7 +7808,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "219",
                     "desc": "B その他のもの",
                     "rate": {
@@ -7853,7 +7853,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.40",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -7862,7 +7862,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "291",
                     "desc": "A 気密容器入りのもの",
                     "rate": {
@@ -7905,7 +7905,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.40",
                     "hs_code": "299",
                     "desc": "B その他のもの",
                     "rate": {
@@ -7963,7 +7963,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.50",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -8003,7 +8003,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.50",
                 "hs_code": "110",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -8046,7 +8046,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.50",
                 "hs_code": "190",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -8091,7 +8091,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.50",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -8131,7 +8131,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.50",
                 "hs_code": "210",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -8174,7 +8174,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.50",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -8230,7 +8230,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.60",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -8270,7 +8270,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.60",
                 "hs_code": "110",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -8313,7 +8313,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.60",
                 "hs_code": "190",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -8358,7 +8358,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.60",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -8398,7 +8398,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.60",
                 "hs_code": "210",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -8441,7 +8441,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.60",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -8497,7 +8497,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.70",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -8506,7 +8506,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.70",
                 "hs_code": "",
                 "desc": "(1)パルプ状のもの",
                 "rate": {},
@@ -8515,7 +8515,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "111",
                     "desc": "A 気密容器入りのもの",
                     "rate": {
@@ -8558,7 +8558,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "119",
                     "desc": "B その他のもの",
                     "rate": {
@@ -8603,7 +8603,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.70",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -8612,7 +8612,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "",
                     "desc": "A 気密容器入りのもの",
                     "rate": {},
@@ -8621,7 +8621,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.70",
                         "hs_code": "191",
                         "desc": "(a)容器ともの1個の重量が2キログラム以上のもの",
                         "rate": {
@@ -8664,7 +8664,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.70",
                         "hs_code": "192",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -8709,7 +8709,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "199",
                     "desc": "B その他のもの",
                     "rate": {
@@ -8756,7 +8756,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.70",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -8765,7 +8765,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.70",
                 "hs_code": "",
                 "desc": "(1)パルプ状のもの",
                 "rate": {},
@@ -8774,7 +8774,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "211",
                     "desc": "A 気密容器入りのもの",
                     "rate": {
@@ -8817,7 +8817,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "219",
                     "desc": "B その他のもの",
                     "rate": {
@@ -8862,7 +8862,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.70",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -8871,7 +8871,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "291",
                     "desc": "A 気密容器入りのもの",
                     "rate": {
@@ -8914,7 +8914,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.70",
                     "hs_code": "299",
                     "desc": "B その他のもの",
                     "rate": {
@@ -8972,7 +8972,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.80",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -8981,7 +8981,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.80",
                 "hs_code": "110",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -9024,7 +9024,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.80",
                 "hs_code": "190",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -9069,7 +9069,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2008.80",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -9078,7 +9078,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.80",
                 "hs_code": "210",
                 "desc": "(1)パルプ状のもの",
                 "rate": {
@@ -9121,7 +9121,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.80",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -9168,7 +9168,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.08",
         "hs_code": "",
         "desc": "その他のもの（混合したもの（第2008.19号のものを除く。）を含む。）",
         "rate": {},
@@ -9229,7 +9229,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.93",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -9238,7 +9238,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.93",
                     "hs_code": "110",
                     "desc": "(1)パルプ状のもの",
                     "rate": {
@@ -9281,7 +9281,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.93",
                     "hs_code": "120",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -9326,7 +9326,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.93",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -9335,7 +9335,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.93",
                     "hs_code": "210",
                     "desc": "(1)パルプ状のもの",
                     "rate": {
@@ -9378,7 +9378,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.93",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -9434,7 +9434,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.97",
                 "hs_code": "",
                 "desc": "1 ミックスドフルーツ、フルーツサラダ及びフルーツカクテル",
                 "rate": {
@@ -9474,7 +9474,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.97",
                     "hs_code": "110",
                     "desc": "− 砂糖を加えたもの",
                     "rate": {
@@ -9517,7 +9517,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.97",
                     "hs_code": "120",
                     "desc": "− その他のもの",
                     "rate": {
@@ -9562,7 +9562,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.97",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -9571,7 +9571,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.97",
                     "hs_code": "",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {},
@@ -9580,7 +9580,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.97",
                         "hs_code": "211",
                         "desc": "A パルプ状のもの",
                         "rate": {
@@ -9623,7 +9623,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.97",
                         "hs_code": "219",
                         "desc": "B その他のもの",
                         "rate": {
@@ -9670,7 +9670,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.97",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -9679,7 +9679,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.97",
                         "hs_code": "221",
                         "desc": "A パルプ状のもの",
                         "rate": {
@@ -9722,7 +9722,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.97",
                         "hs_code": "229",
                         "desc": "B その他のもの",
                         "rate": {
@@ -9782,7 +9782,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.99",
                 "hs_code": "100",
                 "desc": "1 梅",
                 "rate": {
@@ -9825,7 +9825,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2008.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -9834,7 +9834,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.99",
                     "hs_code": "",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {},
@@ -9843,7 +9843,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.99",
                         "hs_code": "",
                         "desc": "A パルプ状のもの",
                         "rate": {},
@@ -9852,7 +9852,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "211",
                             "desc": "(a)バナナ及びアボカドー",
                             "rate": {
@@ -9895,7 +9895,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "215",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -9940,7 +9940,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.99",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {},
@@ -9949,7 +9949,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "212",
                             "desc": "(a)べリー及びプルーン",
                             "rate": {
@@ -9992,7 +9992,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(b)バナナ、アボカドー、マンゴー、グアバ及びマンゴスチン",
                             "rate": {
@@ -10032,7 +10032,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "213",
                                 "desc": "− 気密容器入りのもの",
                                 "rate": {
@@ -10075,7 +10075,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "214",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -10120,7 +10120,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(c)第1212.21 号の物品のもの",
                             "rate": {},
@@ -10129,7 +10129,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "217",
                                 "desc": "イ しよ糖の含有量が全重量の50％未満のもの",
                                 "rate": {
@@ -10173,7 +10173,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "",
                                 "desc": "ロ その他のもの",
                                 "rate": {
@@ -10213,7 +10213,7 @@
                                 "children": [
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2008.99",
                                     "hs_code": "",
                                     "desc": "− 関税暫定措置法第8条の6第1項の規定により経済連携協定に基づく譲許の便益の適用を受けて輸入するもの",
                                     "rate": {},
@@ -10222,7 +10222,7 @@
                                     "children": [
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2008.99",
                                         "hs_code": "261",
                                         "desc": "−− 環太平洋パートナーシップに関する包括的及び先進的な協定（以下この項において「環太平洋包括的及び先進的協定」という。）附属書2-Dの日本国の関税率表の付録Aの第B節の20のTWQ-JP20に掲げる品目又は経済上の連携に関する日本国と欧州連合との間の協定（以下この項において「欧州連合協定」という。）附属書2-Aの第3編の第B節の12のTRQ-11に掲げる品目に分類されるもの",
                                         "rate": {
@@ -10265,7 +10265,7 @@
                                       },
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2008.99",
                                         "hs_code": "262",
                                         "desc": "−− 環太平洋包括的及び先進的協定附属書2-Dの日本国の関税率表の付録Aの第B節の24のTWQ-JP24に掲げる品目又は欧州連合協定附属書2-Aの第3編の第B節の13のTRQ-12に掲げる品目に分類されるもの",
                                         "rate": {
@@ -10310,7 +10310,7 @@
                                   },
                                   {
                                     "level": 8,
-                                    "stat_code": "",
+                                    "stat_code": "2008.99",
                                     "hs_code": "",
                                     "desc": "− その他のもの",
                                     "rate": {},
@@ -10319,7 +10319,7 @@
                                     "children": [
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2008.99",
                                         "hs_code": "265",
                                         "desc": "−− 包括的な経済上の連携に関する日本国とグレートブリテン及び北アイルランド連合王国との間の協定（以下この項において「英国協定」という。）附属書2-Aの第3編の第B節の第2款の5の（a）に定めるもの",
                                         "rate": {
@@ -10362,7 +10362,7 @@
                                       },
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2008.99",
                                         "hs_code": "266",
                                         "desc": "−− 英国協定附属書2-Aの第3編の第B節の第2款の6の（a）に定めるもの",
                                         "rate": {
@@ -10405,7 +10405,7 @@
                                       },
                                       {
                                         "level": 9,
-                                        "stat_code": "",
+                                        "stat_code": "2008.99",
                                         "hs_code": "269",
                                         "desc": "−− その他のもの",
                                         "rate": {
@@ -10454,7 +10454,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(d)その他のもの",
                             "rate": {
@@ -10494,7 +10494,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "216",
                                 "desc": "− ドリアン、ランブータン、パッションフルーツ、レイシ及びごれんし",
                                 "rate": {
@@ -10537,7 +10537,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "219",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -10586,7 +10586,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2008.99",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -10595,7 +10595,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.99",
                         "hs_code": "",
                         "desc": "A パルプ状のもの",
                         "rate": {},
@@ -10604,7 +10604,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(a)バナナ、アボカドー及びプルーン",
                             "rate": {
@@ -10644,7 +10644,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "221",
                                 "desc": "− バナナ及びアボカドー",
                                 "rate": {
@@ -10687,7 +10687,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "222",
                                 "desc": "− プルーン",
                                 "rate": {
@@ -10732,7 +10732,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(b)その他のもの",
                             "rate": {
@@ -10772,7 +10772,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "226",
                                 "desc": "− マンゴー、グアバ及びマンゴスチン",
                                 "rate": {
@@ -10815,7 +10815,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "234",
                                 "desc": "− カムカム",
                                 "rate": {
@@ -10858,7 +10858,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "227",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -10905,7 +10905,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2008.99",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {},
@@ -10914,7 +10914,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "223",
                             "desc": "(a)プルーン",
                             "rate": {
@@ -10957,7 +10957,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(b)バナナ、アボカドー、マンゴー、グアバ及びマンゴスチン",
                             "rate": {
@@ -10997,7 +10997,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "224",
                                 "desc": "− 気密容器入りのもの",
                                 "rate": {
@@ -11040,7 +11040,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "225",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -11085,7 +11085,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "228",
                             "desc": "(c)さといも（コロカシア属のもの）（冷凍したものに限る。）",
                             "rate": {
@@ -11128,7 +11128,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(d)第1212.21 号の物品のもの",
                             "rate": {
@@ -11168,7 +11168,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "233",
                                 "desc": "− ひじき（ヒジキア・フスィフォルミス）",
                                 "rate": {
@@ -11209,7 +11209,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "235",
                                 "desc": "− 長方形（正方形を含む。）の紙状に抄製したもので、1枚の面積が430平方センチメートル以下のもの（調味したものを除く。）",
                                 "rate": {
@@ -11253,7 +11253,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "239",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -11299,7 +11299,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2008.99",
                             "hs_code": "",
                             "desc": "(e)その他のもの",
                             "rate": {
@@ -11339,7 +11339,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "231",
                                 "desc": "− ドリアン、ランブータン、パッションフルーツ、レイシ及びごれんし",
                                 "rate": {
@@ -11382,7 +11382,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "236",
                                 "desc": "− カムカム",
                                 "rate": {
@@ -11425,7 +11425,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "232",
                                 "desc": "− 爆裂種のとうもろこし（通常の気圧の下で加熱により爆裂するものに限る。）",
                                 "rate": {
@@ -11468,7 +11468,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "251",
                                 "desc": "− かんしよ（単に蒸気又は水煮による加熱調理をした後、乾燥したもので、全形のもの及び断片状のものに限る。）",
                                 "rate": {
@@ -11511,7 +11511,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "2008.99",
                                 "hs_code": "259",
                                 "desc": "− その他のもの",
                                 "rate": {
@@ -11577,7 +11577,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.09",
         "hs_code": "",
         "desc": "オレンジジュース",
         "rate": {},
@@ -11595,7 +11595,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.11",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -11604,7 +11604,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.11",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -11647,7 +11647,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.11",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -11692,7 +11692,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.11",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -11701,7 +11701,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.11",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -11744,7 +11744,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.11",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -11800,7 +11800,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.12",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -11809,7 +11809,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.12",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -11852,7 +11852,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.12",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -11897,7 +11897,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.12",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -11906,7 +11906,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.12",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -11949,7 +11949,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.12",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12005,7 +12005,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.19",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -12014,7 +12014,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.19",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12057,7 +12057,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.19",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12102,7 +12102,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -12111,7 +12111,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.19",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12154,7 +12154,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.19",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12203,7 +12203,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.09",
         "hs_code": "",
         "desc": "グレープフルーツジュース及びポメロジュース",
         "rate": {},
@@ -12221,7 +12221,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.21",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -12230,7 +12230,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.21",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12273,7 +12273,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.21",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12318,7 +12318,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.21",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -12327,7 +12327,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.21",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12370,7 +12370,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.21",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12426,7 +12426,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.29",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -12435,7 +12435,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.29",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12478,7 +12478,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.29",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12523,7 +12523,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.29",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -12532,7 +12532,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.29",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12575,7 +12575,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.29",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12624,7 +12624,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.09",
         "hs_code": "",
         "desc": "その他のかんきつ類の果実のジュース（二以上の果実から得たものを除く。）",
         "rate": {},
@@ -12642,7 +12642,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.31",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -12651,7 +12651,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.31",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12694,7 +12694,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.31",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12739,7 +12739,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.31",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -12748,7 +12748,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.31",
                     "hs_code": "",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {},
@@ -12757,7 +12757,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.31",
                         "hs_code": "211",
                         "desc": "A レモンジュース",
                         "rate": {
@@ -12800,7 +12800,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.31",
                         "hs_code": "212",
                         "desc": "B ライムジュース",
                         "rate": {
@@ -12843,7 +12843,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.31",
                         "hs_code": "219",
                         "desc": "C その他のもの",
                         "rate": {
@@ -12888,7 +12888,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.31",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -12944,7 +12944,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.39",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -12953,7 +12953,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.39",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -12996,7 +12996,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.39",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -13041,7 +13041,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.39",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -13050,7 +13050,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.39",
                     "hs_code": "",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {},
@@ -13059,7 +13059,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.39",
                         "hs_code": "211",
                         "desc": "A レモンジュース",
                         "rate": {
@@ -13102,7 +13102,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.39",
                         "hs_code": "212",
                         "desc": "B ライムジュース",
                         "rate": {
@@ -13145,7 +13145,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.39",
                         "hs_code": "219",
                         "desc": "C その他のもの",
                         "rate": {
@@ -13190,7 +13190,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.39",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -13239,7 +13239,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.09",
         "hs_code": "",
         "desc": "パイナップルジュース",
         "rate": {},
@@ -13257,7 +13257,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.41",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -13266,7 +13266,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.41",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -13309,7 +13309,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.41",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -13354,7 +13354,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.41",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -13363,7 +13363,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.41",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -13406,7 +13406,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.41",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -13462,7 +13462,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.49",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -13471,7 +13471,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.49",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -13514,7 +13514,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.49",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -13559,7 +13559,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.49",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -13568,7 +13568,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.49",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -13611,7 +13611,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.49",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -13669,7 +13669,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2009.50",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -13712,7 +13712,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2009.50",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -13757,7 +13757,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.09",
         "hs_code": "",
         "desc": "ぶどうジュース（ぶどう搾汁を含む。）",
         "rate": {},
@@ -13775,7 +13775,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.61",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -13784,7 +13784,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.61",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -13827,7 +13827,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.61",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -13872,7 +13872,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.61",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -13926,7 +13926,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.69",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -13935,7 +13935,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.69",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -13978,7 +13978,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.69",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14023,7 +14023,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.69",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -14032,7 +14032,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.69",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -14075,7 +14075,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.69",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14124,7 +14124,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.09",
         "hs_code": "",
         "desc": "りんごジュース",
         "rate": {},
@@ -14142,7 +14142,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.71",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -14151,7 +14151,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.71",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -14194,7 +14194,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.71",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14239,7 +14239,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.71",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -14248,7 +14248,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.71",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -14291,7 +14291,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.71",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14347,7 +14347,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.79",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -14356,7 +14356,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.79",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -14399,7 +14399,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.79",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14444,7 +14444,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.79",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -14453,7 +14453,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.79",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -14496,7 +14496,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.79",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14545,7 +14545,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "20.09",
         "hs_code": "",
         "desc": "その他の果実、ナット又は野菜のジュース（二以上の果実、ナット又は野菜から得たものを除く。）",
         "rate": {},
@@ -14563,7 +14563,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.81",
                 "hs_code": "",
                 "desc": "1 砂糖を加えたもの",
                 "rate": {},
@@ -14572,7 +14572,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.81",
                     "hs_code": "110",
                     "desc": "(1)しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -14615,7 +14615,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.81",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14660,7 +14660,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.81",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -14669,7 +14669,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.81",
                     "hs_code": "210",
                     "desc": "(1)しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -14712,7 +14712,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.81",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -14768,7 +14768,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.89",
                 "hs_code": "",
                 "desc": "1 果汁",
                 "rate": {},
@@ -14777,7 +14777,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.89",
                     "hs_code": "",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {},
@@ -14786,7 +14786,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.89",
                         "hs_code": "111",
                         "desc": "A しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                         "rate": {
@@ -14829,7 +14829,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.89",
                         "hs_code": "119",
                         "desc": "B その他のもの",
                         "rate": {
@@ -14874,7 +14874,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.89",
                     "hs_code": "",
                     "desc": "(2) その他のもの",
                     "rate": {},
@@ -14883,7 +14883,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.89",
                         "hs_code": "",
                         "desc": "A しよ糖の含有量が全重量の10％以下のもの",
                         "rate": {
@@ -14923,7 +14923,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2009.89",
                             "hs_code": "122",
                             "desc": "− プルーンジュース",
                             "rate": {
@@ -14966,7 +14966,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2009.89",
                             "hs_code": "123",
                             "desc": "− その他のもの",
                             "rate": {
@@ -15011,7 +15011,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.89",
                         "hs_code": "129",
                         "desc": "B その他のもの",
                         "rate": {
@@ -15058,7 +15058,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.89",
                 "hs_code": "",
                 "desc": "2 野菜ジュース",
                 "rate": {},
@@ -15067,7 +15067,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.89",
                     "hs_code": "210",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {
@@ -15110,7 +15110,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.89",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -15150,7 +15150,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.89",
                         "hs_code": "221",
                         "desc": "− 気密容器入りのもの",
                         "rate": {
@@ -15193,7 +15193,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2009.89",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {
@@ -15233,7 +15233,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2009.89",
                             "hs_code": "231",
                             "desc": "−− にんじんジュース",
                             "rate": {
@@ -15276,7 +15276,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "2009.89",
                             "hs_code": "239",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -15325,7 +15325,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.89",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {},
@@ -15334,7 +15334,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.89",
                     "hs_code": "910",
                     "desc": "(1)砂糖を加えたもの",
                     "rate": {
@@ -15377,7 +15377,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.89",
                     "hs_code": "990",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -15435,7 +15435,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2009.90",
             "hs_code": "",
             "desc": "1 果汁を主成分とするもの",
             "rate": {},
@@ -15444,7 +15444,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.90",
                 "hs_code": "",
                 "desc": "(1)砂糖を加えたもの",
                 "rate": {},
@@ -15453,7 +15453,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.90",
                     "hs_code": "111",
                     "desc": "A しよ糖（天然に含有するものを含む。）の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -15496,7 +15496,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.90",
                     "hs_code": "119",
                     "desc": "B その他のもの",
                     "rate": {
@@ -15541,7 +15541,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -15550,7 +15550,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.90",
                     "hs_code": "121",
                     "desc": "A しよ糖の含有量が全重量の10％以下のもの",
                     "rate": {
@@ -15593,7 +15593,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2009.90",
                     "hs_code": "129",
                     "desc": "B その他のもの",
                     "rate": {
@@ -15640,7 +15640,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2009.90",
             "hs_code": "",
             "desc": "2 野菜ジュースを主成分とするもの",
             "rate": {},
@@ -15649,7 +15649,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.90",
                 "hs_code": "210",
                 "desc": "(1)砂糖を加えたもの",
                 "rate": {
@@ -15692,7 +15692,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.90",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -15737,7 +15737,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2009.90",
             "hs_code": "",
             "desc": "3 その他のもの",
             "rate": {},
@@ -15746,7 +15746,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.90",
                 "hs_code": "910",
                 "desc": "(1)砂糖を加えたもの",
                 "rate": {
@@ -15789,7 +15789,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2009.90",
                 "hs_code": "990",
                 "desc": "(2)その他のもの",
                 "rate": {

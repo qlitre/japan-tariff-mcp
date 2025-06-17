@@ -50,7 +50,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9001.10",
             "hs_code": "010",
             "desc": "− ガラス製のもの",
             "rate": {
@@ -93,7 +93,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9001.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -364,7 +364,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.02",
         "hs_code": "",
         "desc": "対物レンズ",
         "rate": {},
@@ -413,7 +413,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9002.11",
                 "hs_code": "010",
                 "desc": "− 写真機用のもの",
                 "rate": {
@@ -454,7 +454,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9002.11",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -633,7 +633,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.03",
         "hs_code": "",
         "desc": "フレーム",
         "rate": {},
@@ -692,7 +692,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9003.19",
                 "hs_code": "010",
                 "desc": "1 金属製のもの",
                 "rate": {
@@ -733,7 +733,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9003.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1143,7 +1143,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.06",
         "hs_code": "",
         "desc": "その他の写真機",
         "rate": {},
@@ -1192,7 +1192,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9006.53",
                 "hs_code": "100",
                 "desc": "− フィルムを交換する機能を有しないもの",
                 "rate": {
@@ -1233,7 +1233,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9006.53",
                 "hs_code": "900",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1319,7 +1319,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.06",
         "hs_code": "",
         "desc": "写真用のせん光器具及びせん光電球",
         "rate": {},
@@ -1412,7 +1412,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.06",
         "hs_code": "",
         "desc": "部分品及び附属品",
         "rate": {},
@@ -1598,7 +1598,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.07",
         "hs_code": "",
         "desc": "部分品及び附属品",
         "rate": {},
@@ -2833,7 +2833,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9015.90",
             "hs_code": "010",
             "desc": "− 電気式機器用のもの",
             "rate": {
@@ -2874,7 +2874,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9015.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3101,7 +3101,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9017.30",
             "hs_code": "010",
             "desc": "− 電気式のもの",
             "rate": {
@@ -3142,7 +3142,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9017.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3278,7 +3278,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.18",
         "hs_code": "",
         "desc": "診断用電気機器（機能検査用又は生理学的パラメーター検査用の機器を含む。）",
         "rate": {},
@@ -3499,7 +3499,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.19",
                 "hs_code": "010",
                 "desc": "− 超音波診断装置",
                 "rate": {
@@ -3542,7 +3542,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.19",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3632,7 +3632,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.18",
         "hs_code": "",
         "desc": "注射器、針、カテーテル、カニューレその他これらに類する物品",
         "rate": {},
@@ -3767,7 +3767,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.39",
                 "hs_code": "010",
                 "desc": "− 歯科用のもの",
                 "rate": {
@@ -3810,7 +3810,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.39",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3850,7 +3850,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "9018.39",
                     "hs_code": "021",
                     "desc": "−− 外科用のもの",
                     "rate": {
@@ -3893,7 +3893,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "9018.39",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -3942,7 +3942,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.18",
         "hs_code": "",
         "desc": "その他の機器（歯科用のものに限る。）",
         "rate": {},
@@ -4034,7 +4034,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.49",
                 "hs_code": "010",
                 "desc": "− 歯科用のいす",
                 "rate": {
@@ -4077,7 +4077,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.49",
                 "hs_code": "020",
                 "desc": "− その他の歯科用の電気機器（単に電動機により作動するものを除く。）並びにその部分品及び附属品",
                 "rate": {
@@ -4120,7 +4120,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -4207,7 +4207,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9018.50",
             "hs_code": "010",
             "desc": "− 電気機器（単に電動機により作動するものを除く。）並びにその部分品及び附属品",
             "rate": {
@@ -4250,7 +4250,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9018.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -4335,7 +4335,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9018.90",
             "hs_code": "010",
             "desc": "− 外科用のもの（電気機器（単に電動機により作動するものを除く。）及び鉗子、ナイフ、はさみその他の手道具並びにこれらの部分品及び附属品を除く。）",
             "rate": {
@@ -4378,7 +4378,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9018.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {
@@ -4418,7 +4418,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.90",
                 "hs_code": "",
                 "desc": "−− 医療用のもの",
                 "rate": {},
@@ -4427,7 +4427,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "9018.90",
                     "hs_code": "",
                     "desc": "−−− 外科用のもの",
                     "rate": {},
@@ -4436,7 +4436,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "9018.90",
                         "hs_code": "021",
                         "desc": "−−−− 電気機器（単に電動機により作動するものを除く。）並びにその部分品及び附属品",
                         "rate": {
@@ -4479,7 +4479,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "9018.90",
                         "hs_code": "022",
                         "desc": "−−−− その他のもの",
                         "rate": {
@@ -4524,7 +4524,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "9018.90",
                     "hs_code": "",
                     "desc": "−−− その他のもの",
                     "rate": {},
@@ -4533,7 +4533,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "9018.90",
                         "hs_code": "023",
                         "desc": "−−−− 電気機器（単に電動機により作動するものを除く。）並びにその部分品及び附属品",
                         "rate": {
@@ -4576,7 +4576,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "9018.90",
                         "hs_code": "024",
                         "desc": "−−−− その他のもの",
                         "rate": {
@@ -4623,7 +4623,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9018.90",
                 "hs_code": "029",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -4874,7 +4874,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.21",
         "hs_code": "",
         "desc": "義歯及び歯用の取付用品",
         "rate": {},
@@ -4923,7 +4923,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9021.21",
                 "hs_code": "010",
                 "desc": "− 人工歯",
                 "rate": {
@@ -4966,7 +4966,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9021.21",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5056,7 +5056,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.21",
         "hs_code": "",
         "desc": "その他の人造の人体の部分",
         "rate": {},
@@ -5293,7 +5293,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.22",
         "hs_code": "",
         "desc": "エックス線を使用する機器（放射線写真用又は放射線療法用のものを含むものとし、医療用又は獣医用のものであるかないかを問わない。）",
         "rate": {},
@@ -5428,7 +5428,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9022.14",
                 "hs_code": "010",
                 "desc": "− 医療用のもの",
                 "rate": {
@@ -5471,7 +5471,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9022.14",
                 "hs_code": "090",
                 "desc": "− 獣医用のもの",
                 "rate": {
@@ -5561,7 +5561,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.22",
         "hs_code": "",
         "desc": "アルファ線、ベータ線、ガンマ線その他の電離放射線を使用する機器（放射線写真用又は放射線療法用のものを含むものとし、医療用又は獣医用のものであるかないかを問わない。）",
         "rate": {},
@@ -5698,7 +5698,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9022.30",
             "hs_code": "010",
             "desc": "− 医療用のもの",
             "rate": {
@@ -5741,7 +5741,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9022.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -5826,7 +5826,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9022.90",
             "hs_code": "010",
             "desc": "− アルファ線、ベータ線又はガンマ線を使用する機器の部分品及び附属品",
             "rate": {
@@ -5869,7 +5869,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9022.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -5878,7 +5878,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9022.90",
                 "hs_code": "021",
                 "desc": "−− 医療用のもの",
                 "rate": {
@@ -5921,7 +5921,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9022.90",
                 "hs_code": "029",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -6164,7 +6164,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.25",
         "hs_code": "",
         "desc": "温度計及びパイロメーター（その他の機器と組み合わせたものを除く。）",
         "rate": {},
@@ -6256,7 +6256,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9025.19",
                 "hs_code": "010",
                 "desc": "− 電気式のもの",
                 "rate": {
@@ -6299,7 +6299,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9025.19",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -6524,7 +6524,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9026.20",
             "hs_code": "010",
             "desc": "− 電気式のもの",
             "rate": {
@@ -6565,7 +6565,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9026.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -6865,7 +6865,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.27",
         "hs_code": "",
         "desc": "その他の機器",
         "rate": {},
@@ -6955,7 +6955,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9027.89",
                 "hs_code": "010",
                 "desc": "− 分析機器",
                 "rate": {
@@ -6996,7 +6996,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9027.89",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7081,7 +7081,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9027.90",
             "hs_code": "010",
             "desc": "− 電気式機器用の部分品及び附属品",
             "rate": {
@@ -7122,7 +7122,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9027.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -7432,7 +7432,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9029.20",
             "hs_code": "010",
             "desc": "− 電気式のもの",
             "rate": {
@@ -7473,7 +7473,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9029.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -7652,7 +7652,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.30",
         "hs_code": "",
         "desc": "電圧、電流、抵抗又は電力の測定用又は検査用のその他の機器（半導体ウエハー又は半導体デバイスの測定用又は検査用のものを除く。）",
         "rate": {},
@@ -7783,7 +7783,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9030.33",
                 "hs_code": "010",
                 "desc": "− 電圧計及び電流計",
                 "rate": {
@@ -7824,7 +7824,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9030.33",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7951,7 +7951,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.30",
         "hs_code": "",
         "desc": "その他の機器",
         "rate": {},
@@ -8000,7 +8000,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9030.82",
                 "hs_code": "010",
                 "desc": "− 特性測定器",
                 "rate": {
@@ -8041,7 +8041,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9030.82",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8165,7 +8165,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9030.89",
                 "hs_code": "091",
                 "desc": "− スペクトラムアナライザー",
                 "rate": {
@@ -8206,7 +8206,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9030.89",
                 "hs_code": "099",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8387,7 +8387,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.31",
         "hs_code": "",
         "desc": "その他の光学式機器",
         "rate": {},
@@ -8520,7 +8520,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9031.80",
             "hs_code": "",
             "desc": "− 電気式のもの",
             "rate": {
@@ -8560,7 +8560,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9031.80",
                 "hs_code": "011",
                 "desc": "−− 自動寸法測定器",
                 "rate": {
@@ -8601,7 +8601,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9031.80",
                 "hs_code": "013",
                 "desc": "−− 振動計及び振動試験機",
                 "rate": {
@@ -8642,7 +8642,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9031.80",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -8685,7 +8685,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9031.80",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -8768,7 +8768,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9031.90",
             "hs_code": "010",
             "desc": "− 電気式機器用のもの",
             "rate": {
@@ -8809,7 +8809,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9031.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -8903,7 +8903,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9032.10",
             "hs_code": "010",
             "desc": "− 電気式のもの",
             "rate": {
@@ -8944,7 +8944,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9032.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -9028,7 +9028,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "90.32",
         "hs_code": "",
         "desc": "その他の機器",
         "rate": {},
@@ -9118,7 +9118,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9032.89",
                 "hs_code": "010",
                 "desc": "− 電気式のもの",
                 "rate": {
@@ -9159,7 +9159,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9032.89",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {

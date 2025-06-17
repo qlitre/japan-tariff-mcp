@@ -457,7 +457,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9305.10",
             "hs_code": "010",
             "desc": "1 軍用の武器のもの",
             "rate": {
@@ -501,7 +501,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9305.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -591,7 +591,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "93.05",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -653,7 +653,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9305.99",
                 "hs_code": "010",
                 "desc": "1 革製又はコンポジションレザー製のもの",
                 "rate": {
@@ -697,7 +697,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9305.99",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -756,7 +756,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "93.06",
         "hs_code": "",
         "desc": "散弾銃用弾薬筒及びその部分品並びに空気銃用小弾丸",
         "rate": {},
@@ -864,7 +864,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9306.30",
             "hs_code": "100",
             "desc": "1 弾薬筒（びよう打ち工具その他これに類する工具用又はボルト式無痛と殺銃用のものに限る。）及びその部分品",
             "rate": {
@@ -908,7 +908,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9306.30",
             "hs_code": "200",
             "desc": "2 狩猟用又はスポーツ用のもの",
             "rate": {
@@ -952,7 +952,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9306.30",
             "hs_code": "900",
             "desc": "3 その他のもの",
             "rate": {

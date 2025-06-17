@@ -109,7 +109,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "35.02",
         "hs_code": "",
         "desc": "卵白",
         "rate": {},
@@ -315,7 +315,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3503.00",
         "hs_code": "090",
         "desc": "1 ゼラチン（写真用のものに限る。）及びゼラチン誘導体",
         "rate": {
@@ -360,7 +360,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3503.00",
         "hs_code": "020",
         "desc": "2 魚膠及びアイシングラス",
         "rate": {
@@ -405,7 +405,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3503.00",
         "hs_code": "",
         "desc": "3 その他のもの",
         "rate": {
@@ -445,7 +445,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3503.00",
             "hs_code": "011",
             "desc": "− ゼラチン",
             "rate": {
@@ -490,7 +490,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3503.00",
             "hs_code": "012",
             "desc": "− にかわ",
             "rate": {
@@ -558,7 +558,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3504.00",
         "hs_code": "010",
         "desc": "1 ペプトン、その誘導体及び皮粉",
         "rate": {
@@ -602,7 +602,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3504.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {
@@ -642,7 +642,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3504.00",
             "hs_code": "021",
             "desc": "− 植物性たんぱく及びその誘導体",
             "rate": {
@@ -686,7 +686,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3504.00",
             "hs_code": "029",
             "desc": "− その他のもの",
             "rate": {
@@ -752,7 +752,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3505.10",
             "hs_code": "100",
             "desc": "1 エステル化でん粉その他のでん粉誘導体",
             "rate": {
@@ -796,7 +796,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3505.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -941,7 +941,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "35.06",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},

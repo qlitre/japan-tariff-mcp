@@ -54,7 +54,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.01",
         "hs_code": "",
         "desc": "セミトレーラー用の道路走行用トラクター",
         "rate": {},
@@ -324,7 +324,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -373,7 +373,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.91",
                 "hs_code": "010",
                 "desc": "− 農業用のもの",
                 "rate": {
@@ -417,7 +417,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.91",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -502,7 +502,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.92",
                 "hs_code": "010",
                 "desc": "− 農業用のもの",
                 "rate": {
@@ -546,7 +546,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.92",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -631,7 +631,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.93",
                 "hs_code": "",
                 "desc": "− 農業用のもの",
                 "rate": {},
@@ -640,7 +640,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8701.93",
                     "hs_code": "011",
                     "desc": "−− エンジン出力が52キロワット以下のもの",
                     "rate": {
@@ -684,7 +684,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8701.93",
                     "hs_code": "012",
                     "desc": "−− エンジン出力が52キロワットを超えるもの",
                     "rate": {
@@ -730,7 +730,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.93",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -815,7 +815,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.94",
                 "hs_code": "010",
                 "desc": "− 農業用のもの",
                 "rate": {
@@ -859,7 +859,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.94",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -944,7 +944,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.95",
                 "hs_code": "010",
                 "desc": "− 農業用のもの",
                 "rate": {
@@ -988,7 +988,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8701.95",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1315,7 +1315,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.03",
         "hs_code": "",
         "desc": "その他の車両（ピストン式火花点火内燃機関のみを搭載したものに限る。）",
         "rate": {},
@@ -1498,7 +1498,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.03",
         "hs_code": "",
         "desc": "その他の車両（ピストン式圧縮点火内燃機関（ディーゼルエンジン又はセミディーゼルエンジン）のみを搭載したものに限る。）",
         "rate": {},
@@ -1850,7 +1850,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8703.80",
             "hs_code": "010",
             "desc": "− 中古のもの",
             "rate": {
@@ -1893,7 +1893,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8703.80",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2035,7 +2035,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.04",
         "hs_code": "",
         "desc": "その他のもの（ピストン式圧縮点火内燃機関（ディーゼルエンジン又はセミディーゼルエンジン）のみを搭載したものに限る。）",
         "rate": {},
@@ -2175,7 +2175,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.04",
         "hs_code": "",
         "desc": "その他のもの（ピストン式火花点火内燃機関のみを搭載したものに限る。）",
         "rate": {},
@@ -2272,7 +2272,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.04",
         "hs_code": "",
         "desc": "その他のもの（駆動原動機としてピストン式圧縮点火内燃機関（ディーゼルエンジン又はセミディーゼルエンジン）及び電動機を搭載したものに限る。）",
         "rate": {},
@@ -2412,7 +2412,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.04",
         "hs_code": "",
         "desc": "その他のもの（駆動原動機としてピストン式火花点火内燃機関及び電動機を搭載したものに限る。）",
         "rate": {},
@@ -3021,7 +3021,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.08",
         "hs_code": "",
         "desc": "車体（運転室を含む。）のその他の部分品及び附属品",
         "rate": {},
@@ -3201,7 +3201,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8708.30",
             "hs_code": "010",
             "desc": "− ブレーキライニング（取り付けたものに限る。）",
             "rate": {
@@ -3244,7 +3244,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8708.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3415,7 +3415,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8708.70",
             "hs_code": "010",
             "desc": "− 第87.01項のトラクター用のもの",
             "rate": {
@@ -3458,7 +3458,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8708.70",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3546,7 +3546,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.08",
         "hs_code": "",
         "desc": "その他の部分品及び附属品",
         "rate": {},
@@ -3810,7 +3810,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8708.99",
                 "hs_code": "010",
                 "desc": "− 第87.01項のトラクター用のもの",
                 "rate": {
@@ -3853,7 +3853,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8708.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3911,7 +3911,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.09",
         "hs_code": "",
         "desc": "車両",
         "rate": {},
@@ -4190,7 +4190,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8711.20",
             "hs_code": "010",
             "desc": "− シリンダー容積が50立方センチメートルを超え125立方センチメートル以下のもの",
             "rate": {
@@ -4231,7 +4231,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8711.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -4531,7 +4531,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "8712.00",
         "hs_code": "100",
         "desc": "− カンチブレーキを有するもの",
         "rate": {
@@ -4574,7 +4574,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "8712.00",
         "hs_code": "",
         "desc": "− その他のもの",
         "rate": {},
@@ -4583,7 +4583,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8712.00",
             "hs_code": "",
             "desc": "−− 車輪の径の呼びが24（60.96センチメートル）以下のもの",
             "rate": {},
@@ -4592,7 +4592,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8712.00",
                 "hs_code": "211",
                 "desc": "−−− ブレーキレバーの開きが85ミリメートルを超えるもの",
                 "rate": {
@@ -4635,7 +4635,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8712.00",
                 "hs_code": "",
                 "desc": "−−− その他のもの",
                 "rate": {},
@@ -4644,7 +4644,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8712.00",
                     "hs_code": "218",
                     "desc": "−−−− 車輪の径の呼びが12（30.48センチメートル）以上16（40.64センチメートル）以下のもの",
                     "rate": {
@@ -4687,7 +4687,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8712.00",
                     "hs_code": "219",
                     "desc": "−−−− その他のもの",
                     "rate": {
@@ -4734,7 +4734,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8712.00",
             "hs_code": "",
             "desc": "−− 車輪の径の呼びが24（60.96センチメートル）を超えるもの",
             "rate": {},
@@ -4743,7 +4743,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8712.00",
                 "hs_code": "291",
                 "desc": "−−− ディレーラ（内装変速装置を除く。）を有しないもの",
                 "rate": {
@@ -4786,7 +4786,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8712.00",
                 "hs_code": "299",
                 "desc": "−−− その他のもの",
                 "rate": {
@@ -5019,7 +5019,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.14",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -5463,7 +5463,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "87.16",
         "hs_code": "",
         "desc": "貨物輸送用のその他のトレーラー及びセミトレーラー",
         "rate": {},

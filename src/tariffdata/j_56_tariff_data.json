@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "56.01",
         "hs_code": "",
         "desc": "紡織用繊維のウォッディング及びその製品",
         "rate": {},
@@ -239,7 +239,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "56.02",
         "hs_code": "",
         "desc": "その他のフェルト（染み込ませ、塗布し、被覆し又は積層したものを除く。）",
         "rate": {},
@@ -390,7 +390,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "56.03",
         "hs_code": "",
         "desc": "人造繊維の長繊維製のもの",
         "rate": {},
@@ -408,7 +408,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.11",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -451,7 +451,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.11",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -491,7 +491,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.11",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -534,7 +534,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.11",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -577,7 +577,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.11",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -620,7 +620,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.11",
                     "hs_code": "240",
                     "desc": "− ビスコースレーヨン製のもの",
                     "rate": {
@@ -663,7 +663,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.11",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -719,7 +719,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.12",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -762,7 +762,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.12",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -802,7 +802,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.12",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -845,7 +845,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.12",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -888,7 +888,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.12",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -931,7 +931,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.12",
                     "hs_code": "240",
                     "desc": "− ビスコースレーヨン製のもの",
                     "rate": {
@@ -974,7 +974,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.12",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1030,7 +1030,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.13",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -1073,7 +1073,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.13",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1113,7 +1113,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.13",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -1156,7 +1156,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.13",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -1199,7 +1199,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.13",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -1242,7 +1242,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.13",
                     "hs_code": "240",
                     "desc": "− ビスコースレーヨン製のもの",
                     "rate": {
@@ -1285,7 +1285,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.13",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1341,7 +1341,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.14",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -1384,7 +1384,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.14",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1424,7 +1424,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.14",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -1467,7 +1467,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.14",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -1510,7 +1510,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.14",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -1553,7 +1553,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.14",
                     "hs_code": "240",
                     "desc": "− ビスコースレーヨン製のもの",
                     "rate": {
@@ -1596,7 +1596,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.14",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1645,7 +1645,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "56.03",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1663,7 +1663,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.91",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -1706,7 +1706,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.91",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1746,7 +1746,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.91",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -1789,7 +1789,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.91",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -1832,7 +1832,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.91",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -1875,7 +1875,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.91",
                     "hs_code": "240",
                     "desc": "− ビスコースレーヨン製のもの",
                     "rate": {
@@ -1918,7 +1918,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.91",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1974,7 +1974,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.92",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -2017,7 +2017,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.92",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2057,7 +2057,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.92",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -2100,7 +2100,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.92",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -2143,7 +2143,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.92",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -2186,7 +2186,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.92",
                     "hs_code": "240",
                     "desc": "− ビスコースレーヨン製のもの",
                     "rate": {
@@ -2229,7 +2229,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.92",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2285,7 +2285,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.93",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -2328,7 +2328,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.93",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2368,7 +2368,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.93",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -2411,7 +2411,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.93",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -2454,7 +2454,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.93",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -2497,7 +2497,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.93",
                     "hs_code": "240",
                     "desc": "− ビスコースレーヨン製のもの",
                     "rate": {
@@ -2540,7 +2540,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.93",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2596,7 +2596,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.94",
                 "hs_code": "100",
                 "desc": "1 芳香族ポリアミド繊維製のもの（電気絶縁用のものに限る。）",
                 "rate": {
@@ -2639,7 +2639,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5603.94",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2679,7 +2679,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.94",
                     "hs_code": "210",
                     "desc": "− ナイロンその他のポリアミド製のもの",
                     "rate": {
@@ -2722,7 +2722,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.94",
                     "hs_code": "220",
                     "desc": "− ポリエステル製のもの",
                     "rate": {
@@ -2765,7 +2765,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.94",
                     "hs_code": "230",
                     "desc": "− ポリプロピレン製のもの",
                     "rate": {
@@ -2808,7 +2808,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5603.94",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2918,7 +2918,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5604.90",
             "hs_code": "",
             "desc": "1 強力糸（ナイロンその他のポリアミド、ポリエステル又はビスコースレーヨンのもので、染み込ませ又は塗布したものに限る。）",
             "rate": {},
@@ -2927,7 +2927,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5604.90",
                 "hs_code": "110",
                 "desc": "(1)アラミド繊維のもの",
                 "rate": {
@@ -2968,7 +2968,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5604.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -2977,7 +2977,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5604.90",
                     "hs_code": "191",
                     "desc": "A ゴムを染み込ませ又は塗布したもの",
                     "rate": {
@@ -3018,7 +3018,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5604.90",
                     "hs_code": "199",
                     "desc": "B その他のもの",
                     "rate": {
@@ -3063,7 +3063,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5604.90",
             "hs_code": "200",
             "desc": "2 ゴムを染み込ませ、塗布し又は被覆したもの",
             "rate": {
@@ -3104,7 +3104,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5604.90",
             "hs_code": "",
             "desc": "3 その他のもの",
             "rate": {},
@@ -3113,7 +3113,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5604.90",
                 "hs_code": "910",
                 "desc": "(1)綿製のもの",
                 "rate": {
@@ -3154,7 +3154,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5604.90",
                 "hs_code": "990",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -3271,7 +3271,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5606.00",
         "hs_code": "010",
         "desc": "1 ループウェールヤーン",
         "rate": {
@@ -3312,7 +3312,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5606.00",
         "hs_code": "020",
         "desc": "2 その他のもの",
         "rate": {
@@ -3364,7 +3364,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "56.07",
         "hs_code": "",
         "desc": "サイザルその他のアゲーブ属の紡織用繊維製のもの",
         "rate": {},
@@ -3457,7 +3457,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "56.07",
         "hs_code": "",
         "desc": "ポリエチレン製又はポリプロピレン製のもの",
         "rate": {},
@@ -3547,7 +3547,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5607.49",
                 "hs_code": "010",
                 "desc": "− ポリエチレン製のもの",
                 "rate": {
@@ -3588,7 +3588,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5607.49",
                 "hs_code": "090",
                 "desc": "− ポリプロピレン製のもの",
                 "rate": {
@@ -3683,7 +3683,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5607.90",
             "hs_code": "100",
             "desc": "1 第53.03項のジュートその他の紡織用靱皮繊維製のもの",
             "rate": {
@@ -3724,7 +3724,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5607.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -3764,7 +3764,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5607.90",
                 "hs_code": "910",
                 "desc": "− アバカ（マニラ麻又はムサ・テクスティリス）その他の硬質繊維のもの",
                 "rate": {
@@ -3805,7 +3805,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5607.90",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3861,7 +3861,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "56.08",
         "hs_code": "",
         "desc": "人造繊維製のもの",
         "rate": {},
@@ -3922,7 +3922,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5608.19",
                 "hs_code": "",
                 "desc": "1 結び網地及び結び網（ひも又は綱から製造したものに限る。）",
                 "rate": {},
@@ -3931,7 +3931,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5608.19",
                     "hs_code": "011",
                     "desc": "(1)合成繊維製のもの",
                     "rate": {
@@ -3974,7 +3974,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5608.19",
                     "hs_code": "019",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -4019,7 +4019,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5608.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4059,7 +4059,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5608.19",
                     "hs_code": "091",
                     "desc": "− 合成繊維製のもの",
                     "rate": {
@@ -4102,7 +4102,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5608.19",
                     "hs_code": "099",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4160,7 +4160,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5608.90",
             "hs_code": "",
             "desc": "1 結び網地及び結び網（ひも又は綱から製造したものに限る。）並びに漁網（製品にしたもので、糸、ひも又は綱から製造したものに限る。）",
             "rate": {},
@@ -4169,7 +4169,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5608.90",
                 "hs_code": "011",
                 "desc": "(1)綿製のもの",
                 "rate": {
@@ -4212,7 +4212,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5608.90",
                 "hs_code": "019",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -4257,7 +4257,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5608.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -4323,7 +4323,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5609.00",
         "hs_code": "010",
         "desc": "1 亜麻製、ラミー製、大麻製、ジュート製その他の紡織用靱皮繊維製、マニラ麻製、サイザル麻製、合成繊維製又はアセテート繊維製のもの",
         "rate": {
@@ -4364,7 +4364,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5609.00",
         "hs_code": "020",
         "desc": "2 その他のもの",
         "rate": {

@@ -173,7 +173,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "6505.00",
         "hs_code": "100",
         "desc": "1 ヘアネット",
         "rate": {
@@ -214,7 +214,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "6505.00",
         "hs_code": "900",
         "desc": "2 その他のもの",
         "rate": {
@@ -275,7 +275,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6506.10",
             "hs_code": "100",
             "desc": "1 革製のもの及び毛皮付きのもの",
             "rate": {
@@ -318,7 +318,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6506.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -363,7 +363,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "65.06",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -381,7 +381,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6506.91",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -422,7 +422,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6506.91",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -474,7 +474,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6506.99",
                 "hs_code": "100",
                 "desc": "1 革製のもの及び毛皮付きのもの",
                 "rate": {
@@ -515,7 +515,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6506.99",
                 "hs_code": "300",
                 "desc": "2 毛皮製のもの",
                 "rate": {
@@ -556,7 +556,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6506.99",
                 "hs_code": "900",
                 "desc": "3 その他のもの",
                 "rate": {

@@ -51,7 +51,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5001.00",
         "hs_code": "010",
         "desc": "− この号に掲げる繭の数量（政令で定めるところにより生糸に換算した数量とする。）及び第5002.00号の2に掲げる生糸の数量を合計した数量について、798トンを基準とし、当該年度における国内需要見込数量から国内生産見込数量を控除した数量、国際市況その他の条件を勘案して政令で定める数量（第5002.00号において「共通の限度数量」という。）以内のもの",
         "rate": {
@@ -92,7 +92,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5001.00",
         "hs_code": "090",
         "desc": "− その他のもの",
         "rate": {
@@ -154,7 +154,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5002.00",
         "hs_code": "100",
         "desc": "1 野蚕のもの",
         "rate": {
@@ -195,7 +195,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5002.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {
@@ -235,7 +235,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5002.00",
             "hs_code": "",
             "desc": "− 共通の限度数量以内のもの",
             "rate": {
@@ -275,7 +275,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5002.00",
                 "hs_code": "211",
                 "desc": "−− 玉糸",
                 "rate": {
@@ -316,7 +316,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5002.00",
                 "hs_code": "",
                 "desc": "−− その他のもの",
                 "rate": {},
@@ -325,7 +325,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5002.00",
                     "hs_code": "215",
                     "desc": "−−− 繊度が21中のもの",
                     "rate": {
@@ -366,7 +366,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5002.00",
                     "hs_code": "216",
                     "desc": "−−− 繊度が27中及び28中のもの",
                     "rate": {
@@ -407,7 +407,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5002.00",
                     "hs_code": "217",
                     "desc": "−−− その他のもの",
                     "rate": {
@@ -452,7 +452,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5002.00",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {
@@ -492,7 +492,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5002.00",
                 "hs_code": "221",
                 "desc": "−− 玉糸",
                 "rate": {
@@ -533,7 +533,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5002.00",
                 "hs_code": "",
                 "desc": "−− その他のもの",
                 "rate": {},
@@ -542,7 +542,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5002.00",
                     "hs_code": "225",
                     "desc": "−−− 繊度が21中のもの",
                     "rate": {
@@ -583,7 +583,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5002.00",
                     "hs_code": "226",
                     "desc": "−−− 繊度が27中及び28中のもの",
                     "rate": {
@@ -624,7 +624,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5002.00",
                     "hs_code": "227",
                     "desc": "−−− その他のもの",
                     "rate": {
@@ -723,7 +723,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5003.00",
         "hs_code": "",
         "desc": "− カード及びコームのいずれもしてないもの",
         "rate": {},
@@ -732,7 +732,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5003.00",
             "hs_code": "012",
             "desc": "−− くず繭",
             "rate": {
@@ -773,7 +773,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5003.00",
             "hs_code": "019",
             "desc": "−− その他のもの",
             "rate": {
@@ -816,7 +816,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5003.00",
         "hs_code": "090",
         "desc": "− その他のもの",
         "rate": {
@@ -960,7 +960,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5005.00",
         "hs_code": "010",
         "desc": "−  絹紡糸",
         "rate": {
@@ -1001,7 +1001,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5005.00",
         "hs_code": "090",
         "desc": "− 絹紡紬糸",
         "rate": {
@@ -1063,7 +1063,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5006.00",
         "hs_code": "010",
         "desc": "1 絹糸、絹紡糸及び絹紡紬糸",
         "rate": {
@@ -1104,7 +1104,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5006.00",
         "hs_code": "020",
         "desc": "2 天然てぐす",
         "rate": {
@@ -1165,7 +1165,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5007.10",
             "hs_code": "010",
             "desc": "1 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
             "rate": {
@@ -1206,7 +1206,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5007.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -1289,7 +1289,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5007.20",
             "hs_code": "010",
             "desc": "− 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
             "rate": {
@@ -1330,7 +1330,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5007.20",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {
@@ -1370,7 +1370,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5007.20",
                 "hs_code": "",
                 "desc": "−− 他の繊維を交えたもの",
                 "rate": {},
@@ -1379,7 +1379,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5007.20",
                     "hs_code": "021",
                     "desc": "−−− 毛を交えたもの",
                     "rate": {
@@ -1420,7 +1420,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5007.20",
                     "hs_code": "029",
                     "desc": "−−− その他のもの",
                     "rate": {
@@ -1463,7 +1463,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5007.20",
                 "hs_code": "",
                 "desc": "−− 他の繊維を交えていないもの",
                 "rate": {},
@@ -1472,7 +1472,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5007.20",
                     "hs_code": "",
                     "desc": "−−− 幅が45センチメートル以下のもの",
                     "rate": {},
@@ -1481,7 +1481,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5007.20",
                         "hs_code": "",
                         "desc": "−−−− 先染めのもの",
                         "rate": {},
@@ -1490,7 +1490,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "031",
                             "desc": "−−−−− 紋織りのもの",
                             "rate": {
@@ -1531,7 +1531,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "032",
                             "desc": "−−−−− かすり糸を使用したもの",
                             "rate": {
@@ -1572,7 +1572,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "033",
                             "desc": "−−−−− その他のもの",
                             "rate": {
@@ -1615,7 +1615,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5007.20",
                         "hs_code": "",
                         "desc": "−−−− その他のもの",
                         "rate": {},
@@ -1624,7 +1624,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "034",
                             "desc": "−−−−− 紋織りのもの",
                             "rate": {
@@ -1665,7 +1665,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "035",
                             "desc": "−−−−− しぼり加工をしたもの",
                             "rate": {
@@ -1706,7 +1706,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "039",
                             "desc": "−−−−− その他のもの",
                             "rate": {
@@ -1751,7 +1751,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5007.20",
                     "hs_code": "",
                     "desc": "−−− その他のもの",
                     "rate": {},
@@ -1760,7 +1760,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5007.20",
                         "hs_code": "",
                         "desc": "−−−− 染色したもの",
                         "rate": {},
@@ -1769,7 +1769,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "091",
                             "desc": "−−−−− 紋織りのもの",
                             "rate": {
@@ -1810,7 +1810,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "092",
                             "desc": "−−−−− その他のもの",
                             "rate": {
@@ -1853,7 +1853,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5007.20",
                         "hs_code": "",
                         "desc": "−−−− その他のもの",
                         "rate": {},
@@ -1862,7 +1862,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "093",
                             "desc": "−−−−− 紋織りのもの",
                             "rate": {
@@ -1903,7 +1903,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "094",
                             "desc": "−−−−− よつてない糸（野蚕のものを除く。）を使用したもの（重量が1平方メートルにつき32.3グラム以上のもの）",
                             "rate": {
@@ -1944,7 +1944,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "095",
                             "desc": "−−−−− よつてない糸（野蚕のものを除く。）を使用したもの（重量が1平方メートルにつき32.3グラム未満のもの）",
                             "rate": {
@@ -1985,7 +1985,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5007.20",
                             "hs_code": "099",
                             "desc": "−−−−− その他のもの",
                             "rate": {
@@ -2076,7 +2076,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5007.90",
             "hs_code": "010",
             "desc": "− 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
             "rate": {
@@ -2117,7 +2117,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5007.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {
@@ -2157,7 +2157,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5007.90",
                 "hs_code": "091",
                 "desc": "−− 毛を交えたもの",
                 "rate": {
@@ -2198,7 +2198,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5007.90",
                 "hs_code": "099",
                 "desc": "−− その他のもの",
                 "rate": {

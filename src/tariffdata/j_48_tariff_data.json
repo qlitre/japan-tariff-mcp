@@ -51,7 +51,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4801.00",
         "hs_code": "",
         "desc": "− 幅が80センチメートルを超えるロール状のもの",
         "rate": {
@@ -91,7 +91,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4801.00",
             "hs_code": "011",
             "desc": "−− 幅が161センチメートルを超えるもの",
             "rate": {
@@ -132,7 +132,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4801.00",
             "hs_code": "019",
             "desc": "−− 幅が161センチメートル以下のもの",
             "rate": {
@@ -175,7 +175,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4801.00",
         "hs_code": "090",
         "desc": "− その他のもの",
         "rate": {
@@ -350,7 +350,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.02",
         "hs_code": "",
         "desc": "その他の紙及び板紙（機械パルプとケミグランドパルプを合わせたものの含有量が全繊維重量の10％以下のものに限る。）",
         "rate": {},
@@ -566,7 +566,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.02",
         "hs_code": "",
         "desc": "その他の紙及び板紙（機械パルプとケミグランドパルプを合わせたものの含有量が全繊維重量の10％を超えるものに限る。）",
         "rate": {},
@@ -615,7 +615,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4802.61",
                 "hs_code": "100",
                 "desc": "1 カーボン原紙",
                 "rate": {
@@ -656,7 +656,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4802.61",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -739,7 +739,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4802.62",
                 "hs_code": "100",
                 "desc": "1 カーボン原紙",
                 "rate": {
@@ -780,7 +780,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4802.62",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -863,7 +863,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4802.69",
                 "hs_code": "100",
                 "desc": "1 カーボン原紙",
                 "rate": {
@@ -904,7 +904,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4802.69",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1011,7 +1011,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.04",
         "hs_code": "",
         "desc": "クラフトライナー",
         "rate": {},
@@ -1029,7 +1029,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.11",
                 "hs_code": "010",
                 "desc": "1 重量が1平方メートルにつき300グラム以下のもの",
                 "rate": {
@@ -1070,7 +1070,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.11",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1122,7 +1122,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.19",
                 "hs_code": "010",
                 "desc": "1 重量が1平方メートルにつき300グラム以下のもの",
                 "rate": {
@@ -1163,7 +1163,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1208,7 +1208,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.04",
         "hs_code": "",
         "desc": "重袋用クラフト紙",
         "rate": {},
@@ -1301,7 +1301,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.04",
         "hs_code": "",
         "desc": "その他のクラフト紙及びクラフト板紙（重量が1平方メートルにつき150グラム以下のものに限る。）",
         "rate": {},
@@ -1394,7 +1394,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.04",
         "hs_code": "",
         "desc": "その他のクラフト紙及びクラフト板紙（重量が1平方メートルにつき150グラムを超え225グラム未満のものに限る。）",
         "rate": {},
@@ -1528,7 +1528,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.04",
         "hs_code": "",
         "desc": "その他のクラフト紙及びクラフト板紙（重量が1平方メートルにつき225グラム以上のものに限る。）",
         "rate": {},
@@ -1546,7 +1546,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.51",
                 "hs_code": "010",
                 "desc": "1 重量が1平方メートルにつき300グラム以下のもの",
                 "rate": {
@@ -1587,7 +1587,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.51",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1639,7 +1639,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.52",
                 "hs_code": "010",
                 "desc": "1 重量が1平方メートルにつき300グラム以下のもの",
                 "rate": {
@@ -1680,7 +1680,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.52",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1732,7 +1732,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.59",
                 "hs_code": "010",
                 "desc": "1 重量が1平方メートルにつき300グラム以下のもの",
                 "rate": {
@@ -1773,7 +1773,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4804.59",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1829,7 +1829,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.05",
         "hs_code": "",
         "desc": "段ボール用中芯原紙",
         "rate": {},
@@ -1969,7 +1969,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.05",
         "hs_code": "",
         "desc": "テストライナー（再生ライナーボード）",
         "rate": {},
@@ -2118,7 +2118,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4805.40",
             "hs_code": "010",
             "desc": "1 重量が1平方メートルにつき130グラムを超えるもの（ロール状のものに限る。）",
             "rate": {
@@ -2161,7 +2161,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4805.40",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -2215,7 +2215,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4805.50",
             "hs_code": "010",
             "desc": "1 重量が1平方メートルにつき130グラムを超えるもの（ロール状のものに限る。）",
             "rate": {
@@ -2258,7 +2258,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4805.50",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -2303,7 +2303,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.05",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -2868,7 +2868,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4809.90",
             "hs_code": "100",
             "desc": "1 カーボン紙",
             "rate": {
@@ -2911,7 +2911,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4809.90",
             "hs_code": "900",
             "desc": "2 その他のもの",
             "rate": {
@@ -2967,7 +2967,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.10",
         "hs_code": "",
         "desc": "筆記用、印刷用その他のグラフィック用に供する種類の紙及び板紙（機械パルプとケミグランドパルプを合わせたものの含有量が全繊維重量の10％以下のものに限る。）",
         "rate": {},
@@ -3101,7 +3101,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.10",
         "hs_code": "",
         "desc": "筆記用、印刷用その他のグラフィック用に供する種類の紙及び板紙（機械パルプとケミグランドパルプを合わせたものの含有量が全繊維重量の10％を超えるものに限る。）",
         "rate": {},
@@ -3160,7 +3160,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4810.29",
                 "hs_code": "010",
                 "desc": "1 機械パルプの含有量が全繊維重量の10％を超えるもの",
                 "rate": {
@@ -3201,7 +3201,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4810.29",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3246,7 +3246,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.10",
         "hs_code": "",
         "desc": "クラフト紙及びクラフト板紙（筆記用、印刷用その他のグラフィック用に供する種類のものを除く。）",
         "rate": {},
@@ -3380,7 +3380,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.10",
         "hs_code": "",
         "desc": "その他の紙及び板紙",
         "rate": {},
@@ -3525,7 +3525,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.11",
         "hs_code": "",
         "desc": "粘着剤又は接着剤を塗布した紙及び板紙",
         "rate": {},
@@ -3618,7 +3618,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.11",
         "hs_code": "",
         "desc": "プラスチック（接着剤を除く。）を塗布し、染み込ませ又は被覆した紙及び板紙",
         "rate": {},
@@ -3667,7 +3667,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4811.51",
                 "hs_code": "010",
                 "desc": "− ミルクカートン用紙",
                 "rate": {
@@ -3710,7 +3710,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4811.51",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3795,7 +3795,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4811.59",
                 "hs_code": "010",
                 "desc": "− ミルクカートン用紙",
                 "rate": {
@@ -3836,7 +3836,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4811.59",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3890,7 +3890,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4811.60",
             "hs_code": "010",
             "desc": "1 ワックス、パラフィン又は油で処理した紙及び板紙",
             "rate": {
@@ -3931,7 +3931,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4811.60",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -4014,7 +4014,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4811.90",
             "hs_code": "100",
             "desc": "− 感熱紙",
             "rate": {
@@ -4055,7 +4055,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4811.90",
             "hs_code": "900",
             "desc": "− その他のもの",
             "rate": {
@@ -4701,7 +4701,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4818.20",
             "hs_code": "100",
             "desc": "− クレンジングティッシュ及び化粧用ティッシュ",
             "rate": {
@@ -4744,7 +4744,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4818.20",
             "hs_code": "200",
             "desc": "− ハンカチ及びタオル",
             "rate": {
@@ -5727,7 +5727,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "48.23",
         "hs_code": "",
         "desc": "紙製又は板紙製の盆、皿、コップその他これらに類する製品",
         "rate": {},
@@ -5876,7 +5876,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4823.90",
             "hs_code": "100",
             "desc": "1 せん孔カード式統計機械用のカード、モノタイプ用のテープその他これらに類する物品に記録のためにせん孔したもの",
             "rate": {
@@ -5919,7 +5919,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4823.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {

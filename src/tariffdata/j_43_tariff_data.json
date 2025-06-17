@@ -185,7 +185,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4301.80",
             "hs_code": "010",
             "desc": "− やぎ又はうさぎのもの",
             "rate": {
@@ -230,7 +230,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4301.80",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -286,7 +286,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4301.90",
             "hs_code": "220",
             "desc": "1 ミンクのもの",
             "rate": {
@@ -331,7 +331,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4301.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -371,7 +371,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4301.90",
                 "hs_code": "210",
                 "desc": "− うさぎのもの",
                 "rate": {
@@ -416,7 +416,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4301.90",
                 "hs_code": "100",
                 "desc": "− 子羊又はやぎのもの",
                 "rate": {
@@ -461,7 +461,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4301.90",
                 "hs_code": "300",
                 "desc": "− その他のもの",
                 "rate": {
@@ -521,7 +521,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "43.02",
         "hs_code": "",
         "desc": "全形のもの（組み合わせてないものに限るものとし、頭部、尾部又は足部が付いているかいないかを問わない。）",
         "rate": {},
@@ -615,7 +615,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.19",
                 "hs_code": "011",
                 "desc": "− 羊、やぎ又はうさぎのもの",
                 "rate": {
@@ -660,7 +660,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.19",
                 "hs_code": "020",
                 "desc": "− きつねのもの",
                 "rate": {
@@ -705,7 +705,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.19",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -794,7 +794,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4302.20",
             "hs_code": "010",
             "desc": "− 羊、やぎ又はうさぎのもの",
             "rate": {
@@ -839,7 +839,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4302.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -895,7 +895,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4302.30",
             "hs_code": "",
             "desc": "1 ドロップスキン",
             "rate": {
@@ -935,7 +935,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.30",
                 "hs_code": "014",
                 "desc": "− 羊、やぎ又はうさぎのもの",
                 "rate": {
@@ -980,7 +980,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.30",
                 "hs_code": "013",
                 "desc": "− ミンクのもの",
                 "rate": {
@@ -1025,7 +1025,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.30",
                 "hs_code": "019",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1072,7 +1072,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4302.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -1112,7 +1112,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.30",
                 "hs_code": "024",
                 "desc": "− 羊、やぎ又はうさぎのもの",
                 "rate": {
@@ -1157,7 +1157,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4302.30",
                 "hs_code": "029",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1257,7 +1257,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4303.10",
             "hs_code": "",
             "desc": "− 衣類",
             "rate": {},
@@ -1266,7 +1266,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4303.10",
                 "hs_code": "011",
                 "desc": "−− 羊又はやぎの毛皮製のもの",
                 "rate": {
@@ -1310,7 +1310,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4303.10",
                 "hs_code": "012",
                 "desc": "−− うさぎの毛皮製のもの",
                 "rate": {
@@ -1354,7 +1354,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4303.10",
                 "hs_code": "013",
                 "desc": "−− ミンクの毛皮製のもの",
                 "rate": {
@@ -1398,7 +1398,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4303.10",
                 "hs_code": "014",
                 "desc": "−− きつねの毛皮製のもの",
                 "rate": {
@@ -1442,7 +1442,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4303.10",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1488,7 +1488,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4303.10",
             "hs_code": "",
             "desc": "− 衣類附属品",
             "rate": {},
@@ -1497,7 +1497,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4303.10",
                 "hs_code": "091",
                 "desc": "−− 羊、やぎ又はうさぎの毛皮製のもの",
                 "rate": {
@@ -1541,7 +1541,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4303.10",
                 "hs_code": "099",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1629,7 +1629,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4303.90",
             "hs_code": "010",
             "desc": "− 羊、やぎ又はうさぎの毛皮製のもの",
             "rate": {
@@ -1673,7 +1673,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4303.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

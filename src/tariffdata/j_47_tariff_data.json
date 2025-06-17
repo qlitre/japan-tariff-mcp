@@ -51,7 +51,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4701.00",
         "hs_code": "010",
         "desc": "− さらしてないもの",
         "rate": {
@@ -92,7 +92,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4701.00",
         "hs_code": "090",
         "desc": "− 半さらしのもの及びさらしたもの",
         "rate": {
@@ -185,7 +185,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4702.00",
         "hs_code": "010",
         "desc": "− 亜硫酸パルプ（サルファイトパルプ）",
         "rate": {
@@ -226,7 +226,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4702.00",
         "hs_code": "090",
         "desc": "− その他のもの",
         "rate": {
@@ -278,7 +278,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "47.03",
         "hs_code": "",
         "desc": "さらしてないもの",
         "rate": {},
@@ -371,7 +371,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "47.03",
         "hs_code": "",
         "desc": "半さらしのもの及びさらしたもの",
         "rate": {},
@@ -475,7 +475,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "47.04",
         "hs_code": "",
         "desc": "さらしてないもの",
         "rate": {},
@@ -568,7 +568,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "47.04",
         "hs_code": "",
         "desc": "半さらしのもの及びさらしたもの",
         "rate": {},
@@ -846,7 +846,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "47.06",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1031,7 +1031,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4707.10",
             "hs_code": "010",
             "desc": "− 段ボールのもの",
             "rate": {
@@ -1072,7 +1072,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4707.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1196,7 +1196,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4707.30",
             "hs_code": "010",
             "desc": "− 新聞のもの",
             "rate": {
@@ -1237,7 +1237,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "4707.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

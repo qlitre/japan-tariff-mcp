@@ -434,7 +434,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3805.90",
             "hs_code": "100",
             "desc": "1 パイン油",
             "rate": {
@@ -475,7 +475,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3805.90",
             "hs_code": "900",
             "desc": "2 その他のもの",
             "rate": {
@@ -755,7 +755,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.08",
         "hs_code": "",
         "desc": "この類の号注1の物品",
         "rate": {},
@@ -860,7 +860,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.08",
         "hs_code": "",
         "desc": "この類の号注2の物品",
         "rate": {},
@@ -1012,7 +1012,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.08",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1061,7 +1061,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3808.91",
                 "hs_code": "010",
                 "desc": "− 農薬",
                 "rate": {
@@ -1108,7 +1108,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3808.91",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -1117,7 +1117,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3808.91",
                     "hs_code": "091",
                     "desc": "−− 小売用の形状又は包装にしたもの",
                     "rate": {
@@ -1164,7 +1164,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3808.91",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -1255,7 +1255,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3808.92",
                 "hs_code": "010",
                 "desc": "− 農薬",
                 "rate": {
@@ -1302,7 +1302,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3808.92",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -1311,7 +1311,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3808.92",
                     "hs_code": "091",
                     "desc": "−− 小売用の形状又は包装にしたもの",
                     "rate": {
@@ -1358,7 +1358,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3808.92",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -1449,7 +1449,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3808.93",
                 "hs_code": "010",
                 "desc": "− 農薬",
                 "rate": {
@@ -1496,7 +1496,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3808.93",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -1505,7 +1505,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3808.93",
                     "hs_code": "091",
                     "desc": "−− 小売用の形状又は包装にしたもの",
                     "rate": {
@@ -1552,7 +1552,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3808.93",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -1754,7 +1754,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.09",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1803,7 +1803,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3809.91",
                 "hs_code": "010",
                 "desc": "− つや出し剤及び仕上剤",
                 "rate": {
@@ -1846,7 +1846,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3809.91",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2088,7 +2088,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.11",
         "hs_code": "",
         "desc": "アンチノック剤",
         "rate": {},
@@ -2187,7 +2187,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.11",
         "hs_code": "",
         "desc": "潤滑油用の添加剤",
         "rate": {},
@@ -2326,7 +2326,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3811.90",
             "hs_code": "010",
             "desc": "− 燃料油用のもの",
             "rate": {
@@ -2370,7 +2370,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3811.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2513,7 +2513,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.12",
         "hs_code": "",
         "desc": "ゴム用又はプラスチック用の調製した老化防止剤その他の複合した安定剤",
         "rate": {},
@@ -2531,7 +2531,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3812.31",
                 "hs_code": "100",
                 "desc": "1 ゴム老化防止剤",
                 "rate": {
@@ -2574,7 +2574,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3812.31",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2628,7 +2628,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3812.39",
                 "hs_code": "100",
                 "desc": "1 ゴム老化防止剤",
                 "rate": {
@@ -2671,7 +2671,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3812.39",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2837,7 +2837,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.15",
         "hs_code": "",
         "desc": "担体付き触媒",
         "rate": {},
@@ -2896,7 +2896,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3815.12",
                 "hs_code": "100",
                 "desc": "1 白金触媒",
                 "rate": {
@@ -2937,7 +2937,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3815.12",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -2946,7 +2946,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3815.12",
                     "hs_code": "210",
                     "desc": "(1)自動車の排気ガス浄化用のもの",
                     "rate": {
@@ -2987,7 +2987,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3815.12",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3041,7 +3041,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3815.19",
                 "hs_code": "100",
                 "desc": "1 鉄触媒",
                 "rate": {
@@ -3082,7 +3082,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3815.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3122,7 +3122,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3815.19",
                     "hs_code": "210",
                     "desc": "− シリカ・アルミナ触媒",
                     "rate": {
@@ -3163,7 +3163,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3815.19",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3219,7 +3219,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3815.90",
             "hs_code": "100",
             "desc": "1 鉄触媒及び白金触媒",
             "rate": {
@@ -3260,7 +3260,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3815.90",
             "hs_code": "200",
             "desc": "2 シリカ・アルミナ触媒",
             "rate": {
@@ -3301,7 +3301,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3815.90",
             "hs_code": "",
             "desc": "3 その他のもの",
             "rate": {
@@ -3341,7 +3341,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3815.90",
                 "hs_code": "310",
                 "desc": "− 触媒",
                 "rate": {
@@ -3382,7 +3382,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3815.90",
                 "hs_code": "390",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3448,7 +3448,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3816.00",
         "hs_code": "020",
         "desc": "1 ドロマイトラミングミックス",
         "rate": {
@@ -3489,7 +3489,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3816.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {
@@ -3529,7 +3529,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3816.00",
             "hs_code": "010",
             "desc": "− 耐火性のセメント及びモルタル",
             "rate": {
@@ -3570,7 +3570,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3816.00",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -3634,7 +3634,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3817.00",
         "hs_code": "100",
         "desc": "1 混合アルキルベンゼン",
         "rate": {
@@ -3675,7 +3675,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3817.00",
         "hs_code": "200",
         "desc": "2 混合アルキルナフタレン",
         "rate": {
@@ -3737,7 +3737,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3818.00",
         "hs_code": "010",
         "desc": "1 けい素を電子工業用にドープ処理し、円盤状、ウエハー状その他これらに類する形状にしたもの",
         "rate": {
@@ -3778,7 +3778,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "3818.00",
         "hs_code": "020",
         "desc": "2 その他のもの",
         "rate": {
@@ -3985,7 +3985,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.22",
         "hs_code": "",
         "desc": "診断用又は理化学用の試薬（支持体を使用したものに限る。）及び診断用又は理化学用の調製試薬（支持体を使用してあるかないか及びキットにしてあるかないかを問わない。）",
         "rate": {},
@@ -4236,7 +4236,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.23",
         "hs_code": "",
         "desc": "アシッドオイルで油脂の精製の際に生ずるもの及び工業用の脂肪性モノカルボン酸",
         "rate": {},
@@ -4518,7 +4518,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3824.30",
             "hs_code": "100",
             "desc": "1 金属炭化物の混合物",
             "rate": {
@@ -4564,7 +4564,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3824.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -4750,7 +4750,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.24",
         "hs_code": "",
         "desc": "この類の号注3の物品",
         "rate": {},
@@ -5121,7 +5121,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3824.88",
                 "hs_code": "010",
                 "desc": "−ヘプタブロモジフェニルエーテル及びオクタブロモジフェニルエーテルを主成分とする混合物",
                 "rate": {
@@ -5167,7 +5167,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3824.88",
                 "hs_code": "090",
                 "desc": "−その他のもの",
                 "rate": {
@@ -5266,7 +5266,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.24",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -5379,7 +5379,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3824.99",
                 "hs_code": "100",
                 "desc": "1 チューインガムベース（砂糖その他の甘味料又は香料を含有するものを除く。）",
                 "rate": {
@@ -5428,7 +5428,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3824.99",
                 "hs_code": "200",
                 "desc": "2 脂肪酸混合物の誘導体",
                 "rate": {
@@ -5477,7 +5477,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3824.99",
                 "hs_code": "300",
                 "desc": "3 ナフテン酸並びにその塩（水溶性のものを除く。）及びエステル",
                 "rate": {
@@ -5526,7 +5526,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3824.99",
                 "hs_code": "",
                 "desc": "4 その他のもの",
                 "rate": {},
@@ -5535,7 +5535,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3824.99",
                     "hs_code": "500",
                     "desc": "(1) ジスプロシウム鉄合金",
                     "rate": {
@@ -5578,7 +5578,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "3824.99",
                     "hs_code": "",
                     "desc": "(2) その他のもの",
                     "rate": {
@@ -5618,7 +5618,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "3824.99",
                         "hs_code": "910",
                         "desc": "− ジブロモネオペンチルグリコールを主成分とする混合物",
                         "rate": {
@@ -5667,7 +5667,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "3824.99",
                         "hs_code": "920",
                         "desc": "− 5'-リボヌクレオチドカルシウム及び5'-リボヌクレオチド二ナトリウム",
                         "rate": {
@@ -5716,7 +5716,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "3824.99",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5756,7 +5756,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "3824.99",
                             "hs_code": "991",
                             "desc": "−− 修正テープ（交換用のものを含み、小売用にしたものに限る。）",
                             "rate": {
@@ -5805,7 +5805,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "3824.99",
                             "hs_code": "999",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -6016,7 +6016,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.25",
         "hs_code": "",
         "desc": "有機溶剤廃棄物",
         "rate": {},
@@ -6168,7 +6168,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.25",
         "hs_code": "",
         "desc": "化学工業（類似の工業を含む。）において生ずる廃棄物",
         "rate": {},
@@ -6282,7 +6282,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3825.90",
             "hs_code": "100",
             "desc": "1 セレンさい及びテルルさい並びにアンモニア性ガス液及び石炭ガス精製の際に産出する廃酸化鉄",
             "rate": {
@@ -6329,7 +6329,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3825.90",
             "hs_code": "900",
             "desc": "2 その他のもの",
             "rate": {
@@ -6442,7 +6442,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.27",
         "hs_code": "",
         "desc": "クロロフルオロカーボン（CFC）を含有するもの（ハイドロクロロフルオロカーボン（HCFC）、ペルフルオロカーボン（PFC）又はハイドロフルオロカーボン（HFC）を含有するかしないかを問わない。）、ハイドロブロモフルオロカーボン（HBFC）を含有するもの、四塩化炭素を含有するもの又は1,1,1-トリクロロエタン（メチルクロロホルム）を含有するもの",
         "rate": {
@@ -6723,7 +6723,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.27",
         "hs_code": "",
         "desc": "ハイドロクロロフルオロカーボン（HCFC）を含有するもの（クロロフルオロカーボン（CFC）を含有しないものに限るものとし、ペルフルオロカーボン（PFC）又はハイドロフルオロカーボン（HFC）を含有するかしないかを問わない。）",
         "rate": {},
@@ -6924,7 +6924,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.27",
         "hs_code": "",
         "desc": "トリフルオロメタン（HFC-23）又はペルフルオロカーボン（PFC）を含有するもの（クロロフルオロカーボン（CFC）及びハイドロクロロフルオロカーボン（HCFC）を含有しないものに限る。）",
         "rate": {},
@@ -7031,7 +7031,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "38.27",
         "hs_code": "",
         "desc": "その他のハイドロフルオロカーボン（HFC）を含有するもの（クロロフルオロカーボン（CFC）及びハイドロクロロフルオロカーボン（HCFC）を含有しないものに限る。）",
         "rate": {},
@@ -7080,7 +7080,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3827.61",
                 "hs_code": "010",
                 "desc": "− 1,1,1-トリフルオロエタン（HFC-143a）、ペンタフルオロエタン（HFC-125）及び1,1,1,2-テトラフルオロエタン（HFC-134a）をそれぞれ52：44：4の割合で含有するもの（R-404A）",
                 "rate": {
@@ -7128,7 +7128,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3827.61",
                 "hs_code": "020",
                 "desc": "− 1,1,1-トリフルオロエタン（HFC-143a）及びペンタフルオロエタン（HFC-125）をそれぞれ50：50の割合で含有するもの（R-507A）",
                 "rate": {
@@ -7176,7 +7176,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3827.61",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7314,7 +7314,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3827.63",
                 "hs_code": "010",
                 "desc": "− ジフルオロメタン（HFC-32）及びペンタフルオロエタン（HFC-125）をそれぞれ50：50の割合で含有するもの（R-410A）",
                 "rate": {
@@ -7362,7 +7362,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3827.63",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7452,7 +7452,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3827.64",
                 "hs_code": "010",
                 "desc": "− ジフルオロメタン（HFC-32）、ペンタフルオロエタン（HFC-125）及び1,1,1,2-テトラフルオロエタン（HFC-134a）をそれぞれ23：25：52の割合で含有するもの（R-407C）",
                 "rate": {
@@ -7500,7 +7500,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3827.64",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {

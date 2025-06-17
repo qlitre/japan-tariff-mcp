@@ -19,7 +19,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7801.10",
             "hs_code": "010",
             "desc": "1 課税価格が1キログラムにつき172円以下のもの",
             "rate": {
@@ -60,7 +60,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7801.10",
             "hs_code": "020",
             "desc": "2 課税価格が1キログラムにつき172円を超え180円以下のもの",
             "rate": {
@@ -101,7 +101,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7801.10",
             "hs_code": "030",
             "desc": "3 課税価格が1キログラムにつき180円を超えるもの",
             "rate": {
@@ -144,7 +144,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "78.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -162,7 +162,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7801.91",
                 "hs_code": "",
                 "desc": "1 電解精製用のもの（鉛の含有量が全重量の95％を超えるものに限る。）",
                 "rate": {},
@@ -171,7 +171,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7801.91",
                     "hs_code": "010",
                     "desc": "(1) 課税価格が1キログラムにつき165円37銭以下のもの",
                     "rate": {
@@ -212,7 +212,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7801.91",
                     "hs_code": "020",
                     "desc": "(2) 課税価格が1キログラムにつき165円37銭を超え170円以下のもの",
                     "rate": {
@@ -253,7 +253,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7801.91",
                     "hs_code": "030",
                     "desc": "(3) 課税価格が1キログラムにつき170円を超えるもの",
                     "rate": {
@@ -296,7 +296,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7801.91",
                 "hs_code": "040",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -348,7 +348,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7801.99",
                 "hs_code": "100",
                 "desc": "1 鉛合金のもの",
                 "rate": {
@@ -389,7 +389,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7801.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -398,7 +398,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7801.99",
                     "hs_code": "",
                     "desc": "(1)電解精製用のもの（鉛の含有量が全重量の95％を超えるものに限る。）",
                     "rate": {},
@@ -407,7 +407,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7801.99",
                         "hs_code": "211",
                         "desc": "A 課税価格が1キログラムにつき165円37銭以下のもの",
                         "rate": {
@@ -448,7 +448,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7801.99",
                         "hs_code": "212",
                         "desc": "B 課税価格が1キログラムにつき165円37銭を超え170円以下のもの",
                         "rate": {
@@ -489,7 +489,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7801.99",
                         "hs_code": "219",
                         "desc": "C 課税価格が1キログラムにつき170円を超えるもの",
                         "rate": {
@@ -532,7 +532,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7801.99",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -541,7 +541,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7801.99",
                         "hs_code": "221",
                         "desc": "A 課税価格が1キログラムにつき172円以下のもの",
                         "rate": {
@@ -582,7 +582,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7801.99",
                         "hs_code": "222",
                         "desc": "B 課税価格が1キログラムにつき172円を超え180円以下のもの",
                         "rate": {
@@ -623,7 +623,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7801.99",
                         "hs_code": "223",
                         "desc": "C 課税価格が1キログラムにつき180円を超えるもの",
                         "rate": {
@@ -734,7 +734,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "78.04",
         "hs_code": "",
         "desc": "板、シート、ストリップ及びはく",
         "rate": {},
@@ -889,7 +889,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7806.00",
         "hs_code": "100",
         "desc": "1 鉛製の管及び管用継手（例えば、カップリング、エルボー及びスリーブ）",
         "rate": {
@@ -930,7 +930,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7806.00",
         "hs_code": "900",
         "desc": "2 その他のもの",
         "rate": {

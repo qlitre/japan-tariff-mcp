@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.01",
         "hs_code": "",
         "desc": "ココやしの実",
         "rate": {},
@@ -153,7 +153,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.01",
         "hs_code": "",
         "desc": "ブラジルナット",
         "rate": {},
@@ -252,7 +252,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.01",
         "hs_code": "",
         "desc": "カシューナット",
         "rate": {},
@@ -362,7 +362,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.02",
         "hs_code": "",
         "desc": "アーモンド",
         "rate": {},
@@ -380,7 +380,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0802.11",
                 "hs_code": "100",
                 "desc": "1 ビターアーモンド",
                 "rate": {
@@ -424,7 +424,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0802.11",
                 "hs_code": "200",
                 "desc": "2 スイートアーモンド",
                 "rate": {
@@ -479,7 +479,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0802.12",
                 "hs_code": "100",
                 "desc": "1 ビターアーモンド",
                 "rate": {
@@ -523,7 +523,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0802.12",
                 "hs_code": "200",
                 "desc": "2 スイートアーモンド",
                 "rate": {
@@ -571,7 +571,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.02",
         "hs_code": "",
         "desc": "ヘーゼルナット（コリュルス属のもの）",
         "rate": {},
@@ -670,7 +670,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.02",
         "hs_code": "",
         "desc": "くるみ",
         "rate": {},
@@ -769,7 +769,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.02",
         "hs_code": "",
         "desc": "くり（カスタネア属のもの）",
         "rate": {},
@@ -868,7 +868,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.02",
         "hs_code": "",
         "desc": "ピスタチオナット",
         "rate": {},
@@ -967,7 +967,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.02",
         "hs_code": "",
         "desc": "マカダミアナット",
         "rate": {},
@@ -1154,7 +1154,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1260,7 +1260,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0802.99",
                 "hs_code": "100",
                 "desc": "1 ペカン",
                 "rate": {
@@ -1304,7 +1304,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0802.99",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1372,7 +1372,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0803.10",
             "hs_code": "",
             "desc": "1 生鮮のもの",
             "rate": {},
@@ -1381,7 +1381,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0803.10",
                 "hs_code": "100",
                 "desc": "(1)毎年4月1日から同年9月30日までに輸入されるもの",
                 "rate": {
@@ -1425,7 +1425,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0803.10",
                 "hs_code": "100",
                 "desc": "(2)毎年10月1日から翌年3月31日までに輸入されるもの",
                 "rate": {
@@ -1471,7 +1471,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0803.10",
             "hs_code": "200",
             "desc": "2 乾燥したもの",
             "rate": {
@@ -1526,7 +1526,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0803.90",
             "hs_code": "",
             "desc": "1 生鮮のもの",
             "rate": {},
@@ -1535,7 +1535,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0803.90",
                 "hs_code": "100",
                 "desc": "(1)毎年4月1日から同年9月30日までに輸入されるもの",
                 "rate": {
@@ -1579,7 +1579,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0803.90",
                 "hs_code": "100",
                 "desc": "(2)毎年10月1日から翌年3月31日までに輸入されるもの",
                 "rate": {
@@ -1625,7 +1625,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0803.90",
             "hs_code": "200",
             "desc": "2 乾燥したもの",
             "rate": {
@@ -1766,7 +1766,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.20",
             "hs_code": "010",
             "desc": "− 生鮮のもの",
             "rate": {
@@ -1810,7 +1810,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.20",
             "hs_code": "090",
             "desc": "− 乾燥したもの",
             "rate": {
@@ -1865,7 +1865,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.30",
             "hs_code": "010",
             "desc": "1 生鮮のもの",
             "rate": {
@@ -1909,7 +1909,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.30",
             "hs_code": "090",
             "desc": "2 乾燥したもの",
             "rate": {
@@ -1995,7 +1995,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.40",
             "hs_code": "010",
             "desc": "− 生鮮のもの",
             "rate": {
@@ -2039,7 +2039,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.40",
             "hs_code": "090",
             "desc": "− 乾燥したもの",
             "rate": {
@@ -2125,7 +2125,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.50",
             "hs_code": "",
             "desc": "− 生鮮のもの",
             "rate": {},
@@ -2134,7 +2134,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0804.50",
                 "hs_code": "011",
                 "desc": "−− マンゴー",
                 "rate": {
@@ -2178,7 +2178,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0804.50",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -2224,7 +2224,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0804.50",
             "hs_code": "090",
             "desc": "− 乾燥したもの",
             "rate": {
@@ -2290,7 +2290,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.10",
             "hs_code": "000",
             "desc": "1 毎年6月1日から同年11月30日までに輸入されるもの",
             "rate": {
@@ -2334,7 +2334,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.10",
             "hs_code": "000",
             "desc": "2 毎年12月1日から翌年5月31日までに輸入されるもの",
             "rate": {
@@ -2380,7 +2380,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.05",
         "hs_code": "",
         "desc": "マンダリン、タンジェリン及びうんしゆうみかん並びにクレメンタイン、ウィルキングその他これらに類するかんきつ類の交雑種",
         "rate": {},
@@ -2563,7 +2563,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.40",
             "hs_code": "000",
             "desc": "− 毎年6月1日から同年11月30日までに輸入されるもの",
             "rate": {
@@ -2607,7 +2607,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.40",
             "hs_code": "000",
             "desc": "− 毎年12月1日から翌年5月31日までに輸入されるもの",
             "rate": {
@@ -2693,7 +2693,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.50",
             "hs_code": "010",
             "desc": "− レモン（キトルス・リモン及びキトルス・リモヌム）",
             "rate": {
@@ -2737,7 +2737,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.50",
             "hs_code": "090",
             "desc": "− ライム（キトルス・アウランティフォリア及びキトルス・ラティフォリア）",
             "rate": {
@@ -2792,7 +2792,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.90",
             "hs_code": "020",
             "desc": "1 ライム（キトルス・アウランティフォリア及びキトルス・ラティフォリアを除く。）",
             "rate": {
@@ -2836,7 +2836,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0805.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -2902,7 +2902,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0806.10",
             "hs_code": "000",
             "desc": "1 毎年3月1日から同年10月31日までに輸入されるもの",
             "rate": {
@@ -2946,7 +2946,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0806.10",
             "hs_code": "000",
             "desc": "2 毎年11月1日から翌年2月末日までに輸入されるもの",
             "rate": {
@@ -3047,7 +3047,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.07",
         "hs_code": "",
         "desc": "メロン（すいかを含む。）",
         "rate": {},
@@ -3388,7 +3388,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "08.09",
         "hs_code": "",
         "desc": "さくらんぼ",
         "rate": {},
@@ -3934,7 +3934,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0810.90",
             "hs_code": "210",
             "desc": "− ランブータン、パッションフルーツ、レイシ及びごれんし",
             "rate": {
@@ -3978,7 +3978,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0810.90",
             "hs_code": "290",
             "desc": "− その他のもの",
             "rate": {
@@ -4044,7 +4044,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0811.10",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -4088,7 +4088,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0811.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -4143,7 +4143,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0811.20",
             "hs_code": "100",
             "desc": "1 砂糖を加えたもの",
             "rate": {
@@ -4187,7 +4187,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0811.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -4242,7 +4242,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0811.90",
             "hs_code": "",
             "desc": "1 砂糖を加えたもの",
             "rate": {},
@@ -4251,7 +4251,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "110",
                 "desc": "(1)パイナップル",
                 "rate": {
@@ -4295,7 +4295,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "130",
                 "desc": "(2)ベリー",
                 "rate": {
@@ -4339,7 +4339,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "140",
                 "desc": "(3)サワーチェリー（プルヌス・ケラスス）",
                 "rate": {
@@ -4383,7 +4383,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "150",
                 "desc": "(4)桃及び梨",
                 "rate": {
@@ -4427,7 +4427,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "",
                 "desc": "(5)その他のもの",
                 "rate": {
@@ -4467,7 +4467,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0811.90",
                     "hs_code": "120",
                     "desc": "− パパイヤ、ポポー、アボカドー、グアバ、ドリアン、ビリンビ、チャンペダ、ナンカ、パンの実、ランブータン、ジャンボ、レンブ、サポテ、チェリモア、サントル、シュガーアップル、マンゴー、カスターアップル、パッションフルーツ、ランソム、マンゴスチン、サワーサップ及びレイシ",
                     "rate": {
@@ -4511,7 +4511,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0811.90",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4559,7 +4559,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0811.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -4568,7 +4568,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "210",
                 "desc": "(1)パイナップル",
                 "rate": {
@@ -4612,7 +4612,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "220",
                 "desc": "(2)パパイヤ、ポポー、アボカドー、グアバ、ドリアン、ビリンビ、チャンペダ、ナンカ、パンの実、ランブータン、ジャンボ、レンブ、サポテ、チェリモア、サントル、シュガーアップル、マンゴー、カスターアップル、パッションフルーツ、ランソム、マンゴスチン、サワーサップ及びレイシ",
                 "rate": {
@@ -4656,7 +4656,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "",
                 "desc": "(3)桃、梨及びベリー",
                 "rate": {
@@ -4696,7 +4696,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0811.90",
                     "hs_code": "230",
                     "desc": "− ベリー",
                     "rate": {
@@ -4740,7 +4740,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0811.90",
                     "hs_code": "240",
                     "desc": "− 桃及び梨",
                     "rate": {
@@ -4786,7 +4786,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0811.90",
                 "hs_code": "",
                 "desc": "(4)その他のもの",
                 "rate": {
@@ -4826,7 +4826,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0811.90",
                     "hs_code": "280",
                     "desc": "− カムカム",
                     "rate": {
@@ -4870,7 +4870,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0811.90",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4984,7 +4984,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0812.90",
             "hs_code": "",
             "desc": "1 バナナ",
             "rate": {},
@@ -4993,7 +4993,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "100",
                 "desc": "(1)毎年4月1日から同年9月30日までに輸入されるもの",
                 "rate": {
@@ -5037,7 +5037,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "100",
                 "desc": "(2)毎年10月1日から翌年3月31日までに輸入されるもの",
                 "rate": {
@@ -5083,7 +5083,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0812.90",
             "hs_code": "",
             "desc": "2 オレンジ",
             "rate": {},
@@ -5092,7 +5092,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "200",
                 "desc": "(1)毎年6月1日から同年11月30日までに輸入されるもの",
                 "rate": {
@@ -5136,7 +5136,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "200",
                 "desc": "(2)毎年12月1日から翌年5月31日までに輸入されるもの",
                 "rate": {
@@ -5182,7 +5182,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0812.90",
             "hs_code": "",
             "desc": "3 グレープフルーツ及びポメロ",
             "rate": {},
@@ -5191,7 +5191,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "300",
                 "desc": "(1)毎年6月1日から同年11月30日までに輸入されるもの",
                 "rate": {
@@ -5235,7 +5235,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "300",
                 "desc": "(2)毎年12月1日から翌年5月31日までに輸入されるもの",
                 "rate": {
@@ -5281,7 +5281,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0812.90",
             "hs_code": "",
             "desc": "4 その他のもの",
             "rate": {},
@@ -5290,7 +5290,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "410",
                 "desc": "(1)レモン及びライム（保存用の溶液により一時的な保存に適する処理をしたものを除く。）",
                 "rate": {
@@ -5334,7 +5334,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "430",
                 "desc": "(2)くり（カスタネア属のもの）",
                 "rate": {
@@ -5378,7 +5378,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0812.90",
                 "hs_code": "",
                 "desc": "(3)その他のもの",
                 "rate": {
@@ -5418,7 +5418,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0812.90",
                     "hs_code": "420",
                     "desc": "− パパイヤ、ポポー、アボカドー、グアバ、ドリアン、ビリンビ、チャンペダ、ナンカ、パンの実、ランブータン、ジャンボ、レンブ、サポテ、チェリモア、サントル、シュガーアップル、マンゴー、カスターアップル、パッションフルーツ、ランソム、マンゴスチン、サワーサップ及びレイシ",
                     "rate": {
@@ -5462,7 +5462,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0812.90",
                     "hs_code": "440",
                     "desc": "− マンダリン、タンジェリン及びうんしゆうみかん並びにクレメンタイン、ウィルキングその他これらに類するかんきつ類の交雑種",
                     "rate": {
@@ -5506,7 +5506,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0812.90",
                     "hs_code": "490",
                     "desc": "− その他のもの",
                     "rate": {
@@ -5708,7 +5708,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0813.40",
             "hs_code": "010",
             "desc": "1 ベリー",
             "rate": {
@@ -5752,7 +5752,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0813.40",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -5792,7 +5792,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0813.40",
                 "hs_code": "021",
                 "desc": "− パパイヤ、ポポー、ドリアン、ビリンビ、チャンペダ、ナンカ、パンの実、ランブータン、ジャンボ、レンブ、サポテ、チェリモア、シュガーアップル、カスターアップル、パッションフルーツ、ランソム、サワーサップ及びレイシ",
                 "rate": {
@@ -5836,7 +5836,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0813.40",
                 "hs_code": "022",
                 "desc": "− 干し柿",
                 "rate": {
@@ -5880,7 +5880,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0813.40",
                 "hs_code": "023",
                 "desc": "− サントル",
                 "rate": {
@@ -5924,7 +5924,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0813.40",
                 "hs_code": "029",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5981,7 +5981,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0813.50",
             "hs_code": "010",
             "desc": "1 ナット又は乾燥果実の単一成分の含有量が全重量の50％を超えるもの（くり（カスタネア属のもの）、くるみ、ピスタチオナット、コーラナット（コラ属のもの）、第0802.91号から第0802.99号までのナット又は第0813.10号から第0813.40号までの乾燥果実のいずれかを含むものを除く。）",
             "rate": {
@@ -6025,7 +6025,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0813.50",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {

@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "79.01",
         "hs_code": "",
         "desc": "亜鉛（合金を除く。）",
         "rate": {},
@@ -28,7 +28,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.11",
                 "hs_code": "010",
                 "desc": "1 課税価格が1キログラムにつき242円以下のもの",
                 "rate": {
@@ -69,7 +69,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.11",
                 "hs_code": "020",
                 "desc": "2 課税価格が1キログラムにつき242円を超え250円以下のもの",
                 "rate": {
@@ -110,7 +110,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.11",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき250円を超えるもの",
                 "rate": {
@@ -162,7 +162,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.12",
                 "hs_code": "010",
                 "desc": "1 課税価格が1キログラムにつき242円以下のもの",
                 "rate": {
@@ -203,7 +203,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.12",
                 "hs_code": "020",
                 "desc": "2 課税価格が1キログラムにつき242円を超え250円以下のもの",
                 "rate": {
@@ -244,7 +244,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.12",
                 "hs_code": "030",
                 "desc": "3 課税価格が1キログラムにつき250円を超えるもの",
                 "rate": {
@@ -298,7 +298,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7901.20",
             "hs_code": "010",
             "desc": "1 アルミニウムの含有量が全重量の3％を超えるもの",
             "rate": {
@@ -339,7 +339,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7901.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -348,7 +348,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.20",
                 "hs_code": "021",
                 "desc": "(1)亜鉛の含有量が全重量の95％以上のもの",
                 "rate": {
@@ -389,7 +389,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7901.20",
                 "hs_code": "029",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -701,7 +701,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7907.00",
         "hs_code": "100",
         "desc": "1 亜鉛製の管及び管用継手（例えば、カップリング、エルボー及びスリーブ）",
         "rate": {
@@ -742,7 +742,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "7907.00",
         "hs_code": "900",
         "desc": "2 その他のもの",
         "rate": {

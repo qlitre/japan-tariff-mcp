@@ -63,7 +63,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.01",
         "hs_code": "",
         "desc": "不飽和のもの",
         "rate": {},
@@ -210,7 +210,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2901.24",
                 "hs_code": "010",
                 "desc": "1 ブタ-1,3-ジエン",
                 "rate": {
@@ -253,7 +253,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2901.24",
                 "hs_code": "020",
                 "desc": "2 イソプレン",
                 "rate": {
@@ -354,7 +354,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.02",
         "hs_code": "",
         "desc": "飽和脂環式炭化水素、不飽和脂環式炭化水素及びシクロテルペン炭化水素",
         "rate": {},
@@ -417,7 +417,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2902.19",
                 "hs_code": "010",
                 "desc": "1 5-エチリデン-2-ノルボルネン",
                 "rate": {
@@ -462,7 +462,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2902.19",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -601,7 +601,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.02",
         "hs_code": "",
         "desc": "キシレン",
         "rate": {},
@@ -983,7 +983,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "非環式炭化水素の塩素化誘導体（飽和のものに限る。）",
         "rate": {},
@@ -1260,7 +1260,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.19",
                 "hs_code": "010",
                 "desc": "− 1,1,1-トリクロロエタン",
                 "rate": {
@@ -1308,7 +1308,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.19",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1360,7 +1360,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "非環式炭化水素の塩素化誘導体（不飽和のものに限る。）",
         "rate": {},
@@ -1551,7 +1551,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "非環式炭化水素のふつ素化誘導体（飽和のものに限る。）",
         "rate": {},
@@ -1696,7 +1696,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.43",
                 "hs_code": "010",
                 "desc": "− フルオロメタン（HFC-41）",
                 "rate": {
@@ -1744,7 +1744,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.43",
                 "hs_code": "020",
                 "desc": "− 1,2-ジフルオロエタン（HFC-152）",
                 "rate": {
@@ -1792,7 +1792,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.43",
                 "hs_code": "",
                 "desc": "− 1,1-ジフルオロエタン（HFC-152a）",
                 "rate": {},
@@ -1801,7 +1801,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.43",
                     "hs_code": "031",
                     "desc": "−− 噴霧器に充填したもの",
                     "rate": {
@@ -1849,7 +1849,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.43",
                     "hs_code": "039",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -1941,7 +1941,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.44",
                 "hs_code": "010",
                 "desc": "− ペンタフルオロエタン（HFC-125）",
                 "rate": {
@@ -1989,7 +1989,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.44",
                 "hs_code": "020",
                 "desc": "− 1,1,1-トリフルオロエタン（HFC-143a）",
                 "rate": {
@@ -2037,7 +2037,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.44",
                 "hs_code": "030",
                 "desc": "− 1,1,2-トリフルオロエタン（HFC-143）",
                 "rate": {
@@ -2127,7 +2127,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.45",
                 "hs_code": "",
                 "desc": "− 1,1,1,2-テトラフルオロエタン（HFC-134a）",
                 "rate": {},
@@ -2136,7 +2136,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.45",
                     "hs_code": "011",
                     "desc": "−− 噴霧器に充填したもの",
                     "rate": {
@@ -2184,7 +2184,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.45",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -2234,7 +2234,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.45",
                 "hs_code": "020",
                 "desc": "− 1,1,2,2-テトラフルオロエタン（HFC-134）",
                 "rate": {
@@ -2324,7 +2324,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.46",
                 "hs_code": "010",
                 "desc": "− 1,1,1,2,3,3,3-ヘプタフルオロプロパン（HFC-227ea）",
                 "rate": {
@@ -2372,7 +2372,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.46",
                 "hs_code": "020",
                 "desc": "− 1,1,1,2,2,3-ヘキサフルオロプロパン（HFC-236cb）",
                 "rate": {
@@ -2420,7 +2420,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.46",
                 "hs_code": "030",
                 "desc": "− 1,1,1,2,3,3-ヘキサフルオロプロパン（HFC-236ea）",
                 "rate": {
@@ -2468,7 +2468,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.46",
                 "hs_code": "040",
                 "desc": "− 1,1,1,3,3,3-ヘキサフルオロプロパン（HFC-236fa）",
                 "rate": {
@@ -2558,7 +2558,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.47",
                 "hs_code": "010",
                 "desc": "− 1,1,1,3,3-ペンタフルオロプロパン（HFC-245fa）",
                 "rate": {
@@ -2606,7 +2606,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.47",
                 "hs_code": "020",
                 "desc": "− 1,1,2,2,3-ペンタフルオロプロパン（HFC-245ca）",
                 "rate": {
@@ -2696,7 +2696,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.48",
                 "hs_code": "010",
                 "desc": "− 1,1,1,3,3-ペンタフルオロブタン（HFC-365mfc）",
                 "rate": {
@@ -2744,7 +2744,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.48",
                 "hs_code": "020",
                 "desc": "− 1,1,1,2,2,3,4,5,5,5-デカフルオロペンタン（HFC-43-10mee）",
                 "rate": {
@@ -2834,7 +2834,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.49",
                 "hs_code": "010",
                 "desc": "− ペルフルオロメタン（PFC-14）",
                 "rate": {
@@ -2882,7 +2882,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.49",
                 "hs_code": "020",
                 "desc": "− ペルフルオロエタン（PFC-116）",
                 "rate": {
@@ -2930,7 +2930,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.49",
                 "hs_code": "030",
                 "desc": "− ペルフルオロプロパン（PFC-218）（※）",
                 "rate": {
@@ -2978,7 +2978,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.49",
                 "hs_code": "040",
                 "desc": "− ペルフルオロヘキサン（PFC-51-14）（※）",
                 "rate": {
@@ -3026,7 +3026,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3078,7 +3078,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "非環式炭化水素のふつ素化誘導体（不飽和のものに限る。）",
         "rate": {},
@@ -3127,7 +3127,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.51",
                 "hs_code": "010",
                 "desc": "− 2,3,3,3-テトラフルオロプロペン（HFO-1234yf）",
                 "rate": {
@@ -3175,7 +3175,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.51",
                 "hs_code": "020",
                 "desc": "− 1,3,3,3-テトラフルオロプロペン（HFO-1234ze）",
                 "rate": {
@@ -3223,7 +3223,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.51",
                 "hs_code": "030",
                 "desc": "− （Z）-1,1,1,4,4,4-ヘキサフルオロ-2-ブテン（HFO-1336mzz）",
                 "rate": {
@@ -3323,7 +3323,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "非環式炭化水素の臭素化誘導体及びよう素化誘導体",
         "rate": {},
@@ -3465,7 +3465,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.69",
                 "hs_code": "010",
                 "desc": "− 臭素化誘導体",
                 "rate": {
@@ -3513,7 +3513,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.69",
                 "hs_code": "020",
                 "desc": "− よう素化誘導体",
                 "rate": {
@@ -3565,7 +3565,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "非環式炭化水素のハロゲン化誘導体（二以上の異なるハロゲン原子を有するものに限る。）",
         "rate": {},
@@ -3704,7 +3704,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.73",
                 "hs_code": "010",
                 "desc": "− 1,1-ジクロロ-1-フルオロエタン（HCFC-141b）",
                 "rate": {
@@ -3749,7 +3749,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.73",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3836,7 +3836,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.74",
                 "hs_code": "010",
                 "desc": "− 1-クロロ-1,1-ジフルオロエタン（HCFC-142b）",
                 "rate": {
@@ -3881,7 +3881,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.74",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -4013,7 +4013,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.76",
                 "hs_code": "010",
                 "desc": "− ブロモクロロジフルオロメタン（ハロン-1211）",
                 "rate": {
@@ -4061,7 +4061,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.76",
                 "hs_code": "020",
                 "desc": "− ブロモトリフルオロメタン（ハロン-1301）",
                 "rate": {
@@ -4109,7 +4109,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.76",
                 "hs_code": "030",
                 "desc": "− ジブロモテトラフルオロエタン（ハロン-2402）",
                 "rate": {
@@ -4199,7 +4199,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "010",
                 "desc": "− トリクロロフルオロメタン（CFC-11）",
                 "rate": {
@@ -4247,7 +4247,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "020",
                 "desc": "− ジクロロジフルオロメタン（CFC-12）",
                 "rate": {
@@ -4295,7 +4295,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "030",
                 "desc": "− クロロトリフルオロメタン（CFC-13）",
                 "rate": {
@@ -4343,7 +4343,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "040",
                 "desc": "− ペンタクロロフルオロエタン（CFC-111）",
                 "rate": {
@@ -4391,7 +4391,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "050",
                 "desc": "− テトラクロロジフルオロエタン（CFC-112）",
                 "rate": {
@@ -4439,7 +4439,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "060",
                 "desc": "− トリクロロトリフルオロエタン（CFC-113）",
                 "rate": {
@@ -4487,7 +4487,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "070",
                 "desc": "− ジクロロテトラフルオロエタン（CFC-114）（※）",
                 "rate": {
@@ -4535,7 +4535,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "080",
                 "desc": "− クロロペンタフルオロエタン（CFC-115）",
                 "rate": {
@@ -4583,7 +4583,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "100",
                 "desc": "− ヘプタクロロフルオロプロパン（CFC-211）",
                 "rate": {
@@ -4631,7 +4631,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "110",
                 "desc": "− ヘキサクロロジフルオロプロパン（CFC-212）",
                 "rate": {
@@ -4679,7 +4679,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "120",
                 "desc": "− ペンタクロロトリフルオロプロパン（CFC-213）",
                 "rate": {
@@ -4727,7 +4727,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "130",
                 "desc": "− テトラクロロテトラフルオロプロパン（CFC-214）",
                 "rate": {
@@ -4775,7 +4775,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "140",
                 "desc": "− トリクロロペンタフルオロプロパン（CFC-215）",
                 "rate": {
@@ -4823,7 +4823,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "150",
                 "desc": "− ジクロロヘキサフルオロプロパン（CFC-216）",
                 "rate": {
@@ -4871,7 +4871,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "160",
                 "desc": "− クロロヘプタフルオロプロパン（CFC-217）",
                 "rate": {
@@ -4919,7 +4919,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.77",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5054,7 +5054,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.79",
                 "hs_code": "100",
                 "desc": "− ブロモクロロメタン",
                 "rate": {
@@ -5102,7 +5102,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.79",
                 "hs_code": "",
                 "desc": "− その他のハロゲン化誘導体 （メタン、エタン又はプロパンをふつ素及び塩素を用いてハロゲン化したものに限る。）",
                 "rate": {
@@ -5142,7 +5142,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.79",
                     "hs_code": "210",
                     "desc": "−− ジクロロフルオロメタン（HCFC-21)",
                     "rate": {
@@ -5190,7 +5190,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.79",
                     "hs_code": "220",
                     "desc": "−− クロロテトラフルオロエタン（HCFC-124)",
                     "rate": {
@@ -5238,7 +5238,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.79",
                     "hs_code": "290",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -5288,7 +5288,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.79",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5328,7 +5328,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.79",
                     "hs_code": "910",
                     "desc": "−− その他のハロゲン化誘導体 （メタン、エタン又はプロパンをふつ素及び臭素を用いてハロゲン化したものに限る。）",
                     "rate": {
@@ -5376,7 +5376,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.79",
                     "hs_code": "990",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -5430,7 +5430,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "飽和脂環式炭化水素、不飽和脂環式炭化水素又はシクロテルペン炭化水素のハロゲン化誘導体",
         "rate": {},
@@ -5493,7 +5493,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.82",
                 "hs_code": "100",
                 "desc": "1 クロルデン",
                 "rate": {
@@ -5538,7 +5538,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.82",
                 "hs_code": "200",
                 "desc": "2 アルドリン及びヘプタクロル",
                 "rate": {
@@ -5670,7 +5670,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.89",
                 "hs_code": "020",
                 "desc": "−ジブロモエチルジブロモシクロヘキサン及びテトラブロモシクロオクタン",
                 "rate": {
@@ -5715,7 +5715,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.89",
                 "hs_code": "030",
                 "desc": "−ヘキサブロモシクロドデカン（HBCD）",
                 "rate": {
@@ -5760,7 +5760,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.89",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5800,7 +5800,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.89",
                     "hs_code": "091",
                     "desc": "−− ペルフルオロシクロブタン（PFC-c318)",
                     "rate": {
@@ -5845,7 +5845,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2903.89",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -5896,7 +5896,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.03",
         "hs_code": "",
         "desc": "芳香族炭化水素のハロゲン化誘導体",
         "rate": {},
@@ -6125,7 +6125,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.99",
                 "hs_code": "100",
                 "desc": "− ペンタブロモエチルベンゼン及びデカブロモジフェニルエタン",
                 "rate": {
@@ -6170,7 +6170,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2903.99",
                 "hs_code": "900",
                 "desc": "− その他のもの",
                 "rate": {
@@ -6286,7 +6286,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2904.20",
             "hs_code": "100",
             "desc": "1 ニトロメタン",
             "rate": {
@@ -6333,7 +6333,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2904.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -6382,7 +6382,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.04",
         "hs_code": "",
         "desc": "ペルフルオロオクタンスルホン酸及びその塩並びにペルフルオロオクタンスルホニルフルオリド",
         "rate": {},
@@ -6675,7 +6675,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.04",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -6740,7 +6740,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2904.99",
                 "hs_code": "100",
                 "desc": "1 パラ-ニトロクロロベンゼン",
                 "rate": {
@@ -6787,7 +6787,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2904.99",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6859,7 +6859,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.05",
         "hs_code": "",
         "desc": "飽和一価アルコール",
         "rate": {},
@@ -7053,7 +7053,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2905.16",
                 "hs_code": "100",
                 "desc": "1 2-エチルヘキシルアルコール（2-エチルヘキサン-1-オール）",
                 "rate": {
@@ -7097,7 +7097,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2905.16",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -7233,7 +7233,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.05",
         "hs_code": "",
         "desc": "不飽和一価アルコール",
         "rate": {},
@@ -7332,7 +7332,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.05",
         "hs_code": "",
         "desc": "二価アルコール",
         "rate": {},
@@ -7438,7 +7438,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2905.39",
                 "hs_code": "100",
                 "desc": "1 1,6−ヘキサンジオール",
                 "rate": {
@@ -7481,7 +7481,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2905.39",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -7529,7 +7529,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.05",
         "hs_code": "",
         "desc": "その他の多価アルコール",
         "rate": {},
@@ -7804,7 +7804,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.05",
         "hs_code": "",
         "desc": "非環式アルコールのハロゲン化誘導体、スルホン化誘導体、ニトロ化誘導体及びニトロソ化誘導体",
         "rate": {},
@@ -7897,7 +7897,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2905.59",
                 "hs_code": "010",
                 "desc": "− ジブロモネオペンチルグリコール（2,2-ジブロモメチル-1,3-プロパン-ジオール）",
                 "rate": {
@@ -7941,7 +7941,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2905.59",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8000,7 +8000,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.06",
         "hs_code": "",
         "desc": "飽和脂環式アルコール、不飽和脂環式アルコール及びシクロテルペンアルコール並びにこれらの誘導体",
         "rate": {},
@@ -8147,7 +8147,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2906.19",
                 "hs_code": "100",
                 "desc": "1 ボルネオール及びテルピネオール",
                 "rate": {
@@ -8190,7 +8190,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2906.19",
                 "hs_code": "200",
                 "desc": "2 1,4-シクロヘキサンジメタノール",
                 "rate": {
@@ -8233,7 +8233,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2906.19",
                 "hs_code": "900",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -8280,7 +8280,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.06",
         "hs_code": "",
         "desc": "芳香族アルコール及びその誘導体",
         "rate": {},
@@ -8398,7 +8398,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.07",
         "hs_code": "",
         "desc": "一価フェノール",
         "rate": {},
@@ -8596,7 +8596,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2907.19",
                 "hs_code": "100",
                 "desc": "1 キシレノール及びその塩",
                 "rate": {
@@ -8641,7 +8641,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2907.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -8650,7 +8650,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2907.19",
                     "hs_code": "",
                     "desc": "(1)単核一価フェノール",
                     "rate": {},
@@ -8659,7 +8659,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2907.19",
                         "hs_code": "911",
                         "desc": "A パラ-ターシャリ-ブチルフェノール",
                         "rate": {
@@ -8704,7 +8704,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2907.19",
                         "hs_code": "919",
                         "desc": "B その他のもの",
                         "rate": {
@@ -8751,7 +8751,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2907.19",
                     "hs_code": "990",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -8802,7 +8802,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.07",
         "hs_code": "",
         "desc": "多価フェノール及びフェノールアルコール",
         "rate": {},
@@ -9004,7 +9004,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.08",
         "hs_code": "",
         "desc": "ハロゲン置換基のみを有する誘導体及びその塩",
         "rate": {},
@@ -9098,7 +9098,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2908.19",
                 "hs_code": "100",
                 "desc": "1 臭素化誘導体",
                 "rate": {
@@ -9143,7 +9143,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2908.19",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -9192,7 +9192,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.08",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -9359,7 +9359,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.09",
         "hs_code": "",
         "desc": "非環式エーテル並びにそのハロゲン化誘導体、スルホン化誘導体、ニトロ化誘導体及びニトロソ化誘導体",
         "rate": {},
@@ -9454,7 +9454,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2909.19",
                 "hs_code": "010",
                 "desc": "− エチル-ターシャリ-ブチルエーテルのうちバイオマス（動植物に由来する有機物（原油、石油ガス、可燃性天然ガス及び石炭並びにこれらから製造される製品を除く。）をいう。）から製造したエチルアルコール（エタノール）を原料として製造したものである旨が関税暫定措置法施行令で定めるところにより証明されたもの",
                 "rate": {
@@ -9501,7 +9501,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2909.19",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -9541,7 +9541,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2909.19",
                     "hs_code": "091",
                     "desc": "−− 飽和非環式エーテルのふつ素化誘導体",
                     "rate": {
@@ -9588,7 +9588,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2909.19",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -9696,7 +9696,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2909.30",
             "hs_code": "",
             "desc": "1 臭素化誘導体",
             "rate": {
@@ -9736,7 +9736,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2909.30",
                 "hs_code": "120",
                 "desc": "− デカブロモジフェニルエーテル",
                 "rate": {
@@ -9782,7 +9782,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2909.30",
                 "hs_code": "190",
                 "desc": "− その他のもの",
                 "rate": {
@@ -9830,7 +9830,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2909.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -9878,7 +9878,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.09",
         "hs_code": "",
         "desc": "エーテルアルコール並びにそのハロゲン化誘導体、スルホン化誘導体、ニトロ化誘導体及びニトロソ化誘導体",
         "rate": {},
@@ -10065,7 +10065,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2909.49",
                 "hs_code": "010",
                 "desc": "− トリエチレングリコール",
                 "rate": {
@@ -10111,7 +10111,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2909.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -10247,7 +10247,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2909.60",
             "hs_code": "010",
             "desc": "− アセタールペルオキシド及びヘミアセタールペルオキシド並びにこれらのハロゲン化誘導体、スルホン化誘導体、ニトロ化誘導体及びニトロソ化誘導体",
             "rate": {
@@ -10293,7 +10293,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2909.60",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -10617,7 +10617,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2910.90",
             "hs_code": "030",
             "desc": "1 1,2-エポキシブタン（1,2-ブチレンオキシド）",
             "rate": {
@@ -10662,7 +10662,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2910.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -10781,7 +10781,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.12",
         "hs_code": "",
         "desc": "非環式アルデヒド（他の酸素官能基を有しないものに限る。）",
         "rate": {},
@@ -10921,7 +10921,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.12",
         "hs_code": "",
         "desc": "環式アルデヒド（他の酸素官能基を有しないものに限る。）",
         "rate": {},
@@ -11018,7 +11018,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.12",
         "hs_code": "",
         "desc": "アルデヒドアルコール、アルデヒドエーテル、アルデヒドフェノール及び他の酸素官能基を有するアルデヒド",
         "rate": {},
@@ -11122,7 +11122,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2912.49",
                 "hs_code": "100",
                 "desc": "1 アルデヒドアルコール",
                 "rate": {
@@ -11165,7 +11165,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2912.49",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -11370,7 +11370,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.14",
         "hs_code": "",
         "desc": "非環式ケトン（他の酸素官能基を有しないものに限る。）",
         "rate": {},
@@ -11569,7 +11569,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.14",
         "hs_code": "",
         "desc": "飽和脂環式ケトン、不飽和脂環式ケトン及びシクロテルペンケトン（他の酸素官能基を有しないものに限る。）",
         "rate": {},
@@ -11681,7 +11681,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2914.29",
                 "hs_code": "",
                 "desc": "1 しよう脳",
                 "rate": {},
@@ -11690,7 +11690,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2914.29",
                     "hs_code": "011",
                     "desc": "(1)融点が175度未満のもの",
                     "rate": {
@@ -11737,7 +11737,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2914.29",
                     "hs_code": "019",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -11786,7 +11786,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2914.29",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -11837,7 +11837,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.14",
         "hs_code": "",
         "desc": "芳香族ケトン（他の酸素官能基を有しないものに限る。）",
         "rate": {},
@@ -12036,7 +12036,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.14",
         "hs_code": "",
         "desc": "キノン",
         "rate": {},
@@ -12188,7 +12188,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.14",
         "hs_code": "",
         "desc": "ハロゲン化誘導体、スルホン化誘導体、ニトロ化誘導体及びニトロソ化誘導体",
         "rate": {},
@@ -12314,7 +12314,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.15",
         "hs_code": "",
         "desc": "ぎ酸並びにその塩及びエステル",
         "rate": {},
@@ -12457,7 +12457,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.15",
         "hs_code": "",
         "desc": "酢酸及びその塩並びに無水酢酸",
         "rate": {},
@@ -12594,7 +12594,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.29",
                 "hs_code": "010",
                 "desc": "− 酢酸ナトリウム",
                 "rate": {
@@ -12638,7 +12638,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12686,7 +12686,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.15",
         "hs_code": "",
         "desc": "酢酸のエステル",
         "rate": {},
@@ -12881,7 +12881,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.39",
                 "hs_code": "100",
                 "desc": "1 酢酸イソブチル",
                 "rate": {
@@ -12925,7 +12925,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.39",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -12965,7 +12965,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2915.39",
                     "hs_code": "910",
                     "desc": "− 酢酸-2-エトキシエチル",
                     "rate": {
@@ -13009,7 +13009,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2915.39",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -13202,7 +13202,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2915.70",
             "hs_code": "010",
             "desc": "1 ステアリン酸",
             "rate": {
@@ -13246,7 +13246,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2915.70",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -13301,7 +13301,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2915.90",
             "hs_code": "",
             "desc": "1 カプリン酸、ラウリン酸及びミリスチン酸並びにカプリン酸、ラウリン酸、ミリスチン酸、パルミチン酸又はステアリン酸の誘導体",
             "rate": {
@@ -13341,7 +13341,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.90",
                 "hs_code": "011",
                 "desc": "− カプリン酸、ラウリン酸及びミリスチン酸",
                 "rate": {
@@ -13386,7 +13386,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.90",
                 "hs_code": "019",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13433,7 +13433,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2915.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -13473,7 +13473,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.90",
                 "hs_code": "091",
                 "desc": "− ペルフルオロオクタン酸及びその塩",
                 "rate": {
@@ -13518,7 +13518,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2915.90",
                 "hs_code": "099",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13578,7 +13578,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.16",
         "hs_code": "",
         "desc": "不飽和非環式モノカルボン酸並びにその酸無水物、酸ハロゲン化物、酸過酸化物及び過酸並びにこれらの誘導体",
         "rate": {},
@@ -13941,7 +13941,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.16",
         "hs_code": "",
         "desc": "芳香族モノカルボン酸並びにその酸無水物、酸ハロゲン化物、酸過酸化物及び過酸並びにこれらの誘導体",
         "rate": {},
@@ -14122,7 +14122,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2916.39",
                 "hs_code": "010",
                 "desc": "− フェニル酢酸のエステル",
                 "rate": {
@@ -14166,7 +14166,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2916.39",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14225,7 +14225,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.17",
         "hs_code": "",
         "desc": "非環式ポリカルボン酸並びにその酸無水物、酸ハロゲン化物、酸過酸化物及び過酸並びにこれらの誘導体",
         "rate": {},
@@ -14317,7 +14317,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2917.12",
                 "hs_code": "010",
                 "desc": "− アジピン酸",
                 "rate": {
@@ -14360,7 +14360,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2917.12",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14579,7 +14579,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.17",
         "hs_code": "",
         "desc": "芳香族ポリカルボン酸並びにその酸無水物、酸ハロゲン化物、酸過酸化物及び過酸並びにこれらの誘導体",
         "rate": {},
@@ -14714,7 +14714,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2917.34",
                 "hs_code": "010",
                 "desc": "− オルトフタル酸ジブチル",
                 "rate": {
@@ -14757,7 +14757,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2917.34",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14940,7 +14940,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2917.39",
                 "hs_code": "030",
                 "desc": "1 2,6-ナフタレンジカルボン酸ジメチルエステル",
                 "rate": {
@@ -14983,7 +14983,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2917.39",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -15023,7 +15023,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2917.39",
                     "hs_code": "020",
                     "desc": "− テトラブロモ無水フタル酸",
                     "rate": {
@@ -15066,7 +15066,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2917.39",
                     "hs_code": "",
                     "desc": "− その他のもの",
                     "rate": {
@@ -15106,7 +15106,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2917.39",
                         "hs_code": "010",
                         "desc": "−− フタル酸及びイソフタル酸",
                         "rate": {
@@ -15149,7 +15149,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "2917.39",
                         "hs_code": "090",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -15211,7 +15211,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.18",
         "hs_code": "",
         "desc": "アルコール官能のカルボン酸（他の酸素官能基を有するものを除く。）並びにその酸無水物、酸ハロゲン化物、酸過酸化物及び過酸並びにこれらの誘導体",
         "rate": {},
@@ -15405,7 +15405,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2918.15",
                 "hs_code": "010",
                 "desc": "1 くえん酸カルシウム",
                 "rate": {
@@ -15449,7 +15449,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2918.15",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -15636,7 +15636,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2918.19",
                 "hs_code": "010",
                 "desc": "1 コール酸",
                 "rate": {
@@ -15680,7 +15680,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2918.19",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -15728,7 +15728,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.18",
         "hs_code": "",
         "desc": "フェノール官能のカルボン酸（他の酸素官能基を有するものを除く。）並びにその酸無水物、酸ハロゲン化物、酸過酸化物及び過酸並びにこれらの誘導体",
         "rate": {},
@@ -15924,7 +15924,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2918.30",
             "hs_code": "100",
             "desc": "1 デヒドロコール酸（3,7,12-トリケトコール酸）",
             "rate": {
@@ -15968,7 +15968,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2918.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -16015,7 +16015,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.18",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -16218,7 +16218,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2919.90",
             "hs_code": "100",
             "desc": "− トリス（クロロプロピル）ホスフェート",
             "rate": {
@@ -16261,7 +16261,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2919.90",
             "hs_code": "900",
             "desc": "− その他のもの",
             "rate": {
@@ -16317,7 +16317,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.20",
         "hs_code": "",
         "desc": "チオりん酸エステル（ホスホロチオエート）及びその塩並びにこれらのハロゲン化誘導体、スルホン化誘導体、ニトロ化誘導体及びニトロソ化誘導体",
         "rate": {},
@@ -16420,7 +16420,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.20",
         "hs_code": "",
         "desc": "亜りん酸エステル及びその塩並びにこれらのハロゲン化誘導体、スルホン化誘導体、ニトロ化誘導体及びニトロソ化誘導体",
         "rate": {},
@@ -16747,7 +16747,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2920.90",
             "hs_code": "",
             "desc": "1 炭酸エステル及びその誘導体",
             "rate": {
@@ -16792,7 +16792,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2920.90",
                 "hs_code": "011",
                 "desc": "(1) 炭酸ビニレン、炭酸フルオロエチレン、炭酸エチルメチル、炭酸プロピレン及び炭酸ジエチル",
                 "rate": {
@@ -16833,7 +16833,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2920.90",
                 "hs_code": "019",
                 "desc": "(2) その他のもの",
                 "rate": {
@@ -16876,7 +16876,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2920.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -16945,7 +16945,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.21",
         "hs_code": "",
         "desc": "非環式モノアミン及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -17196,7 +17196,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.21",
         "hs_code": "",
         "desc": "非環式ポリアミン及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -17399,7 +17399,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.21",
         "hs_code": "",
         "desc": "芳香族モノアミン及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -17417,7 +17417,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2921.41",
                 "hs_code": "010",
                 "desc": "1 アニリン",
                 "rate": {
@@ -17465,7 +17465,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2921.41",
                 "hs_code": "020",
                 "desc": "2 アニリンの塩",
                 "rate": {
@@ -17807,7 +17807,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.21",
         "hs_code": "",
         "desc": "芳香族ポリアミン及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -17856,7 +17856,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2921.51",
                 "hs_code": "100",
                 "desc": "1 メタ-フェニレンジアミン",
                 "rate": {
@@ -17900,7 +17900,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2921.51",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -18012,7 +18012,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.22",
         "hs_code": "",
         "desc": "アミノアルコール（二種類以上の酸素官能基を有するものを除く。）並びにそのエーテル及びエステル並びにこれらの塩",
         "rate": {},
@@ -18286,7 +18286,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2922.17",
                 "hs_code": "010",
                 "desc": "− メチルジエタノールアミン",
                 "rate": {
@@ -18331,7 +18331,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2922.17",
                 "hs_code": "020",
                 "desc": "− エチルジエタノールアミン",
                 "rate": {
@@ -18432,7 +18432,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2922.19",
                 "hs_code": "020",
                 "desc": "1 アミノアルコール",
                 "rate": {
@@ -18477,7 +18477,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2922.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -18517,7 +18517,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2922.19",
                     "hs_code": "091",
                     "desc": "− トリエタノールアミンの塩",
                     "rate": {
@@ -18562,7 +18562,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2922.19",
                     "hs_code": "099",
                     "desc": "− その他のもの",
                     "rate": {
@@ -18613,7 +18613,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.22",
         "hs_code": "",
         "desc": "アミノナフトールその他のアミノフェノール（二種類以上の酸素官能基を有するものを除く。）並びにそのエーテル及びエステル並びにこれらの塩",
         "rate": {},
@@ -18714,7 +18714,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.22",
         "hs_code": "",
         "desc": "アミノアルデヒド、アミノケトン及びアミノキノン（二種類以上の酸素官能基を有するものを除く。）並びにこれらの塩",
         "rate": {},
@@ -18815,7 +18815,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.22",
         "hs_code": "",
         "desc": "アミノ酸（二種類以上の酸素官能基を有するものを除く。）及びそのエステル並びにこれらの塩",
         "rate": {},
@@ -18878,7 +18878,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2922.42",
                 "hs_code": "100",
                 "desc": "1 グルタミン酸ソーダ",
                 "rate": {
@@ -18923,7 +18923,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2922.42",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -19344,7 +19344,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2923.90",
             "hs_code": "100",
             "desc": "1 水酸化トリメチルアダマンチルアンモニウム（ADAH）及び水酸化テトラエチルアンモニウム（TEAH）",
             "rate": {
@@ -19387,7 +19387,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2923.90",
             "hs_code": "200",
             "desc": "2 シクロヘキシル（エチル）（ジメチル）アンモニウム＝ブロミド及びシクロヘキシル（エチル）（ジメチル）アンモニウム＝ヒドロキシド",
             "rate": {
@@ -19430,7 +19430,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2923.90",
             "hs_code": "900",
             "desc": "3 その他のもの",
             "rate": {
@@ -19486,7 +19486,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.24",
         "hs_code": "",
         "desc": "非環式アミド（非環式カルバマートを含む。）及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -19600,7 +19600,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2924.19",
                 "hs_code": "020",
                 "desc": "1 2-アクリルアミド-2-メチルプロパンスルホン酸及びオキサミド",
                 "rate": {
@@ -19648,7 +19648,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2924.19",
                 "hs_code": "029",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -19700,7 +19700,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.24",
         "hs_code": "",
         "desc": "環式アミド（環式カルバマートを含む。）及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -19941,7 +19941,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2924.29",
                 "hs_code": "010",
                 "desc": "− アスパルテーム（アスパルタム（INN））",
                 "rate": {
@@ -19989,7 +19989,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2924.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -20052,7 +20052,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.25",
         "hs_code": "",
         "desc": "イミド及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -20198,7 +20198,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.25",
         "hs_code": "",
         "desc": "イミン及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -20261,7 +20261,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2925.29",
                 "hs_code": "100",
                 "desc": "1 クロルヘキシジン及びその塩",
                 "rate": {
@@ -20306,7 +20306,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2925.29",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -20748,7 +20748,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2929.10",
             "hs_code": "020",
             "desc": "− ジフェニルメタンジイソシアナート",
             "rate": {
@@ -20791,7 +20791,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2929.10",
             "hs_code": "010",
             "desc": "− トルエンジイソシアナート（トリレンジイソシアナート）",
             "rate": {
@@ -20834,7 +20834,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2929.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -21260,7 +21260,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2930.90",
             "hs_code": "100",
             "desc": "1 ジチオカルボナート（キサントゲン酸塩）",
             "rate": {
@@ -21304,7 +21304,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2930.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -21344,7 +21344,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2930.90",
                 "hs_code": "910",
                 "desc": "− ホレート（ISO）",
                 "rate": {
@@ -21388,7 +21388,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2930.90",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {
@@ -21535,7 +21535,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.31",
         "hs_code": "",
         "desc": "非ハロゲン化有機りん誘導体",
         "rate": {},
@@ -21936,7 +21936,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2931.49",
                 "hs_code": "010",
                 "desc": "− メチルホスホン酸3-（トリヒドロキシシリル）プロピルナトリウム",
                 "rate": {
@@ -21980,7 +21980,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2931.49",
                 "hs_code": "020",
                 "desc": "− ビス［（5-エチル-2-メチル-2-オキシド-1,3,2-ジオキサホスフィナン-5-イル）メチル］メチルホスホネート",
                 "rate": {
@@ -22024,7 +22024,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2931.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -22072,7 +22072,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.31",
         "hs_code": "",
         "desc": "ハロゲン化有機りん誘導体",
         "rate": {},
@@ -22358,7 +22358,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.32",
         "hs_code": "",
         "desc": "非縮合フラン環（水素添加してあるかないかを問わない。）を有する化合物",
         "rate": {},
@@ -22608,7 +22608,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2932.20",
             "hs_code": "010",
             "desc": "1 クマリン、メチルクマリン及びエチルクマリン",
             "rate": {
@@ -22654,7 +22654,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2932.20",
             "hs_code": "020",
             "desc": "2 サントニン",
             "rate": {
@@ -22700,7 +22700,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2932.20",
             "hs_code": "030",
             "desc": "3 クリスタルバイオレットラクトン",
             "rate": {
@@ -22741,7 +22741,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2932.20",
             "hs_code": "090",
             "desc": "4 その他のもの",
             "rate": {
@@ -22789,7 +22789,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.32",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -23133,7 +23133,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "非縮合ピラゾール環（水素添加してあるかないかを問わない。）を有する化合物",
         "rate": {},
@@ -23238,7 +23238,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "非縮合イミダゾール環（水素添加してあるかないかを問わない。）を有する化合物",
         "rate": {},
@@ -23287,7 +23287,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.21",
                 "hs_code": "100",
                 "desc": "− 3-ブロモ-1-クロロ-5-ジメチルヒダントイン",
                 "rate": {
@@ -23334,7 +23334,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.21",
                 "hs_code": "900",
                 "desc": "− その他のもの",
                 "rate": {
@@ -23432,7 +23432,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "非縮合ピリジン環（水素添加してあるかないかを問わない。）を有する化合物",
         "rate": {},
@@ -23779,7 +23779,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.39",
                 "hs_code": "110",
                 "desc": "1 ピコリン及びO,O-ジエチル-O-（3,5,6-トリクロロ-2-ピリジル）ホスホロチオエート（クロルピリホス）",
                 "rate": {
@@ -23826,7 +23826,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.39",
                 "hs_code": "120",
                 "desc": "2 1,1,3,5-テトラメチルピぺリジン-1-イウム=ヒドロキシド",
                 "rate": {
@@ -23873,7 +23873,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.39",
                 "hs_code": "220",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -23924,7 +23924,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "キノリン環又はイソキノリン環（水素添加してあるかないかを問わないものとし、更に縮合したものを除く。）を有する化合物",
         "rate": {},
@@ -23989,7 +23989,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.49",
                 "hs_code": "100",
                 "desc": "1 デキストロ-3-ヒドロキシ-N-メチルモルヒナン及び臭化水素酸デキストロ-3-メトキシ-N-メチルモルヒナン",
                 "rate": {
@@ -24036,7 +24036,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.49",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -24087,7 +24087,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "ピリミジン環（水素添加してあるかないかを問わない。）又はピペラジン環を有する化合物",
         "rate": {},
@@ -24294,7 +24294,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.59",
                 "hs_code": "100",
                 "desc": "1 1,3-ジメチル-2,6-ジオキソ-4-アミノ-5-ホルミルアミノピリミジン",
                 "rate": {
@@ -24342,7 +24342,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.59",
                 "hs_code": "300",
                 "desc": "2 1,4-ジアザビシクロ［2,2,2］オクタン（トリエチレンジアミン）",
                 "rate": {
@@ -24390,7 +24390,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.59",
                 "hs_code": "400",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -24442,7 +24442,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "非縮合トリアジン環（水素添加してあるかないかを問わない。）を有する化合物",
         "rate": {},
@@ -24548,7 +24548,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "ラクタム",
         "rate": {},
@@ -24700,7 +24700,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.33",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -24812,7 +24812,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.99",
                 "hs_code": "010",
                 "desc": "1 塩酸ヒドララジン",
                 "rate": {
@@ -24859,7 +24859,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2933.99",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -25059,7 +25059,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.34",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -25169,7 +25169,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2934.99",
                 "hs_code": "010",
                 "desc": "1 スルトン及びスルタム",
                 "rate": {
@@ -25215,7 +25215,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2934.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -25255,7 +25255,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2934.99",
                     "hs_code": "091",
                     "desc": "− アセスルファムカリウム（INN)",
                     "rate": {
@@ -25301,7 +25301,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2934.99",
                     "hs_code": "092",
                     "desc": "− リチウム＝ビス（オキサラト）ボラート",
                     "rate": {
@@ -25347,7 +25347,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "2934.99",
                     "hs_code": "099",
                     "desc": "− その他のもの",
                     "rate": {
@@ -25689,7 +25689,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.36",
         "hs_code": "",
         "desc": "ビタミン及びその誘導体（混合してないものに限る。）",
         "rate": {},
@@ -26151,7 +26151,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.37",
         "hs_code": "",
         "desc": "ポリペプチドホルモン、たんぱく質ホルモン及び糖たんぱく質ホルモン並びにこれらの誘導体及び構造類似物",
         "rate": {},
@@ -26291,7 +26291,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.37",
         "hs_code": "",
         "desc": "ステロイドホルモン並びにその誘導体及び構造類似物",
         "rate": {},
@@ -26674,7 +26674,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.39",
         "hs_code": "",
         "desc": "あへんアルカロイド及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -26869,7 +26869,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.39",
         "hs_code": "",
         "desc": "エフェドラアルカロイド及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -27153,7 +27153,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2939.49",
                 "hs_code": "010",
                 "desc": "− レボメタンフェタミン、メタンフェタミン（INN）及びメタンフェタミンラセメートのエステル及び誘導体",
                 "rate": {
@@ -27199,7 +27199,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "2939.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -27249,7 +27249,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.39",
         "hs_code": "",
         "desc": "テオフィリン及びアミノフィリン（テオフィリン-エチレンジアミン）並びにこれらの誘導体並びにこれらの塩",
         "rate": {},
@@ -27352,7 +27352,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.39",
         "hs_code": "",
         "desc": "ライ麦麦角のアルカロイド及びその誘導体並びにこれらの塩",
         "rate": {},
@@ -27547,7 +27547,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "29.39",
         "hs_code": "",
         "desc": "その他のもの（植物由来のものに限る。）",
         "rate": {},
@@ -27727,7 +27727,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2940.00",
         "hs_code": "010",
         "desc": "1 糖エーテル及び糖エステル並びにこれらの塩",
         "rate": {
@@ -27770,7 +27770,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2940.00",
         "hs_code": "090",
         "desc": "2 その他のもの",
         "rate": {

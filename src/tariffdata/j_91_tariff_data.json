@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.01",
         "hs_code": "",
         "desc": "腕時計（電気式のものに限るものとし、ストップウォッチの機能を有するか有しないかを問わない。）",
         "rate": {},
@@ -107,7 +107,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.01",
         "hs_code": "",
         "desc": "その他の腕時計（ストップウォッチの機能を有するか有しないかを問わない。）",
         "rate": {},
@@ -204,7 +204,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -312,7 +312,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.02",
         "hs_code": "",
         "desc": "腕時計（電気式のものに限るものとし、ストップウォッチの機能を有するか有しないかを問わない。）",
         "rate": {},
@@ -452,7 +452,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.02",
         "hs_code": "",
         "desc": "その他の腕時計（ストップウォッチの機能を有するか有しないかを問わない。）",
         "rate": {},
@@ -549,7 +549,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -801,7 +801,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.05",
         "hs_code": "",
         "desc": "目覚まし時計",
         "rate": {},
@@ -894,7 +894,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.05",
         "hs_code": "",
         "desc": "掛時計",
         "rate": {},
@@ -987,7 +987,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.05",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1235,7 +1235,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.08",
         "hs_code": "",
         "desc": "電気式のもの",
         "rate": {},
@@ -1555,7 +1555,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "91.10",
         "hs_code": "",
         "desc": "携帯用時計のもの",
         "rate": {},
@@ -2092,7 +2092,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9113.20",
             "hs_code": "010",
             "desc": "− 貴金属をめつきしたもの",
             "rate": {
@@ -2135,7 +2135,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9113.20",
             "hs_code": "020",
             "desc": "− その他のもの",
             "rate": {
@@ -2189,7 +2189,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9113.90",
             "hs_code": "",
             "desc": "1 革製又はコンポジションレザー製のもの",
             "rate": {},
@@ -2198,7 +2198,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9113.90",
                 "hs_code": "110",
                 "desc": "(1)毛皮付きのもの及び貴金属、これを張り若しくはめつきした金属、貴石、半貴石、真珠、さんご、ぞうげ又はべつこうを使用したもの",
                 "rate": {
@@ -2241,7 +2241,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9113.90",
                 "hs_code": "190",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2286,7 +2286,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9113.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2295,7 +2295,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9113.90",
                 "hs_code": "210",
                 "desc": "(1)二種類以上の材料（組立て用のみに供する材料（例えば、ひも）を除く。）から構成されるもの",
                 "rate": {
@@ -2338,7 +2338,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9113.90",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {

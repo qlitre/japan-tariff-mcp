@@ -64,7 +64,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1301.90",
             "hs_code": "100",
             "desc": "1 セラックその他の精製ラック",
             "rate": {
@@ -109,7 +109,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "1301.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -149,7 +149,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1301.90",
                 "hs_code": "910",
                 "desc": "− シードラック",
                 "rate": {
@@ -194,7 +194,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1301.90",
                 "hs_code": "920",
                 "desc": "− その他のラック",
                 "rate": {
@@ -239,7 +239,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1301.90",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {
@@ -299,7 +299,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "13.02",
         "hs_code": "",
         "desc": "植物性の液汁及びエキス",
         "rate": {},
@@ -458,7 +458,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1302.14",
                 "hs_code": "100",
                 "desc": "1 アルコール分が50％以上のもの",
                 "rate": {
@@ -505,7 +505,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1302.14",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -563,7 +563,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1302.19",
                 "hs_code": "",
                 "desc": "1 飲料のもと",
                 "rate": {},
@@ -572,7 +572,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1302.19",
                     "hs_code": "110",
                     "desc": "(1)植物性の一種類の原料から得たもの",
                     "rate": {
@@ -619,7 +619,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1302.19",
                     "hs_code": "120",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -668,7 +668,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1302.19",
                 "hs_code": "",
                 "desc": "2 除虫菊のもの及びロテノンを含有する植物の根のもの",
                 "rate": {},
@@ -677,7 +677,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1302.19",
                     "hs_code": "310",
                     "desc": "(1)除虫菊エキス",
                     "rate": {
@@ -724,7 +724,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1302.19",
                     "hs_code": "390",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -773,7 +773,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1302.19",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {},
@@ -782,7 +782,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1302.19",
                     "hs_code": "210",
                     "desc": "(1)生漆",
                     "rate": {
@@ -829,7 +829,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1302.19",
                     "hs_code": "220",
                     "desc": "(2)大麻エキス、大麻チンキ及び粗製コカイン",
                     "rate": {
@@ -876,7 +876,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "1302.19",
                     "hs_code": "",
                     "desc": "(3)その他のもの",
                     "rate": {},
@@ -885,7 +885,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1302.19",
                         "hs_code": "231",
                         "desc": "A アルコール分が50％以上のもの",
                         "rate": {
@@ -932,7 +932,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "1302.19",
                         "hs_code": "239",
                         "desc": "B その他のもの",
                         "rate": {
@@ -1034,7 +1034,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "13.02",
         "hs_code": "",
         "desc": "植物性原料から得た粘質物及びシックナー（変性させてあるかないかを問わない。）",
         "rate": {},
@@ -1130,7 +1130,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1302.32",
                 "hs_code": "010",
                 "desc": "− ローカストビーンガム",
                 "rate": {
@@ -1177,7 +1177,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "1302.32",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {

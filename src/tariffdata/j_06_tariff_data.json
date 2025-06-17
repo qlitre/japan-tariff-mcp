@@ -50,7 +50,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0601.10",
             "hs_code": "010",
             "desc": "− ユリ属のもの",
             "rate": {
@@ -93,7 +93,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0601.10",
             "hs_code": "020",
             "desc": "− チューリップ",
             "rate": {
@@ -136,7 +136,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0601.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -455,7 +455,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0602.90",
             "hs_code": "",
             "desc": "− きのこ菌糸",
             "rate": {},
@@ -464,7 +464,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0602.90",
                 "hs_code": "011",
                 "desc": "−− しいたけのもの",
                 "rate": {
@@ -509,7 +509,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0602.90",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -556,7 +556,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0602.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -614,7 +614,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "06.03",
         "hs_code": "",
         "desc": "生鮮のもの",
         "rate": {},

@@ -50,7 +50,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3701.10",
             "hs_code": "010",
             "desc": "− 直接撮影用のもの",
             "rate": {
@@ -94,7 +94,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3701.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -224,7 +224,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3701.30",
             "hs_code": "",
             "desc": "− 製版用のもの",
             "rate": {},
@@ -233,7 +233,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3701.30",
                 "hs_code": "031",
                 "desc": "−− プレート",
                 "rate": {
@@ -277,7 +277,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3701.30",
                 "hs_code": "039",
                 "desc": "−− フィルム",
                 "rate": {
@@ -323,7 +323,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3701.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -369,7 +369,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "37.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -522,7 +522,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "37.02",
         "hs_code": "",
         "desc": "その他のフィルム（パーフォレーションのないもので、幅が105ミリメートル以下のものに限る。）",
         "rate": {},
@@ -662,7 +662,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "37.02",
         "hs_code": "",
         "desc": "その他のフィルム（パーフォレーションのないもので、幅が105ミリメートルを超えるものに限る。）",
         "rate": {},
@@ -845,7 +845,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "37.02",
         "hs_code": "",
         "desc": "その他のフィルム（カラー写真用のもの（ポリクローム）に限る。）",
         "rate": {},
@@ -1071,7 +1071,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "37.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1231,7 +1231,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3703.10",
             "hs_code": "010",
             "desc": "1 カラー印画紙",
             "rate": {
@@ -1274,7 +1274,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3703.10",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {

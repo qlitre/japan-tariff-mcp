@@ -143,7 +143,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.02",
         "hs_code": "",
         "desc": "管",
         "rate": {},
@@ -288,7 +288,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.03",
         "hs_code": "",
         "desc": "板ガラス（金属の線又は網を入れたものを除く。）",
         "rate": {},
@@ -576,7 +576,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7005.10",
             "hs_code": "010",
             "desc": "1 無反射層を有するもの",
             "rate": {
@@ -617,7 +617,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7005.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -657,7 +657,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7005.10",
                 "hs_code": "091",
                 "desc": "− 厚さが5ミリメートル以下のもの",
                 "rate": {
@@ -698,7 +698,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7005.10",
                 "hs_code": "099",
                 "desc": "− その他のもの",
                 "rate": {
@@ -743,7 +743,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.05",
         "hs_code": "",
         "desc": "金属の線又は網を入れてないその他のガラス",
         "rate": {},
@@ -792,7 +792,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7005.21",
                 "hs_code": "010",
                 "desc": "− 厚さが4ミリメートル以下のもの",
                 "rate": {
@@ -833,7 +833,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7005.21",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -885,7 +885,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7005.29",
                 "hs_code": "010",
                 "desc": "1 厚さが4ミリメートル以下のもの",
                 "rate": {
@@ -926,7 +926,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7005.29",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -966,7 +966,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7005.29",
                     "hs_code": "020",
                     "desc": "− 厚さが4ミリメートルを超え6ミリメートル以下のもの",
                     "rate": {
@@ -1007,7 +1007,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7005.29",
                     "hs_code": "090",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1157,7 +1157,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.07",
         "hs_code": "",
         "desc": "強化ガラス",
         "rate": {},
@@ -1175,7 +1175,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7007.11",
                 "hs_code": "010",
                 "desc": "1 自動車用、航空機用又は宇宙飛行体用に適する寸法及び形状のもの",
                 "rate": {
@@ -1216,7 +1216,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7007.11",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1302,7 +1302,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.07",
         "hs_code": "",
         "desc": "合わせガラス",
         "rate": {},
@@ -1351,7 +1351,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7007.21",
                 "hs_code": "010",
                 "desc": "− 自動車用のもの",
                 "rate": {
@@ -1392,7 +1392,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7007.21",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1581,7 +1581,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.09",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1996,7 +1996,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.13",
         "hs_code": "",
         "desc": "脚付きグラス類（ガラスセラミックス製のものを除く。）",
         "rate": {},
@@ -2093,7 +2093,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.13",
         "hs_code": "",
         "desc": "その他のコップ類（ガラスセラミックス製のものを除く。）",
         "rate": {},
@@ -2190,7 +2190,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.13",
         "hs_code": "",
         "desc": "食卓用又は台所用に供する種類のガラス製品（コップ類及びガラスセラミックス製のものを除く。）",
         "rate": {},
@@ -2330,7 +2330,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.13",
         "hs_code": "",
         "desc": "その他のガラス製品",
         "rate": {},
@@ -2632,7 +2632,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7016.90",
             "hs_code": "010",
             "desc": "1 ステンドグラスその他これに類するガラス",
             "rate": {
@@ -2673,7 +2673,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7016.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -2952,7 +2952,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7018.90",
             "hs_code": "010",
             "desc": "1 貴金属又はこれをめっきした金属を使用したもの",
             "rate": {
@@ -2993,7 +2993,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7018.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -3047,7 +3047,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.19",
         "hs_code": "",
         "desc": "スライバー、ロービング、糸及びチョップドストランド並びにこれらから成るマット",
         "rate": {},
@@ -3304,7 +3304,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.19",
         "hs_code": "",
         "desc": "機械的に結合した織物類",
         "rate": {},
@@ -3602,7 +3602,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "70.19",
         "hs_code": "",
         "desc": "化学的に結合した織物類",
         "rate": {},

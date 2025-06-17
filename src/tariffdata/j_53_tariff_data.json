@@ -53,7 +53,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "53.01",
         "hs_code": "",
         "desc": "亜麻（破茎、スカッチング、ハックリングその他の処理をしたものに限るものとし、精紡したものを除く。）",
         "rate": {},
@@ -145,7 +145,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5301.29",
                 "hs_code": "010",
                 "desc": "− 精練したもの",
                 "rate": {
@@ -188,7 +188,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5301.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -815,7 +815,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5308.90",
             "hs_code": "020",
             "desc": "1 紙糸",
             "rate": {
@@ -856,7 +856,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5308.90",
             "hs_code": "091",
             "desc": "2 ラミー糸",
             "rate": {
@@ -897,7 +897,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5308.90",
             "hs_code": "092",
             "desc": "3 その他のもの",
             "rate": {
@@ -951,7 +951,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "53.09",
         "hs_code": "",
         "desc": "亜麻の重量が全重量の85％以上のもの",
         "rate": {},
@@ -1044,7 +1044,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "53.09",
         "hs_code": "",
         "desc": "亜麻の重量が全重量の85％未満のもの",
         "rate": {},
@@ -1251,7 +1251,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5311.00",
         "hs_code": "010",
         "desc": "1 ラミー織物",
         "rate": {
@@ -1292,7 +1292,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5311.00",
         "hs_code": "020",
         "desc": "2 大麻織物及び紙糸の織物",
         "rate": {
@@ -1333,7 +1333,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5311.00",
         "hs_code": "030",
         "desc": "3 その他の織物",
         "rate": {

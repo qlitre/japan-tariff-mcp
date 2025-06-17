@@ -586,7 +586,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "69.07",
         "hs_code": "",
         "desc": "舗装用品及び炉用又は壁用のタイル（第6907.30号又は第6907.40号のものを除く。）",
         "rate": {},
@@ -813,7 +813,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "69.09",
         "hs_code": "",
         "desc": "陶磁製の理化学用その他の技術的用途に供する物品",
         "rate": {},
@@ -903,7 +903,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6909.12",
                 "hs_code": "010",
                 "desc": "− 触媒の製造に使用する触媒担体",
                 "rate": {
@@ -944,7 +944,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6909.12",
                 "hs_code": "020",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1027,7 +1027,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6909.19",
                 "hs_code": "010",
                 "desc": "− 触媒の製造に使用する触媒担体",
                 "rate": {
@@ -1068,7 +1068,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6909.19",
                 "hs_code": "020",
                 "desc": "− その他のもの",
                 "rate": {

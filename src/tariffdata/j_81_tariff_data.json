@@ -51,7 +51,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -223,7 +223,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8101.99",
                 "hs_code": "010",
                 "desc": "− 棒（単に焼結して得た棒を除く。）、形材、板、シート、ストリップ及びはく",
                 "rate": {
@@ -264,7 +264,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8101.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -361,7 +361,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -670,7 +670,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.03",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -760,7 +760,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8103.99",
                 "hs_code": "010",
                 "desc": "1 フレーク",
                 "rate": {
@@ -801,7 +801,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8103.99",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -857,7 +857,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.04",
         "hs_code": "",
         "desc": "マグネシウムの塊",
         "rate": {},
@@ -906,7 +906,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8104.11",
                 "hs_code": "030",
                 "desc": "− 課税価格が1キログラムにつき670円以下のもの",
                 "rate": {
@@ -947,7 +947,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8104.11",
                 "hs_code": "090",
                 "desc": "− 課税価格が1キログラムにつき670円を超えるもの",
                 "rate": {
@@ -1030,7 +1030,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8104.19",
                 "hs_code": "030",
                 "desc": "− 課税価格が1キログラムにつき670円以下のもの",
                 "rate": {
@@ -1071,7 +1071,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8104.19",
                 "hs_code": "090",
                 "desc": "− 課税価格が1キログラムにつき670円を超えるもの",
                 "rate": {
@@ -1517,7 +1517,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8108.20",
             "hs_code": "010",
             "desc": "1 チタン・ニオブ合金",
             "rate": {
@@ -1558,7 +1558,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8108.20",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1641,7 +1641,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8108.30",
             "hs_code": "010",
             "desc": "1 チタン・ニオブ合金",
             "rate": {
@@ -1682,7 +1682,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8108.30",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1765,7 +1765,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8108.90",
             "hs_code": "010",
             "desc": "1 チタン・ニオブ合金のもの",
             "rate": {
@@ -1806,7 +1806,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8108.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1860,7 +1860,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.09",
         "hs_code": "",
         "desc": "ジルコニウムの塊及び粉",
         "rate": {},
@@ -1953,7 +1953,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.09",
         "hs_code": "",
         "desc": "くず",
         "rate": {},
@@ -2046,7 +2046,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.09",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -2339,7 +2339,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.12",
         "hs_code": "",
         "desc": "ベリリウム",
         "rate": {},
@@ -2473,7 +2473,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.12",
         "hs_code": "",
         "desc": "クロム",
         "rate": {},
@@ -2607,7 +2607,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.12",
         "hs_code": "",
         "desc": "ハフニウム",
         "rate": {},
@@ -2700,7 +2700,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.12",
         "hs_code": "",
         "desc": "レニウム",
         "rate": {},
@@ -2793,7 +2793,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.12",
         "hs_code": "",
         "desc": "タリウム",
         "rate": {},
@@ -2927,7 +2927,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.12",
         "hs_code": "",
         "desc": "カドミウム",
         "rate": {},
@@ -3017,7 +3017,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.69",
                 "hs_code": "100",
                 "desc": "1 塊及び粉",
                 "rate": {
@@ -3058,7 +3058,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.69",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3103,7 +3103,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "81.12",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -3121,7 +3121,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.92",
                 "hs_code": "100",
                 "desc": "1 インジウムのもの",
                 "rate": {
@@ -3162,7 +3162,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.92",
                 "hs_code": "200",
                 "desc": "2 バナジウムのもの",
                 "rate": {
@@ -3203,7 +3203,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.92",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -3243,7 +3243,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8112.92",
                     "hs_code": "910",
                     "desc": "− ゲルマニウムのもの",
                     "rate": {
@@ -3284,7 +3284,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8112.92",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3338,7 +3338,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.99",
                 "hs_code": "100",
                 "desc": "1 ニオブ・チタン合金のもの",
                 "rate": {
@@ -3379,7 +3379,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.99",
                 "hs_code": "200",
                 "desc": "2 ゲルマニウムのもの",
                 "rate": {
@@ -3420,7 +3420,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8112.99",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -3460,7 +3460,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8112.99",
                     "hs_code": "910",
                     "desc": "− バナジウムのもの",
                     "rate": {
@@ -3501,7 +3501,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8112.99",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {

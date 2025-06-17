@@ -50,7 +50,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5801.10",
             "hs_code": "010",
             "desc": "− 絹の重量が全重量の10％を超えるもの",
             "rate": {
@@ -91,7 +91,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5801.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -134,7 +134,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "58.01",
         "hs_code": "",
         "desc": "綿製のもの",
         "rate": {},
@@ -152,7 +152,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.21",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -193,7 +193,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.21",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -233,7 +233,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.21",
                     "hs_code": "110",
                     "desc": "− 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                     "rate": {
@@ -274,7 +274,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.21",
                     "hs_code": "120",
                     "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                     "rate": {
@@ -315,7 +315,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.21",
                     "hs_code": "150",
                     "desc": "− その他のもの",
                     "rate": {
@@ -369,7 +369,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.22",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -410,7 +410,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.22",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -462,7 +462,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.23",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -503,7 +503,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.23",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -555,7 +555,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.26",
                 "hs_code": "110",
                 "desc": "1 政令で定める難燃性を有するもの（幅が142センチメートル以上のものに限る。）",
                 "rate": {
@@ -596,7 +596,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.26",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -605,7 +605,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.26",
                     "hs_code": "210",
                     "desc": "(1)プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                     "rate": {
@@ -646,7 +646,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.26",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -700,7 +700,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.27",
                 "hs_code": "",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -740,7 +740,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.27",
                     "hs_code": "011",
                     "desc": "− パイルを切つてないもの",
                     "rate": {
@@ -781,7 +781,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.27",
                     "hs_code": "019",
                     "desc": "− パイルを切つたもの",
                     "rate": {
@@ -824,7 +824,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.27",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -864,7 +864,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.27",
                     "hs_code": "021",
                     "desc": "− パイルを切つてないもの",
                     "rate": {
@@ -905,7 +905,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.27",
                     "hs_code": "029",
                     "desc": "− パイルを切つたもの",
                     "rate": {
@@ -952,7 +952,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "58.01",
         "hs_code": "",
         "desc": "人造繊維製のもの",
         "rate": {},
@@ -970,7 +970,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.31",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -1011,7 +1011,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.31",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1020,7 +1020,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.31",
                     "hs_code": "",
                     "desc": "(1)合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の50％を超えるもの、経緯糸のうちいずれか一方がこれらの繊維のもの及び絹の重量が全重量の10％を超えるもの",
                     "rate": {
@@ -1060,7 +1060,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.31",
                         "hs_code": "091",
                         "desc": "− 絹の重量が全重量の10％を超えるもの（合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の50％を超えるもの及び経緯糸のうちいずれか一方がこれらの繊維のものに限る。）",
                         "rate": {
@@ -1101,7 +1101,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.31",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {},
@@ -1110,7 +1110,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5801.31",
                             "hs_code": "092",
                             "desc": "−− 特定合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の50％を超えるもの、経緯糸のうちいずれか一方がこれらの繊維のもの及び絹の重量が全重量の10％を超えるもの",
                             "rate": {
@@ -1151,7 +1151,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5801.31",
                             "hs_code": "093",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -1196,7 +1196,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.31",
                     "hs_code": "099",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -1250,7 +1250,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.32",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -1291,7 +1291,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.32",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1300,7 +1300,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.32",
                     "hs_code": "021",
                     "desc": "(1)添加糸が合成繊維又はアセテート繊維のもの",
                     "rate": {
@@ -1341,7 +1341,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.32",
                     "hs_code": "022",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -1395,7 +1395,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.33",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -1436,7 +1436,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.33",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1445,7 +1445,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.33",
                     "hs_code": "021",
                     "desc": "(1)添加糸が合成繊維又はアセテート繊維のもの",
                     "rate": {
@@ -1486,7 +1486,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.33",
                     "hs_code": "022",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -1540,7 +1540,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.36",
                 "hs_code": "100",
                 "desc": "1 政令で定める難燃性を有するもの（幅が142センチメートル以上のものに限る。）",
                 "rate": {
@@ -1581,7 +1581,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.36",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1590,7 +1590,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.36",
                     "hs_code": "210",
                     "desc": "(1)プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                     "rate": {
@@ -1631,7 +1631,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.36",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {},
@@ -1640,7 +1640,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.36",
                         "hs_code": "221",
                         "desc": "A 添加糸が合成繊維又はアセテート繊維のもの",
                         "rate": {
@@ -1681,7 +1681,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.36",
                         "hs_code": "222",
                         "desc": "B その他のもの",
                         "rate": {
@@ -1737,7 +1737,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.37",
                 "hs_code": "",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -1777,7 +1777,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.37",
                     "hs_code": "110",
                     "desc": "− パイルを切つてないもの",
                     "rate": {
@@ -1818,7 +1818,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.37",
                     "hs_code": "190",
                     "desc": "− パイルを切つたもの",
                     "rate": {
@@ -1861,7 +1861,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.37",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1870,7 +1870,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.37",
                     "hs_code": "",
                     "desc": "(1)添加糸が合成繊維又はアセテート繊維のもの",
                     "rate": {
@@ -1910,7 +1910,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.37",
                         "hs_code": "211",
                         "desc": "− パイルを切つてないもの",
                         "rate": {
@@ -1951,7 +1951,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.37",
                         "hs_code": "219",
                         "desc": "− パイルを切つたもの",
                         "rate": {
@@ -1994,7 +1994,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.37",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -2034,7 +2034,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.37",
                         "hs_code": "221",
                         "desc": "− パイルを切つてないもの",
                         "rate": {
@@ -2075,7 +2075,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.37",
                         "hs_code": "229",
                         "desc": "− パイルを切つたもの",
                         "rate": {
@@ -2133,7 +2133,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5801.90",
             "hs_code": "010",
             "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
             "rate": {
@@ -2174,7 +2174,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5801.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2183,7 +2183,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.90",
                 "hs_code": "021",
                 "desc": "(1)添加糸が絹のもの",
                 "rate": {
@@ -2224,7 +2224,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5801.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2264,7 +2264,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.90",
                     "hs_code": "",
                     "desc": "− 絹製のもの",
                     "rate": {},
@@ -2273,7 +2273,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.90",
                         "hs_code": "023",
                         "desc": "−− 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
                         "rate": {
@@ -2314,7 +2314,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5801.90",
                         "hs_code": "025",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -2357,7 +2357,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5801.90",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2455,7 +2455,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5802.10",
             "hs_code": "010",
             "desc": "− 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
             "rate": {
@@ -2496,7 +2496,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5802.10",
             "hs_code": "020",
             "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のものを除く。）",
             "rate": {
@@ -2537,7 +2537,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5802.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2589,7 +2589,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5802.20",
             "hs_code": "010",
             "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
             "rate": {
@@ -2630,7 +2630,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5802.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2639,7 +2639,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5802.20",
                 "hs_code": "021",
                 "desc": "(1)添加糸が絹のもの",
                 "rate": {
@@ -2680,7 +2680,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5802.20",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2787,7 +2787,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5803.00",
         "hs_code": "",
         "desc": "1 綿製のもの",
         "rate": {},
@@ -2796,7 +2796,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5803.00",
             "hs_code": "110",
             "desc": "(1)経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
             "rate": {
@@ -2837,7 +2837,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5803.00",
             "hs_code": "120",
             "desc": "(2)合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のものを除く。）",
             "rate": {
@@ -2878,7 +2878,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5803.00",
             "hs_code": "190",
             "desc": "(3)その他のもの",
             "rate": {
@@ -2921,7 +2921,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5803.00",
         "hs_code": "",
         "desc": "2 絹製のもの",
         "rate": {},
@@ -2930,7 +2930,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5803.00",
             "hs_code": "",
             "desc": "(1)絹ノイル製のもの",
             "rate": {},
@@ -2939,7 +2939,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5803.00",
                 "hs_code": "211",
                 "desc": "A 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -2980,7 +2980,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5803.00",
                 "hs_code": "219",
                 "desc": "B その他のもの",
                 "rate": {
@@ -3023,7 +3023,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5803.00",
             "hs_code": "",
             "desc": "(2)その他のもの",
             "rate": {},
@@ -3032,7 +3032,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5803.00",
                 "hs_code": "291",
                 "desc": "A 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -3073,7 +3073,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5803.00",
                 "hs_code": "299",
                 "desc": "B その他のもの",
                 "rate": {
@@ -3118,7 +3118,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5803.00",
         "hs_code": "900",
         "desc": "3 その他のもの",
         "rate": {
@@ -3179,7 +3179,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5804.10",
             "hs_code": "010",
             "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
             "rate": {
@@ -3220,7 +3220,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5804.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -3263,7 +3263,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "58.04",
         "hs_code": "",
         "desc": "機械製のレース",
         "rate": {},
@@ -3281,7 +3281,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5804.21",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -3322,7 +3322,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5804.21",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3331,7 +3331,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5804.21",
                     "hs_code": "",
                     "desc": "(1)合成繊維製のもの",
                     "rate": {},
@@ -3340,7 +3340,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5804.21",
                         "hs_code": "022",
                         "desc": "A リバーレース",
                         "rate": {
@@ -3381,7 +3381,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5804.21",
                         "hs_code": "023",
                         "desc": "B その他のもの",
                         "rate": {
@@ -3424,7 +3424,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5804.21",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3478,7 +3478,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5804.29",
                 "hs_code": "010",
                 "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
                 "rate": {
@@ -3519,7 +3519,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5804.29",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3528,7 +3528,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5804.29",
                     "hs_code": "021",
                     "desc": "(1)綿製のもの",
                     "rate": {
@@ -3569,7 +3569,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5804.29",
                     "hs_code": "022",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3625,7 +3625,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5804.30",
             "hs_code": "010",
             "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
             "rate": {
@@ -3666,7 +3666,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5804.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -3675,7 +3675,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5804.30",
                 "hs_code": "021",
                 "desc": "(1)綿製のもの",
                 "rate": {
@@ -3716,7 +3716,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5804.30",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -3905,7 +3905,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "58.06",
         "hs_code": "",
         "desc": "その他の織物",
         "rate": {},
@@ -3995,7 +3995,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5806.32",
                 "hs_code": "010",
                 "desc": "1 政令で定める引張強さ及び難燃性を有するもの（幅が46ミリメートル以上のものに限る。）",
                 "rate": {
@@ -4036,7 +4036,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5806.32",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4452,7 +4452,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "58.10",
         "hs_code": "",
         "desc": "その他のししゆう布",
         "rate": {},
@@ -4607,7 +4607,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5811.00",
         "hs_code": "010",
         "desc": "1 プラスチック、ゴムその他の物質を染み込ませ、塗布し、被覆し又は積層したもの",
         "rate": {
@@ -4648,7 +4648,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5811.00",
         "hs_code": "",
         "desc": "2 その他のもの",
         "rate": {},
@@ -4657,7 +4657,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5811.00",
             "hs_code": "",
             "desc": "(1)絹の重量が全重量の10％を超えるもの（綿製のものを除く。）",
             "rate": {},
@@ -4666,7 +4666,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5811.00",
                 "hs_code": "021",
                 "desc": "A 経緯糸のうちいずれか一方が合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -4707,7 +4707,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5811.00",
                 "hs_code": "022",
                 "desc": "B その他のもの",
                 "rate": {
@@ -4750,7 +4750,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5811.00",
             "hs_code": "023",
             "desc": "(2)綿製のもの",
             "rate": {
@@ -4791,7 +4791,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5811.00",
             "hs_code": "029",
             "desc": "(3)その他のもの",
             "rate": {

@@ -19,7 +19,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9601.10",
             "hs_code": "010",
             "desc": "1 ぞうげ製のもの",
             "rate": {
@@ -62,7 +62,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9601.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -116,7 +116,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9601.90",
             "hs_code": "100",
             "desc": "1 べつこう又はさんごの加工品及び製品",
             "rate": {
@@ -159,7 +159,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9601.90",
             "hs_code": "900",
             "desc": "2 その他のもの",
             "rate": {
@@ -225,7 +225,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "9602.00",
         "hs_code": "010",
         "desc": "1 ゼラチンカプセル",
         "rate": {
@@ -266,7 +266,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "9602.00",
         "hs_code": "090",
         "desc": "2 その他のもの",
         "rate": {
@@ -363,7 +363,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "96.03",
         "hs_code": "",
         "desc": "歯ブラシ、ひげそり用ブラシ、ヘアブラシ、つめ用ブラシ、まつげ用ブラシその他化粧用ブラシ（器具の部分品を構成するブラシを含むものとし、身体に直接使用するものに限る。）",
         "rate": {},
@@ -608,7 +608,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9603.90",
             "hs_code": "030",
             "desc": "1 床掃除機",
             "rate": {
@@ -653,7 +653,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9603.90",
             "hs_code": "010",
             "desc": "2 羽毛ダスター",
             "rate": {
@@ -698,7 +698,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9603.90",
             "hs_code": "020",
             "desc": "3 ほうき又はブラシの製造用に結束し又は房状にした物品",
             "rate": {
@@ -743,7 +743,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9603.90",
             "hs_code": "090",
             "desc": "4 その他のもの",
             "rate": {
@@ -946,7 +946,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "96.06",
         "hs_code": "",
         "desc": "ボタン",
         "rate": {},
@@ -1046,7 +1046,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9606.29",
                 "hs_code": "010",
                 "desc": "1 貝殻製のもの",
                 "rate": {
@@ -1087,7 +1087,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9606.29",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1184,7 +1184,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "96.07",
         "hs_code": "",
         "desc": "スライドファスナー",
         "rate": {},
@@ -1338,7 +1338,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9608.10",
             "hs_code": "010",
             "desc": "1 軸又はキャップに貴金属、これを張り若しくはめつきした金属、貴石、半貴石、真珠、さんご、ぞうげ又はべつこうを使用したもの",
             "rate": {
@@ -1381,7 +1381,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9608.10",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1478,7 +1478,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9608.30",
             "hs_code": "100",
             "desc": "1 軸又はキャップに貴金属、これを貼り若しくはめつきした金属、貴石、半貴石、真珠、さんご、象牙又はべつこうを使用したもの",
             "rate": {
@@ -1521,7 +1521,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9608.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -1575,7 +1575,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9608.40",
             "hs_code": "010",
             "desc": "1 軸又はキャップに貴金属、これを張り若しくはめつきした金属、貴石、半貴石、真珠、さんご、ぞうげ又はべつこうを使用したもの",
             "rate": {
@@ -1618,7 +1618,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9608.40",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1749,7 +1749,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "96.08",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1841,7 +1841,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9608.99",
                 "hs_code": "010",
                 "desc": "− ボールペン又はシャープペンシルの部分品及び附属品（ボールペン用中しんを除く。）",
                 "rate": {
@@ -1884,7 +1884,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9608.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1982,7 +1982,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9609.10",
             "hs_code": "010",
             "desc": "− 黒芯のもの",
             "rate": {
@@ -2023,7 +2023,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9609.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2407,7 +2407,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9613.20",
             "hs_code": "010",
             "desc": "1 貴金属、これを貼り若しくはめつきした金属、貴石、半貴石、真珠、さんご、象牙又はべつこうを使用したもの",
             "rate": {
@@ -2451,7 +2451,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9613.20",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -2606,7 +2606,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "9614.00",
         "hs_code": "100",
         "desc": "1 パイプ及びパイプボール",
         "rate": {
@@ -2647,7 +2647,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "9614.00",
         "hs_code": "900",
         "desc": "2 その他のもの",
         "rate": {
@@ -2699,7 +2699,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "96.15",
         "hs_code": "",
         "desc": "くし、ヘアスライドその他これらに類する物品",
         "rate": {},
@@ -2805,7 +2805,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9615.90",
             "hs_code": "010",
             "desc": "1 木製のもの",
             "rate": {
@@ -2848,7 +2848,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9615.90",
             "hs_code": "030",
             "desc": "2 鉄鋼製のもの",
             "rate": {
@@ -2891,7 +2891,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9615.90",
             "hs_code": "070",
             "desc": "3 アルミニウム製又はアイボリー、骨、かめの甲、角、枝角、さんご、真珠光沢を有する貝殻その他の動物性の彫刻用若しくは細工用の材料製のもの",
             "rate": {
@@ -2934,7 +2934,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9615.90",
             "hs_code": "050",
             "desc": "4 その他の卑金属製のもの（貴金属をめつきしたものを除く。）",
             "rate": {
@@ -2977,7 +2977,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9615.90",
             "hs_code": "060",
             "desc": "5 その他のもの",
             "rate": {

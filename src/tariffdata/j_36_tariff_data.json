@@ -334,7 +334,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3603.50",
             "hs_code": "100",
             "desc": "1 政令で定める自動車の部分品の製造に使用するもの",
             "rate": {
@@ -378,7 +378,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3603.50",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -519,7 +519,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3604.10",
             "hs_code": "010",
             "desc": "− がん具用のもの",
             "rate": {
@@ -562,7 +562,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3604.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

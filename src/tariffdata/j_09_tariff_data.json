@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.01",
         "hs_code": "",
         "desc": "コーヒー（いつたものを除く。）",
         "rate": {},
@@ -109,7 +109,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.01",
         "hs_code": "",
         "desc": "コーヒー（いつたものに限る。）",
         "rate": {},
@@ -217,7 +217,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0901.90",
             "hs_code": "100",
             "desc": "1 コーヒー豆の殻及び皮",
             "rate": {
@@ -261,7 +261,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0901.90",
             "hs_code": "200",
             "desc": "2 コーヒーを含有するコーヒー代用物",
             "rate": {
@@ -371,7 +371,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0902.20",
             "hs_code": "100",
             "desc": "1 くず（飲用に適するものを除く。）",
             "rate": {
@@ -415,7 +415,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0902.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -501,7 +501,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0902.30",
             "hs_code": "010",
             "desc": "− 紅茶",
             "rate": {
@@ -545,7 +545,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0902.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -600,7 +600,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0902.40",
             "hs_code": "100",
             "desc": "1 くず（飲用に適するものを除く。）",
             "rate": {
@@ -644,7 +644,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0902.40",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -653,7 +653,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0902.40",
                 "hs_code": "210",
                 "desc": "(1)紅茶",
                 "rate": {
@@ -697,7 +697,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0902.40",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -810,7 +810,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.04",
         "hs_code": "",
         "desc": "ペッパー",
         "rate": {},
@@ -828,7 +828,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.11",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -872,7 +872,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.11",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -927,7 +927,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.12",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -971,7 +971,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.12",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1019,7 +1019,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.04",
         "hs_code": "",
         "desc": "とうがらし属又はピメンタ属の果実",
         "rate": {},
@@ -1037,7 +1037,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.21",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -1081,7 +1081,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.21",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1136,7 +1136,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.22",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -1180,7 +1180,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0904.22",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1340,7 +1340,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.06",
         "hs_code": "",
         "desc": "破砕及び粉砕のいずれもしてないもの",
         "rate": {},
@@ -1503,7 +1503,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0907.10",
             "hs_code": "100",
             "desc": "1 小売用の容器入りにしたもの",
             "rate": {
@@ -1547,7 +1547,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0907.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -1602,7 +1602,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0907.20",
             "hs_code": "100",
             "desc": "1 小売用の容器入りにしたもの",
             "rate": {
@@ -1646,7 +1646,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0907.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -1703,7 +1703,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.08",
         "hs_code": "",
         "desc": "肉ずく",
         "rate": {},
@@ -1721,7 +1721,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.11",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -1765,7 +1765,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.11",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1820,7 +1820,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.12",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -1864,7 +1864,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.12",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1912,7 +1912,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.08",
         "hs_code": "",
         "desc": "肉ずく花",
         "rate": {},
@@ -1930,7 +1930,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.21",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -1974,7 +1974,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.21",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2029,7 +2029,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.22",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2073,7 +2073,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.22",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2121,7 +2121,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.08",
         "hs_code": "",
         "desc": "カルダモン類",
         "rate": {},
@@ -2139,7 +2139,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.31",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2183,7 +2183,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.31",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2238,7 +2238,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.32",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2282,7 +2282,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0908.32",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2341,7 +2341,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.09",
         "hs_code": "",
         "desc": "コリアンダーの種",
         "rate": {},
@@ -2359,7 +2359,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.21",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2403,7 +2403,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.21",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2458,7 +2458,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.22",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2502,7 +2502,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.22",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2550,7 +2550,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.09",
         "hs_code": "",
         "desc": "クミンの種",
         "rate": {},
@@ -2568,7 +2568,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.31",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2612,7 +2612,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.31",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2667,7 +2667,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.32",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2711,7 +2711,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.32",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2759,7 +2759,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.09",
         "hs_code": "",
         "desc": "アニス、大ういきよう、カラウエイ又はういきようの種及びジュニパーベリー",
         "rate": {},
@@ -2777,7 +2777,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.61",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2821,7 +2821,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.61",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2876,7 +2876,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.62",
                 "hs_code": "100",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -2920,7 +2920,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0909.62",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2979,7 +2979,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.10",
         "hs_code": "",
         "desc": "しようが",
         "rate": {},
@@ -2997,7 +2997,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.11",
                 "hs_code": "100",
                 "desc": "1 塩水、亜硫酸水その他の保存用の溶液により一時的な保存に適する処理をしたもの",
                 "rate": {
@@ -3041,7 +3041,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.11",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3050,7 +3050,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.11",
                     "hs_code": "210",
                     "desc": "(1)小売用の容器入りにしたもの",
                     "rate": {
@@ -3094,7 +3094,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.11",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3134,7 +3134,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.11",
                         "hs_code": "292",
                         "desc": "A 乾燥したもの（全形のものに限るものとし、皮を除いてあるかないかを問わない。）",
                         "rate": {
@@ -3178,7 +3178,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.11",
                         "hs_code": "",
                         "desc": "B その他のもの",
                         "rate": {
@@ -3218,7 +3218,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "0910.11",
                             "hs_code": "291",
                             "desc": "− 生鮮のもの",
                             "rate": {
@@ -3262,7 +3262,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "0910.11",
                             "hs_code": "299",
                             "desc": "− その他のもの",
                             "rate": {
@@ -3323,7 +3323,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.12",
                 "hs_code": "100",
                 "desc": "1 塩水、亜硫酸水その他の保存用の溶液により一時的な保存に適する処理をしたもの",
                 "rate": {
@@ -3367,7 +3367,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.12",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3376,7 +3376,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.12",
                     "hs_code": "210",
                     "desc": "(1)小売用の容器入りにしたもの",
                     "rate": {
@@ -3420,7 +3420,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.12",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3460,7 +3460,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.12",
                         "hs_code": "291",
                         "desc": "− 生鮮のもの",
                         "rate": {
@@ -3504,7 +3504,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.12",
                         "hs_code": "299",
                         "desc": "− その他のもの",
                         "rate": {
@@ -3565,7 +3565,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0910.20",
             "hs_code": "100",
             "desc": "1 小売用の容器入りにしたもの",
             "rate": {
@@ -3609,7 +3609,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0910.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -3649,7 +3649,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.20",
                 "hs_code": "210",
                 "desc": "− 破砕及び粉砕のいずれもしてないもの",
                 "rate": {
@@ -3693,7 +3693,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.20",
                 "hs_code": "220",
                 "desc": "− 破砕し又は粉砕したもの",
                 "rate": {
@@ -3750,7 +3750,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0910.30",
             "hs_code": "100",
             "desc": "1 小売用の容器入りにしたもの",
             "rate": {
@@ -3794,7 +3794,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0910.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -3834,7 +3834,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.30",
                 "hs_code": "210",
                 "desc": "− 破砕及び粉砕のいずれもしてないもの",
                 "rate": {
@@ -3878,7 +3878,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.30",
                 "hs_code": "220",
                 "desc": "− 破砕し又は粉砕したもの",
                 "rate": {
@@ -3926,7 +3926,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "09.10",
         "hs_code": "",
         "desc": "その他の香辛料",
         "rate": {},
@@ -3944,7 +3944,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.91",
                 "hs_code": "110",
                 "desc": "1 カレー",
                 "rate": {
@@ -3988,7 +3988,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.91",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3997,7 +3997,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.91",
                     "hs_code": "210",
                     "desc": "(1)小売用の容器入りにしたもの",
                     "rate": {
@@ -4041,7 +4041,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.91",
                     "hs_code": "290",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -4098,7 +4098,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.99",
                 "hs_code": "",
                 "desc": "1 小売用の容器入りにしたもの",
                 "rate": {
@@ -4138,7 +4138,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.99",
                     "hs_code": "911",
                     "desc": "− 月けい樹の葉及びタイム",
                     "rate": {
@@ -4182,7 +4182,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.99",
                     "hs_code": "919",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4228,7 +4228,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0910.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4268,7 +4268,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.99",
                     "hs_code": "",
                     "desc": "− 月けい樹の葉及びタイム",
                     "rate": {},
@@ -4277,7 +4277,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.99",
                         "hs_code": "991",
                         "desc": "−− 破砕及び粉砕のいずれもしてないもの",
                         "rate": {
@@ -4321,7 +4321,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.99",
                         "hs_code": "992",
                         "desc": "−− 破砕し又は粉砕したもの",
                         "rate": {
@@ -4367,7 +4367,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0910.99",
                     "hs_code": "",
                     "desc": "− その他のもの",
                     "rate": {},
@@ -4376,7 +4376,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.99",
                         "hs_code": "993",
                         "desc": "−− 破砕及び粉砕のいずれもしてないもの",
                         "rate": {
@@ -4420,7 +4420,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0910.99",
                         "hs_code": "994",
                         "desc": "−− 破砕し又は粉砕したもの",
                         "rate": {

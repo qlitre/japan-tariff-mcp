@@ -172,7 +172,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0703.10",
             "hs_code": "",
             "desc": "1 たまねぎ",
             "rate": {
@@ -212,7 +212,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0703.10",
                 "hs_code": "011",
                 "desc": "(1)課税価格が1キログラムにつき67円以下のもの",
                 "rate": {
@@ -256,7 +256,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0703.10",
                 "hs_code": "012",
                 "desc": "(2)課税価格が1キログラムにつき67円を超え73円70銭以下のもの",
                 "rate": {
@@ -300,7 +300,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0703.10",
                 "hs_code": "013",
                 "desc": "(3)課税価格が1キログラムにつき73円70銭を超えるもの",
                 "rate": {
@@ -346,7 +346,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0703.10",
             "hs_code": "020",
             "desc": "2 シャロット",
             "rate": {
@@ -476,7 +476,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0703.90",
             "hs_code": "010",
             "desc": "− ねぎ",
             "rate": {
@@ -520,7 +520,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0703.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -617,7 +617,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0704.10",
             "hs_code": "010",
             "desc": "− カリフラワー",
             "rate": {
@@ -661,7 +661,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0704.10",
             "hs_code": "020",
             "desc": "− ブロッコリー",
             "rate": {
@@ -791,7 +791,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0704.90",
             "hs_code": "020",
             "desc": "− 結球キャベツ",
             "rate": {
@@ -835,7 +835,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0704.90",
             "hs_code": "030",
             "desc": "− はくさい",
             "rate": {
@@ -879,7 +879,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0704.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -936,7 +936,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.05",
         "hs_code": "",
         "desc": "レタス",
         "rate": {},
@@ -1035,7 +1035,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.05",
         "hs_code": "",
         "desc": "チコリー",
         "rate": {},
@@ -1185,7 +1185,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0706.10",
             "hs_code": "010",
             "desc": "− にんじん",
             "rate": {
@@ -1229,7 +1229,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0706.10",
             "hs_code": "020",
             "desc": "− かぶ",
             "rate": {
@@ -1315,7 +1315,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0706.90",
             "hs_code": "010",
             "desc": "− ごぼう",
             "rate": {
@@ -1359,7 +1359,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0706.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1745,7 +1745,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.09",
         "hs_code": "",
         "desc": "きのこ及びトリフ",
         "rate": {},
@@ -2104,7 +2104,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0709.60",
             "hs_code": "010",
             "desc": "− ピーマン（厚肉大果種のもの）",
             "rate": {
@@ -2148,7 +2148,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0709.60",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2238,7 +2238,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.09",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -2388,7 +2388,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0709.99",
                 "hs_code": "100",
                 "desc": "1 スイートコーン",
                 "rate": {
@@ -2432,7 +2432,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0709.99",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2535,7 +2535,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.10",
         "hs_code": "",
         "desc": "豆（さやを除いてあるかないかを問わない。）",
         "rate": {},
@@ -2672,7 +2672,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0710.29",
                 "hs_code": "010",
                 "desc": "− えだ豆",
                 "rate": {
@@ -2716,7 +2716,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0710.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2861,7 +2861,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0710.80",
             "hs_code": "030",
             "desc": "1 ごぼう",
             "rate": {
@@ -2905,7 +2905,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0710.80",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -2945,7 +2945,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0710.80",
                 "hs_code": "010",
                 "desc": "− ブロッコリー",
                 "rate": {
@@ -2989,7 +2989,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0710.80",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3046,7 +3046,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0710.90",
             "hs_code": "100",
             "desc": "1 スイートコーンを主成分とするもの",
             "rate": {
@@ -3090,7 +3090,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0710.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -3233,7 +3233,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.11",
         "hs_code": "",
         "desc": "きのこ及びトリフ",
         "rate": {},
@@ -3339,7 +3339,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0711.90",
             "hs_code": "",
             "desc": "1 なす（1個の重量が20グラム以下のものに限る。）、らつきよう及びわらび",
             "rate": {
@@ -3379,7 +3379,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0711.90",
                 "hs_code": "012",
                 "desc": "− なす",
                 "rate": {
@@ -3422,7 +3422,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0711.90",
                 "hs_code": "013",
                 "desc": "− らつきよう",
                 "rate": {
@@ -3465,7 +3465,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0711.90",
                 "hs_code": "019",
                 "desc": "− わらび",
                 "rate": {
@@ -3510,7 +3510,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0711.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -3519,7 +3519,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0711.90",
                 "hs_code": "093",
                 "desc": "(1)ごぼう",
                 "rate": {
@@ -3562,7 +3562,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0711.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -3602,7 +3602,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0711.90",
                     "hs_code": "091",
                     "desc": "− なす",
                     "rate": {
@@ -3645,7 +3645,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0711.90",
                     "hs_code": "092",
                     "desc": "− れんこん",
                     "rate": {
@@ -3688,7 +3688,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0711.90",
                     "hs_code": "094",
                     "desc": "− ケーパー",
                     "rate": {
@@ -3731,7 +3731,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0711.90",
                     "hs_code": "099",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3835,7 +3835,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.12",
         "hs_code": "",
         "desc": "きのこ、きくらげ（きくらげ属のもの）、白きくらげ（白きくらげ属のもの）及びトリフ",
         "rate": {},
@@ -4075,7 +4075,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0712.90",
             "hs_code": "",
             "desc": "1 スイートコーン",
             "rate": {},
@@ -4084,7 +4084,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0712.90",
                 "hs_code": "031",
                 "desc": "(1)薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
                 "rate": {
@@ -4128,7 +4128,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0712.90",
                 "hs_code": "039",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -4174,7 +4174,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0712.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -4214,7 +4214,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0712.90",
                 "hs_code": "050",
                 "desc": "− ばれいしよ（切つてあるかないかを問わないものとし、更に調製したものを除く。）",
                 "rate": {
@@ -4258,7 +4258,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0712.90",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -4298,7 +4298,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0712.90",
                     "hs_code": "010",
                     "desc": "−− たけのこ",
                     "rate": {
@@ -4342,7 +4342,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0712.90",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {},
@@ -4351,7 +4351,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0712.90",
                         "hs_code": "020",
                         "desc": "−−− ぜんまい",
                         "rate": {
@@ -4395,7 +4395,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0712.90",
                         "hs_code": "040",
                         "desc": "−−− 大根",
                         "rate": {
@@ -4439,7 +4439,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0712.90",
                         "hs_code": "060",
                         "desc": "−−− かんぴよう",
                         "rate": {
@@ -4483,7 +4483,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0712.90",
                         "hs_code": "090",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -4555,7 +4555,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.10",
             "hs_code": "010",
             "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
             "rate": {
@@ -4599,7 +4599,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -4608,7 +4608,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.10",
                 "hs_code": "211",
                 "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                 "rate": {
@@ -4652,7 +4652,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.10",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -4692,7 +4692,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.10",
                     "hs_code": "221",
                     "desc": "− この号の2の(2)に掲げるえんどう、第0713.32号に掲げる小豆、第0713.33号の2の(2)に掲げるいんげん豆、第0713.34号の2の(2)に掲げるバンバラ豆、第0713.35号の2の(2)に掲げるささげ、第0713.39号の2の(2)に掲げるその他のささげ属又はいんげんまめ属の豆、第0713.50号の2の(2)に掲げるそら豆、第0713.60号の2の(2)に掲げるき豆及び第0713.90号の2の(2)に掲げるその他の乾燥した豆について、120,000トンを基準とし、当該年度における国内需要見込数量から国内生産見込数量を控除した数量、国際市況その他の条件を勘案して政令で定める数量（以下この項において「共通の限度数量」という。）以内のもの",
                     "rate": {
@@ -4736,7 +4736,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.10",
                     "hs_code": "229",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4795,7 +4795,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.20",
             "hs_code": "010",
             "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
             "rate": {
@@ -4839,7 +4839,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.20",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -4885,7 +4885,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "07.13",
         "hs_code": "",
         "desc": "ささげ属又はいんげんまめ属の豆",
         "rate": {},
@@ -4978,7 +4978,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.32",
                 "hs_code": "010",
                 "desc": "− 共通の限度数量以内のもの",
                 "rate": {
@@ -5022,7 +5022,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.32",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5077,7 +5077,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.33",
                 "hs_code": "010",
                 "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
                 "rate": {
@@ -5121,7 +5121,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.33",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5130,7 +5130,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.33",
                     "hs_code": "210",
                     "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                     "rate": {
@@ -5174,7 +5174,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.33",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5214,7 +5214,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.33",
                         "hs_code": "221",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -5258,7 +5258,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.33",
                         "hs_code": "229",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5317,7 +5317,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.34",
                 "hs_code": "100",
                 "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
                 "rate": {
@@ -5361,7 +5361,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.34",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5370,7 +5370,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.34",
                     "hs_code": "210",
                     "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                     "rate": {
@@ -5414,7 +5414,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.34",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5454,7 +5454,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.34",
                         "hs_code": "291",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -5498,7 +5498,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.34",
                         "hs_code": "299",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5557,7 +5557,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.35",
                 "hs_code": "100",
                 "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
                 "rate": {
@@ -5601,7 +5601,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.35",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5610,7 +5610,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.35",
                     "hs_code": "210",
                     "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                     "rate": {
@@ -5654,7 +5654,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.35",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5694,7 +5694,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.35",
                         "hs_code": "291",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -5738,7 +5738,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.35",
                         "hs_code": "299",
                         "desc": "− その他のもの",
                         "rate": {
@@ -5797,7 +5797,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.39",
                 "hs_code": "010",
                 "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
                 "rate": {
@@ -5841,7 +5841,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.39",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5850,7 +5850,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.39",
                     "hs_code": "210",
                     "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                     "rate": {
@@ -5894,7 +5894,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.39",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5934,7 +5934,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.39",
                         "hs_code": "",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -5974,7 +5974,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "0713.39",
                             "hs_code": "221",
                             "desc": "−− 竹小豆",
                             "rate": {
@@ -6018,7 +6018,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "0713.39",
                             "hs_code": "226",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -6064,7 +6064,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "0713.39",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {
@@ -6104,7 +6104,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "0713.39",
                             "hs_code": "222",
                             "desc": "−− 竹小豆",
                             "rate": {
@@ -6148,7 +6148,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "0713.39",
                             "hs_code": "227",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -6211,7 +6211,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.40",
             "hs_code": "010",
             "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
             "rate": {
@@ -6255,7 +6255,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.40",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -6310,7 +6310,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.50",
             "hs_code": "010",
             "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
             "rate": {
@@ -6354,7 +6354,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.50",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -6363,7 +6363,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.50",
                 "hs_code": "210",
                 "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                 "rate": {
@@ -6407,7 +6407,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.50",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -6447,7 +6447,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.50",
                     "hs_code": "221",
                     "desc": "− 共通の限度数量以内のもの",
                     "rate": {
@@ -6491,7 +6491,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.50",
                     "hs_code": "229",
                     "desc": "− その他のもの",
                     "rate": {
@@ -6550,7 +6550,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.60",
             "hs_code": "100",
             "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
             "rate": {
@@ -6594,7 +6594,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.60",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -6603,7 +6603,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.60",
                 "hs_code": "210",
                 "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                 "rate": {
@@ -6647,7 +6647,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.60",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -6687,7 +6687,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.60",
                     "hs_code": "291",
                     "desc": "− 共通の限度数量以内のもの",
                     "rate": {
@@ -6731,7 +6731,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.60",
                     "hs_code": "299",
                     "desc": "− その他のもの",
                     "rate": {
@@ -6790,7 +6790,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.90",
             "hs_code": "010",
             "desc": "1 薬品処理（例えば、殺菌又は発芽促進のための処理）により専ら播種用に適するようにしたもの",
             "rate": {
@@ -6834,7 +6834,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0713.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -6843,7 +6843,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.90",
                 "hs_code": "210",
                 "desc": "(1)播種用のもの（野菜栽培用のものに限る。）である旨が政令で定めるところにより証明されたもの",
                 "rate": {
@@ -6887,7 +6887,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0713.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -6927,7 +6927,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.90",
                     "hs_code": "221",
                     "desc": "− 共通の限度数量以内のもの",
                     "rate": {
@@ -6971,7 +6971,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0713.90",
                     "hs_code": "229",
                     "desc": "− その他のもの",
                     "rate": {
@@ -7041,7 +7041,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.10",
             "hs_code": "",
             "desc": "1 冷凍したもの",
             "rate": {
@@ -7081,7 +7081,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0714.10",
                 "hs_code": "310",
                 "desc": "− 飼料用のもの（税関の監督の下で飼料の原料として使用するものに限る。）",
                 "rate": {
@@ -7125,7 +7125,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0714.10",
                 "hs_code": "390",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7171,7 +7171,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -7180,7 +7180,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0714.10",
                 "hs_code": "",
                 "desc": "(1)粉又はミールのペレット",
                 "rate": {
@@ -7220,7 +7220,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0714.10",
                     "hs_code": "110",
                     "desc": "− 飼料用のもの（税関の監督の下で飼料の原料として使用するものに限る。）",
                     "rate": {
@@ -7264,7 +7264,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0714.10",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -7310,7 +7310,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0714.10",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -7350,7 +7350,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0714.10",
                     "hs_code": "210",
                     "desc": "− 飼料用のもの（税関の監督の下で飼料の原料として使用するものに限る。）",
                     "rate": {
@@ -7394,7 +7394,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0714.10",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -7453,7 +7453,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.20",
             "hs_code": "100",
             "desc": "1 冷凍したもの",
             "rate": {
@@ -7497,7 +7497,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -7552,7 +7552,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.30",
             "hs_code": "100",
             "desc": "1 冷凍したもの",
             "rate": {
@@ -7596,7 +7596,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -7651,7 +7651,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.40",
             "hs_code": "100",
             "desc": "1 冷凍したもの",
             "rate": {
@@ -7695,7 +7695,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.40",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -7750,7 +7750,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.50",
             "hs_code": "100",
             "desc": "1 冷凍したもの",
             "rate": {
@@ -7794,7 +7794,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.50",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -7849,7 +7849,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.90",
             "hs_code": "100",
             "desc": "1 冷凍したもの",
             "rate": {
@@ -7893,7 +7893,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0714.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {

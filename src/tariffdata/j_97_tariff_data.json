@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "97.01",
         "hs_code": "",
         "desc": "製作後100年を超えたもの",
         "rate": {},
@@ -153,7 +153,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "97.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -600,7 +600,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "97.05",
         "hs_code": "",
         "desc": "収集品及び標本（動物学、植物学、鉱物学、解剖学又は古生物学に関するものに限る。）",
         "rate": {},
@@ -746,7 +746,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "97.05",
         "hs_code": "",
         "desc": "収集品及び標本（古銭に関するものに限る。）",
         "rate": {},

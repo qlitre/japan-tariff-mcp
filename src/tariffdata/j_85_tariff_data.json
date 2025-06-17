@@ -50,7 +50,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8501.10",
             "hs_code": "010",
             "desc": "− 直流電動機",
             "rate": {
@@ -91,7 +91,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8501.10",
             "hs_code": "020",
             "desc": "− 単相交流電動機",
             "rate": {
@@ -132,7 +132,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8501.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -216,7 +216,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.01",
         "hs_code": "",
         "desc": "その他の直流電動機及び直流発電機（光発電機を除く。）",
         "rate": {},
@@ -432,7 +432,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.01",
         "hs_code": "",
         "desc": "その他の多相交流電動機",
         "rate": {},
@@ -566,7 +566,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.01",
         "hs_code": "",
         "desc": "交流発電機（光発電機を除く。）",
         "rate": {},
@@ -741,7 +741,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.01",
         "hs_code": "",
         "desc": "直流光発電機",
         "rate": {},
@@ -886,7 +886,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.02",
         "hs_code": "",
         "desc": "発電機（ピストン式圧縮点火内燃機関（ディーゼルエンジン及びセミディーゼルエンジン）とセットにしたものに限る。）",
         "rate": {},
@@ -1061,7 +1061,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.02",
         "hs_code": "",
         "desc": "発電機（その他の原動機とセットにしたものに限る。）",
         "rate": {},
@@ -1300,7 +1300,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.04",
         "hs_code": "",
         "desc": "トランスフォーマー（絶縁性の液体を使用するものに限る。）",
         "rate": {},
@@ -1349,7 +1349,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8504.21",
                 "hs_code": "010",
                 "desc": "− 容量が100キロボルトアンペア以下のもの",
                 "rate": {
@@ -1392,7 +1392,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8504.21",
                 "hs_code": "020",
                 "desc": "− 容量が100キロボルトアンペアを超え200キロボルトアンペア未満のもの",
                 "rate": {
@@ -1435,7 +1435,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8504.21",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1568,7 +1568,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.04",
         "hs_code": "",
         "desc": "その他のトランスフォーマー",
         "rate": {},
@@ -1703,7 +1703,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8504.33",
                 "hs_code": "010",
                 "desc": "− 容量が50キロボルトアンペア以下のもの",
                 "rate": {
@@ -1746,7 +1746,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8504.33",
                 "hs_code": "020",
                 "desc": "− 容量が50キロボルトアンペアを超え200キロボルトアンペア未満のもの",
                 "rate": {
@@ -1789,7 +1789,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8504.33",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1919,7 +1919,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8504.40",
             "hs_code": "010",
             "desc": "− 整流機器",
             "rate": {
@@ -1962,7 +1962,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8504.40",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2104,7 +2104,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.05",
         "hs_code": "",
         "desc": "永久磁石及び永久磁石用の物品で磁化してないもの",
         "rate": {},
@@ -2278,7 +2278,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8505.90",
             "hs_code": "010",
             "desc": "− 電磁石",
             "rate": {
@@ -2319,7 +2319,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8505.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2413,7 +2413,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8506.10",
             "hs_code": "",
             "desc": "− アルカリマンガン電池",
             "rate": {},
@@ -2422,7 +2422,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8506.10",
                 "hs_code": "011",
                 "desc": "−− ボタン電池",
                 "rate": {
@@ -2465,7 +2465,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8506.10",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -2510,7 +2510,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8506.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2864,7 +2864,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8507.10",
             "hs_code": "010",
             "desc": "− 公称電圧が6ボルト又は12ボルトのもの",
             "rate": {
@@ -2908,7 +2908,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8507.10",
             "hs_code": "020",
             "desc": "− その他のもの",
             "rate": {
@@ -2994,7 +2994,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8507.20",
             "hs_code": "010",
             "desc": "− 公称電圧が6ボルト又は12ボルトのもの",
             "rate": {
@@ -3038,7 +3038,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8507.20",
             "hs_code": "020",
             "desc": "− その他のもの",
             "rate": {
@@ -3315,7 +3315,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.08",
         "hs_code": "",
         "desc": "電動装置を自蔵するもの",
         "rate": {},
@@ -3364,7 +3364,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8508.11",
                 "hs_code": "010",
                 "desc": "− 電池内蔵式のもの",
                 "rate": {
@@ -3405,7 +3405,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8508.11",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -3941,7 +3941,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8511.10",
             "hs_code": "010",
             "desc": "− 自動車用のもの",
             "rate": {
@@ -3982,7 +3982,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8511.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -4270,7 +4270,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8511.90",
             "hs_code": "010",
             "desc": "− 発電機又はスターターのもの",
             "rate": {
@@ -4311,7 +4311,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8511.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -4674,7 +4674,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.14",
         "hs_code": "",
         "desc": "抵抗加熱炉",
         "rate": {},
@@ -4814,7 +4814,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.14",
         "hs_code": "",
         "desc": "その他の炉",
         "rate": {},
@@ -5051,7 +5051,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.15",
         "hs_code": "",
         "desc": "ろう付け用又ははんだ付け用の機器",
         "rate": {},
@@ -5144,7 +5144,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.15",
         "hs_code": "",
         "desc": "金属用抵抗溶接機器",
         "rate": {},
@@ -5237,7 +5237,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.15",
         "hs_code": "",
         "desc": "アーク溶接機器（プラズマアーク溶接機器を含むものとし、金属用のものに限る。）",
         "rate": {},
@@ -5370,7 +5370,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8515.80",
             "hs_code": "010",
             "desc": "− 超音波式のもの",
             "rate": {
@@ -5411,7 +5411,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8515.80",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -5494,7 +5494,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8515.90",
             "hs_code": "010",
             "desc": "− 超音波式機器のもの",
             "rate": {
@@ -5535,7 +5535,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8515.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -5633,7 +5633,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.16",
         "hs_code": "",
         "desc": "電気式の暖房機器及び土壌加熱器",
         "rate": {},
@@ -5732,7 +5732,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.16",
         "hs_code": "",
         "desc": "電熱式の調髪用機器及び手用ドライヤー",
         "rate": {},
@@ -5959,7 +5959,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8516.50",
             "hs_code": "010",
             "desc": "− マイクロ波以外の方法による加熱機能を有しないもの",
             "rate": {
@@ -6003,7 +6003,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8516.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -6093,7 +6093,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.16",
         "hs_code": "",
         "desc": "その他の電熱機器",
         "rate": {},
@@ -6230,7 +6230,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8516.79",
                 "hs_code": "010",
                 "desc": "− 電気がま",
                 "rate": {
@@ -6274,7 +6274,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8516.79",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -6421,7 +6421,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.17",
         "hs_code": "",
         "desc": "電話機（スマートフォン及び携帯回線網用その他の無線回線網用のその他の電話を含む。）",
         "rate": {},
@@ -6596,7 +6596,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.17",
         "hs_code": "",
         "desc": "その他の機器（音声、画像その他のデータを送受信するものに限るものとし、有線又は無線回線網（例えば、ローカルエリアネットワーク（LAN）又はワイドエリアネットワーク（WAN））用の通信機器を含む。）",
         "rate": {},
@@ -6686,7 +6686,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8517.62",
                 "hs_code": "010",
                 "desc": "− スイッチング機器及びルーティング機器",
                 "rate": {
@@ -6727,7 +6727,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8517.62",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -6813,7 +6813,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.17",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -6958,7 +6958,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.18",
         "hs_code": "",
         "desc": "拡声器（エンクロージャーに取り付けてあるかないかを問わない。）",
         "rate": {},
@@ -7349,7 +7349,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.19",
         "hs_code": "",
         "desc": "その他の機器",
         "rate": {},
@@ -7639,7 +7639,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.23",
         "hs_code": "",
         "desc": "磁気媒体",
         "rate": {},
@@ -7732,7 +7732,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.23",
         "hs_code": "",
         "desc": "光学媒体",
         "rate": {},
@@ -7825,7 +7825,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.23",
         "hs_code": "",
         "desc": "半導体媒体",
         "rate": {},
@@ -7915,7 +7915,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8523.52",
                 "hs_code": "010",
                 "desc": "− プロキシミティカード及びプロキシミティタグ",
                 "rate": {
@@ -7956,7 +7956,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8523.52",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8094,7 +8094,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.24",
         "hs_code": "",
         "desc": "ドライバ又は制御回路を有しないもの",
         "rate": {},
@@ -8228,7 +8228,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.24",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -8455,7 +8455,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.25",
         "hs_code": "",
         "desc": "テレビジョンカメラ、デジタルカメラ及びビデオカメラレコーダー",
         "rate": {},
@@ -8681,7 +8681,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8526.10",
             "hs_code": "010",
             "desc": "− 船舶用のもの",
             "rate": {
@@ -8722,7 +8722,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8526.10",
             "hs_code": "020",
             "desc": "− 航空機用のもの（機上用又は地上用のものであるかないかを問わない。）",
             "rate": {
@@ -8763,7 +8763,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8526.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -8806,7 +8806,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.26",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -8855,7 +8855,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8526.91",
                 "hs_code": "010",
                 "desc": "− 航空機用のもの（機上用又は地上用のものであるかないかを問わない。）",
                 "rate": {
@@ -8896,7 +8896,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8526.91",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8993,7 +8993,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.27",
         "hs_code": "",
         "desc": "ラジオ放送用受信機（外部電源によらずに作動するものに限る。）",
         "rate": {},
@@ -9127,7 +9127,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.27",
         "hs_code": "",
         "desc": "自動車に使用する種類のラジオ放送用受信機（外部電源によらなければ作動しないものに限る。）",
         "rate": {},
@@ -9220,7 +9220,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.27",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -9365,7 +9365,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.28",
         "hs_code": "",
         "desc": "陰極線管モニター",
         "rate": {},
@@ -9462,7 +9462,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.28",
         "hs_code": "",
         "desc": "その他のモニター",
         "rate": {},
@@ -9559,7 +9559,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.28",
         "hs_code": "",
         "desc": "プロジェクター",
         "rate": {},
@@ -9656,7 +9656,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.28",
         "hs_code": "",
         "desc": "テレビジョン受像機器（ラジオ放送用受信機又は音声若しくはビデオの記録用若しくは再生用の装置を自蔵するかしないかを問わない。）",
         "rate": {},
@@ -9748,7 +9748,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8528.72",
                 "hs_code": "010",
                 "desc": "− 液晶式のもの",
                 "rate": {
@@ -9791,7 +9791,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8528.72",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -9973,7 +9973,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8529.90",
             "hs_code": "",
             "desc": "− ディスプレイモジュール",
             "rate": {},
@@ -9982,7 +9982,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8529.90",
                 "hs_code": "",
                 "desc": "−− 液晶式のもの",
                 "rate": {},
@@ -9991,7 +9991,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8529.90",
                     "hs_code": "111",
                     "desc": "−−− 画面対角が59センチメートル未満のもの",
                     "rate": {
@@ -10032,7 +10032,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8529.90",
                     "hs_code": "112",
                     "desc": "−−− 画面対角が59センチメートル以上76センチメートル未満のもの",
                     "rate": {
@@ -10073,7 +10073,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8529.90",
                     "hs_code": "113",
                     "desc": "−−− 画面対角が76センチメートル以上のもの",
                     "rate": {
@@ -10116,7 +10116,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8529.90",
                 "hs_code": "190",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -10159,7 +10159,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8529.90",
             "hs_code": "900",
             "desc": "− その他のもの",
             "rate": {
@@ -10565,7 +10565,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.32",
         "hs_code": "",
         "desc": "その他の固定式コンデンサー",
         "rate": {},
@@ -10972,7 +10972,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.33",
         "hs_code": "",
         "desc": "その他の固定式抵抗器",
         "rate": {},
@@ -11065,7 +11065,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.33",
         "hs_code": "",
         "desc": "巻線形可変抵抗器（ポテンショメーターを含む。）",
         "rate": {},
@@ -11343,7 +11343,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.35",
         "hs_code": "",
         "desc": "自動遮断器",
         "rate": {},
@@ -11693,7 +11693,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.36",
         "hs_code": "",
         "desc": "継電器",
         "rate": {},
@@ -11826,7 +11826,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8536.50",
             "hs_code": "",
             "desc": "− 電磁開閉器及びマイクロスイッチ",
             "rate": {
@@ -11866,7 +11866,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8536.50",
                 "hs_code": "011",
                 "desc": "−− 電磁開閉器",
                 "rate": {
@@ -11907,7 +11907,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8536.50",
                 "hs_code": "019",
                 "desc": "−− マイクロスイッチ",
                 "rate": {
@@ -11950,7 +11950,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8536.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -11993,7 +11993,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.36",
         "hs_code": "",
         "desc": "ランプホルダー、プラグ及びソケット",
         "rate": {},
@@ -12406,7 +12406,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.39",
         "hs_code": "",
         "desc": "その他のフィラメント電球（紫外線ランプ及び赤外線ランプを除く。）",
         "rate": {},
@@ -12537,7 +12537,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8539.29",
                 "hs_code": "010",
                 "desc": "− 白熱電球（A形又はPS形のものに限る。）",
                 "rate": {
@@ -12578,7 +12578,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8539.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12623,7 +12623,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.39",
         "hs_code": "",
         "desc": "放電管（紫外線ランプを除く。）",
         "rate": {},
@@ -12763,7 +12763,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.39",
         "hs_code": "",
         "desc": "紫外線ランプ、赤外線ランプ及びアーク灯",
         "rate": {},
@@ -12856,7 +12856,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.39",
         "hs_code": "",
         "desc": "発光ダイオード（LED）光源",
         "rate": {},
@@ -12946,7 +12946,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8539.52",
                 "hs_code": "010",
                 "desc": "− A形のもの",
                 "rate": {
@@ -12987,7 +12987,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8539.52",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13084,7 +13084,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.40",
         "hs_code": "",
         "desc": "テレビジョン受像用陰極線管（ビデオモニター用陰極線管を含む。）",
         "rate": {},
@@ -13300,7 +13300,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.40",
         "hs_code": "",
         "desc": "マイクロ波管（例えば、磁電管、クライストロン、進行波管及びカルシノトロン。格子制御式のものを除く。）",
         "rate": {},
@@ -13393,7 +13393,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.40",
         "hs_code": "",
         "desc": "その他の管",
         "rate": {},
@@ -13486,7 +13486,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.40",
         "hs_code": "",
         "desc": "部分品",
         "rate": {},
@@ -13630,7 +13630,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8541.10",
             "hs_code": "010",
             "desc": "− 平均順電流が100ミリアンペア未満のもの",
             "rate": {
@@ -13671,7 +13671,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8541.10",
             "hs_code": "",
             "desc": "− 平均順電流が100ミリアンペア以上のもの",
             "rate": {},
@@ -13680,7 +13680,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.10",
                 "hs_code": "091",
                 "desc": "−− 半導体動作領域の材料としてけい素を用いたもの",
                 "rate": {
@@ -13721,7 +13721,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.10",
                 "hs_code": "092",
                 "desc": "−− 半導体動作領域の材料として炭化けい素を用いたもの",
                 "rate": {
@@ -13762,7 +13762,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.10",
                 "hs_code": "093",
                 "desc": "−− 半導体動作領域の材料として窒化ガリウムを用いたもの",
                 "rate": {
@@ -13803,7 +13803,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.10",
                 "hs_code": "099",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -13848,7 +13848,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.41",
         "hs_code": "",
         "desc": "トランジスター（光電性トランジスターを除く。）",
         "rate": {},
@@ -13938,7 +13938,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.29",
                 "hs_code": "010",
                 "desc": "− 半導体動作領域の材料としてけい素を用いたもの",
                 "rate": {
@@ -13979,7 +13979,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.29",
                 "hs_code": "020",
                 "desc": "− 半導体動作領域の材料として炭化けい素を用いたもの",
                 "rate": {
@@ -14020,7 +14020,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.29",
                 "hs_code": "030",
                 "desc": "− 半導体動作領域の材料として窒化ガリウムを用いたもの",
                 "rate": {
@@ -14061,7 +14061,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8541.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14147,7 +14147,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.41",
         "hs_code": "",
         "desc": "光電性半導体デバイス（光電池（モジュール又はパネルにしてあるかないかを問わない。）を含む。）及び発光ダイオード（LED）",
         "rate": {},
@@ -14322,7 +14322,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.41",
         "hs_code": "",
         "desc": "その他の半導体デバイス",
         "rate": {},
@@ -14455,7 +14455,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8541.60",
             "hs_code": "010",
             "desc": "− 水晶のもの",
             "rate": {
@@ -14496,7 +14496,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8541.60",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -14591,7 +14591,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.42",
         "hs_code": "",
         "desc": "集積回路",
         "rate": {},
@@ -14640,7 +14640,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.31",
                 "hs_code": "010",
                 "desc": "− 実装してないもの",
                 "rate": {
@@ -14681,7 +14681,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.31",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -14690,7 +14690,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.31",
                     "hs_code": "020",
                     "desc": "−− ハイブリッド集積回路",
                     "rate": {
@@ -14731,7 +14731,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.31",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {},
@@ -14740,7 +14740,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.31",
                         "hs_code": "031",
                         "desc": "−−− MPU（マイクロプロセッサー）",
                         "rate": {
@@ -14781,7 +14781,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.31",
                         "hs_code": "032",
                         "desc": "−−− MCU（マイクロコントローラー）",
                         "rate": {
@@ -14822,7 +14822,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.31",
                         "hs_code": "033",
                         "desc": "−−− DSP（デジタルシグナルプロセッサー）",
                         "rate": {
@@ -14863,7 +14863,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.31",
                         "hs_code": "039",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -14950,7 +14950,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.32",
                 "hs_code": "",
                 "desc": "− 実装してないもの",
                 "rate": {},
@@ -14959,7 +14959,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.32",
                     "hs_code": "011",
                     "desc": "−− DRAM（ダイナミックランダムアクセスメモリー）（デジタル式のモノリシック集積回路のうち、モス型のもの）",
                     "rate": {
@@ -15000,7 +15000,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.32",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -15043,7 +15043,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.32",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -15052,7 +15052,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.32",
                     "hs_code": "",
                     "desc": "−− RAM（ランダムアクセスメモリー）",
                     "rate": {},
@@ -15061,7 +15061,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.32",
                         "hs_code": "021",
                         "desc": "−−− DRAM（ダイナミックランダムアクセスメモリー）（デジタル式のモノリシック集積回路のうち、モス型のもの）",
                         "rate": {
@@ -15102,7 +15102,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.32",
                         "hs_code": "029",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -15145,7 +15145,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.32",
                     "hs_code": "",
                     "desc": "−− ROM（リードオンリーメモリー）",
                     "rate": {},
@@ -15154,7 +15154,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.32",
                         "hs_code": "031",
                         "desc": "−−− フラッシュメモリー",
                         "rate": {
@@ -15195,7 +15195,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "8542.32",
                         "hs_code": "039",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -15238,7 +15238,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.32",
                     "hs_code": "090",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -15323,7 +15323,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.33",
                 "hs_code": "010",
                 "desc": "− 実装してないもの",
                 "rate": {
@@ -15364,7 +15364,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.33",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -15447,7 +15447,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.39",
                 "hs_code": "010",
                 "desc": "− 実装してないもの",
                 "rate": {
@@ -15488,7 +15488,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8542.39",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -15497,7 +15497,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.39",
                     "hs_code": "091",
                     "desc": "−− ハイブリッド集積回路",
                     "rate": {
@@ -15538,7 +15538,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8542.39",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -15718,7 +15718,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8543.20",
             "hs_code": "010",
             "desc": "− 周波数が100メガヘルツ未満のもの",
             "rate": {
@@ -15759,7 +15759,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8543.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -15977,7 +15977,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.44",
         "hs_code": "",
         "desc": "巻線",
         "rate": {},
@@ -16151,7 +16151,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8544.30",
             "hs_code": "010",
             "desc": "− 自動車用のもの",
             "rate": {
@@ -16192,7 +16192,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8544.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -16235,7 +16235,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.44",
         "hs_code": "",
         "desc": "その他の電気導体（使用電圧が1,000ボルト以下のものに限る。）",
         "rate": {},
@@ -16284,7 +16284,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8544.42",
                 "hs_code": "010",
                 "desc": "− 通信用のもの",
                 "rate": {
@@ -16325,7 +16325,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8544.42",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -16365,7 +16365,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8544.42",
                     "hs_code": "091",
                     "desc": "−− 使用電圧が80ボルト以下のもの",
                     "rate": {
@@ -16406,7 +16406,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8544.42",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -16491,7 +16491,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8544.49",
                 "hs_code": "010",
                 "desc": "− 通信用のもの（使用電圧が80ボルト以下のものに限る。）",
                 "rate": {
@@ -16532,7 +16532,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8544.49",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -16572,7 +16572,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8544.49",
                     "hs_code": "091",
                     "desc": "−− 使用電圧が80ボルト以下のもの",
                     "rate": {
@@ -16613,7 +16613,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "8544.49",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -16741,7 +16741,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8544.70",
             "hs_code": "010",
             "desc": "− ガラス製のもの",
             "rate": {
@@ -16782,7 +16782,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8544.70",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -16836,7 +16836,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.45",
         "hs_code": "",
         "desc": "電極",
         "rate": {},
@@ -16885,7 +16885,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8545.11",
                 "hs_code": "010",
                 "desc": "− 丸形のもの",
                 "rate": {
@@ -16926,7 +16926,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "8545.11",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -17062,7 +17062,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8545.90",
             "hs_code": "010",
             "desc": "1 カーボン電熱抵抗体",
             "rate": {
@@ -17103,7 +17103,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8545.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -17478,7 +17478,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.49",
         "hs_code": "",
         "desc": "一次電池又は蓄電池のくず並びに使用済みの一次電池及び蓄電池",
         "rate": {},
@@ -17704,7 +17704,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.49",
         "hs_code": "",
         "desc": "主として貴金属の回収に使用する種類のもの",
         "rate": {},
@@ -17801,7 +17801,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.49",
         "hs_code": "",
         "desc": "その他の電気電子機器を組み合わせたもの及び印刷回路基板",
         "rate": {},
@@ -17898,7 +17898,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "85.49",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},

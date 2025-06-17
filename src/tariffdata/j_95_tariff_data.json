@@ -236,7 +236,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9504.90",
             "hs_code": "020",
             "desc": "1 ボーリングボール",
             "rate": {
@@ -277,7 +277,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9504.90",
             "hs_code": "010",
             "desc": "2 チェスその他のテーブルゲーム用具並びにその部分品及び附属品",
             "rate": {
@@ -318,7 +318,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9504.90",
             "hs_code": "090",
             "desc": "3 その他のもの",
             "rate": {
@@ -465,7 +465,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "95.06",
         "hs_code": "",
         "desc": "スキーその他のスキー用具",
         "rate": {},
@@ -599,7 +599,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "95.06",
         "hs_code": "",
         "desc": "水上スキー、サーフボード、セールボードその他の水上運動用具",
         "rate": {},
@@ -692,7 +692,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "95.06",
         "hs_code": "",
         "desc": "ゴルフクラブその他のゴルフ用具",
         "rate": {},
@@ -867,7 +867,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "95.06",
         "hs_code": "",
         "desc": "テニスラケット、バドミントンラケットその他これらに類するラケット（ガットを張つてあるかないかを問わない。）",
         "rate": {},
@@ -916,7 +916,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9506.51",
                 "hs_code": "010",
                 "desc": "− テニスラケット（部分品及び附属品を除く。）",
                 "rate": {
@@ -957,7 +957,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "9506.51",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1043,7 +1043,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "95.06",
         "hs_code": "",
         "desc": "ボール（ゴルフ用又は卓球用のボールを除く。）",
         "rate": {},
@@ -1218,7 +1218,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "95.06",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1362,7 +1362,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9507.10",
             "hs_code": "010",
             "desc": "− 釣りざお（部分品及び附属品を除く。）",
             "rate": {
@@ -1403,7 +1403,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9507.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -1621,7 +1621,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "95.08",
         "hs_code": "",
         "desc": "遊園地の乗り物及びウォーターパークの娯楽設備",
         "rate": {},

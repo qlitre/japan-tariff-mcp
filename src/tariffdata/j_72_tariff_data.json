@@ -60,7 +60,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7201.10",
             "hs_code": "010",
             "desc": "− けい素の含有量が全重量の1.2％未満でりんの含有量が全重量の0.04％以下のもの",
             "rate": {
@@ -101,7 +101,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7201.10",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -110,7 +110,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7201.10",
                 "hs_code": "091",
                 "desc": "−− けい素の含有量が全重量の1.6％未満のもの",
                 "rate": {
@@ -151,7 +151,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7201.10",
                 "hs_code": "099",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -289,7 +289,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.02",
         "hs_code": "",
         "desc": "フェロマンガン",
         "rate": {},
@@ -382,7 +382,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.02",
         "hs_code": "",
         "desc": "フェロシリコン",
         "rate": {},
@@ -516,7 +516,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.02",
         "hs_code": "",
         "desc": "フェロクロム",
         "rate": {},
@@ -690,7 +690,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7202.60",
             "hs_code": "010",
             "desc": "− ニッケルの含有量が全重量の33％未満のもの",
             "rate": {
@@ -731,7 +731,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7202.60",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -824,7 +824,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7202.80",
             "hs_code": "010",
             "desc": "1 フェロタングステン",
             "rate": {
@@ -865,7 +865,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7202.80",
             "hs_code": "020",
             "desc": "2 フェロシリコタングステン",
             "rate": {
@@ -908,7 +908,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1080,7 +1080,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7202.99",
                 "hs_code": "010",
                 "desc": "− りん鉄",
                 "rate": {
@@ -1121,7 +1121,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7202.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1311,7 +1311,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.04",
         "hs_code": "",
         "desc": "合金鋼のくず",
         "rate": {},
@@ -1445,7 +1445,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.04",
         "hs_code": "",
         "desc": "その他のくず",
         "rate": {},
@@ -1547,7 +1547,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7204.50",
             "hs_code": "010",
             "desc": "1 合金鋼のもの",
             "rate": {
@@ -1588,7 +1588,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7204.50",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -1683,7 +1683,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.05",
         "hs_code": "",
         "desc": "粉",
         "rate": {},
@@ -1732,7 +1732,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7205.21",
                 "hs_code": "010",
                 "desc": "− ニッケルの含有量が全重量の1％以上5％未満のもの",
                 "rate": {
@@ -1773,7 +1773,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7205.21",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -1889,7 +1889,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7206.10",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -1930,7 +1930,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7206.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -1982,7 +1982,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7206.90",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -2023,7 +2023,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7206.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -2077,7 +2077,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.07",
         "hs_code": "",
         "desc": "炭素の含有量が全重量の0.25％未満のもの",
         "rate": {},
@@ -2220,7 +2220,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7207.20",
             "hs_code": "",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -2260,7 +2260,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7207.20",
                 "hs_code": "011",
                 "desc": "− ビレット",
                 "rate": {
@@ -2301,7 +2301,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7207.20",
                 "hs_code": "012",
                 "desc": "− スラブ",
                 "rate": {
@@ -2342,7 +2342,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7207.20",
                 "hs_code": "019",
                 "desc": "− その他のもの",
                 "rate": {
@@ -2385,7 +2385,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7207.20",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -2448,7 +2448,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7208.10",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -2489,7 +2489,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7208.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -2498,7 +2498,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.10",
                 "hs_code": "021",
                 "desc": "(1)厚さが3ミリメートル未満のものにあっては降伏点が275メガパスカル以上のもの及び厚さが3ミリメートル以上のものにあっては降伏点が355メガパスカル以上のもの",
                 "rate": {
@@ -2539,7 +2539,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.10",
                 "hs_code": "029",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -2584,7 +2584,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.08",
         "hs_code": "",
         "desc": "その他のもの（熱間圧延及び酸洗いをしたもの（更に加工したものを除く。）で巻いたものに限る。）",
         "rate": {},
@@ -2602,7 +2602,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.25",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -2642,7 +2642,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.25",
                     "hs_code": "011",
                     "desc": "− 厚さが6ミリメートル未満のもの",
                     "rate": {
@@ -2683,7 +2683,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.25",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2726,7 +2726,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.25",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -2735,7 +2735,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.25",
                     "hs_code": "020",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -2776,7 +2776,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.25",
                     "hs_code": "030",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -2830,7 +2830,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.26",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -2870,7 +2870,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.26",
                     "hs_code": "011",
                     "desc": "− 高張力鋼板（引張り強さが490メガパスカル以上のものに限る。）",
                     "rate": {
@@ -2911,7 +2911,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.26",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2954,7 +2954,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.26",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -2963,7 +2963,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.26",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -3004,7 +3004,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.26",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3058,7 +3058,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.27",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -3098,7 +3098,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.27",
                     "hs_code": "011",
                     "desc": "− 高張力鋼板（引張り強さが490メガパスカル以上のものに限る。）",
                     "rate": {
@@ -3139,7 +3139,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.27",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3182,7 +3182,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.27",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3191,7 +3191,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.27",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -3232,7 +3232,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.27",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3279,7 +3279,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.08",
         "hs_code": "",
         "desc": "その他のもの（熱間圧延をしたもの（更に加工したものを除く。）で巻いたものに限る。）",
         "rate": {},
@@ -3297,7 +3297,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.36",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -3338,7 +3338,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.36",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3347,7 +3347,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.36",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -3388,7 +3388,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.36",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3442,7 +3442,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.37",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -3482,7 +3482,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.37",
                     "hs_code": "011",
                     "desc": "− 厚さが6ミリメートル未満のもの",
                     "rate": {
@@ -3523,7 +3523,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.37",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3566,7 +3566,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.37",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3575,7 +3575,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.37",
                     "hs_code": "020",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -3616,7 +3616,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.37",
                     "hs_code": "030",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3670,7 +3670,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.38",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -3711,7 +3711,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.38",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3720,7 +3720,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.38",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -3761,7 +3761,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.38",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3815,7 +3815,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.39",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -3856,7 +3856,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.39",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3865,7 +3865,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.39",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -3906,7 +3906,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.39",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3962,7 +3962,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7208.40",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -4003,7 +4003,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7208.40",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -4012,7 +4012,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.40",
                 "hs_code": "020",
                 "desc": "(1)厚さが3ミリメートル未満のものにあっては降伏点が275メガパスカル以上のもの及び厚さが3ミリメートル以上のものにあつては降伏点が355メガパスカル以上のもの",
                 "rate": {
@@ -4053,7 +4053,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.40",
                 "hs_code": "030",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -4098,7 +4098,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.08",
         "hs_code": "",
         "desc": "その他のもの（熱間圧延をしたもの（更に加工したものを除く。）で巻いてないものに限る。）",
         "rate": {},
@@ -4116,7 +4116,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.51",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -4156,7 +4156,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.51",
                     "hs_code": "011",
                     "desc": "− 厚さが50ミリメートル以下のもの",
                     "rate": {
@@ -4197,7 +4197,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.51",
                     "hs_code": "019",
                     "desc": "− 厚さが50ミリメートルを超えるもの",
                     "rate": {
@@ -4240,7 +4240,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.51",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -4249,7 +4249,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.51",
                     "hs_code": "",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -4289,7 +4289,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.51",
                         "hs_code": "021",
                         "desc": "− 厚さが50ミリメートル以下のもの",
                         "rate": {
@@ -4330,7 +4330,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.51",
                         "hs_code": "029",
                         "desc": "− 厚さが50ミリメートルを超えるもの",
                         "rate": {
@@ -4373,7 +4373,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.51",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -4413,7 +4413,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.51",
                         "hs_code": "031",
                         "desc": "− 厚さが50ミリメートル以下のもの",
                         "rate": {
@@ -4454,7 +4454,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.51",
                         "hs_code": "039",
                         "desc": "− 厚さが50ミリメートルを超えるもの",
                         "rate": {
@@ -4510,7 +4510,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.52",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -4550,7 +4550,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.52",
                     "hs_code": "011",
                     "desc": "− 厚さが6ミリメートル未満のもの",
                     "rate": {
@@ -4591,7 +4591,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.52",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4634,7 +4634,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.52",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -4643,7 +4643,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.52",
                     "hs_code": "",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -4683,7 +4683,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.52",
                         "hs_code": "021",
                         "desc": "− 厚さが6ミリメートル未満のもの",
                         "rate": {
@@ -4724,7 +4724,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.52",
                         "hs_code": "029",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4767,7 +4767,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.52",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -4807,7 +4807,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.52",
                         "hs_code": "031",
                         "desc": "− 厚さが6ミリメートル未満のもの",
                         "rate": {
@@ -4848,7 +4848,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7208.52",
                         "hs_code": "039",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4904,7 +4904,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.53",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -4945,7 +4945,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.53",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -4954,7 +4954,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.53",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -4995,7 +4995,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.53",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5049,7 +5049,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.54",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -5090,7 +5090,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7208.54",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5099,7 +5099,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.54",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -5140,7 +5140,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7208.54",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5239,7 +5239,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.09",
         "hs_code": "",
         "desc": "冷間圧延をしたもの（更に加工したものを除く。）で巻いたもの",
         "rate": {},
@@ -5257,7 +5257,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.15",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -5298,7 +5298,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.15",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5307,7 +5307,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.15",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -5348,7 +5348,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.15",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5402,7 +5402,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.16",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -5442,7 +5442,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.16",
                     "hs_code": "011",
                     "desc": "− 高張力鋼板（引張り強さが340メガパスカル以上のものに限る。）",
                     "rate": {
@@ -5483,7 +5483,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.16",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -5526,7 +5526,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.16",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5535,7 +5535,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.16",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -5576,7 +5576,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.16",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5630,7 +5630,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.17",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -5670,7 +5670,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.17",
                     "hs_code": "011",
                     "desc": "− 高張力鋼板（引張り強さが340メガパスカル以上のものに限る。）",
                     "rate": {
@@ -5711,7 +5711,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.17",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -5754,7 +5754,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.17",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5763,7 +5763,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.17",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -5804,7 +5804,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.17",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5858,7 +5858,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.18",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -5899,7 +5899,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.18",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -5908,7 +5908,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.18",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -5949,7 +5949,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.18",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -5996,7 +5996,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.09",
         "hs_code": "",
         "desc": "冷間圧延をしたもの（更に加工したものを除く。）で巻いてないもの",
         "rate": {},
@@ -6014,7 +6014,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.25",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -6055,7 +6055,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.25",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6064,7 +6064,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.25",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -6105,7 +6105,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.25",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6159,7 +6159,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.26",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -6200,7 +6200,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.26",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6209,7 +6209,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.26",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -6250,7 +6250,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.26",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6304,7 +6304,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.27",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -6345,7 +6345,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.27",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6354,7 +6354,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.27",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -6395,7 +6395,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.27",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6449,7 +6449,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.28",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -6490,7 +6490,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7209.28",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6499,7 +6499,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.28",
                     "hs_code": "021",
                     "desc": "(1)降伏点が275メガパスカル以上のもの",
                     "rate": {
@@ -6540,7 +6540,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7209.28",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6639,7 +6639,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.10",
         "hs_code": "",
         "desc": "すずをめつきしたもの",
         "rate": {},
@@ -6782,7 +6782,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7210.30",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -6823,7 +6823,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7210.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -6832,7 +6832,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7210.30",
                 "hs_code": "021",
                 "desc": "(1)厚さが3ミリメートル未満の鋼にあつては降伏点が275メガパスカル以上のもの及び厚さが3ミリメートル以上の鋼にあつては降伏点が355メガパスカル以上のもの",
                 "rate": {
@@ -6873,7 +6873,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7210.30",
                 "hs_code": "029",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -6918,7 +6918,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.10",
         "hs_code": "",
         "desc": "亜鉛をめつきしたもの（電気めつきによるものを除く。）",
         "rate": {},
@@ -7008,7 +7008,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7210.49",
                 "hs_code": "010",
                 "desc": "− 合金化溶融めつきのもの（めつき層の鉄の含有量がめつき層の全重量の7％以上の均質な合金のものに限る。）",
                 "rate": {
@@ -7049,7 +7049,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7210.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7134,7 +7134,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7210.50",
             "hs_code": "010",
             "desc": "− ティンフリー・スチール",
             "rate": {
@@ -7175,7 +7175,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7210.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -7218,7 +7218,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.10",
         "hs_code": "",
         "desc": "アルミニウムをめつきしたもの",
         "rate": {},
@@ -7361,7 +7361,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7210.90",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -7402,7 +7402,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7210.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -7456,7 +7456,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.11",
         "hs_code": "",
         "desc": "熱間圧延をしたもの（更に加工したものを除く。）",
         "rate": {},
@@ -7474,7 +7474,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.13",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -7515,7 +7515,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.13",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -7524,7 +7524,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7211.13",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -7565,7 +7565,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7211.13",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -7619,7 +7619,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.14",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -7660,7 +7660,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.14",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -7669,7 +7669,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7211.14",
                     "hs_code": "021",
                     "desc": "(1)降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -7710,7 +7710,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7211.14",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -7764,7 +7764,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.19",
                 "hs_code": "010",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -7805,7 +7805,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -7814,7 +7814,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7211.19",
                     "hs_code": "021",
                     "desc": "(1)厚さが3ミリメートル未満のものにあつては降伏点が275メガパスカル以上のもの及び厚さが3ミリメートル以上のものにあつては降伏点が355メガパスカル以上のもの",
                     "rate": {
@@ -7855,7 +7855,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7211.19",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -7902,7 +7902,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.11",
         "hs_code": "",
         "desc": "冷間圧延をしたもの（更に加工したものを除く。）",
         "rate": {},
@@ -7961,7 +7961,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.29",
                 "hs_code": "010",
                 "desc": "1 厚さが3ミリメートル未満のものにあっては降伏点が275メガパスカル以上のもの及び厚さが3ミリメートル以上のものにあっては降伏点が355メガパスカル以上のもの",
                 "rate": {
@@ -8002,7 +8002,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7211.29",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -8149,7 +8149,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7212.20",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -8190,7 +8190,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7212.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -8199,7 +8199,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7212.20",
                 "hs_code": "021",
                 "desc": "(1)厚さが3ミリメートル未満の鋼にあつては降伏点が275メガパスカル以上のもの及び厚さが3ミリメートル以上の鋼にあつては降伏点が355メガパスカル以上のもの",
                 "rate": {
@@ -8240,7 +8240,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7212.20",
                 "hs_code": "029",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -8407,7 +8407,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7212.50",
             "hs_code": "010",
             "desc": "− ティンフリー・スチール",
             "rate": {
@@ -8448,7 +8448,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7212.50",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -8500,7 +8500,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7212.60",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -8541,7 +8541,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7212.60",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -8677,7 +8677,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.13",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -8695,7 +8695,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7213.91",
                 "hs_code": "",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -8735,7 +8735,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7213.91",
                     "hs_code": "",
                     "desc": "− 炭素の含有量が全重量の0.25％未満のもの",
                     "rate": {},
@@ -8744,7 +8744,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7213.91",
                         "hs_code": "011",
                         "desc": "−− 直径が6ミリメートル未満のもの",
                         "rate": {
@@ -8785,7 +8785,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7213.91",
                         "hs_code": "019",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -8828,7 +8828,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7213.91",
                     "hs_code": "020",
                     "desc": "− その他のもの",
                     "rate": {
@@ -8871,7 +8871,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7213.91",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -8923,7 +8923,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7213.99",
                 "hs_code": "020",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -8964,7 +8964,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7213.99",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -9143,7 +9143,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.14",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -9161,7 +9161,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7214.91",
                 "hs_code": "020",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -9202,7 +9202,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7214.91",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -9254,7 +9254,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7214.99",
                 "hs_code": "020",
                 "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
                 "rate": {
@@ -9295,7 +9295,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7214.99",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -9401,7 +9401,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7215.50",
             "hs_code": "",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -9441,7 +9441,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7215.50",
                 "hs_code": "010",
                 "desc": "− 炭素の含有量が全重量の0.25％未満のもの",
                 "rate": {
@@ -9482,7 +9482,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7215.50",
                 "hs_code": "019",
                 "desc": "− その他のもの",
                 "rate": {
@@ -9525,7 +9525,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7215.50",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -9577,7 +9577,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7215.90",
             "hs_code": "010",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -9618,7 +9618,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7215.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -9713,7 +9713,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.16",
         "hs_code": "",
         "desc": "山形鋼及びＴ形鋼（高さが80ミリメートル未満のもので熱間圧延、熱間引抜き又は押出しをしたものに限るものとし、更に加工したものを除く。）",
         "rate": {},
@@ -9806,7 +9806,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.16",
         "hs_code": "",
         "desc": "Ｕ形鋼、Ｉ形鋼及びＨ形鋼（高さが80ミリメートル以上のもので熱間圧延、熱間引抜き又は押出しをしたものに限るものとし、更に加工したものを除く。）",
         "rate": {},
@@ -10022,7 +10022,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.16",
         "hs_code": "",
         "desc": "形鋼（冷間成形又は冷間仕上げをしたものに限るものとし、更に加工したものを除く。）",
         "rate": {},
@@ -10115,7 +10115,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.16",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -10228,7 +10228,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.10",
             "hs_code": "",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -10268,7 +10268,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.10",
                 "hs_code": "010",
                 "desc": "− 炭素の含有量が全重量の0.25％未満のもの",
                 "rate": {
@@ -10309,7 +10309,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.10",
                 "hs_code": "019",
                 "desc": "− その他のもの",
                 "rate": {
@@ -10352,7 +10352,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.10",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -10404,7 +10404,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.20",
             "hs_code": "",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -10444,7 +10444,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.20",
                 "hs_code": "",
                 "desc": "− 炭素の含有量が全重量の0.25％未満のもの",
                 "rate": {},
@@ -10453,7 +10453,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7217.20",
                     "hs_code": "010",
                     "desc": "−− 横断面の最大寸法が1.5ミリメートル以下のもの",
                     "rate": {
@@ -10494,7 +10494,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7217.20",
                     "hs_code": "011",
                     "desc": "−− その他のもの（第79類の号注1(ａ)の亜鉛（合金を除く。）をめつきしたもので、横断面が円形又はだ円形のものに限る。）",
                     "rate": {
@@ -10535,7 +10535,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7217.20",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -10578,7 +10578,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.20",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -10621,7 +10621,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.20",
             "hs_code": "099",
             "desc": "2 その他のもの",
             "rate": {
@@ -10673,7 +10673,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.30",
             "hs_code": "",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -10713,7 +10713,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.30",
                 "hs_code": "",
                 "desc": "− 炭素の含有量が全重量の0.25％未満のもの",
                 "rate": {},
@@ -10722,7 +10722,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7217.30",
                     "hs_code": "011",
                     "desc": "−− ガスシールド溶接用ソリッドワイヤ",
                     "rate": {
@@ -10763,7 +10763,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7217.30",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -10806,7 +10806,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.30",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -10849,7 +10849,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.30",
             "hs_code": "099",
             "desc": "2 その他のもの",
             "rate": {
@@ -10901,7 +10901,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.90",
             "hs_code": "",
             "desc": "1 炭素の含有量が全重量の0.6％未満のもの",
             "rate": {
@@ -10941,7 +10941,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.90",
                 "hs_code": "011",
                 "desc": "− 炭素の含有量が全重量の0.25％未満のもの",
                 "rate": {
@@ -10982,7 +10982,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7217.90",
                 "hs_code": "019",
                 "desc": "− その他のもの",
                 "rate": {
@@ -11025,7 +11025,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7217.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -11130,7 +11130,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.18",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -11234,7 +11234,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.19",
         "hs_code": "",
         "desc": "熱間圧延をしたもの（更に加工したものを除く。）で巻いたもの",
         "rate": {},
@@ -11324,7 +11324,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.12",
                 "hs_code": "011",
                 "desc": "− クロム系（ニッケルの含有量が全重量の0.6％以下のものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {
@@ -11365,7 +11365,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.12",
                 "hs_code": "",
                 "desc": "− ニッケル系（ニッケルの含有量が全重量の0.6％を超えるものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -11374,7 +11374,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.12",
                     "hs_code": "",
                     "desc": "−− ニッケルの含有量が全重量の7％未満のもの",
                     "rate": {},
@@ -11383,7 +11383,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.12",
                         "hs_code": "027",
                         "desc": "−−− ニッケルの含有量が全重量の6％以下で､マンガンの含有量が全重量の3％以上のもの",
                         "rate": {
@@ -11424,7 +11424,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.12",
                         "hs_code": "028",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -11467,7 +11467,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.12",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -11552,7 +11552,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.13",
                 "hs_code": "011",
                 "desc": "−クロム系（ニッケルの含有量が全重量の0.6％以下のものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {
@@ -11593,7 +11593,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.13",
                 "hs_code": "",
                 "desc": "− ニッケル系（ニッケルの含有量が全重量の0.6％を超えるものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -11602,7 +11602,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.13",
                     "hs_code": "",
                     "desc": "−− ニッケルの含有量が全重量の7％未満のもの",
                     "rate": {},
@@ -11611,7 +11611,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.13",
                         "hs_code": "027",
                         "desc": "−−− ニッケルの含有量が全重量の6％以下で､マンガンの含有量が全重量の3％以上のもの",
                         "rate": {
@@ -11652,7 +11652,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.13",
                         "hs_code": "028",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -11695,7 +11695,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.13",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -11783,7 +11783,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.19",
         "hs_code": "",
         "desc": "熱間圧延をしたもの（更に加工したものを除く。）で巻いてないもの",
         "rate": {},
@@ -11958,7 +11958,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.19",
         "hs_code": "",
         "desc": "冷間圧延をしたもの（更に加工したものを除く。）",
         "rate": {},
@@ -12048,7 +12048,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.32",
                 "hs_code": "011",
                 "desc": "− クロム系（ニッケルの含有量が全重量の0.6％以下のものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {
@@ -12089,7 +12089,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.32",
                 "hs_code": "",
                 "desc": "− ニッケル系（ニッケルの含有量が全重量の0.6％を超えるものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -12098,7 +12098,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.32",
                     "hs_code": "",
                     "desc": "−− ニッケルの含有量が全重量の7％未満のもの",
                     "rate": {},
@@ -12107,7 +12107,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.32",
                         "hs_code": "027",
                         "desc": "−−− ニッケルの含有量が全重量の6％以下で､マンガンの含有量が全重量の3％以上のもの",
                         "rate": {
@@ -12148,7 +12148,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.32",
                         "hs_code": "028",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -12191,7 +12191,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.32",
                     "hs_code": "022",
                     "desc": "−− ニッケルの含有量が全重量の7％以上10％未満のもの",
                     "rate": {
@@ -12232,7 +12232,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.32",
                     "hs_code": "023",
                     "desc": "−− ニッケルの含有量が全重量の10％以上のもの",
                     "rate": {
@@ -12317,7 +12317,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.33",
                 "hs_code": "",
                 "desc": "−クロム系（ニッケルの含有量が全重量の0.6％以下のものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -12326,7 +12326,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.33",
                     "hs_code": "012",
                     "desc": "−− クロムの含有量が全重量の12％未満のもの",
                     "rate": {
@@ -12367,7 +12367,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.33",
                     "hs_code": "013",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -12410,7 +12410,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.33",
                 "hs_code": "",
                 "desc": "− ニッケル系（ニッケルの含有量が全重量の0.6％を超えるものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -12419,7 +12419,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.33",
                     "hs_code": "",
                     "desc": "−− ニッケルの含有量が全重量の7％未満のもの",
                     "rate": {},
@@ -12428,7 +12428,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.33",
                         "hs_code": "027",
                         "desc": "−−− ニッケルの含有量が全重量の6％以下で､マンガンの含有量が全重量の3％以上のもの",
                         "rate": {
@@ -12469,7 +12469,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.33",
                         "hs_code": "028",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -12512,7 +12512,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.33",
                     "hs_code": "022",
                     "desc": "−− ニッケルの含有量が全重量の7％以上10％未満のもの",
                     "rate": {
@@ -12553,7 +12553,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.33",
                     "hs_code": "023",
                     "desc": "−− ニッケルの含有量が全重量の10％以上のもの",
                     "rate": {
@@ -12638,7 +12638,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.34",
                 "hs_code": "",
                 "desc": "− クロム系（ニッケルの含有量が全重量の0.6％以下のものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -12647,7 +12647,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.34",
                     "hs_code": "012",
                     "desc": "−− クロムの含有量が全重量の12％未満のもの",
                     "rate": {
@@ -12688,7 +12688,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.34",
                     "hs_code": "013",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -12731,7 +12731,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.34",
                 "hs_code": "",
                 "desc": "− ニッケル系（ニッケルの含有量が全重量の0.6％を超えるものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -12740,7 +12740,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.34",
                     "hs_code": "",
                     "desc": "−− ニッケルの含有量が全重量の7％未満のもの",
                     "rate": {},
@@ -12749,7 +12749,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.34",
                         "hs_code": "027",
                         "desc": "−−− ニッケルの含有量が全重量の6％以下で､マンガンの含有量が全重量の3％以上のもの",
                         "rate": {
@@ -12790,7 +12790,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.34",
                         "hs_code": "028",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -12833,7 +12833,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.34",
                     "hs_code": "022",
                     "desc": "−− ニッケルの含有量が全重量の7％以上10％未満のもの",
                     "rate": {
@@ -12874,7 +12874,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.34",
                     "hs_code": "023",
                     "desc": "−− ニッケルの含有量が全重量の10％以上のもの",
                     "rate": {
@@ -12959,7 +12959,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.35",
                 "hs_code": "011",
                 "desc": "− クロム系（ニッケルの含有量が全重量の0.6％以下のものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {
@@ -13000,7 +13000,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7219.35",
                 "hs_code": "",
                 "desc": "− ニッケル系（ニッケルの含有量が全重量の0.6％を超えるものとし、その他の成分を含有するかしないかを問わない。）",
                 "rate": {},
@@ -13009,7 +13009,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.35",
                     "hs_code": "",
                     "desc": "−− ニッケルの含有量が全重量の7％未満のもの",
                     "rate": {},
@@ -13018,7 +13018,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.35",
                         "hs_code": "027",
                         "desc": "−−− ニッケルの含有量が全重量の6％以下で､マンガンの含有量が全重量の3％以上のもの",
                         "rate": {
@@ -13059,7 +13059,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "7219.35",
                         "hs_code": "028",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -13102,7 +13102,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.35",
                     "hs_code": "022",
                     "desc": "−− ニッケルの含有量が全重量の7％以上10％未満のもの",
                     "rate": {
@@ -13143,7 +13143,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7219.35",
                     "hs_code": "023",
                     "desc": "−− ニッケルの含有量が全重量の10％以上のもの",
                     "rate": {
@@ -13242,7 +13242,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.20",
         "hs_code": "",
         "desc": "熱間圧延をしたもの（更に加工したものを除く。）",
         "rate": {},
@@ -13375,7 +13375,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7220.20",
             "hs_code": "011",
             "desc": "− クロム系（ニッケルの含有量が全重量の0.6％以下のものとし、その他の成分を含有するかしないかを問わない。）",
             "rate": {
@@ -13416,7 +13416,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7220.20",
             "hs_code": "",
             "desc": "− ニッケル系（ニッケルの含有量が全重量の0.6％を超えるものとし、その他の成分を含有するかしないかを問わない。）",
             "rate": {},
@@ -13425,7 +13425,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7220.20",
                 "hs_code": "",
                 "desc": "−− ニッケルの含有量が全重量の7％未満のもの",
                 "rate": {},
@@ -13434,7 +13434,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7220.20",
                     "hs_code": "027",
                     "desc": "−−− ニッケルの含有量が全重量の6％以下で､マンガンの含有量が全重量の3％以上のもの",
                     "rate": {
@@ -13475,7 +13475,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7220.20",
                     "hs_code": "028",
                     "desc": "−−− その他のもの",
                     "rate": {
@@ -13518,7 +13518,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7220.20",
                 "hs_code": "029",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -13666,7 +13666,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.22",
         "hs_code": "",
         "desc": "棒（熱間圧延、熱間引抜き又は押出しをしたものに限るものとし、更に加工したものを除く。）",
         "rate": {},
@@ -13963,7 +13963,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7224.10",
             "hs_code": "010",
             "desc": "1 高速度鋼のもの",
             "rate": {
@@ -14004,7 +14004,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7224.10",
             "hs_code": "020",
             "desc": "2 合金工具鋼のもの",
             "rate": {
@@ -14045,7 +14045,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7224.10",
             "hs_code": "030",
             "desc": "3 その他のもの",
             "rate": {
@@ -14097,7 +14097,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7224.90",
             "hs_code": "010",
             "desc": "1 高速度鋼のもの",
             "rate": {
@@ -14138,7 +14138,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7224.90",
             "hs_code": "020",
             "desc": "2 合金工具鋼のもの",
             "rate": {
@@ -14179,7 +14179,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7224.90",
             "hs_code": "030",
             "desc": "3 その他のもの",
             "rate": {
@@ -14233,7 +14233,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.25",
         "hs_code": "",
         "desc": "けい素電気鋼のもの",
         "rate": {},
@@ -14335,7 +14335,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.30",
             "hs_code": "100",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -14376,7 +14376,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.30",
             "hs_code": "200",
             "desc": "2 高速度鋼のもの",
             "rate": {
@@ -14417,7 +14417,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.30",
             "hs_code": "",
             "desc": "3 その他のもの",
             "rate": {
@@ -14457,7 +14457,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.30",
                 "hs_code": "910",
                 "desc": "− 酸洗いをしたもの",
                 "rate": {
@@ -14498,7 +14498,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.30",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14552,7 +14552,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.40",
             "hs_code": "100",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -14593,7 +14593,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.40",
             "hs_code": "200",
             "desc": "2 高速度鋼のもの",
             "rate": {
@@ -14634,7 +14634,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.40",
             "hs_code": "",
             "desc": "3 その他のもの",
             "rate": {
@@ -14674,7 +14674,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.40",
                 "hs_code": "910",
                 "desc": "− ほう素の含有量が全重量の0.0008％以上で、この類の注１（f）に記載のその他の元素の含有量が基準以下のもの",
                 "rate": {
@@ -14715,7 +14715,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.40",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14769,7 +14769,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.50",
             "hs_code": "100",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -14810,7 +14810,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.50",
             "hs_code": "200",
             "desc": "2 高速度鋼のもの",
             "rate": {
@@ -14851,7 +14851,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7225.50",
             "hs_code": "900",
             "desc": "3 その他のもの",
             "rate": {
@@ -14894,7 +14894,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.25",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -14912,7 +14912,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.91",
                 "hs_code": "100",
                 "desc": "1 バイメタル（張合せ加工を行つたもので、ニッケルの含有量が全重量の10％を超えるものに限る。）",
                 "rate": {
@@ -14953,7 +14953,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.91",
                 "hs_code": "200",
                 "desc": "2 合金工具鋼のもの",
                 "rate": {
@@ -14994,7 +14994,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.91",
                 "hs_code": "300",
                 "desc": "3 高速度鋼のもの",
                 "rate": {
@@ -15035,7 +15035,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.91",
                 "hs_code": "900",
                 "desc": "4 その他のもの",
                 "rate": {
@@ -15087,7 +15087,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.92",
                 "hs_code": "100",
                 "desc": "1 バイメタル（張合せ加工を行つたもので、ニッケルの含有量が全重量の10％を超えるものに限る。）",
                 "rate": {
@@ -15128,7 +15128,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.92",
                 "hs_code": "200",
                 "desc": "2 合金工具鋼のもの",
                 "rate": {
@@ -15169,7 +15169,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.92",
                 "hs_code": "300",
                 "desc": "3 高速度鋼のもの",
                 "rate": {
@@ -15210,7 +15210,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.92",
                 "hs_code": "",
                 "desc": "4 その他のもの",
                 "rate": {
@@ -15250,7 +15250,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7225.92",
                     "hs_code": "910",
                     "desc": "− 合金化溶融めつきのもの（めつき層の鉄の含有量がめつき層の全重量の7％以上の均質な合金のものに限る。）",
                     "rate": {
@@ -15291,7 +15291,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7225.92",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -15345,7 +15345,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.99",
                 "hs_code": "100",
                 "desc": "1 バイメタル（張合せ加工を行つたもので、ニッケルの含有量が全重量の10％を超えるものに限る。）",
                 "rate": {
@@ -15386,7 +15386,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.99",
                 "hs_code": "200",
                 "desc": "2 合金工具鋼のもの",
                 "rate": {
@@ -15427,7 +15427,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.99",
                 "hs_code": "300",
                 "desc": "3 高速度鋼のもの",
                 "rate": {
@@ -15468,7 +15468,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7225.99",
                 "hs_code": "900",
                 "desc": "4 その他のもの",
                 "rate": {
@@ -15524,7 +15524,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.26",
         "hs_code": "",
         "desc": "けい素電気鋼のもの",
         "rate": {},
@@ -15658,7 +15658,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "72.26",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -15676,7 +15676,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7226.91",
                 "hs_code": "010",
                 "desc": "1 合金工具鋼のもの",
                 "rate": {
@@ -15717,7 +15717,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7226.91",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -15769,7 +15769,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7226.92",
                 "hs_code": "010",
                 "desc": "1 合金工具鋼のもの",
                 "rate": {
@@ -15810,7 +15810,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7226.92",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -15862,7 +15862,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7226.99",
                 "hs_code": "",
                 "desc": "1 バイメタル（張合せ加工を行つたもので、ニッケルの含有量が全重量の10％を超えるものに限る。）",
                 "rate": {
@@ -15902,7 +15902,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7226.99",
                     "hs_code": "110",
                     "desc": "− 亜鉛をめつきしたもの",
                     "rate": {
@@ -15943,7 +15943,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7226.99",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -15986,7 +15986,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7226.99",
                 "hs_code": "200",
                 "desc": "2 合金工具鋼のもの",
                 "rate": {
@@ -16027,7 +16027,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7226.99",
                 "hs_code": "900",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -16174,7 +16174,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7227.90",
             "hs_code": "010",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -16215,7 +16215,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7227.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -16255,7 +16255,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7227.90",
                 "hs_code": "021",
                 "desc": "− ほう素の含有量が全重量の0.0008％以上で、この類の注１（f）に記載のその他の元素の含有量が基準以下のもの",
                 "rate": {
@@ -16296,7 +16296,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7227.90",
                 "hs_code": "029",
                 "desc": "− その他のもの",
                 "rate": {
@@ -16443,7 +16443,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.30",
             "hs_code": "010",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -16484,7 +16484,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.30",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -16536,7 +16536,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.40",
             "hs_code": "010",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -16577,7 +16577,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.40",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -16629,7 +16629,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.50",
             "hs_code": "010",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -16670,7 +16670,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.50",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -16722,7 +16722,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.60",
             "hs_code": "010",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -16763,7 +16763,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.60",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -16815,7 +16815,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.70",
             "hs_code": "010",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -16856,7 +16856,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7228.70",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -17001,7 +17001,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7229.90",
             "hs_code": "100",
             "desc": "1 合金工具鋼のもの",
             "rate": {
@@ -17042,7 +17042,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7229.90",
             "hs_code": "200",
             "desc": "2 高速度鋼のもの",
             "rate": {
@@ -17083,7 +17083,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7229.90",
             "hs_code": "",
             "desc": "3 その他のもの",
             "rate": {
@@ -17123,7 +17123,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7229.90",
                 "hs_code": "910",
                 "desc": "− ガスシールド溶接用ソリッドワイヤ",
                 "rate": {
@@ -17164,7 +17164,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7229.90",
                 "hs_code": "920",
                 "desc": "− 第79類の号注1（ａ）の亜鉛（合金を除く。）をめつきしたものであつて、ほう素の含有量が全重量の0.0008％以上0.007％以下、かつ、この類の注1（ｆ）に掲げるほう素以外の元素の含有量が全重量に対してそれぞれこの類の注1（ｆ）に掲げる割合未満のもののうち、炭素の含有量が全重量の0.25％未満のもの（横断面が円形又はだ円形で、横断面の最大寸法が1.5ミリメートルを超えるものに限る。）",
                 "rate": {
@@ -17205,7 +17205,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7229.90",
                 "hs_code": "990",
                 "desc": "− その他のもの",
                 "rate": {

@@ -236,7 +236,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "89.03",
         "hs_code": "",
         "desc": "膨張式のボート（複合艇を含む。）",
         "rate": {},
@@ -370,7 +370,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "89.03",
         "hs_code": "",
         "desc": "セールボート（補助原動機付きであるかないかを問わないものとし、膨張式のものを除く。）",
         "rate": {},
@@ -504,7 +504,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "89.03",
         "hs_code": "",
         "desc": "モーターボート（船外機付きのもの及び膨張式のものを除く。）",
         "rate": {},
@@ -638,7 +638,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "89.03",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1010,7 +1010,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8906.90",
             "hs_code": "010",
             "desc": "− 総トン数が100トン未満のもの",
             "rate": {
@@ -1051,7 +1051,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "8906.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

@@ -19,7 +19,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7301.10",
             "hs_code": "010",
             "desc": "1 合金鋼のもの",
             "rate": {
@@ -60,7 +60,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7301.10",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -381,7 +381,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.04",
         "hs_code": "",
         "desc": "油又はガスの輸送に使用する種類のラインパイプ",
         "rate": {},
@@ -440,7 +440,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.19",
                 "hs_code": "100",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -481,7 +481,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.19",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -526,7 +526,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.04",
         "hs_code": "",
         "desc": "油又はガスの掘削に使用する種類のケーシング、チュービング及びドリルパイプ",
         "rate": {},
@@ -616,7 +616,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.23",
                 "hs_code": "010",
                 "desc": "− 合金鋼製のもの",
                 "rate": {
@@ -657,7 +657,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.23",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -750,7 +750,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.29",
                 "hs_code": "010",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -791,7 +791,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.29",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -836,7 +836,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.04",
         "hs_code": "",
         "desc": "その他のもの（鉄製又は非合金鋼製のもので、横断面が円形のものに限る。）",
         "rate": {},
@@ -854,7 +854,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.31",
                 "hs_code": "010",
                 "desc": "1 ドリルパイプ",
                 "rate": {
@@ -895,7 +895,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.31",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -947,7 +947,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.39",
                 "hs_code": "010",
                 "desc": "1 ドリルパイプ",
                 "rate": {
@@ -988,7 +988,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.39",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1033,7 +1033,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.04",
         "hs_code": "",
         "desc": "その他のもの（ステンレス鋼製のもので、横断面が円形のものに限る。）",
         "rate": {},
@@ -1051,7 +1051,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.41",
                 "hs_code": "010",
                 "desc": "1 ドリルパイプ",
                 "rate": {
@@ -1092,7 +1092,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.41",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1144,7 +1144,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.49",
                 "hs_code": "010",
                 "desc": "1 ドリルパイプ",
                 "rate": {
@@ -1185,7 +1185,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.49",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1230,7 +1230,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.04",
         "hs_code": "",
         "desc": "その他のもの（その他の合金鋼製のもので、横断面が円形のものに限る。）",
         "rate": {},
@@ -1248,7 +1248,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.51",
                 "hs_code": "010",
                 "desc": "1 ドリルパイプ",
                 "rate": {
@@ -1289,7 +1289,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.51",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1341,7 +1341,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.59",
                 "hs_code": "010",
                 "desc": "1 ドリルパイプ",
                 "rate": {
@@ -1382,7 +1382,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.59",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1436,7 +1436,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7304.90",
             "hs_code": "050",
             "desc": "1 ドリルパイプ",
             "rate": {
@@ -1477,7 +1477,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7304.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -1486,7 +1486,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.90",
                 "hs_code": "030",
                 "desc": "(1)合金鋼製のもの",
                 "rate": {
@@ -1527,7 +1527,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7304.90",
                 "hs_code": "040",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -1583,7 +1583,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.05",
         "hs_code": "",
         "desc": "油又はガスの輸送に使用する種類のラインパイプ",
         "rate": {},
@@ -1601,7 +1601,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.11",
                 "hs_code": "010",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -1642,7 +1642,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.11",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1694,7 +1694,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.12",
                 "hs_code": "010",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -1735,7 +1735,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.12",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1787,7 +1787,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.19",
                 "hs_code": "010",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -1828,7 +1828,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1882,7 +1882,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7305.20",
             "hs_code": "010",
             "desc": "1 合金鋼製のもの",
             "rate": {
@@ -1923,7 +1923,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7305.20",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -1966,7 +1966,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.05",
         "hs_code": "",
         "desc": "その他の溶接管",
         "rate": {},
@@ -1984,7 +1984,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.31",
                 "hs_code": "010",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -2025,7 +2025,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.31",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2077,7 +2077,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.39",
                 "hs_code": "010",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -2118,7 +2118,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7305.39",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2172,7 +2172,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7305.90",
             "hs_code": "010",
             "desc": "1 合金鋼製のもの",
             "rate": {
@@ -2213,7 +2213,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7305.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -2267,7 +2267,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.06",
         "hs_code": "",
         "desc": "油又はガスの輸送に使用する種類のラインパイプ",
         "rate": {},
@@ -2326,7 +2326,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.19",
                 "hs_code": "100",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -2367,7 +2367,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.19",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2412,7 +2412,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.06",
         "hs_code": "",
         "desc": "油又はガスの掘削に使用する種類のケーシング及びチュービング",
         "rate": {},
@@ -2471,7 +2471,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.29",
                 "hs_code": "100",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -2512,7 +2512,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.29",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2597,7 +2597,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7306.30",
             "hs_code": "",
             "desc": "− 配管用炭素鋼鋼管",
             "rate": {},
@@ -2606,7 +2606,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.30",
                 "hs_code": "011",
                 "desc": "−− めつきしたもの",
                 "rate": {
@@ -2647,7 +2647,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.30",
                 "hs_code": "019",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -2690,7 +2690,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7306.30",
             "hs_code": "",
             "desc": "− 一般構造用炭素鋼鋼管",
             "rate": {},
@@ -2699,7 +2699,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.30",
                 "hs_code": "021",
                 "desc": "−− めつきしたもの",
                 "rate": {
@@ -2740,7 +2740,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.30",
                 "hs_code": "029",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -2783,7 +2783,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7306.30",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -2908,7 +2908,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.06",
         "hs_code": "",
         "desc": "その他の溶接管（横断面が円形のものを除く。）",
         "rate": {},
@@ -2926,7 +2926,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.61",
                 "hs_code": "100",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -2967,7 +2967,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.61",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3007,7 +3007,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7306.61",
                     "hs_code": "910",
                     "desc": "− 一辺の長さが200ミリメートル以上のもの",
                     "rate": {
@@ -3048,7 +3048,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7306.61",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3102,7 +3102,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.69",
                 "hs_code": "100",
                 "desc": "1 合金鋼製のもの",
                 "rate": {
@@ -3143,7 +3143,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7306.69",
                 "hs_code": "900",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3197,7 +3197,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7306.90",
             "hs_code": "010",
             "desc": "1 合金鋼製のもの",
             "rate": {
@@ -3238,7 +3238,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7306.90",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -3292,7 +3292,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.07",
         "hs_code": "",
         "desc": "鋳造した継手",
         "rate": {},
@@ -3385,7 +3385,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.07",
         "hs_code": "",
         "desc": "その他のもの（ステンレス鋼製のものに限る。）",
         "rate": {},
@@ -3560,7 +3560,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.07",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -3691,7 +3691,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7307.93",
                 "hs_code": "010",
                 "desc": "−炭素鋼製のもの（第72類の注1(d)の鋼を材料として製造されたもののうち、第72類の注1(f)のその他の合金鋼を材料として製造されたものを除く。）",
                 "rate": {
@@ -3732,7 +3732,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7307.93",
                 "hs_code": "090",
                 "desc": "−その他のもの",
                 "rate": {
@@ -4033,7 +4033,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7308.90",
             "hs_code": "010",
             "desc": "− 構造物及びその部分品",
             "rate": {
@@ -4074,7 +4074,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7308.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -4224,7 +4224,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.10",
         "hs_code": "",
         "desc": "内容積が50リットル未満のもの",
         "rate": {},
@@ -4316,7 +4316,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7310.29",
                 "hs_code": "010",
                 "desc": "− 食缶",
                 "rate": {
@@ -4359,7 +4359,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7310.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -4510,7 +4510,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7312.10",
             "hs_code": "010",
             "desc": "− より線",
             "rate": {
@@ -4551,7 +4551,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7312.10",
             "hs_code": "",
             "desc": "− ロープ及びケーブル",
             "rate": {},
@@ -4560,7 +4560,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7312.10",
                 "hs_code": "091",
                 "desc": "−− 横断面の直径が3ミリメートルを超えるもの",
                 "rate": {
@@ -4601,7 +4601,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7312.10",
                 "hs_code": "092",
                 "desc": "−− 横断面の直径が3ミリメートル以下のもの",
                 "rate": {
@@ -4749,7 +4749,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.14",
         "hs_code": "",
         "desc": "織つたワイヤクロス",
         "rate": {},
@@ -4924,7 +4924,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.14",
         "hs_code": "",
         "desc": "その他のワイヤグリル、網及び柵（網目の交点を溶接したものに限る。）",
         "rate": {},
@@ -5017,7 +5017,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.14",
         "hs_code": "",
         "desc": "その他のワイヤクロス、ワイヤグリル、網及び柵",
         "rate": {},
@@ -5203,7 +5203,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.15",
         "hs_code": "",
         "desc": "連接リンクチェーン及びその部分品",
         "rate": {},
@@ -5378,7 +5378,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.15",
         "hs_code": "",
         "desc": "その他の鎖",
         "rate": {},
@@ -5666,7 +5666,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.18",
         "hs_code": "",
         "desc": "ねじを切つた製品",
         "rate": {},
@@ -5879,7 +5879,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7318.15",
                 "hs_code": "",
                 "desc": "− ボルト",
                 "rate": {},
@@ -5888,7 +5888,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7318.15",
                     "hs_code": "011",
                     "desc": "−− ステンレス鋼製のもの",
                     "rate": {
@@ -5929,7 +5929,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "7318.15",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -5972,7 +5972,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7318.15",
                 "hs_code": "090",
                 "desc": "− ねじ",
                 "rate": {
@@ -6055,7 +6055,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7318.16",
                 "hs_code": "010",
                 "desc": "− ステンレス鋼製のもの",
                 "rate": {
@@ -6096,7 +6096,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7318.16",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -6182,7 +6182,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.18",
         "hs_code": "",
         "desc": "ねじを切つてない製品",
         "rate": {},
@@ -6511,7 +6511,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7320.10",
             "hs_code": "010",
             "desc": "1 自動車用のシャシばね及びそのばね板",
             "rate": {
@@ -6552,7 +6552,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7320.10",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -6604,7 +6604,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7320.20",
             "hs_code": "010",
             "desc": "1 自動車用のシャシばね",
             "rate": {
@@ -6645,7 +6645,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7320.20",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -6697,7 +6697,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7320.90",
             "hs_code": "010",
             "desc": "1 自動車用のシャシばね",
             "rate": {
@@ -6738,7 +6738,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7320.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -6792,7 +6792,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.21",
         "hs_code": "",
         "desc": "調理用加熱器具及び皿温め器",
         "rate": {},
@@ -6932,7 +6932,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.21",
         "hs_code": "",
         "desc": "その他の器具",
         "rate": {},
@@ -7126,7 +7126,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.22",
         "hs_code": "",
         "desc": "ラジエーター及びその部分品",
         "rate": {},
@@ -7314,7 +7314,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.23",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -7592,7 +7592,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.24",
         "hs_code": "",
         "desc": "浴槽",
         "rate": {},
@@ -7778,7 +7778,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.25",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -7868,7 +7868,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7325.99",
                 "hs_code": "010",
                 "desc": "− 鋳鋼製のもの",
                 "rate": {
@@ -7909,7 +7909,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7325.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7965,7 +7965,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "73.26",
         "hs_code": "",
         "desc": "鍛造又は型打ちをしたもの（更に加工したものを除く。）",
         "rate": {},
@@ -8139,7 +8139,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7326.90",
             "hs_code": "010",
             "desc": "− エンドレスコンベヤベルト（巻いた未完成のコンベヤベルトで両端にリベットの穴を有するものを含む。）",
             "rate": {
@@ -8180,7 +8180,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "7326.90",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {
@@ -8220,7 +8220,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7326.90",
                 "hs_code": "030",
                 "desc": "−− 鉄鋼製鍛造品（加工してあるもの）",
                 "rate": {
@@ -8261,7 +8261,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "7326.90",
                 "hs_code": "090",
                 "desc": "−− その他のもの",
                 "rate": {

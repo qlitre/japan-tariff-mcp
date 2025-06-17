@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "26.01",
         "hs_code": "",
         "desc": "鉄鉱（精鉱を含むものとし、焼いた硫化鉄鉱を除く。）",
         "rate": {},
@@ -196,7 +196,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2602.00",
         "hs_code": "",
         "desc": "− マンガン鉱（精鉱を含む。）",
         "rate": {
@@ -236,7 +236,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2602.00",
             "hs_code": "010",
             "desc": "−− マンガンの含有量が乾燥状態において全重量の39％を超えるもの",
             "rate": {
@@ -277,7 +277,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "2602.00",
             "hs_code": "019",
             "desc": "−− その他のもの",
             "rate": {
@@ -320,7 +320,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2602.00",
         "hs_code": "090",
         "desc": "− 含鉄マンガン鉱（精鉱を含む。）",
         "rate": {
@@ -1062,7 +1062,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2614.00",
         "hs_code": "010",
         "desc": "− イルメナイト",
         "rate": {
@@ -1103,7 +1103,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "2614.00",
         "hs_code": "090",
         "desc": "− その他のもの",
         "rate": {
@@ -1536,7 +1536,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "26.20",
         "hs_code": "",
         "desc": "亜鉛を主成分とするもの",
         "rate": {},
@@ -1633,7 +1633,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "26.20",
         "hs_code": "",
         "desc": "鉛を主成分とするもの",
         "rate": {},
@@ -1859,7 +1859,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "26.20",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},

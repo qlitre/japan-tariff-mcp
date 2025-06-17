@@ -19,7 +19,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6401.10",
             "hs_code": "010",
             "desc": "1 スキー靴",
             "rate": {
@@ -60,7 +60,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6401.10",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -103,7 +103,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "64.01",
         "hs_code": "",
         "desc": "その他の履物",
         "rate": {},
@@ -121,7 +121,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6401.92",
                 "hs_code": "010",
                 "desc": "1 スキー靴",
                 "rate": {
@@ -162,7 +162,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6401.92",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -259,7 +259,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "64.02",
         "hs_code": "",
         "desc": "スポーツ用の履物",
         "rate": {},
@@ -277,7 +277,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6402.12",
                 "hs_code": "010",
                 "desc": "1 スキー靴",
                 "rate": {
@@ -318,7 +318,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6402.12",
                 "hs_code": "090",
                 "desc": "2 スノーボードブーツ",
                 "rate": {
@@ -445,7 +445,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "64.02",
         "hs_code": "",
         "desc": "その他の履物",
         "rate": {},
@@ -535,7 +535,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6402.99",
                 "hs_code": "010",
                 "desc": "− 短靴",
                 "rate": {
@@ -576,7 +576,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6402.99",
                 "hs_code": "",
                 "desc": "− サンダル",
                 "rate": {
@@ -616,7 +616,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6402.99",
                     "hs_code": "021",
                     "desc": "−− かかとを覆わないもの",
                     "rate": {
@@ -657,7 +657,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6402.99",
                     "hs_code": "029",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -700,7 +700,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6402.99",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -756,7 +756,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "64.03",
         "hs_code": "",
         "desc": "スポーツ用の履物",
         "rate": {},
@@ -774,7 +774,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.12",
                 "hs_code": "010",
                 "desc": "1 本底がゴム製、革製又はコンポジションレザー製のもの",
                 "rate": {
@@ -815,7 +815,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.12",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -867,7 +867,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.19",
                 "hs_code": "010",
                 "desc": "1 本底がゴム製、革製又はコンポジションレザー製のもの",
                 "rate": {
@@ -908,7 +908,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.19",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -993,7 +993,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6403.20",
             "hs_code": "",
             "desc": "− 室内用履物",
             "rate": {},
@@ -1002,7 +1002,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.20",
                 "hs_code": "011",
                 "desc": "−− この号、第6403.40号、第6403.51号の1及び2の(2)、第6403.59号の1の(2)及び2の(2)、第6403.91号の1の(2)及び2の(2)、第6403.99号の1の(2)及び2の(2)、第6404.19号の1の(1)、第6404.20号の1の(1)並びに2の(1)のA及び(2)のA、第6405.10号の1の(1)並びに第6405.90号の1の(1)のA及び(2)のAの(a)に掲げる履物について、各年度において12,019,000足を基準とし、前年度における輸入数量、国際市況その他の条件を勘案して政令で定める数量（以下この項から第64.05項までにおいて「共通の限度数量」という。）以内のもの",
                 "rate": {
@@ -1043,7 +1043,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.20",
                 "hs_code": "012",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1086,7 +1086,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6403.20",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -1095,7 +1095,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.20",
                 "hs_code": "021",
                 "desc": "−− 共通の限度数量以内のもの",
                 "rate": {
@@ -1136,7 +1136,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.20",
                 "hs_code": "022",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1221,7 +1221,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6403.40",
             "hs_code": "",
             "desc": "− 本底がゴム製、革製又はコンポジションレザー製のもの",
             "rate": {},
@@ -1230,7 +1230,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.40",
                 "hs_code": "011",
                 "desc": "−− 共通の限度数量以内のもの",
                 "rate": {
@@ -1271,7 +1271,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.40",
                 "hs_code": "012",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1314,7 +1314,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6403.40",
             "hs_code": "",
             "desc": "− その他のもの",
             "rate": {},
@@ -1323,7 +1323,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.40",
                 "hs_code": "021",
                 "desc": "−− 共通の限度数量以内のもの",
                 "rate": {
@@ -1364,7 +1364,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.40",
                 "hs_code": "022",
                 "desc": "−− その他のもの",
                 "rate": {
@@ -1409,7 +1409,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "64.03",
         "hs_code": "",
         "desc": "その他の履物（本底が革製のものに限る。）",
         "rate": {},
@@ -1427,7 +1427,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.51",
                 "hs_code": "",
                 "desc": "1 室内用履物",
                 "rate": {
@@ -1467,7 +1467,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.51",
                     "hs_code": "011",
                     "desc": "− 共通の限度数量以内のもの",
                     "rate": {
@@ -1508,7 +1508,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.51",
                     "hs_code": "012",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1551,7 +1551,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.51",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1560,7 +1560,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.51",
                     "hs_code": "021",
                     "desc": "(1)体操用、競技用その他これらに類する用途に供する履物",
                     "rate": {
@@ -1601,7 +1601,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.51",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -1641,7 +1641,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.51",
                         "hs_code": "022",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -1682,7 +1682,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.51",
                         "hs_code": "029",
                         "desc": "− その他のもの",
                         "rate": {
@@ -1738,7 +1738,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.59",
                 "hs_code": "",
                 "desc": "1 スリッパその他の室内用履物",
                 "rate": {},
@@ -1747,7 +1747,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.59",
                     "hs_code": "011",
                     "desc": "(1)スリッパ",
                     "rate": {
@@ -1788,7 +1788,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.59",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -1828,7 +1828,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.59",
                         "hs_code": "012",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -1869,7 +1869,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.59",
                         "hs_code": "019",
                         "desc": "− その他のもの",
                         "rate": {
@@ -1914,7 +1914,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.59",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1923,7 +1923,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.59",
                     "hs_code": "020",
                     "desc": "(1)体操用、競技用その他これらに類する用途に供する履物",
                     "rate": {
@@ -1964,7 +1964,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.59",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -2004,7 +2004,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.59",
                         "hs_code": "",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -2044,7 +2044,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.59",
                             "hs_code": "",
                             "desc": "−− 中底が19センチメートルを超えるもの",
                             "rate": {},
@@ -2053,7 +2053,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.59",
                                 "hs_code": "044",
                                 "desc": "−−− 紳士用のもの",
                                 "rate": {
@@ -2094,7 +2094,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.59",
                                 "hs_code": "045",
                                 "desc": "−−− 婦人用のもの",
                                 "rate": {
@@ -2137,7 +2137,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.59",
                             "hs_code": "049",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -2180,7 +2180,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.59",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {},
@@ -2189,7 +2189,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.59",
                             "hs_code": "",
                             "desc": "−− 中底が19センチメートルを超えるもの",
                             "rate": {
@@ -2229,7 +2229,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.59",
                                 "hs_code": "104",
                                 "desc": "−−− 紳士用のもの",
                                 "rate": {
@@ -2270,7 +2270,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.59",
                                 "hs_code": "105",
                                 "desc": "−−− 婦人用のもの",
                                 "rate": {
@@ -2313,7 +2313,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.59",
                             "hs_code": "",
                             "desc": "−− その他のもの",
                             "rate": {},
@@ -2322,7 +2322,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.59",
                                 "hs_code": "111",
                                 "desc": "−−− ベース又はプラットホームが木製のもの（中敷き又は保護用の金属製トーキャップを有するものを除く。）",
                                 "rate": {
@@ -2363,7 +2363,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.59",
                                 "hs_code": "119",
                                 "desc": "−−− その他のもの",
                                 "rate": {
@@ -2416,7 +2416,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "64.03",
         "hs_code": "",
         "desc": "その他の履物",
         "rate": {},
@@ -2434,7 +2434,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.91",
                 "hs_code": "",
                 "desc": "1 本底がゴム製又はコンポジションレザー製のもの（室内用履物を除く。）",
                 "rate": {},
@@ -2443,7 +2443,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.91",
                     "hs_code": "011",
                     "desc": "(1)体操用、競技用その他これらに類する用途に供する履物",
                     "rate": {
@@ -2484,7 +2484,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.91",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -2524,7 +2524,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.91",
                         "hs_code": "012",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -2565,7 +2565,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.91",
                         "hs_code": "019",
                         "desc": "− その他のもの",
                         "rate": {
@@ -2610,7 +2610,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.91",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -2619,7 +2619,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.91",
                     "hs_code": "021",
                     "desc": "(1)体操用、競技用その他これらに類する用途に供する履物",
                     "rate": {
@@ -2660,7 +2660,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.91",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -2700,7 +2700,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.91",
                         "hs_code": "022",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -2741,7 +2741,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.91",
                         "hs_code": "029",
                         "desc": "− その他のもの",
                         "rate": {
@@ -2797,7 +2797,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.99",
                 "hs_code": "",
                 "desc": "1 本底がゴム製又はコンポジションレザー製のもの（スリッパその他の室内用履物を除く。）",
                 "rate": {},
@@ -2806,7 +2806,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.99",
                     "hs_code": "011",
                     "desc": "(1)体操用、競技用その他これらに類する用途に供する履物",
                     "rate": {
@@ -2847,7 +2847,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.99",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -2887,7 +2887,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.99",
                         "hs_code": "",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -2927,7 +2927,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.99",
                             "hs_code": "",
                             "desc": "−− 中底が19センチメートルを超えるもの",
                             "rate": {},
@@ -2936,7 +2936,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.99",
                                 "hs_code": "012",
                                 "desc": "−−− 紳士用のもの",
                                 "rate": {
@@ -2977,7 +2977,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.99",
                                 "hs_code": "013",
                                 "desc": "−−− 婦人用のもの",
                                 "rate": {
@@ -3020,7 +3020,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.99",
                             "hs_code": "014",
                             "desc": "−− その他のもの",
                             "rate": {
@@ -3063,7 +3063,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.99",
                         "hs_code": "",
                         "desc": "− その他のもの",
                         "rate": {},
@@ -3072,7 +3072,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.99",
                             "hs_code": "",
                             "desc": "−− 中底が19センチメートルを超えるもの",
                             "rate": {
@@ -3112,7 +3112,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.99",
                                 "hs_code": "015",
                                 "desc": "−−− 紳士用のもの",
                                 "rate": {
@@ -3153,7 +3153,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.99",
                                 "hs_code": "016",
                                 "desc": "−−− 婦人用のもの",
                                 "rate": {
@@ -3196,7 +3196,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6403.99",
                             "hs_code": "",
                             "desc": "−− その他のもの",
                             "rate": {},
@@ -3205,7 +3205,7 @@
                             "children": [
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.99",
                                 "hs_code": "031",
                                 "desc": "−−− ベース又はプラットホームが木製のもの（中敷き又は保護用の金属製トーキャップを有するものを除く。）",
                                 "rate": {
@@ -3246,7 +3246,7 @@
                               },
                               {
                                 "level": 7,
-                                "stat_code": "",
+                                "stat_code": "6403.99",
                                 "hs_code": "039",
                                 "desc": "−−− その他のもの",
                                 "rate": {
@@ -3295,7 +3295,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6403.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -3304,7 +3304,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.99",
                     "hs_code": "021",
                     "desc": "(1)スリッパ及び体操用、競技用その他これらに類する用途に供する履物",
                     "rate": {
@@ -3345,7 +3345,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6403.99",
                     "hs_code": "",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3385,7 +3385,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.99",
                         "hs_code": "022",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -3426,7 +3426,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6403.99",
                         "hs_code": "029",
                         "desc": "− その他のもの",
                         "rate": {
@@ -3486,7 +3486,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "64.04",
         "hs_code": "",
         "desc": "履物（本底がゴム製又はプラスチック製のものに限る。）",
         "rate": {},
@@ -3545,7 +3545,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6404.19",
                 "hs_code": "",
                 "desc": "1 甲に毛皮を使用したもの",
                 "rate": {},
@@ -3554,7 +3554,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.19",
                     "hs_code": "",
                     "desc": "(1)甲の一部に革を使用したもの（スリッパを除く。）",
                     "rate": {
@@ -3594,7 +3594,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6404.19",
                         "hs_code": "111",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -3635,7 +3635,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6404.19",
                         "hs_code": "119",
                         "desc": "− その他のもの",
                         "rate": {
@@ -3678,7 +3678,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.19",
                     "hs_code": "190",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -3721,7 +3721,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6404.19",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3761,7 +3761,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.19",
                     "hs_code": "210",
                     "desc": "− 地下たび",
                     "rate": {
@@ -3802,7 +3802,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.19",
                     "hs_code": "220",
                     "desc": "− キャンバスシューズ",
                     "rate": {
@@ -3843,7 +3843,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.19",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -3899,7 +3899,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6404.20",
             "hs_code": "",
             "desc": "1 甲に毛皮を使用したもの",
             "rate": {},
@@ -3908,7 +3908,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6404.20",
                 "hs_code": "",
                 "desc": "(1)甲の一部に革を使用したもの（スポーツ用の履物、体操用、競技用その他これらに類する用途に供する履物及びスリッパを除く。）",
                 "rate": {
@@ -3948,7 +3948,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.20",
                     "hs_code": "111",
                     "desc": "− 共通の限度数量以内のもの",
                     "rate": {
@@ -3989,7 +3989,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.20",
                     "hs_code": "119",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4032,7 +4032,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6404.20",
                 "hs_code": "190",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -4075,7 +4075,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6404.20",
             "hs_code": "",
             "desc": "2 本底が革製のもの（甲に毛皮を使用したものを除く。）",
             "rate": {},
@@ -4084,7 +4084,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6404.20",
                 "hs_code": "",
                 "desc": "(1)キャンバスシューズ",
                 "rate": {},
@@ -4093,7 +4093,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.20",
                     "hs_code": "",
                     "desc": "A 甲の一部に革を使用したもの（スポーツ用の履物及び体操用、競技用その他これらに類する用途に供する履物を除く。）",
                     "rate": {
@@ -4133,7 +4133,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6404.20",
                         "hs_code": "211",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -4174,7 +4174,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6404.20",
                         "hs_code": "212",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4217,7 +4217,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.20",
                     "hs_code": "219",
                     "desc": "B その他のもの",
                     "rate": {
@@ -4260,7 +4260,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6404.20",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -4269,7 +4269,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.20",
                     "hs_code": "",
                     "desc": "A 甲の一部に革を使用したもの（スポーツ用の履物、体操用、競技用その他これらに類する用途に供する履物及びスリッパを除く。）",
                     "rate": {
@@ -4309,7 +4309,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6404.20",
                         "hs_code": "221",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -4350,7 +4350,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6404.20",
                         "hs_code": "222",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4393,7 +4393,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6404.20",
                     "hs_code": "229",
                     "desc": "B その他のもの",
                     "rate": {
@@ -4438,7 +4438,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6404.20",
             "hs_code": "300",
             "desc": "3 その他のもの",
             "rate": {
@@ -4501,7 +4501,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6405.10",
             "hs_code": "",
             "desc": "1 本底が革製のもの（甲がコンポジションレザー製のものに限る。）",
             "rate": {},
@@ -4510,7 +4510,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6405.10",
                 "hs_code": "",
                 "desc": "(1)甲の一部に革を使用したもの（スポーツ用の履物、体操用、競技用その他これらに類する用途に供する履物及びスリッパを除く。）",
                 "rate": {
@@ -4550,7 +4550,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6405.10",
                     "hs_code": "111",
                     "desc": "− 共通の限度数量以内のもの",
                     "rate": {
@@ -4591,7 +4591,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6405.10",
                     "hs_code": "119",
                     "desc": "− その他のもの",
                     "rate": {
@@ -4634,7 +4634,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6405.10",
                 "hs_code": "190",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -4677,7 +4677,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6405.10",
             "hs_code": "200",
             "desc": "2 本底がゴム製、プラスチック製又はコンポジションレザー製のもの（甲がコンポジションレザー製のものに限る。）",
             "rate": {
@@ -4718,7 +4718,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6405.10",
             "hs_code": "300",
             "desc": "3 その他のもの",
             "rate": {
@@ -4811,7 +4811,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6405.90",
             "hs_code": "",
             "desc": "1 本底がゴム製、プラスチック製、革製又はコンポジションレザー製のもの",
             "rate": {},
@@ -4820,7 +4820,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6405.90",
                 "hs_code": "",
                 "desc": "(1)甲に毛皮を使用したもの",
                 "rate": {},
@@ -4829,7 +4829,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6405.90",
                     "hs_code": "",
                     "desc": "A 甲の一部に革を使用したもの（スポーツ用の履物、体操用、競技用その他これらに類する用途に供する履物及びスリッパを除く。）",
                     "rate": {
@@ -4869,7 +4869,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6405.90",
                         "hs_code": "111",
                         "desc": "− 共通の限度数量以内のもの",
                         "rate": {
@@ -4910,7 +4910,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6405.90",
                         "hs_code": "112",
                         "desc": "− その他のもの",
                         "rate": {
@@ -4953,7 +4953,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6405.90",
                     "hs_code": "119",
                     "desc": "B その他のもの",
                     "rate": {
@@ -4996,7 +4996,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6405.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -5005,7 +5005,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6405.90",
                     "hs_code": "",
                     "desc": "A 本底が革製のもの",
                     "rate": {},
@@ -5014,7 +5014,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6405.90",
                         "hs_code": "",
                         "desc": "(a)甲の一部に革を使用したもの（スポーツ用の履物、体操用、競技用その他これらに類する用途に供する履物及びスリッパを除く。）",
                         "rate": {
@@ -5054,7 +5054,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6405.90",
                             "hs_code": "121",
                             "desc": "− 共通の限度数量以内のもの",
                             "rate": {
@@ -5095,7 +5095,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "6405.90",
                             "hs_code": "122",
                             "desc": "− その他のもの",
                             "rate": {
@@ -5138,7 +5138,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6405.90",
                         "hs_code": "128",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -5181,7 +5181,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6405.90",
                     "hs_code": "129",
                     "desc": "B その他のもの",
                     "rate": {
@@ -5226,7 +5226,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6405.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -5289,7 +5289,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6406.10",
             "hs_code": "",
             "desc": "1 革製のもの及び毛皮を使用したもの",
             "rate": {
@@ -5329,7 +5329,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6406.10",
                 "hs_code": "110",
                 "desc": "− 甲",
                 "rate": {
@@ -5370,7 +5370,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6406.10",
                 "hs_code": "190",
                 "desc": "− その他のもの",
                 "rate": {
@@ -5413,7 +5413,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6406.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -5506,7 +5506,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6406.90",
             "hs_code": "",
             "desc": "1 革製のもの及び毛皮を使用したもの",
             "rate": {
@@ -5546,7 +5546,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6406.90",
                 "hs_code": "110",
                 "desc": "− 革製のもの（毛皮を使用してあるかないかを問わない。）",
                 "rate": {
@@ -5587,7 +5587,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6406.90",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -5596,7 +5596,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6406.90",
                     "hs_code": "121",
                     "desc": "−− 木製のもの",
                     "rate": {
@@ -5637,7 +5637,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6406.90",
                     "hs_code": "129",
                     "desc": "−− その他の材料製のもの",
                     "rate": {
@@ -5682,7 +5682,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6406.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -5722,7 +5722,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6406.90",
                 "hs_code": "210",
                 "desc": "− 木製のもの",
                 "rate": {
@@ -5763,7 +5763,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6406.90",
                 "hs_code": "290",
                 "desc": "− その他の材料製のもの",
                 "rate": {

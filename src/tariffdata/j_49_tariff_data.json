@@ -51,7 +51,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "49.01",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -733,7 +733,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4910.00",
         "hs_code": "010",
         "desc": "− 紙製又は板紙製のもの",
         "rate": {
@@ -774,7 +774,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "4910.00",
         "hs_code": "090",
         "desc": "− その他のもの",
         "rate": {
@@ -867,7 +867,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "49.11",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -916,7 +916,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4911.91",
                 "hs_code": "010",
                 "desc": "− 写真",
                 "rate": {
@@ -957,7 +957,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "4911.91",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {

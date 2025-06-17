@@ -199,7 +199,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "0504.00",
         "hs_code": "",
         "desc": "− 腸",
         "rate": {},
@@ -208,7 +208,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0504.00",
             "hs_code": "011",
             "desc": "−− ソーセージケーシング用のもの",
             "rate": {
@@ -253,7 +253,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0504.00",
             "hs_code": "",
             "desc": "−− その他のもの",
             "rate": {},
@@ -262,7 +262,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0504.00",
                 "hs_code": "012",
                 "desc": "−−− 牛のもの",
                 "rate": {
@@ -307,7 +307,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0504.00",
                 "hs_code": "019",
                 "desc": "−−− その他のもの",
                 "rate": {
@@ -356,7 +356,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "0504.00",
         "hs_code": "",
         "desc": "− その他のもの",
         "rate": {},
@@ -365,7 +365,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0504.00",
             "hs_code": "091",
             "desc": "−− 牛のもの",
             "rate": {
@@ -410,7 +410,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0504.00",
             "hs_code": "099",
             "desc": "−− その他のもの",
             "rate": {
@@ -651,7 +651,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0506.90",
             "hs_code": "010",
             "desc": "− 骨粉",
             "rate": {
@@ -695,7 +695,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0506.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -837,7 +837,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0507.90",
             "hs_code": "010",
             "desc": "− 角及びひづめ（粉及びくずを含む。）",
             "rate": {
@@ -881,7 +881,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0507.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -948,7 +948,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "0508.00",
         "hs_code": "100",
         "desc": "1 さんご",
         "rate": {
@@ -992,7 +992,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "0508.00",
         "hs_code": "200",
         "desc": "2 その他のもの",
         "rate": {
@@ -1057,7 +1057,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "0510.00",
         "hs_code": "",
         "desc": "1 じや香及び牛黄",
         "rate": {
@@ -1097,7 +1097,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0510.00",
             "hs_code": "110",
             "desc": "− じや香",
             "rate": {
@@ -1142,7 +1142,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "0510.00",
             "hs_code": "190",
             "desc": "− 牛黄",
             "rate": {
@@ -1189,7 +1189,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "0510.00",
         "hs_code": "200",
         "desc": "2 その他のもの",
         "rate": {
@@ -1291,7 +1291,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "05.11",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1309,7 +1309,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0511.91",
                 "hs_code": "",
                 "desc": "1 魚のくず、ふ化用の魚卵及びアルテミアサリナの卵",
                 "rate": {
@@ -1349,7 +1349,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.91",
                     "hs_code": "110",
                     "desc": "− 魚のくず",
                     "rate": {
@@ -1395,7 +1395,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.91",
                     "hs_code": "120",
                     "desc": "− ふ化用の魚卵",
                     "rate": {
@@ -1441,7 +1441,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.91",
                     "hs_code": "190",
                     "desc": "− アルテミアサリナの卵",
                     "rate": {
@@ -1489,7 +1489,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0511.91",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1546,7 +1546,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0511.99",
                 "hs_code": "",
                 "desc": "1 馬毛及びそのくず（支持物を使用することなく又は支持物を使用して層状にしてあるかないかを問わない。）並びに蚕種、動物の精液、腱、筋、原皮くず及び乾燥した血",
                 "rate": {
@@ -1586,7 +1586,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.99",
                     "hs_code": "120",
                     "desc": "− 馬毛及びそのくず（支持物を使用することなく又は支持物を使用して層状にしてあるかないかを問わない。）",
                     "rate": {
@@ -1633,7 +1633,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.99",
                     "hs_code": "110",
                     "desc": "− 腱、筋及び原皮くず",
                     "rate": {
@@ -1680,7 +1680,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.99",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1729,7 +1729,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0511.99",
                 "hs_code": "",
                 "desc": "2 動物性の海綿",
                 "rate": {
@@ -1769,7 +1769,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.99",
                     "hs_code": "210",
                     "desc": "− 課税価格が1キログラムにつき3,600円以上のもの",
                     "rate": {
@@ -1816,7 +1816,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "0511.99",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -1865,7 +1865,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "0511.99",
                 "hs_code": "900",
                 "desc": "3 その他のもの",
                 "rate": {

@@ -19,7 +19,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.20",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -62,7 +62,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -116,7 +116,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.30",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -159,7 +159,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -213,7 +213,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.40",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -256,7 +256,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.40",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -310,7 +310,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.90",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -353,7 +353,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6201.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -418,7 +418,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.20",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -461,7 +461,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -515,7 +515,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.30",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -558,7 +558,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -612,7 +612,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.40",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -655,7 +655,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.40",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -709,7 +709,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.90",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -752,7 +752,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6202.90",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -808,7 +808,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.03",
         "hs_code": "",
         "desc": "スーツ",
         "rate": {},
@@ -826,7 +826,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.11",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -869,7 +869,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.11",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -923,7 +923,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.12",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -966,7 +966,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.12",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1020,7 +1020,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.19",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1063,7 +1063,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.19",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1110,7 +1110,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.03",
         "hs_code": "",
         "desc": "アンサンブル",
         "rate": {},
@@ -1128,7 +1128,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.22",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1171,7 +1171,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.22",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1225,7 +1225,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.23",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1268,7 +1268,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.23",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1322,7 +1322,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.29",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1365,7 +1365,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.29",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1412,7 +1412,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.03",
         "hs_code": "",
         "desc": "ジャケット及びブレザー",
         "rate": {},
@@ -1430,7 +1430,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.31",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1473,7 +1473,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.31",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1527,7 +1527,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.32",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1570,7 +1570,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.32",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1624,7 +1624,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.33",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1667,7 +1667,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.33",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1721,7 +1721,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.39",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1764,7 +1764,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.39",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1811,7 +1811,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.03",
         "hs_code": "",
         "desc": "ズボン、胸当てズボン、半ズボン及びショーツ",
         "rate": {},
@@ -1829,7 +1829,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.41",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1872,7 +1872,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.41",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1926,7 +1926,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.42",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -1969,7 +1969,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.42",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2023,7 +2023,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.43",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2066,7 +2066,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.43",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2120,7 +2120,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.49",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2163,7 +2163,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6203.49",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2203,7 +2203,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6203.49",
                     "hs_code": "210",
                     "desc": "− 再生繊維又は半合成繊維製のもの",
                     "rate": {
@@ -2246,7 +2246,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6203.49",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -2306,7 +2306,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.04",
         "hs_code": "",
         "desc": "スーツ",
         "rate": {},
@@ -2324,7 +2324,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.11",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2367,7 +2367,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.11",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2421,7 +2421,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.12",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2464,7 +2464,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.12",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2518,7 +2518,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.13",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2561,7 +2561,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.13",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2615,7 +2615,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.19",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2658,7 +2658,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.19",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2705,7 +2705,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.04",
         "hs_code": "",
         "desc": "アンサンブル",
         "rate": {},
@@ -2723,7 +2723,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.21",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2766,7 +2766,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.21",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2820,7 +2820,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.22",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2863,7 +2863,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.22",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2917,7 +2917,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.23",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -2960,7 +2960,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.23",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3014,7 +3014,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.29",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3057,7 +3057,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.29",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3104,7 +3104,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.04",
         "hs_code": "",
         "desc": "ジャケット及びブレザー",
         "rate": {},
@@ -3122,7 +3122,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.31",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3165,7 +3165,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.31",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3219,7 +3219,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.32",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3262,7 +3262,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.32",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3316,7 +3316,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.33",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3359,7 +3359,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.33",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3413,7 +3413,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.39",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3456,7 +3456,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.39",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3503,7 +3503,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.04",
         "hs_code": "",
         "desc": "ドレス",
         "rate": {},
@@ -3521,7 +3521,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.41",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3564,7 +3564,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.41",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3618,7 +3618,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.42",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3661,7 +3661,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.42",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3715,7 +3715,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.43",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3758,7 +3758,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.43",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3812,7 +3812,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.44",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3855,7 +3855,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.44",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3909,7 +3909,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.49",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -3952,7 +3952,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.49",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3999,7 +3999,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.04",
         "hs_code": "",
         "desc": "スカート及びキュロットスカート",
         "rate": {},
@@ -4017,7 +4017,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.51",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4060,7 +4060,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.51",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4114,7 +4114,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.52",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4157,7 +4157,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.52",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4211,7 +4211,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.53",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4254,7 +4254,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.53",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4308,7 +4308,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.59",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4351,7 +4351,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.59",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4398,7 +4398,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.04",
         "hs_code": "",
         "desc": "ズボン、胸当てズボン、半ズボン及びショーツ",
         "rate": {},
@@ -4416,7 +4416,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.61",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4459,7 +4459,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.61",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4513,7 +4513,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.62",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4556,7 +4556,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.62",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4610,7 +4610,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.63",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4653,7 +4653,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.63",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4707,7 +4707,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.69",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -4750,7 +4750,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6204.69",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4934,7 +4934,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6205.90",
             "hs_code": "010",
             "desc": "− 羊毛製又は繊獣毛製のもの",
             "rate": {
@@ -4977,7 +4977,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6205.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -5042,7 +5042,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.10",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -5085,7 +5085,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -5094,7 +5094,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.10",
                 "hs_code": "210",
                 "desc": "(1)ブラウス、シャツブラウス、オープンシャツその他これらに類するシャツ",
                 "rate": {
@@ -5137,7 +5137,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.10",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -5193,7 +5193,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.20",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -5236,7 +5236,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -5245,7 +5245,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.20",
                 "hs_code": "210",
                 "desc": "(1)ブラウス、シャツブラウス、オープンシャツその他これらに類するシャツ",
                 "rate": {
@@ -5288,7 +5288,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.20",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -5344,7 +5344,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.30",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -5387,7 +5387,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -5396,7 +5396,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.30",
                 "hs_code": "210",
                 "desc": "(1)ブラウス、シャツブラウス、オープンシャツその他これらに類するシャツ",
                 "rate": {
@@ -5439,7 +5439,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.30",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -5495,7 +5495,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.40",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -5538,7 +5538,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.40",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -5547,7 +5547,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.40",
                 "hs_code": "210",
                 "desc": "(1)ブラウス、シャツブラウス、オープンシャツその他これらに類するシャツ",
                 "rate": {
@@ -5590,7 +5590,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.40",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -5646,7 +5646,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.90",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -5689,7 +5689,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6206.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -5698,7 +5698,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.90",
                 "hs_code": "210",
                 "desc": "(1)ブラウス、シャツブラウス、オープンシャツその他これらに類するシャツ",
                 "rate": {
@@ -5741,7 +5741,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6206.90",
                 "hs_code": "220",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -5799,7 +5799,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.07",
         "hs_code": "",
         "desc": "パンツ、ズボン下及びブリーフ",
         "rate": {},
@@ -5892,7 +5892,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.07",
         "hs_code": "",
         "desc": "ナイトシャツ及びパジャマ",
         "rate": {},
@@ -6026,7 +6026,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.07",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -6044,7 +6044,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6207.91",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -6085,7 +6085,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6207.91",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6094,7 +6094,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6207.91",
                     "hs_code": "210",
                     "desc": "(1)シングレットその他これに類する肌着",
                     "rate": {
@@ -6135,7 +6135,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6207.91",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6189,7 +6189,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6207.99",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -6230,7 +6230,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6207.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6239,7 +6239,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6207.99",
                     "hs_code": "210",
                     "desc": "(1)シングレットその他これに類する肌着",
                     "rate": {
@@ -6280,7 +6280,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6207.99",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6338,7 +6338,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.08",
         "hs_code": "",
         "desc": "スリップ及びペティコート",
         "rate": {},
@@ -6431,7 +6431,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.08",
         "hs_code": "",
         "desc": "ナイトドレス及びパジャマ",
         "rate": {},
@@ -6565,7 +6565,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.08",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -6583,7 +6583,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6208.91",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -6624,7 +6624,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6208.91",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6633,7 +6633,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6208.91",
                     "hs_code": "210",
                     "desc": "(1)シングレットその他これに類する肌着、ブリーフ及びパンティ",
                     "rate": {
@@ -6674,7 +6674,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6208.91",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6728,7 +6728,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6208.92",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -6769,7 +6769,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6208.92",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6778,7 +6778,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6208.92",
                     "hs_code": "210",
                     "desc": "(1)シングレットその他これに類する肌着、ブリーフ及びパンティ",
                     "rate": {
@@ -6819,7 +6819,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6208.92",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -6873,7 +6873,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6208.99",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -6914,7 +6914,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6208.99",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -6923,7 +6923,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6208.99",
                     "hs_code": "210",
                     "desc": "(1)シングレットその他これに類する肌着、ブリーフ及びパンティ",
                     "rate": {
@@ -6964,7 +6964,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6208.99",
                     "hs_code": "220",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -7031,7 +7031,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6209.20",
             "hs_code": "150",
             "desc": "1 手袋、ミトン及びミット並びにパンティストッキング、タイツ、ストッキング、ソックスその他の靴下類",
             "rate": {
@@ -7072,7 +7072,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6209.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -7081,7 +7081,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6209.20",
                 "hs_code": "210",
                 "desc": "(1)毛皮付きのもの",
                 "rate": {
@@ -7122,7 +7122,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6209.20",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -7131,7 +7131,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6209.20",
                     "hs_code": "221",
                     "desc": "A 附属品",
                     "rate": {
@@ -7172,7 +7172,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6209.20",
                     "hs_code": "222",
                     "desc": "B その他のもの",
                     "rate": {
@@ -7228,7 +7228,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6209.30",
             "hs_code": "150",
             "desc": "1 手袋、ミトン及びミット並びにパンティストッキング、タイツ、ストッキング、ソックスその他の靴下類",
             "rate": {
@@ -7269,7 +7269,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6209.30",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -7278,7 +7278,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6209.30",
                 "hs_code": "210",
                 "desc": "(1)毛皮付きのもの",
                 "rate": {
@@ -7319,7 +7319,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6209.30",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -7328,7 +7328,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6209.30",
                     "hs_code": "221",
                     "desc": "A 附属品",
                     "rate": {
@@ -7369,7 +7369,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6209.30",
                     "hs_code": "222",
                     "desc": "B その他のもの",
                     "rate": {
@@ -7425,7 +7425,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6209.90",
             "hs_code": "150",
             "desc": "1 手袋、ミトン及びミット並びにパンティストッキング、タイツ、ストッキング、ソックスその他の靴下類",
             "rate": {
@@ -7466,7 +7466,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6209.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -7475,7 +7475,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6209.90",
                 "hs_code": "210",
                 "desc": "(1)毛皮付きのもの",
                 "rate": {
@@ -7516,7 +7516,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6209.90",
                 "hs_code": "",
                 "desc": "(2)その他のもの",
                 "rate": {},
@@ -7525,7 +7525,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6209.90",
                     "hs_code": "221",
                     "desc": "A 附属品",
                     "rate": {
@@ -7566,7 +7566,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6209.90",
                     "hs_code": "",
                     "desc": "B その他のもの",
                     "rate": {},
@@ -7575,7 +7575,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6209.90",
                         "hs_code": "291",
                         "desc": "(a)羊毛製又は繊獣毛製のもの",
                         "rate": {
@@ -7616,7 +7616,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6209.90",
                         "hs_code": "299",
                         "desc": "(b)その他のもの",
                         "rate": {
@@ -7685,7 +7685,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.10",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -7728,7 +7728,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -7768,7 +7768,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6210.10",
                 "hs_code": "",
                 "desc": "− 人造繊維製のもの",
                 "rate": {},
@@ -7777,7 +7777,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6210.10",
                     "hs_code": "211",
                     "desc": "−− ガウン（医療用、介護用その他の衛生管理用に供する種類のものに限る。）",
                     "rate": {
@@ -7820,7 +7820,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6210.10",
                     "hs_code": "212",
                     "desc": "−− 防護服（上下一体の全身用の衣類に限る。）",
                     "rate": {
@@ -7863,7 +7863,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6210.10",
                     "hs_code": "219",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -7908,7 +7908,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6210.10",
                 "hs_code": "290",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7964,7 +7964,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.20",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -8007,7 +8007,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -8061,7 +8061,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.30",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -8104,7 +8104,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -8158,7 +8158,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.40",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -8201,7 +8201,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.40",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -8255,7 +8255,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.50",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -8298,7 +8298,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6210.50",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -8354,7 +8354,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.11",
         "hs_code": "",
         "desc": "水着",
         "rate": {},
@@ -8460,7 +8460,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6211.20",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの",
             "rate": {
@@ -8503,7 +8503,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6211.20",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -8543,7 +8543,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.20",
                 "hs_code": "310",
                 "desc": "− 男子用のもの",
                 "rate": {
@@ -8586,7 +8586,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.20",
                 "hs_code": "390",
                 "desc": "− 女子用のもの",
                 "rate": {
@@ -8633,7 +8633,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.11",
         "hs_code": "",
         "desc": "その他の男子用の衣類",
         "rate": {},
@@ -8651,7 +8651,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.32",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -8694,7 +8694,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.32",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -8748,7 +8748,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.33",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -8791,7 +8791,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.33",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -8845,7 +8845,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.39",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -8888,7 +8888,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.39",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -8935,7 +8935,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "62.11",
         "hs_code": "",
         "desc": "その他の女子用の衣類",
         "rate": {},
@@ -8953,7 +8953,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.42",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -8996,7 +8996,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.42",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -9050,7 +9050,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.43",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -9093,7 +9093,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.43",
                 "hs_code": "200",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -9147,7 +9147,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.49",
                 "hs_code": "100",
                 "desc": "1 毛皮付きのもの",
                 "rate": {
@@ -9190,7 +9190,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6211.49",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -9230,7 +9230,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6211.49",
                     "hs_code": "220",
                     "desc": "− 羊毛製又は繊獣毛製のもの",
                     "rate": {
@@ -9273,7 +9273,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "6211.49",
                     "hs_code": "",
                     "desc": "− その他のもの",
                     "rate": {
@@ -9313,7 +9313,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6211.49",
                         "hs_code": "210",
                         "desc": "−− 絹製のもの",
                         "rate": {
@@ -9356,7 +9356,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "6211.49",
                         "hs_code": "290",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -9643,7 +9643,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6213.90",
             "hs_code": "010",
             "desc": "1 亜麻製又はラミー製のもの",
             "rate": {
@@ -9684,7 +9684,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6213.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {
@@ -9724,7 +9724,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6213.90",
                 "hs_code": "091",
                 "desc": "− 絹（絹のくずを含む。）製のもの",
                 "rate": {
@@ -9765,7 +9765,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6213.90",
                 "hs_code": "099",
                 "desc": "− その他のもの",
                 "rate": {
@@ -9830,7 +9830,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.10",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの及び貴金属、これを張り若しくはめつきした金属、貴石、半貴石又は真珠を使用したもの",
             "rate": {
@@ -9871,7 +9871,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.10",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -9923,7 +9923,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.20",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの及び貴金属、これを張り若しくはめつきした金属、貴石、半貴石又は真珠を使用したもの",
             "rate": {
@@ -9964,7 +9964,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.20",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -10016,7 +10016,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.30",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの及び貴金属、これを張り若しくはめつきした金属、貴石、半貴石又は真珠を使用したもの",
             "rate": {
@@ -10057,7 +10057,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.30",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -10109,7 +10109,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.40",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの及び貴金属、これを張り若しくはめつきした金属、貴石、半貴石又は真珠を使用したもの",
             "rate": {
@@ -10150,7 +10150,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.40",
             "hs_code": "200",
             "desc": "2 その他のもの",
             "rate": {
@@ -10202,7 +10202,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.90",
             "hs_code": "100",
             "desc": "1 毛皮付きのもの及び貴金属、これを張り若しくはめつきした金属、貴石、半貴石又は真珠を使用したもの",
             "rate": {
@@ -10243,7 +10243,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6214.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -10252,7 +10252,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6214.90",
                 "hs_code": "210",
                 "desc": "(1)綿製のもの",
                 "rate": {
@@ -10293,7 +10293,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "6214.90",
                 "hs_code": "290",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -10389,7 +10389,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6215.10",
             "hs_code": "010",
             "desc": "− 表地が絹のみから成るもの",
             "rate": {
@@ -10430,7 +10430,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6215.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -10576,7 +10576,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "6216.00",
         "hs_code": "100",
         "desc": "1 剣道用の小手",
         "rate": {
@@ -10617,7 +10617,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "6216.00",
         "hs_code": "900",
         "desc": "2 その他のもの",
         "rate": {
@@ -10709,7 +10709,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6217.10",
             "hs_code": "010",
             "desc": "− ベルト",
             "rate": {
@@ -10750,7 +10750,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "6217.10",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {

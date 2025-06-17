@@ -227,7 +227,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9202.90",
             "hs_code": "010",
             "desc": "− ギター",
             "rate": {
@@ -270,7 +270,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9202.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -407,7 +407,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9205.90",
             "hs_code": "010",
             "desc": "− 鍵盤のあるパイプオルガン並びにフリーメタルリード付きのハーモニウム及びこれに類する鍵盤楽器",
             "rate": {
@@ -448,7 +448,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9205.90",
             "hs_code": "020",
             "desc": "− アコーディオンその他これに類する楽器",
             "rate": {
@@ -489,7 +489,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9205.90",
             "hs_code": "030",
             "desc": "− ハーモニカ",
             "rate": {
@@ -530,7 +530,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9205.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -716,7 +716,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9207.90",
             "hs_code": "010",
             "desc": "− 電気ギター",
             "rate": {
@@ -757,7 +757,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "9207.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -945,7 +945,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "92.09",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},

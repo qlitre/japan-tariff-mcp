@@ -102,7 +102,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.02",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -257,7 +257,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.04",
         "hs_code": "",
         "desc": "小売用にしたものでないもの",
         "rate": {},
@@ -275,7 +275,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5204.11",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -316,7 +316,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5204.11",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -368,7 +368,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5204.19",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -409,7 +409,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5204.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -506,7 +506,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.05",
         "hs_code": "",
         "desc": "単糸（コームした繊維製のものを除く。）",
         "rate": {},
@@ -524,7 +524,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.11",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -565,7 +565,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.11",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -617,7 +617,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.12",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -658,7 +658,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.12",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -698,7 +698,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.12",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -707,7 +707,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.12",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -748,7 +748,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.12",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -791,7 +791,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.12",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -845,7 +845,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.13",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -886,7 +886,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.13",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -926,7 +926,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.13",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -935,7 +935,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.13",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -976,7 +976,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.13",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -1019,7 +1019,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.13",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -1073,7 +1073,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.14",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -1114,7 +1114,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.14",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1154,7 +1154,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.14",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -1163,7 +1163,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.14",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -1204,7 +1204,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.14",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -1247,7 +1247,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.14",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -1301,7 +1301,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.15",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -1342,7 +1342,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.15",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1382,7 +1382,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.15",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -1391,7 +1391,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.15",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -1432,7 +1432,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.15",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -1475,7 +1475,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.15",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -1522,7 +1522,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.05",
         "hs_code": "",
         "desc": "単糸（コームした繊維製のものに限る。）",
         "rate": {},
@@ -1540,7 +1540,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.21",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -1581,7 +1581,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.21",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1633,7 +1633,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.22",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -1674,7 +1674,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.22",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1714,7 +1714,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.22",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -1723,7 +1723,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.22",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -1764,7 +1764,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.22",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -1807,7 +1807,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.22",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -1861,7 +1861,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.23",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -1902,7 +1902,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.23",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1942,7 +1942,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.23",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -1951,7 +1951,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.23",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -1992,7 +1992,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.23",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -2035,7 +2035,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.23",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -2089,7 +2089,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.24",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -2130,7 +2130,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.24",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2170,7 +2170,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.24",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -2179,7 +2179,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.24",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -2220,7 +2220,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.24",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -2263,7 +2263,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.24",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -2317,7 +2317,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.26",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -2358,7 +2358,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.26",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2398,7 +2398,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.26",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -2407,7 +2407,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.26",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -2448,7 +2448,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.26",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -2491,7 +2491,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.26",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -2545,7 +2545,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.27",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -2586,7 +2586,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.27",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2626,7 +2626,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.27",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -2635,7 +2635,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.27",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -2676,7 +2676,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.27",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -2719,7 +2719,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.27",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -2773,7 +2773,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.28",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -2814,7 +2814,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.28",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -2854,7 +2854,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.28",
                     "hs_code": "",
                     "desc": "− 綿のみから成るもの",
                     "rate": {},
@@ -2863,7 +2863,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.28",
                         "hs_code": "021",
                         "desc": "−− 漂白してないもの（マーセライズしたものを除く。）",
                         "rate": {
@@ -2904,7 +2904,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5205.28",
                         "hs_code": "022",
                         "desc": "−− その他のもの",
                         "rate": {
@@ -2947,7 +2947,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.28",
                     "hs_code": "029",
                     "desc": "− 他の繊維を混ぜたもの",
                     "rate": {
@@ -2994,7 +2994,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.05",
         "hs_code": "",
         "desc": "マルチプルヤーン及びケーブルヤーン（コームした繊維製のものを除く。）",
         "rate": {},
@@ -3012,7 +3012,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.31",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3053,7 +3053,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.31",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3105,7 +3105,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.32",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3146,7 +3146,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.32",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3198,7 +3198,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.33",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3239,7 +3239,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.33",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3279,7 +3279,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.33",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -3320,7 +3320,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.33",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -3374,7 +3374,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.34",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3415,7 +3415,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.34",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3455,7 +3455,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.34",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -3496,7 +3496,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.34",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -3550,7 +3550,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.35",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3591,7 +3591,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.35",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3631,7 +3631,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.35",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -3672,7 +3672,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.35",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -3719,7 +3719,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.05",
         "hs_code": "",
         "desc": "マルチプルヤーン及びケーブルヤーン（コームした繊維製のものに限る。）",
         "rate": {},
@@ -3737,7 +3737,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.41",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3778,7 +3778,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.41",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3830,7 +3830,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.42",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3871,7 +3871,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.42",
                 "hs_code": "090",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -3923,7 +3923,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.43",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -3964,7 +3964,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.43",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4004,7 +4004,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.43",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -4045,7 +4045,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.43",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -4099,7 +4099,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.44",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -4140,7 +4140,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.44",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4180,7 +4180,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.44",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -4221,7 +4221,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.44",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -4275,7 +4275,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.46",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -4316,7 +4316,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.46",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4356,7 +4356,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.46",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -4397,7 +4397,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.46",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -4451,7 +4451,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.47",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -4492,7 +4492,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.47",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4532,7 +4532,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.47",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -4573,7 +4573,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.47",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -4627,7 +4627,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.48",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -4668,7 +4668,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5205.48",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4708,7 +4708,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.48",
                     "hs_code": "021",
                     "desc": "− 他の繊維を交えてないもの",
                     "rate": {
@@ -4749,7 +4749,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5205.48",
                     "hs_code": "029",
                     "desc": "− 他の繊維を交えたもの",
                     "rate": {
@@ -4807,7 +4807,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.06",
         "hs_code": "",
         "desc": "単糸（コームした繊維製のものを除く。）",
         "rate": {},
@@ -4825,7 +4825,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.11",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -4866,7 +4866,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.11",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -4918,7 +4918,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.12",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -4959,7 +4959,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.12",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5011,7 +5011,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.13",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5052,7 +5052,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.13",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5104,7 +5104,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.14",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5145,7 +5145,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.14",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5197,7 +5197,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.15",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5238,7 +5238,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.15",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5283,7 +5283,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.06",
         "hs_code": "",
         "desc": "単糸（コームした繊維製のものに限る。）",
         "rate": {},
@@ -5301,7 +5301,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.21",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5342,7 +5342,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.21",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5394,7 +5394,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.22",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5435,7 +5435,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.22",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5487,7 +5487,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.23",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5528,7 +5528,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.23",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5580,7 +5580,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.24",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5621,7 +5621,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.24",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5673,7 +5673,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.25",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5714,7 +5714,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.25",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5759,7 +5759,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.06",
         "hs_code": "",
         "desc": "マルチプルヤーン及びケーブルヤーン（コームした繊維製のものを除く。）",
         "rate": {},
@@ -5777,7 +5777,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.31",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5818,7 +5818,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.31",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5870,7 +5870,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.32",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -5911,7 +5911,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.32",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -5963,7 +5963,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.33",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6004,7 +6004,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.33",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6056,7 +6056,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.34",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6097,7 +6097,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.34",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6149,7 +6149,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.35",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6190,7 +6190,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.35",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6235,7 +6235,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.06",
         "hs_code": "",
         "desc": "マルチプルヤーン及びケーブルヤーン（コームした繊維製のものに限る。）",
         "rate": {},
@@ -6253,7 +6253,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.41",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6294,7 +6294,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.41",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6346,7 +6346,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.42",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6387,7 +6387,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.42",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6439,7 +6439,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.43",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6480,7 +6480,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.43",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6532,7 +6532,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.44",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6573,7 +6573,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.44",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6625,7 +6625,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.45",
                 "hs_code": "010",
                 "desc": "1 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6666,7 +6666,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5206.45",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -6731,7 +6731,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5207.10",
             "hs_code": "010",
             "desc": "1 1個の重量が125グラム以下のもの",
             "rate": {
@@ -6772,7 +6772,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5207.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -6781,7 +6781,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5207.10",
                 "hs_code": "091",
                 "desc": "(1)合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6822,7 +6822,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5207.10",
                 "hs_code": "099",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -6876,7 +6876,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5207.90",
             "hs_code": "010",
             "desc": "1 1個の重量が125グラム以下のもの",
             "rate": {
@@ -6917,7 +6917,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5207.90",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -6926,7 +6926,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5207.90",
                 "hs_code": "091",
                 "desc": "(1)合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -6967,7 +6967,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5207.90",
                 "hs_code": "099",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -7023,7 +7023,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.08",
         "hs_code": "",
         "desc": "漂白してないもの",
         "rate": {},
@@ -7072,7 +7072,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.11",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -7113,7 +7113,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.11",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -7122,7 +7122,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.11",
                     "hs_code": "092",
                     "desc": "−− ポプリン",
                     "rate": {
@@ -7163,7 +7163,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.11",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -7203,7 +7203,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.11",
                         "hs_code": "091",
                         "desc": "−−− 金巾",
                         "rate": {
@@ -7244,7 +7244,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.11",
                         "hs_code": "093",
                         "desc": "−−− ボイル及びローン",
                         "rate": {
@@ -7285,7 +7285,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.11",
                         "hs_code": "099",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -7372,7 +7372,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.12",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -7413,7 +7413,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.12",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -7422,7 +7422,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.12",
                     "hs_code": "093",
                     "desc": "−− ポプリン",
                     "rate": {
@@ -7463,7 +7463,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.12",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -7503,7 +7503,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.12",
                         "hs_code": "091",
                         "desc": "−−− 粗布及び細布",
                         "rate": {
@@ -7544,7 +7544,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.12",
                         "hs_code": "092",
                         "desc": "−−− 金巾",
                         "rate": {
@@ -7585,7 +7585,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.12",
                         "hs_code": "099",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -7672,7 +7672,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.13",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -7713,7 +7713,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.13",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7796,7 +7796,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.19",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -7837,7 +7837,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.19",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -7877,7 +7877,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.19",
                     "hs_code": "091",
                     "desc": "−− 朱子",
                     "rate": {
@@ -7918,7 +7918,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.19",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -7965,7 +7965,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.08",
         "hs_code": "",
         "desc": "漂白したもの",
         "rate": {},
@@ -8014,7 +8014,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.21",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -8055,7 +8055,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.21",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -8064,7 +8064,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.21",
                     "hs_code": "092",
                     "desc": "−− ポプリン",
                     "rate": {
@@ -8105,7 +8105,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.21",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -8145,7 +8145,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.21",
                         "hs_code": "091",
                         "desc": "−−− 金巾",
                         "rate": {
@@ -8186,7 +8186,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.21",
                         "hs_code": "099",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -8273,7 +8273,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.22",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -8314,7 +8314,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.22",
                 "hs_code": "020",
                 "desc": "− ポプリン",
                 "rate": {
@@ -8355,7 +8355,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.22",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8395,7 +8395,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.22",
                     "hs_code": "091",
                     "desc": "−− 金巾",
                     "rate": {
@@ -8436,7 +8436,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.22",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -8521,7 +8521,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.23",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -8562,7 +8562,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.23",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8645,7 +8645,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.29",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -8686,7 +8686,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -8731,7 +8731,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.08",
         "hs_code": "",
         "desc": "浸染したもの",
         "rate": {},
@@ -8780,7 +8780,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.31",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -8821,7 +8821,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.31",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -8830,7 +8830,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.31",
                     "hs_code": "091",
                     "desc": "−− 先染めのもの",
                     "rate": {
@@ -8871,7 +8871,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.31",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {},
@@ -8880,7 +8880,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.31",
                         "hs_code": "092",
                         "desc": "−−− ポプリン",
                         "rate": {
@@ -8921,7 +8921,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.31",
                         "hs_code": "",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -8961,7 +8961,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.31",
                             "hs_code": "093",
                             "desc": "−−−− ボイル及びローン",
                             "rate": {
@@ -9002,7 +9002,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.31",
                             "hs_code": "099",
                             "desc": "−−−− その他のもの",
                             "rate": {
@@ -9091,7 +9091,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.32",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -9132,7 +9132,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.32",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -9141,7 +9141,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.32",
                     "hs_code": "091",
                     "desc": "−− 先染めのもの",
                     "rate": {
@@ -9182,7 +9182,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.32",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {},
@@ -9191,7 +9191,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.32",
                         "hs_code": "092",
                         "desc": "−−− ポプリン",
                         "rate": {
@@ -9232,7 +9232,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.32",
                         "hs_code": "099",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -9319,7 +9319,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.33",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -9360,7 +9360,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.33",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -9443,7 +9443,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.39",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -9484,7 +9484,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.39",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -9524,7 +9524,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.39",
                     "hs_code": "091",
                     "desc": "−− 朱子",
                     "rate": {
@@ -9565,7 +9565,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.39",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -9612,7 +9612,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.08",
         "hs_code": "",
         "desc": "異なる色の糸から成るもの",
         "rate": {},
@@ -9661,7 +9661,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.41",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -9702,7 +9702,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.41",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -9711,7 +9711,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.41",
                     "hs_code": "",
                     "desc": "−− ギンガム及びポプリン",
                     "rate": {
@@ -9751,7 +9751,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.41",
                         "hs_code": "091",
                         "desc": "−−− ギンガム",
                         "rate": {
@@ -9792,7 +9792,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.41",
                         "hs_code": "092",
                         "desc": "−−− ポプリン",
                         "rate": {
@@ -9835,7 +9835,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.41",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -9920,7 +9920,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.42",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -9961,7 +9961,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.42",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -9970,7 +9970,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.42",
                     "hs_code": "",
                     "desc": "−− ギンガム及びポプリン",
                     "rate": {
@@ -10010,7 +10010,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.42",
                         "hs_code": "091",
                         "desc": "−−− ギンガム",
                         "rate": {
@@ -10051,7 +10051,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.42",
                         "hs_code": "092",
                         "desc": "−−− ポプリン",
                         "rate": {
@@ -10094,7 +10094,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.42",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -10179,7 +10179,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.43",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -10220,7 +10220,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.43",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -10303,7 +10303,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.49",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -10344,7 +10344,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -10389,7 +10389,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.08",
         "hs_code": "",
         "desc": "なせんしたもの",
         "rate": {},
@@ -10438,7 +10438,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.51",
                 "hs_code": "",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -10478,7 +10478,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.51",
                     "hs_code": "011",
                     "desc": "−− ろうけつ染めしたもの（手工業によりろうけつ染めしたものであることが、原産国の政府又は政府代行機関により証明されているものに限る。以下この類において同じ。）",
                     "rate": {
@@ -10519,7 +10519,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.51",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -10562,7 +10562,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.51",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -10571,7 +10571,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.51",
                     "hs_code": "091",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -10612,7 +10612,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.51",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -10652,7 +10652,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.51",
                         "hs_code": "093",
                         "desc": "−−− ポプリン",
                         "rate": {
@@ -10693,7 +10693,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.51",
                         "hs_code": "",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -10733,7 +10733,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.51",
                             "hs_code": "092",
                             "desc": "−−−− 金巾",
                             "rate": {
@@ -10774,7 +10774,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.51",
                             "hs_code": "094",
                             "desc": "−−−− ボイル及びローン",
                             "rate": {
@@ -10815,7 +10815,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.51",
                             "hs_code": "099",
                             "desc": "−−−− その他のもの",
                             "rate": {
@@ -10904,7 +10904,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.52",
                 "hs_code": "",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -10944,7 +10944,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.52",
                     "hs_code": "011",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -10985,7 +10985,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.52",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -11028,7 +11028,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.52",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {},
@@ -11037,7 +11037,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.52",
                     "hs_code": "091",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -11078,7 +11078,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.52",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -11118,7 +11118,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.52",
                         "hs_code": "094",
                         "desc": "−−− ポプリン",
                         "rate": {
@@ -11159,7 +11159,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.52",
                         "hs_code": "",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -11199,7 +11199,7 @@
                         "children": [
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.52",
                             "hs_code": "092",
                             "desc": "−−−− 粗布及び細布",
                             "rate": {
@@ -11240,7 +11240,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.52",
                             "hs_code": "093",
                             "desc": "−−−− 金巾",
                             "rate": {
@@ -11281,7 +11281,7 @@
                           },
                           {
                             "level": 6,
-                            "stat_code": "",
+                            "stat_code": "5208.52",
                             "hs_code": "099",
                             "desc": "−−−− その他のもの",
                             "rate": {
@@ -11370,7 +11370,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.59",
                 "hs_code": "",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -11410,7 +11410,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.59",
                     "hs_code": "011",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -11451,7 +11451,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.59",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -11494,7 +11494,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5208.59",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -11534,7 +11534,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.59",
                     "hs_code": "091",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -11575,7 +11575,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5208.59",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -11615,7 +11615,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.59",
                         "hs_code": "092",
                         "desc": "−−− 朱子",
                         "rate": {
@@ -11656,7 +11656,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5208.59",
                         "hs_code": "099",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -11716,7 +11716,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.09",
         "hs_code": "",
         "desc": "漂白してないもの",
         "rate": {},
@@ -11765,7 +11765,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.11",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -11806,7 +11806,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.11",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -11846,7 +11846,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.11",
                     "hs_code": "091",
                     "desc": "−− 粗布及び細布",
                     "rate": {
@@ -11887,7 +11887,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.11",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -11972,7 +11972,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.12",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12013,7 +12013,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.12",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12096,7 +12096,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.19",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12137,7 +12137,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.19",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12182,7 +12182,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.09",
         "hs_code": "",
         "desc": "漂白したもの",
         "rate": {},
@@ -12231,7 +12231,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.21",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12272,7 +12272,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.21",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12355,7 +12355,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.22",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12396,7 +12396,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.22",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12479,7 +12479,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.29",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12520,7 +12520,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.29",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12565,7 +12565,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.09",
         "hs_code": "",
         "desc": "浸染したもの",
         "rate": {},
@@ -12614,7 +12614,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.31",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12655,7 +12655,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.31",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12695,7 +12695,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.31",
                     "hs_code": "091",
                     "desc": "−− 先染めのもの",
                     "rate": {
@@ -12736,7 +12736,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.31",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -12821,7 +12821,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.32",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12862,7 +12862,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.32",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -12945,7 +12945,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.39",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -12986,7 +12986,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.39",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13031,7 +13031,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.09",
         "hs_code": "",
         "desc": "異なる色の糸から成るもの",
         "rate": {},
@@ -13080,7 +13080,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.41",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -13121,7 +13121,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.41",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13204,7 +13204,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.42",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -13245,7 +13245,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.42",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13328,7 +13328,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.43",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -13369,7 +13369,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.43",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13452,7 +13452,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.49",
                 "hs_code": "010",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -13493,7 +13493,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.49",
                 "hs_code": "090",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13538,7 +13538,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.09",
         "hs_code": "",
         "desc": "なせんしたもの",
         "rate": {},
@@ -13587,7 +13587,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.51",
                 "hs_code": "",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -13627,7 +13627,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.51",
                     "hs_code": "011",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -13668,7 +13668,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.51",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -13711,7 +13711,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.51",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -13751,7 +13751,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.51",
                     "hs_code": "091",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -13792,7 +13792,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.51",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -13832,7 +13832,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5209.51",
                         "hs_code": "092",
                         "desc": "−−− 粗布及び細布",
                         "rate": {
@@ -13873,7 +13873,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5209.51",
                         "hs_code": "099",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -13960,7 +13960,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.52",
                 "hs_code": "",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -14000,7 +14000,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.52",
                     "hs_code": "011",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -14041,7 +14041,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.52",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -14084,7 +14084,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.52",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14124,7 +14124,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.52",
                     "hs_code": "091",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -14165,7 +14165,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.52",
                     "hs_code": "099",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -14250,7 +14250,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.59",
                 "hs_code": "",
                 "desc": "− 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの",
                 "rate": {
@@ -14290,7 +14290,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.59",
                     "hs_code": "011",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -14331,7 +14331,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.59",
                     "hs_code": "019",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -14374,7 +14374,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5209.59",
                 "hs_code": "",
                 "desc": "− その他のもの",
                 "rate": {
@@ -14414,7 +14414,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.59",
                     "hs_code": "091",
                     "desc": "−− ろうけつ染めしたもの",
                     "rate": {
@@ -14455,7 +14455,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5209.59",
                     "hs_code": "",
                     "desc": "−− その他のもの",
                     "rate": {
@@ -14495,7 +14495,7 @@
                     "children": [
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5209.59",
                         "hs_code": "092",
                         "desc": "−−− 朱子",
                         "rate": {
@@ -14536,7 +14536,7 @@
                       },
                       {
                         "level": 5,
-                        "stat_code": "",
+                        "stat_code": "5209.59",
                         "hs_code": "099",
                         "desc": "−−− その他のもの",
                         "rate": {
@@ -14596,7 +14596,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.10",
         "hs_code": "",
         "desc": "漂白してないもの",
         "rate": {},
@@ -14614,7 +14614,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.11",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -14655,7 +14655,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.11",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -14696,7 +14696,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.11",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -14748,7 +14748,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.19",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -14788,7 +14788,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.19",
                     "hs_code": "110",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -14829,7 +14829,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.19",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -14872,7 +14872,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.19",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -14912,7 +14912,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.19",
                     "hs_code": "210",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -14953,7 +14953,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.19",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -14996,7 +14996,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.19",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -15036,7 +15036,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.19",
                     "hs_code": "910",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -15077,7 +15077,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.19",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -15124,7 +15124,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.10",
         "hs_code": "",
         "desc": "漂白したもの",
         "rate": {},
@@ -15142,7 +15142,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.21",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -15183,7 +15183,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.21",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -15224,7 +15224,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.21",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -15276,7 +15276,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.29",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -15316,7 +15316,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.29",
                     "hs_code": "110",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -15357,7 +15357,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.29",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -15400,7 +15400,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.29",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -15440,7 +15440,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.29",
                     "hs_code": "210",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -15481,7 +15481,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.29",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -15524,7 +15524,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.29",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -15564,7 +15564,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.29",
                     "hs_code": "910",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -15605,7 +15605,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.29",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -15652,7 +15652,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.10",
         "hs_code": "",
         "desc": "浸染したもの",
         "rate": {},
@@ -15670,7 +15670,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.31",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -15711,7 +15711,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.31",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -15752,7 +15752,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.31",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -15804,7 +15804,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.32",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -15845,7 +15845,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.32",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -15886,7 +15886,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.32",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -15938,7 +15938,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.39",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -15979,7 +15979,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.39",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -16020,7 +16020,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.39",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -16065,7 +16065,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.10",
         "hs_code": "",
         "desc": "異なる色の糸から成るもの",
         "rate": {},
@@ -16083,7 +16083,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.41",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -16124,7 +16124,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.41",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -16165,7 +16165,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.41",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -16217,7 +16217,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.49",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -16257,7 +16257,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.49",
                     "hs_code": "110",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -16298,7 +16298,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.49",
                     "hs_code": "190",
                     "desc": "− その他のもの",
                     "rate": {
@@ -16341,7 +16341,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.49",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -16381,7 +16381,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.49",
                     "hs_code": "210",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -16422,7 +16422,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.49",
                     "hs_code": "290",
                     "desc": "− その他のもの",
                     "rate": {
@@ -16465,7 +16465,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.49",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -16505,7 +16505,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.49",
                     "hs_code": "910",
                     "desc": "− 3枚綾織り又は4枚綾織り（破れ斜文織りを含む。）のもの",
                     "rate": {
@@ -16546,7 +16546,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.49",
                     "hs_code": "990",
                     "desc": "− その他のもの",
                     "rate": {
@@ -16593,7 +16593,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.10",
         "hs_code": "",
         "desc": "なせんしたもの",
         "rate": {},
@@ -16611,7 +16611,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.51",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -16651,7 +16651,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.51",
                     "hs_code": "011",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -16692,7 +16692,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.51",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -16735,7 +16735,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.51",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -16775,7 +16775,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.51",
                     "hs_code": "021",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -16816,7 +16816,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.51",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -16859,7 +16859,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.51",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -16899,7 +16899,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.51",
                     "hs_code": "031",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -16940,7 +16940,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.51",
                     "hs_code": "039",
                     "desc": "− その他のもの",
                     "rate": {
@@ -16994,7 +16994,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.59",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -17034,7 +17034,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.59",
                     "hs_code": "011",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -17075,7 +17075,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.59",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -17118,7 +17118,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.59",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -17158,7 +17158,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.59",
                     "hs_code": "021",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -17199,7 +17199,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.59",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -17242,7 +17242,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5210.59",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -17282,7 +17282,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.59",
                     "hs_code": "031",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -17323,7 +17323,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5210.59",
                     "hs_code": "039",
                     "desc": "− その他のもの",
                     "rate": {
@@ -17381,7 +17381,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.11",
         "hs_code": "",
         "desc": "漂白してないもの",
         "rate": {},
@@ -17399,7 +17399,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.11",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -17440,7 +17440,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.11",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -17481,7 +17481,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.11",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -17533,7 +17533,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.12",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -17574,7 +17574,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.12",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -17615,7 +17615,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.12",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -17667,7 +17667,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.19",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -17708,7 +17708,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.19",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -17749,7 +17749,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.19",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -17803,7 +17803,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5211.20",
             "hs_code": "100",
             "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
             "rate": {
@@ -17844,7 +17844,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5211.20",
             "hs_code": "200",
             "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
             "rate": {
@@ -17885,7 +17885,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5211.20",
             "hs_code": "900",
             "desc": "3 その他のもの",
             "rate": {
@@ -17928,7 +17928,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.11",
         "hs_code": "",
         "desc": "浸染したもの",
         "rate": {},
@@ -17946,7 +17946,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.31",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -17987,7 +17987,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.31",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -18028,7 +18028,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.31",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -18080,7 +18080,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.32",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -18121,7 +18121,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.32",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -18162,7 +18162,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.32",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -18214,7 +18214,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.39",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -18255,7 +18255,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.39",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -18296,7 +18296,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.39",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -18341,7 +18341,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.11",
         "hs_code": "",
         "desc": "異なる色の糸から成るもの",
         "rate": {},
@@ -18359,7 +18359,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.41",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -18400,7 +18400,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.41",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -18441,7 +18441,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.41",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -18493,7 +18493,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.42",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -18534,7 +18534,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.42",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -18575,7 +18575,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.42",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -18627,7 +18627,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.43",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -18668,7 +18668,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.43",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -18709,7 +18709,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.43",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -18761,7 +18761,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.49",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -18802,7 +18802,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.49",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -18843,7 +18843,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.49",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -18888,7 +18888,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.11",
         "hs_code": "",
         "desc": "なせんしたもの",
         "rate": {},
@@ -18906,7 +18906,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.51",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -18946,7 +18946,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.51",
                     "hs_code": "011",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -18987,7 +18987,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.51",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19030,7 +19030,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.51",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -19070,7 +19070,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.51",
                     "hs_code": "021",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -19111,7 +19111,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.51",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19154,7 +19154,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.51",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -19194,7 +19194,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.51",
                     "hs_code": "031",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -19235,7 +19235,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.51",
                     "hs_code": "039",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19289,7 +19289,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.52",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -19329,7 +19329,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.52",
                     "hs_code": "011",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -19370,7 +19370,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.52",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19413,7 +19413,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.52",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -19453,7 +19453,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.52",
                     "hs_code": "021",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -19494,7 +19494,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.52",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19537,7 +19537,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.52",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -19577,7 +19577,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.52",
                     "hs_code": "031",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -19618,7 +19618,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.52",
                     "hs_code": "039",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19672,7 +19672,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.59",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -19712,7 +19712,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.59",
                     "hs_code": "011",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -19753,7 +19753,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.59",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19796,7 +19796,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.59",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -19836,7 +19836,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.59",
                     "hs_code": "021",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -19877,7 +19877,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.59",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -19920,7 +19920,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5211.59",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -19960,7 +19960,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.59",
                     "hs_code": "031",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -20001,7 +20001,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5211.59",
                     "hs_code": "039",
                     "desc": "− その他のもの",
                     "rate": {
@@ -20059,7 +20059,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.12",
         "hs_code": "",
         "desc": "重量が1平方メートルにつき200グラム以下のもの",
         "rate": {},
@@ -20077,7 +20077,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.11",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -20118,7 +20118,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.11",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -20159,7 +20159,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.11",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -20211,7 +20211,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.12",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -20252,7 +20252,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.12",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -20293,7 +20293,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.12",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -20345,7 +20345,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.13",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -20386,7 +20386,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.13",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -20427,7 +20427,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.13",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -20479,7 +20479,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.14",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -20520,7 +20520,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.14",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -20561,7 +20561,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.14",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -20613,7 +20613,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.15",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -20653,7 +20653,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.15",
                     "hs_code": "011",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -20694,7 +20694,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.15",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -20737,7 +20737,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.15",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -20777,7 +20777,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.15",
                     "hs_code": "021",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -20818,7 +20818,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.15",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -20861,7 +20861,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.15",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -20901,7 +20901,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.15",
                     "hs_code": "031",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -20942,7 +20942,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.15",
                     "hs_code": "039",
                     "desc": "− その他のもの",
                     "rate": {
@@ -20989,7 +20989,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "52.12",
         "hs_code": "",
         "desc": "重量が1平方メートルにつき200グラムを超えるもの",
         "rate": {},
@@ -21007,7 +21007,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.21",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -21048,7 +21048,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.21",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -21089,7 +21089,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.21",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -21141,7 +21141,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.22",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -21182,7 +21182,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.22",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -21223,7 +21223,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.22",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -21275,7 +21275,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.23",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -21316,7 +21316,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.23",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -21357,7 +21357,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.23",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -21409,7 +21409,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.24",
                 "hs_code": "010",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -21450,7 +21450,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.24",
                 "hs_code": "020",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -21491,7 +21491,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.24",
                 "hs_code": "030",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -21543,7 +21543,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.25",
                 "hs_code": "",
                 "desc": "1 経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のもの",
                 "rate": {
@@ -21583,7 +21583,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.25",
                     "hs_code": "011",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -21624,7 +21624,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.25",
                     "hs_code": "019",
                     "desc": "− その他のもの",
                     "rate": {
@@ -21667,7 +21667,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.25",
                 "hs_code": "",
                 "desc": "2 合成繊維若しくはアセテート繊維又はこれらの繊維を合わせたものの重量が全重量の10％を超えるもの（経緯糸のうちいずれか一方が亜麻、ラミー、合成繊維又はアセテート繊維のものを除く。）",
                 "rate": {
@@ -21707,7 +21707,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.25",
                     "hs_code": "021",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -21748,7 +21748,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.25",
                     "hs_code": "029",
                     "desc": "− その他のもの",
                     "rate": {
@@ -21791,7 +21791,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5212.25",
                 "hs_code": "",
                 "desc": "3 その他のもの",
                 "rate": {
@@ -21831,7 +21831,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.25",
                     "hs_code": "031",
                     "desc": "− ろうけつ染めしたもの",
                     "rate": {
@@ -21872,7 +21872,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5212.25",
                     "hs_code": "039",
                     "desc": "− その他のもの",
                     "rate": {

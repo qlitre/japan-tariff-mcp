@@ -112,7 +112,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5902.10",
             "hs_code": "010",
             "desc": "1 プラスチック又はゴムを染み込ませ、塗布し、被覆し又は積層したもの",
             "rate": {
@@ -153,7 +153,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5902.10",
             "hs_code": "",
             "desc": "2 その他のもの",
             "rate": {},
@@ -162,7 +162,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5902.10",
                 "hs_code": "021",
                 "desc": "(1)特定合成繊維のみから成るもの並びに特定合成繊維及びアセテート繊維のみから成るもの",
                 "rate": {
@@ -203,7 +203,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5902.10",
                 "hs_code": "022",
                 "desc": "(2)その他のもの",
                 "rate": {
@@ -288,7 +288,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5902.20",
             "hs_code": "010",
             "desc": "− プラスチック又はゴムを染み込ませ、塗布し、被覆し又は積層したもの",
             "rate": {
@@ -329,7 +329,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5902.20",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
@@ -743,7 +743,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "59.06",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -761,7 +761,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5906.91",
                 "hs_code": "010",
                 "desc": "1 綿製のもの",
                 "rate": {
@@ -802,7 +802,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5906.91",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -1062,7 +1062,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5910.00",
         "hs_code": "010",
         "desc": "1 綿製のもの",
         "rate": {
@@ -1103,7 +1103,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "5910.00",
         "hs_code": "020",
         "desc": "2 その他のもの",
         "rate": {
@@ -1164,7 +1164,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5911.10",
             "hs_code": "010",
             "desc": "1 綿製のもの",
             "rate": {
@@ -1205,7 +1205,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5911.10",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1289,7 +1289,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "59.11",
         "hs_code": "",
         "desc": "エンドレス状又は連結具を有する紡織用繊維の織物類及びフェルト（製紙用、パルプ用、石綿セメント用その他これらに類する用途に供する機械に使用する種類のものに限る。）",
         "rate": {},
@@ -1307,7 +1307,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5911.31",
                 "hs_code": "010",
                 "desc": "1 製紙用フェルト（エンドレスのものに限る。）",
                 "rate": {
@@ -1348,7 +1348,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5911.31",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1357,7 +1357,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5911.31",
                     "hs_code": "021",
                     "desc": "(1)綿製のもの",
                     "rate": {
@@ -1398,7 +1398,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5911.31",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -1452,7 +1452,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5911.32",
                 "hs_code": "010",
                 "desc": "1 製紙用フェルト（エンドレスのものに限る。）",
                 "rate": {
@@ -1493,7 +1493,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "5911.32",
                 "hs_code": "",
                 "desc": "2 その他のもの",
                 "rate": {},
@@ -1502,7 +1502,7 @@
                 "children": [
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5911.32",
                     "hs_code": "021",
                     "desc": "(1)綿製のもの",
                     "rate": {
@@ -1543,7 +1543,7 @@
                   },
                   {
                     "level": 4,
-                    "stat_code": "",
+                    "stat_code": "5911.32",
                     "hs_code": "029",
                     "desc": "(2)その他のもの",
                     "rate": {
@@ -1599,7 +1599,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5911.40",
             "hs_code": "010",
             "desc": "1 綿製のもの",
             "rate": {
@@ -1640,7 +1640,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5911.40",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -1692,7 +1692,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5911.90",
             "hs_code": "010",
             "desc": "1 綿製のもの",
             "rate": {
@@ -1733,7 +1733,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "5911.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {

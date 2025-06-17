@@ -10,7 +10,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "34.01",
         "hs_code": "",
         "desc": "せつけん、有機界面活性剤及びその調製品（棒状にし、ケーキ状にし又は成型したものに限る。）並びにせつけん又は洗浄剤を染み込ませ、塗布し又は被覆した紙、ウォッディング、フェルト及び不織布",
         "rate": {},
@@ -71,7 +71,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3401.19",
                 "hs_code": "010",
                 "desc": "1 せつけん、有機界面活性剤及びその調製品",
                 "rate": {
@@ -114,7 +114,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3401.19",
                 "hs_code": "020",
                 "desc": "2 その他のもの",
                 "rate": {
@@ -170,7 +170,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3401.20",
             "hs_code": "010",
             "desc": "1 化粧用のもの（薬用のものを含む。）",
             "rate": {
@@ -213,7 +213,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3401.20",
             "hs_code": "020",
             "desc": "2 その他のもの",
             "rate": {
@@ -313,7 +313,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "34.02",
         "hs_code": "",
         "desc": "陰イオン(アニオン)系の有機界面活性剤（小売用にしてあるかないかを問わない。）",
         "rate": {},
@@ -416,7 +416,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "34.02",
         "hs_code": "",
         "desc": "その他の有機界面活性剤（小売用にしてあるかないかを問わない。）",
         "rate": {},
@@ -574,7 +574,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3402.50",
             "hs_code": "010",
             "desc": "1 調製界面活性剤",
             "rate": {
@@ -620,7 +620,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3402.50",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -678,7 +678,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3402.90",
             "hs_code": "010",
             "desc": "1 調製界面活性剤",
             "rate": {
@@ -724,7 +724,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3402.90",
             "hs_code": "090",
             "desc": "2 その他のもの",
             "rate": {
@@ -784,7 +784,7 @@
     "children": [
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "34.03",
         "hs_code": "",
         "desc": "石油又は歴青油を含有するもの",
         "rate": {},
@@ -877,7 +877,7 @@
             "children": [
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3403.19",
                 "hs_code": "091",
                 "desc": "− 石油又は歴青油の含有量が水分を除いた全重量の50％を超えるもの",
                 "rate": {
@@ -921,7 +921,7 @@
               },
               {
                 "level": 3,
-                "stat_code": "",
+                "stat_code": "3403.19",
                 "hs_code": "099",
                 "desc": "− その他のもの",
                 "rate": {
@@ -969,7 +969,7 @@
       },
       {
         "level": 1,
-        "stat_code": "",
+        "stat_code": "34.03",
         "hs_code": "",
         "desc": "その他のもの",
         "rate": {},
@@ -1162,7 +1162,7 @@
         "children": [
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3404.90",
             "hs_code": "010",
             "desc": "− 化学的に変性させたモンタンろうのもの",
             "rate": {
@@ -1205,7 +1205,7 @@
           },
           {
             "level": 2,
-            "stat_code": "",
+            "stat_code": "3404.90",
             "hs_code": "090",
             "desc": "− その他のもの",
             "rate": {
