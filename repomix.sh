@@ -1,0 +1,1 @@
+repomix --ignore "node_modules/**,worker-configuration.d.ts,yarn.lock,.wrangler/**"
