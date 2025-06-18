@@ -126,6 +126,33 @@ export class MyMCP extends McpAgent<Env> {
         }
       },
     )
+
+    this.server.tool(
+      'getLawDetail',
+      '法令コードから他法令の詳細情報を取得します',
+      { law_code: z.string() },
+      async ({ law_code }) => {
+        try {
+          const lawDetails = await this.getLawDetails(law_code)
+          return {
+            content: [{ 
+              type: 'text', 
+              text: JSON.stringify({
+                law_code,
+                details: lawDetails
+              }, null, 2)
+            }],
+          }
+        } catch (error) {
+          return {
+            content: [{ 
+              type: 'text', 
+              text: `法令詳細取得エラー: ${error instanceof Error ? error.message : 'Unknown error'}`
+            }],
+          }
+        }
+      },
+    )
   }
 
   /** 関税データを検索する */
@@ -310,6 +337,8 @@ export class MyMCP extends McpAgent<Env> {
           hs_code: item.hs_code,
           desc: item.desc,
           rate: item.rate,
+          unit: item.unit,
+          law: item.law,
           level: item.level
         })
       }
@@ -318,6 +347,33 @@ export class MyMCP extends McpAgent<Env> {
       if (item.children && item.children.length > 0) {
         this.searchItemsRecursively(item.children, keyword, results)
       }
+    }
+  }
+
+  /** 法令コードから法令詳細を取得 */
+  private async getLawDetails(lawCodes: string) {
+    try {
+      // import_law_table.jsonから法令情報を取得
+      const lawTable = await import('./tariffdata/import_law_table.json')
+      const lawData = (lawTable.default || lawTable) as Record<string, any>
+      const lawDetails: any[] = []
+      
+      // 複数の法令コードがカンマ区切りで入っている場合を想定
+      const codes = lawCodes.split(',').map(code => code.trim())
+      
+      for (const code of codes) {
+        if (lawData[code]) {
+          lawDetails.push({
+            法令コード: code,
+            ...lawData[code]
+          })
+        }
+      }
+      
+      return lawDetails.length > 0 ? lawDetails : null
+    } catch (error) {
+      // エラーが発生した場合はnullを返す
+      return null
     }
   }
 }
