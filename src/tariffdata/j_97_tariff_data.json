@@ -55,10 +55,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA"
-            ],
+            "law": ["IL", "WA"],
             "children": []
           },
           {
@@ -99,10 +96,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA"
-            ],
+            "law": ["IL", "WA"],
             "children": []
           },
           {
@@ -143,10 +137,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA"
-            ],
+            "law": ["IL", "WA"],
             "children": []
           }
         ]
@@ -198,10 +189,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA"
-            ],
+            "law": ["IL", "WA"],
             "children": []
           },
           {
@@ -242,10 +230,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA"
-            ],
+            "law": ["IL", "WA"],
             "children": []
           },
           {
@@ -286,10 +271,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA"
-            ],
+            "law": ["IL", "WA"],
             "children": []
           }
         ]
@@ -343,9 +325,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "IL"
-        ],
+        "law": ["IL"],
         "children": []
       },
       {
@@ -386,9 +366,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "IL"
-        ],
+        "law": ["IL"],
         "children": []
       }
     ]
@@ -440,9 +418,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "IL"
-        ],
+        "law": ["IL"],
         "children": []
       },
       {
@@ -483,9 +459,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "IL"
-        ],
+        "law": ["IL"],
         "children": []
       }
     ]
@@ -538,10 +512,7 @@
       "I": "",
       "II": "KG"
     },
-    "law": [
-      "IL",
-      "ST"
-    ],
+    "law": ["IL", "ST"],
     "children": []
   },
   {
@@ -591,11 +562,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL",
-          "WA",
-          "HU"
-        ],
+        "law": ["IL", "WA", "HU"],
         "children": []
       },
       {
@@ -645,11 +612,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA",
-              "HU"
-            ],
+            "law": ["IL", "WA", "HU"],
             "children": []
           },
           {
@@ -690,11 +653,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA",
-              "HU"
-            ],
+            "law": ["IL", "WA", "HU"],
             "children": []
           },
           {
@@ -735,11 +694,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA",
-              "HU"
-            ],
+            "law": ["IL", "WA", "HU"],
             "children": []
           }
         ]
@@ -791,11 +746,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA",
-              "HU"
-            ],
+            "law": ["IL", "WA", "HU"],
             "children": []
           },
           {
@@ -836,11 +787,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "WA",
-              "HU"
-            ],
+            "law": ["IL", "WA", "HU"],
             "children": []
           }
         ]
@@ -894,9 +841,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL"
-        ],
+        "law": ["IL"],
         "children": []
       },
       {
@@ -937,9 +882,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL"
-        ],
+        "law": ["IL"],
         "children": []
       }
     ]

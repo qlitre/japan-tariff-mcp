@@ -64,12 +64,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -110,12 +105,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -158,12 +148,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           }
         ]
@@ -224,12 +209,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -270,12 +250,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -327,13 +302,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "WA",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "WA", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -374,13 +343,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "WA",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "WA", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -432,12 +395,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -478,12 +436,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -575,12 +528,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -621,12 +569,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -709,12 +652,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -755,12 +693,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -814,12 +747,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -860,12 +788,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -966,12 +889,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       },
                       {
@@ -1012,12 +930,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       }
                     ]
@@ -1060,12 +973,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -1106,12 +1014,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -1163,14 +1066,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "FR", "IA", "FD", "SA"],
                     "children": []
                   },
                   {
@@ -1251,13 +1147,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FR", "IA", "FD"],
                         "children": []
                       },
                       {
@@ -1298,13 +1188,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FR", "IA", "FD"],
                         "children": []
                       }
                     ]
@@ -1373,13 +1257,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -1460,13 +1338,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -1507,13 +1379,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -1554,13 +1420,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -1603,13 +1463,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -1650,13 +1504,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           }
         ]
@@ -1708,13 +1556,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -1755,13 +1597,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -1802,13 +1638,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -1849,13 +1679,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -1896,13 +1720,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           }
         ]
@@ -1954,13 +1772,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2001,13 +1813,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2048,13 +1854,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2095,13 +1895,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2182,13 +1976,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -2229,13 +2017,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -2278,13 +2060,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2325,13 +2101,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           }
         ]
@@ -2383,13 +2153,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2430,13 +2194,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2486,14 +2244,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                 "children": []
               },
               {
@@ -2534,13 +2285,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -2583,14 +2328,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD",
-              "SA"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
             "children": []
           },
           {
@@ -2631,13 +2369,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2678,13 +2410,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2725,13 +2451,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -2781,14 +2501,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                 "children": []
               },
               {
@@ -2869,13 +2582,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -2916,13 +2623,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -2963,13 +2664,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   }
                 ]
@@ -3025,13 +2720,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3072,13 +2761,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3119,13 +2802,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3175,13 +2852,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -3222,13 +2893,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -3271,13 +2936,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3318,13 +2977,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3374,13 +3027,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -3421,13 +3068,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -3481,13 +3122,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3528,13 +3163,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3575,13 +3204,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3622,14 +3245,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "WA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "WA", "FD"],
             "children": []
           },
           {
@@ -3670,13 +3286,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           }
         ]
@@ -3728,14 +3338,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "WA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "WA", "FD"],
             "children": []
           },
           {
@@ -3776,13 +3379,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3823,13 +3420,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3870,13 +3461,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -3917,13 +3502,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -4013,13 +3592,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -4060,14 +3633,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                     "children": []
                   }
                 ]
@@ -4110,13 +3676,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -4197,13 +3757,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -4244,13 +3798,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -4291,13 +3839,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   }
                 ]
@@ -4402,13 +3944,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -4449,13 +3985,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   }
                 ]
@@ -4498,13 +4028,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -4547,14 +4071,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "WA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "WA", "FD"],
             "children": []
           },
           {
@@ -4604,13 +4121,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -4660,14 +4171,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                     "children": []
                   },
                   {
@@ -4748,13 +4252,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -4795,13 +4293,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -4842,13 +4334,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       }
                     ]
@@ -4917,12 +4403,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5003,12 +4484,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               },
               {
@@ -5049,12 +4525,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               }
             ]
@@ -5097,12 +4568,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5143,12 +4609,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5189,12 +4650,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           }
         ]
@@ -5246,12 +4702,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5292,12 +4743,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5338,12 +4784,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5384,13 +4825,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "WA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "WA", "FD"],
             "children": []
           },
           {
@@ -5431,12 +4866,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           }
         ]
@@ -5488,12 +4918,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5534,12 +4959,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5580,12 +5000,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5626,12 +5041,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5672,12 +5082,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           }
         ]
@@ -5729,12 +5134,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5775,12 +5175,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5821,12 +5216,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5867,12 +5257,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -5953,12 +5338,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               },
               {
@@ -5999,12 +5379,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               }
             ]
@@ -6047,12 +5422,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -6093,12 +5463,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           }
         ]
@@ -6150,12 +5515,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -6205,13 +5565,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "JK", "FD", "SA"],
                 "children": []
               },
               {
@@ -6252,12 +5606,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               }
             ]
@@ -6300,13 +5649,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD",
-              "SA"
-            ],
+            "law": ["IQ", "IL", "JK", "FD", "SA"],
             "children": []
           },
           {
@@ -6347,12 +5690,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -6393,12 +5731,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -6439,12 +5772,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -6534,12 +5862,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -6580,13 +5903,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD", "SA"],
                     "children": []
                   },
                   {
@@ -6627,12 +5944,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   }
                 ]
@@ -6715,12 +6027,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -6761,12 +6068,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -6807,12 +6109,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -6853,12 +6150,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   }
                 ]
@@ -6914,12 +6206,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -6960,12 +6247,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -7006,12 +6288,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -7061,12 +6338,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               },
               {
@@ -7107,12 +6379,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               }
             ]
@@ -7155,12 +6422,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -7201,12 +6463,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -7256,12 +6513,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               },
               {
@@ -7302,12 +6554,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               }
             ]
@@ -7361,13 +6608,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "WA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "WA", "FD"],
             "children": []
           },
           {
@@ -7408,12 +6649,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -7454,12 +6690,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -7500,12 +6731,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "FD"],
             "children": []
           },
           {
@@ -7595,12 +6821,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -7641,12 +6862,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -7687,13 +6903,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD", "SA"],
                     "children": []
                   }
                 ]
@@ -7776,12 +6986,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -7822,12 +7027,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   }
                 ]
@@ -7910,12 +7110,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -7956,12 +7151,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -8002,12 +7192,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -8048,12 +7233,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -8094,12 +7274,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -8140,12 +7315,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -8186,12 +7356,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   },
                   {
@@ -8232,12 +7397,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "FD"],
                     "children": []
                   }
                 ]
@@ -8302,12 +7462,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               },
               {
@@ -8348,12 +7503,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               },
               {
@@ -8394,12 +7544,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               }
             ]
@@ -8442,13 +7587,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "WA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "WA", "FD"],
             "children": []
           },
           {
@@ -8498,12 +7637,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "FD"],
                 "children": []
               },
               {
@@ -8593,12 +7727,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "FD"],
                         "children": []
                       },
                       {
@@ -8639,13 +7768,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "FD",
-                          "SA"
-                        ],
+                        "law": ["IQ", "IL", "JK", "FD", "SA"],
                         "children": []
                       },
                       {
@@ -8686,13 +7809,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "FD",
-                          "SA"
-                        ],
+                        "law": ["IQ", "IL", "JK", "FD", "SA"],
                         "children": []
                       }
                     ]
@@ -8775,12 +7892,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "FD"],
                         "children": []
                       },
                       {
@@ -8821,12 +7933,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "FD"],
                         "children": []
                       },
                       {
@@ -8867,12 +7974,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "FD"],
                         "children": []
                       },
                       {
@@ -8913,12 +8015,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "FD"],
                         "children": []
                       }
                     ]
@@ -8987,13 +8084,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9034,13 +8125,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9081,13 +8166,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9128,13 +8207,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           }
         ]
@@ -9186,13 +8259,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9233,13 +8300,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9280,13 +8341,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9336,13 +8391,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -9383,13 +8432,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -9432,13 +8475,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9479,13 +8516,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9526,14 +8557,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "WA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "WA", "FD"],
             "children": []
           },
           {
@@ -9574,13 +8598,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9630,14 +8648,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                 "children": []
               },
               {
@@ -9718,13 +8729,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -9765,13 +8770,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -9812,13 +8811,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   }
                 ]
@@ -9874,13 +8867,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9921,13 +8908,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -9977,13 +8958,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -10024,13 +8999,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -10073,13 +9042,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10120,13 +9083,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10167,13 +9124,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10214,13 +9165,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10270,14 +9215,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                 "children": []
               },
               {
@@ -10358,13 +9296,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -10445,13 +9377,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -10492,13 +9418,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -10539,13 +9459,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       }
                     ]
@@ -10603,13 +9517,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10650,13 +9558,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10697,13 +9599,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10744,13 +9640,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           }
         ]
@@ -10802,13 +9692,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10849,13 +9733,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10896,13 +9774,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -10952,13 +9824,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -10999,13 +9865,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -11048,13 +9908,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11104,13 +9958,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -11151,13 +9999,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -11211,13 +10053,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11258,13 +10094,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11305,13 +10135,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11352,13 +10176,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11399,13 +10217,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11446,13 +10258,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11542,13 +10348,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -11589,13 +10389,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -11636,13 +10430,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -11683,13 +10471,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -11730,13 +10512,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   }
                 ]
@@ -11779,13 +10555,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -11828,13 +10598,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -11884,14 +10648,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                 "children": []
               },
               {
@@ -11972,13 +10729,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -12019,13 +10770,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -12066,13 +10811,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -12113,13 +10852,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   }
                 ]
@@ -12175,13 +10908,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -12222,13 +10949,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -12269,13 +10990,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -12356,13 +11071,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               },
               {
@@ -12403,13 +11112,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -12501,13 +11204,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -12548,13 +11245,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   }
                 ]
@@ -12597,13 +11288,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "JK", "TK", "FD"],
                 "children": []
               }
             ]
@@ -12646,13 +11331,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -12693,13 +11372,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "JK",
-              "TK",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "JK", "TK", "FD"],
             "children": []
           },
           {
@@ -12789,13 +11462,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -12836,14 +11503,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD", "SA"],
                     "children": []
                   }
                 ]
@@ -12926,13 +11586,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -12973,13 +11627,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "JK",
-                      "TK",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "JK", "TK", "FD"],
                     "children": []
                   },
                   {
@@ -13060,13 +11708,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -13107,13 +11749,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -13154,13 +11790,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -13201,13 +11831,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       },
                       {
@@ -13248,13 +11872,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "JK",
-                          "TK",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "JK", "TK", "FD"],
                         "children": []
                       }
                     ]
@@ -13323,11 +11941,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -13368,11 +11982,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -13453,11 +12063,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -13498,11 +12104,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               }
             ]
@@ -13545,11 +12147,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           }
         ]
@@ -13601,11 +12199,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -13686,11 +12280,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -13731,11 +12321,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               }
             ]
@@ -13787,11 +12373,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -13872,12 +12454,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "FD", "SA"],
                     "children": []
                   },
                   {
@@ -13918,11 +12495,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "FD"],
                     "children": []
                   }
                 ]
@@ -13978,11 +12551,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14023,11 +12592,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14068,11 +12633,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14113,11 +12674,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14198,11 +12755,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -14243,11 +12796,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               }
             ]
@@ -14301,11 +12850,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14346,11 +12891,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14431,11 +12972,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -14476,11 +13013,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               }
             ]
@@ -14563,12 +13096,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "FD", "SA"],
                 "children": []
               },
               {
@@ -14609,11 +13137,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               }
             ]
@@ -14665,11 +13189,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -14719,12 +13239,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "FD", "SA"],
                     "children": []
                   },
                   {
@@ -14765,11 +13280,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "FD"],
                     "children": []
                   }
                 ]
@@ -14825,11 +13336,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14870,11 +13377,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14915,11 +13418,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -14960,11 +13459,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -15014,11 +13509,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -15099,12 +13590,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "FD", "SA"],
                     "children": []
                   },
                   {
@@ -15145,11 +13631,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "FD"],
                     "children": []
                   }
                 ]
@@ -15245,11 +13727,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -15290,11 +13768,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               }
             ]
@@ -15346,11 +13820,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -15440,11 +13910,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       },
                       {
@@ -15485,11 +13951,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       }
                     ]
@@ -15541,11 +14003,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       },
                       {
@@ -15635,11 +14093,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD"
-                                ],
+                                "law": ["IQ", "IL", "FD"],
                                 "children": []
                               },
                               {
@@ -15680,11 +14134,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD"
-                                ],
+                                "law": ["IQ", "IL", "FD"],
                                 "children": []
                               }
                             ]
@@ -15727,11 +14177,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           }
                         ]
@@ -15785,11 +14231,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       },
                       {
@@ -15870,11 +14312,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           },
                           {
@@ -15915,11 +14353,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           },
                           {
@@ -15960,11 +14394,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           },
                           {
@@ -16045,11 +14475,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD"
-                                ],
+                                "law": ["IQ", "IL", "FD"],
                                 "children": []
                               },
                               {
@@ -16090,11 +14516,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD"
-                                ],
+                                "law": ["IQ", "IL", "FD"],
                                 "children": []
                               }
                             ]
@@ -16154,11 +14576,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "FD"],
                 "children": []
               },
               {
@@ -16248,11 +14666,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       },
                       {
@@ -16293,11 +14707,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       }
                     ]
@@ -16349,11 +14759,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       },
                       {
@@ -16443,11 +14849,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD"
-                                ],
+                                "law": ["IQ", "IL", "FD"],
                                 "children": []
                               },
                               {
@@ -16488,12 +14890,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD",
-                                  "SA"
-                                ],
+                                "law": ["IQ", "IL", "FD", "SA"],
                                 "children": []
                               }
                             ]
@@ -16536,11 +14933,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           }
                         ]
@@ -16594,11 +14987,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "FD"],
                         "children": []
                       },
                       {
@@ -16679,11 +15068,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           },
                           {
@@ -16724,11 +15109,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           },
                           {
@@ -16769,11 +15150,7 @@
                               "I": "",
                               "II": "KG"
                             },
-                            "law": [
-                              "IQ",
-                              "IL",
-                              "FD"
-                            ],
+                            "law": ["IQ", "IL", "FD"],
                             "children": []
                           },
                           {
@@ -16854,12 +15231,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD",
-                                  "SA"
-                                ],
+                                "law": ["IQ", "IL", "FD", "SA"],
                                 "children": []
                               },
                               {
@@ -16900,11 +15272,7 @@
                                   "I": "",
                                   "II": "KG"
                                 },
-                                "law": [
-                                  "IQ",
-                                  "IL",
-                                  "FD"
-                                ],
+                                "law": ["IQ", "IL", "FD"],
                                 "children": []
                               }
                             ]
@@ -16977,12 +15345,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -17023,12 +15386,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -17109,13 +15467,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "JK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "JK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17156,13 +15508,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "JK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "JK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17203,13 +15549,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "JK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "JK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17250,13 +15590,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "JK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "JK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17297,13 +15631,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "JK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "JK", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -17346,12 +15674,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -17392,12 +15715,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -17438,12 +15756,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -17493,12 +15806,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17539,12 +15847,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -17598,12 +15901,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -17644,12 +15942,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -17730,13 +16023,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "TK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "TK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17786,13 +16073,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "TK",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "TK", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -17833,13 +16114,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "TK",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "TK", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -17882,13 +16157,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "TK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "TK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17929,13 +16198,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "TK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "TK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -17976,13 +16239,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "TK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "TK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -18023,13 +16280,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "TK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "TK", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18072,12 +16323,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FR",
-              "IA",
-              "FD"
-            ],
+            "law": ["IL", "FR", "IA", "FD"],
             "children": []
           },
           {
@@ -18158,12 +16404,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -18204,12 +16445,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18301,12 +16537,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -18347,12 +16578,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -18395,12 +16621,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18452,12 +16673,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -18498,12 +16714,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18566,12 +16777,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -18612,12 +16818,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18669,12 +16870,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -18715,12 +16911,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18772,14 +16963,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "JK", "TK", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -18820,14 +17004,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "JK",
-                  "TK",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "JK", "TK", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18879,12 +17056,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -18925,12 +17097,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -18982,12 +17149,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -19028,12 +17190,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               }
             ]
@@ -19094,12 +17251,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -19140,12 +17292,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -19197,12 +17344,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -19243,12 +17385,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -19315,12 +17452,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -19361,12 +17493,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -19456,12 +17583,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -19502,12 +17624,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -19550,12 +17667,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               }
             ]
@@ -19649,12 +17761,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -19704,12 +17811,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -19750,12 +17852,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -19840,12 +17937,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -19895,12 +17987,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -19941,12 +18028,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -20000,12 +18082,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -20086,12 +18163,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -20141,12 +18213,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "IA", "FD"],
                         "children": []
                       },
                       {
@@ -20187,12 +18254,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "IA", "FD"],
                         "children": []
                       }
                     ]
@@ -20250,12 +18312,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -20296,12 +18353,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -20391,12 +18443,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -20437,12 +18484,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -20485,12 +18527,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               }
             ]
@@ -20584,13 +18621,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "IA", "FD", "SA"],
                 "children": []
               },
               {
@@ -20631,13 +18662,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "IA", "FD", "SA"],
                 "children": []
               }
             ]
@@ -20720,13 +18745,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "IA", "FD", "SA"],
                 "children": []
               },
               {
@@ -20767,13 +18786,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "IA", "FD", "SA"],
                 "children": []
               },
               {
@@ -20814,13 +18827,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "IA", "FD", "SA"],
                 "children": []
               },
               {
@@ -20861,13 +18868,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "IA", "FD", "SA"],
                 "children": []
               }
             ]
@@ -20919,13 +18920,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD",
-                  "SA"
-                ],
+                "law": ["IQ", "IL", "IA", "FD", "SA"],
                 "children": []
               },
               {
@@ -21006,13 +19001,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD", "SA"],
                     "children": []
                   },
                   {
@@ -21053,13 +19042,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD",
-                      "SA"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD", "SA"],
                     "children": []
                   }
                 ]
@@ -21115,12 +19098,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -21161,12 +19139,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -21216,12 +19189,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -21262,12 +19230,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               }
             ]
@@ -21321,13 +19284,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD",
-              "PL"
-            ],
+            "law": ["IQ", "IL", "IA", "FD", "PL"],
             "children": []
           },
           {
@@ -21368,13 +19325,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD",
-              "PL"
-            ],
+            "law": ["IQ", "IL", "IA", "FD", "PL"],
             "children": []
           },
           {
@@ -21415,13 +19366,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD",
-              "PL"
-            ],
+            "law": ["IQ", "IL", "IA", "FD", "PL"],
             "children": []
           }
         ]
@@ -21482,12 +19427,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -21528,12 +19468,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -21614,12 +19549,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -21660,12 +19590,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -21706,12 +19631,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -21765,12 +19685,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -21811,12 +19726,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -21897,12 +19807,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -21943,12 +19848,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -22042,12 +19942,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -22088,12 +19983,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -22145,12 +20035,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -22191,12 +20076,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -22277,12 +20157,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "IA", "FD"],
                         "children": []
                       },
                       {
@@ -22323,12 +20198,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IQ",
-                          "IL",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IQ", "IL", "IA", "FD"],
                         "children": []
                       }
                     ]
@@ -22386,12 +20256,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -22432,12 +20297,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -22478,12 +20338,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -22524,12 +20379,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "IA",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "IA", "FD"],
             "children": []
           },
           {
@@ -22579,12 +20429,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -22625,12 +20470,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               }
             ]
@@ -22682,12 +20522,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -22728,12 +20563,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               }
             ]
@@ -22827,12 +20657,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -22913,12 +20738,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -22959,12 +20779,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -23049,12 +20864,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IQ",
-                  "IL",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IQ", "IL", "IA", "FD"],
                 "children": []
               },
               {
@@ -23135,12 +20945,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -23181,12 +20986,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -23280,12 +21080,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -23326,12 +21121,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -23414,12 +21204,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -23460,12 +21245,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IQ",
-                      "IL",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IQ", "IL", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -23541,10 +21321,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               },
               {
@@ -23585,10 +21362,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               }
             ]
@@ -23631,10 +21405,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IA",
-              "FD"
-            ],
+            "law": ["IA", "FD"],
             "children": []
           },
           {
@@ -23684,10 +21455,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               },
               {
@@ -23728,10 +21496,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               }
             ]
@@ -23794,10 +21559,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               },
               {
@@ -23838,10 +21600,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               }
             ]
@@ -23884,10 +21643,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IA",
-              "FD"
-            ],
+            "law": ["IA", "FD"],
             "children": []
           },
           {
@@ -23937,10 +21693,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               },
               {
@@ -23981,10 +21734,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               }
             ]
@@ -24038,10 +21788,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IA",
-              "FD"
-            ],
+            "law": ["IA", "FD"],
             "children": []
           },
           {
@@ -24082,10 +21829,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IA",
-              "FD"
-            ],
+            "law": ["IA", "FD"],
             "children": []
           },
           {
@@ -24126,10 +21870,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IA",
-              "FD"
-            ],
+            "law": ["IA", "FD"],
             "children": []
           }
         ]
@@ -24181,10 +21922,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IA",
-              "FD"
-            ],
+            "law": ["IA", "FD"],
             "children": []
           },
           {
@@ -24274,10 +22012,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IA", "FD"],
                     "children": []
                   },
                   {
@@ -24318,10 +22053,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IA", "FD"],
                     "children": []
                   }
                 ]
@@ -24373,10 +22105,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IA", "FD"],
                     "children": []
                   },
                   {
@@ -24417,10 +22146,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IA", "FD"],
                     "children": []
                   }
                 ]
@@ -24465,10 +22191,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IA",
-              "FD"
-            ],
+            "law": ["IA", "FD"],
             "children": []
           },
           {
@@ -24558,10 +22281,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IA", "FD"],
                     "children": []
                   },
                   {
@@ -24602,10 +22322,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IA", "FD"],
                     "children": []
                   }
                 ]
@@ -24648,10 +22365,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IA", "FD"],
                 "children": []
               }
             ]
@@ -24747,11 +22461,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           },
           {
@@ -24792,11 +22502,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IQ",
-              "IL",
-              "FD"
-            ],
+            "law": ["IQ", "IL", "FD"],
             "children": []
           }
         ]
@@ -24857,12 +22563,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -24943,12 +22644,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -24998,12 +22694,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       },
                       {
@@ -25044,12 +22735,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       }
                     ]
@@ -25092,12 +22778,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -25151,12 +22832,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -25237,12 +22913,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -25323,12 +22994,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       },
                       {
@@ -25369,12 +23035,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       }
                     ]
@@ -25417,12 +23078,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   }
                 ]
@@ -25476,12 +23132,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -25522,12 +23173,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "IA",
-                  "FD"
-                ],
+                "law": ["IL", "FR", "IA", "FD"],
                 "children": []
               },
               {
@@ -25608,12 +23254,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IL", "FR", "IA", "FD"],
                     "children": []
                   },
                   {
@@ -25663,12 +23304,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       },
                       {
@@ -25709,12 +23345,7 @@
                           "I": "",
                           "II": "KG"
                         },
-                        "law": [
-                          "IL",
-                          "FR",
-                          "IA",
-                          "FD"
-                        ],
+                        "law": ["IL", "FR", "IA", "FD"],
                         "children": []
                       }
                     ]
@@ -25757,10 +23388,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IA",
-                      "FD"
-                    ],
+                    "law": ["IA", "FD"],
                     "children": []
                   }
                 ]

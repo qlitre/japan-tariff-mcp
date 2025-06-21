@@ -97,9 +97,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "AN"
-        ],
+        "law": ["AN"],
         "children": []
       },
       {
@@ -140,9 +138,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "AN"
-        ],
+        "law": ["AN"],
         "children": []
       }
     ]
@@ -244,11 +240,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FD",
-              "AN"
-            ],
+            "law": ["IL", "FD", "AN"],
             "children": []
           },
           {
@@ -298,11 +290,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FD",
-                  "AN"
-                ],
+                "law": ["IL", "FD", "AN"],
                 "children": []
               },
               {
@@ -343,11 +331,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FD",
-                  "AN"
-                ],
+                "law": ["IL", "FD", "AN"],
                 "children": []
               }
             ]
@@ -401,11 +385,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FD",
-              "AN"
-            ],
+            "law": ["IL", "FD", "AN"],
             "children": []
           },
           {
@@ -446,11 +426,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "FD",
-              "AN"
-            ],
+            "law": ["IL", "FD", "AN"],
             "children": []
           }
         ]
@@ -504,10 +480,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "HU",
-          "AN"
-        ],
+        "law": ["HU", "AN"],
         "children": []
       },
       {
@@ -548,10 +521,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "HU",
-          "AN"
-        ],
+        "law": ["HU", "AN"],
         "children": []
       }
     ]
@@ -603,10 +573,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL",
-          "AN"
-        ],
+        "law": ["IL", "AN"],
         "children": []
       },
       {
@@ -687,10 +654,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "AN"
-            ],
+            "law": ["IL", "AN"],
             "children": []
           },
           {
@@ -731,10 +695,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "AN"
-            ],
+            "law": ["IL", "AN"],
             "children": []
           }
         ]
@@ -788,11 +749,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL",
-          "WA",
-          "AN"
-        ],
+        "law": ["IL", "WA", "AN"],
         "children": []
       },
       {
@@ -873,10 +830,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "AN"
-            ],
+            "law": ["IL", "AN"],
             "children": []
           },
           {
@@ -917,10 +871,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "IL",
-              "AN"
-            ],
+            "law": ["IL", "AN"],
             "children": []
           }
         ]
@@ -984,10 +935,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL",
-          "WA"
-        ],
+        "law": ["IL", "WA"],
         "children": []
       },
       {
@@ -1028,10 +976,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL",
-          "WA"
-        ],
+        "law": ["IL", "WA"],
         "children": []
       }
     ]
@@ -1133,11 +1078,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "PA",
-              "AN"
-            ],
+            "law": ["WA", "PA", "AN"],
             "children": []
           },
           {
@@ -1178,11 +1119,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "PA",
-              "AN"
-            ],
+            "law": ["WA", "PA", "AN"],
             "children": []
           }
         ]
@@ -1225,11 +1162,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "WA",
-          "PA",
-          "AN"
-        ],
+        "law": ["WA", "PA", "AN"],
         "children": []
       }
     ]
@@ -1281,12 +1214,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": [
-          "IL",
-          "FR",
-          "FD",
-          "AN"
-        ],
+        "law": ["IL", "FR", "FD", "AN"],
         "children": []
       },
       {
@@ -1385,12 +1313,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "FD", "AN"],
                     "children": []
                   },
                   {
@@ -1431,12 +1354,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "FD", "AN"],
                     "children": []
                   },
                   {
@@ -1477,12 +1395,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "FD", "AN"],
                     "children": []
                   }
                 ]
@@ -1525,12 +1438,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "FD",
-                  "AN"
-                ],
+                "law": ["IL", "FR", "FD", "AN"],
                 "children": []
               }
             ]
@@ -1622,13 +1530,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "PM",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "PM", "FD", "AN"],
                     "children": []
                   },
                   {
@@ -1669,13 +1571,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "PM",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "PM", "FD", "AN"],
                     "children": []
                   },
                   {
@@ -1716,13 +1612,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "PM",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "PM", "FD", "AN"],
                     "children": []
                   }
                 ]
@@ -1805,13 +1695,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "PM",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "PM", "FD", "AN"],
                     "children": []
                   },
                   {
@@ -1852,13 +1736,7 @@
                       "I": "",
                       "II": "KG"
                     },
-                    "law": [
-                      "IL",
-                      "FR",
-                      "PM",
-                      "FD",
-                      "AN"
-                    ],
+                    "law": ["IL", "FR", "PM", "FD", "AN"],
                     "children": []
                   }
                 ]
@@ -1901,13 +1779,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "IL",
-                  "FR",
-                  "PM",
-                  "FD",
-                  "AN"
-                ],
+                "law": ["IL", "FR", "PM", "FD", "AN"],
                 "children": []
               }
             ]

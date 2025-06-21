@@ -180,9 +180,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "WA"
-        ],
+        "law": ["WA"],
         "children": []
       },
       {
@@ -263,9 +261,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "WA"
-            ],
+            "law": ["WA"],
             "children": []
           },
           {
@@ -306,9 +302,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "WA"
-            ],
+            "law": ["WA"],
             "children": []
           }
         ]

@@ -1,8 +1,10 @@
 # CLAUDE.md
+
 日本語で返してください。
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
+
 日本の関税率をキーワードから返すプロジェクトです。
 This is a Cloudflare Workers application that implements an MCP (Model Context Protocol) server using Hono framework. The application provides tariff data search functionality through MCP tools.
 
@@ -39,7 +41,8 @@ npm run cf-typegen
 ## MCP Implementation Details
 
 The application exposes MCP tools at the `/mcp` endpoint. The `MyMCP` class:
-- Extends `McpAgent<Env>` 
+
+- Extends `McpAgent<Env>`
 - Registers tools in the `init()` method
 - Currently implements `searchTariff` tool with keyword parameter
 - Uses Zod for parameter validation
@@ -54,6 +57,7 @@ The application exposes MCP tools at the `/mcp` endpoint. The `MyMCP` class:
 ## Data Structure
 
 Tariff data is organized in chapters (01-97) with structured JSON containing:
+
 - Chapter metadata and titles
 - Category information with HS codes
 - Item counts and descriptions

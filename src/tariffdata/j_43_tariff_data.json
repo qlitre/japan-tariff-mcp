@@ -46,11 +46,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "WA",
-          "HU",
-          "AN"
-        ],
+        "law": ["WA", "HU", "AN"],
         "children": []
       },
       {
@@ -91,11 +87,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "WA",
-          "HU",
-          "AN"
-        ],
+        "law": ["WA", "HU", "AN"],
         "children": []
       },
       {
@@ -136,11 +128,7 @@
           "I": "NO",
           "II": "KG"
         },
-        "law": [
-          "WA",
-          "HU",
-          "AN"
-        ],
+        "law": ["WA", "HU", "AN"],
         "children": []
       },
       {
@@ -221,11 +209,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU",
-              "AN"
-            ],
+            "law": ["WA", "HU", "AN"],
             "children": []
           },
           {
@@ -266,11 +250,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU",
-              "AN"
-            ],
+            "law": ["WA", "HU", "AN"],
             "children": []
           }
         ]
@@ -322,11 +302,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU",
-              "AN"
-            ],
+            "law": ["WA", "HU", "AN"],
             "children": []
           },
           {
@@ -407,11 +383,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               },
               {
@@ -452,11 +424,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               },
               {
@@ -497,11 +465,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               }
             ]
@@ -566,11 +530,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU",
-              "AN"
-            ],
+            "law": ["WA", "HU", "AN"],
             "children": []
           },
           {
@@ -651,11 +611,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               },
               {
@@ -696,11 +652,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               },
               {
@@ -741,11 +693,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               }
             ]
@@ -830,11 +778,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU",
-              "AN"
-            ],
+            "law": ["WA", "HU", "AN"],
             "children": []
           },
           {
@@ -875,11 +819,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU",
-              "AN"
-            ],
+            "law": ["WA", "HU", "AN"],
             "children": []
           }
         ]
@@ -971,11 +911,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               },
               {
@@ -1016,11 +952,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               },
               {
@@ -1061,11 +993,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               }
             ]
@@ -1148,11 +1076,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               },
               {
@@ -1193,11 +1117,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU",
-                  "AN"
-                ],
+                "law": ["WA", "HU", "AN"],
                 "children": []
               }
             ]
@@ -1302,10 +1222,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU"
-                ],
+                "law": ["WA", "HU"],
                 "children": []
               },
               {
@@ -1346,10 +1263,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU"
-                ],
+                "law": ["WA", "HU"],
                 "children": []
               },
               {
@@ -1390,10 +1304,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU"
-                ],
+                "law": ["WA", "HU"],
                 "children": []
               },
               {
@@ -1434,10 +1345,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU"
-                ],
+                "law": ["WA", "HU"],
                 "children": []
               },
               {
@@ -1478,10 +1386,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU"
-                ],
+                "law": ["WA", "HU"],
                 "children": []
               }
             ]
@@ -1533,10 +1438,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU"
-                ],
+                "law": ["WA", "HU"],
                 "children": []
               },
               {
@@ -1577,10 +1479,7 @@
                   "I": "NO",
                   "II": "KG"
                 },
-                "law": [
-                  "WA",
-                  "HU"
-                ],
+                "law": ["WA", "HU"],
                 "children": []
               }
             ]
@@ -1665,10 +1564,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU"
-            ],
+            "law": ["WA", "HU"],
             "children": []
           },
           {
@@ -1709,10 +1605,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "WA",
-              "HU"
-            ],
+            "law": ["WA", "HU"],
             "children": []
           }
         ]

@@ -311,9 +311,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "CR"
-            ],
+            "law": ["CR"],
             "children": []
           },
           {
@@ -354,9 +352,7 @@
               "I": "NO",
               "II": "KG"
             },
-            "law": [
-              "CR"
-            ],
+            "law": ["CR"],
             "children": []
           }
         ]
