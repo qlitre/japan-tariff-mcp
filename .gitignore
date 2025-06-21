@@ -33,3 +33,4 @@ lerna-debug.log*
 .DS_Store
 repomix-output.xml
 wrangler.jsonc
+repomix.sh
