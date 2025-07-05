@@ -1,25 +1,24 @@
-/** 関税データ検索ユーティリティクラス */
 export class TariffSearchService {
   /** 関税データを検索する */
-  async searchTariffData(keyword: string) {
+  async searchTariffData(keywords: string) {
     const results: any[] = []
-
+    const keywordArray = keywords.split(',')
     // indexファイルから章リストを取得
     const indexData = await import('./tariffdata/index.json')
-
     for (const chapter of indexData.chapters) {
       try {
         // 各章のデータファイルを動的にインポート
         const chapterData = await import(
           `./tariffdata/j_${chapter.chapter.padStart(2, '0')}_tariff_data.json`
         )
-
-        // 階層データを再帰的に検索
-        this.searchItemsRecursively(
-          chapterData.default || chapterData,
-          keyword,
-          results
-        )
+        for (const keyword of keywordArray) {
+          // 階層データを再帰的に検索
+          this.searchItemsRecursively(
+            chapterData.default || chapterData,
+            keyword,
+            results
+          )
+        }
       } catch (error) {
         // ファイルが存在しない場合はスキップ
         continue
@@ -72,32 +71,31 @@ export class TariffSearchService {
   }
 
   /** HSコードから関税データを検索する */
-  async searchByHSCode(hsCode: string) {
+  async searchByHSCode(hsCodes: string) {
     const results: any[] = []
-
+    const hsCodesArray = hsCodes.split(',')
     // indexファイルから章リストを取得
     const indexData = await import('./tariffdata/index.json')
-
     for (const chapter of indexData.chapters) {
       try {
         // 各章のデータファイルを動的にインポート
         const chapterData = await import(
           `./tariffdata/j_${chapter.chapter.padStart(2, '0')}_tariff_data.json`
         )
-
-        // HSコードで検索
-        this.searchHSCodeRecursively(
-          chapterData.default || chapterData,
-          hsCode,
-          results,
-          chapter
-        )
+        for (const hsCode of hsCodesArray) {
+          // HSコードで検索
+          this.searchHSCodeRecursively(
+            chapterData.default || chapterData,
+            hsCode,
+            results,
+            chapter
+          )
+        }
       } catch (error) {
         // ファイルが存在しない場合はスキップ
         continue
       }
     }
-
     return results
   }
 

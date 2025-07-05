@@ -18,18 +18,18 @@ export const getMcpServer = async (c: Context<Env>) => {
 
   server.tool(
     'searchTariff',
-    '関税データをキーワードで検索します',
-    { keyword: z.string() },
-    async ({ keyword }) => {
+    '関税データをキーワード(カンマ区切り可)で検索します',
+    { keywords: z.string() },
+    async ({ keywords }) => {
       try {
-        const results = await searchService.searchTariffData(keyword)
+        const results = await searchService.searchTariffData(keywords)
         return {
           content: [
             {
               type: 'text',
               text: JSON.stringify(
                 {
-                  keyword,
+                  keywords,
                   found: results.length,
                   results: results.slice(0, 10), // 最大10件まで返す
                 },
@@ -94,18 +94,18 @@ export const getMcpServer = async (c: Context<Env>) => {
 
   server.tool(
     'searchByHSCode',
-    'HSコードから関税データを検索します',
-    { hs_code: z.string() },
-    async ({ hs_code }) => {
+    'HSコード(カンマ区切り可)から関税データを検索します',
+    { hs_codes: z.string().min(1) },
+    async ({ hs_codes }) => {
       try {
-        const results = await searchService.searchByHSCode(hs_code)
+        const results = await searchService.searchByHSCode(hs_codes)
         return {
           content: [
             {
               type: 'text',
               text: JSON.stringify(
                 {
-                  hs_code,
+                  hs_codes,
                   found: results.length,
                   results,
                 },
