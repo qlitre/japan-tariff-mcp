@@ -1,15 +1,22 @@
 export class TariffSearchService {
+  /**章番号の配列を返す */
+  getChapters() {
+    const ret = []
+    for (let i = 1; i < 98; i++) {
+      if (i == 77) continue
+      ret.push(String(i).padStart(2, '0'))
+    }
+    return ret
+  }
   /** 関税データを検索する */
   async searchTariffData(keywords: string) {
     const results: any[] = []
     const keywordArray = keywords.split(',')
-    // indexファイルから章リストを取得
-    const indexData = await import('./tariffdata/index.json')
-    for (const chapter of indexData.chapters) {
+    for (const chapter of this.getChapters()) {
       try {
         // 各章のデータファイルを動的にインポート
         const chapterData = await import(
-          `./tariffdata/j_${chapter.chapter.padStart(2, '0')}_tariff_data.json`
+          `./tariffdata/j_${chapter}_tariff_data.json`
         )
         for (const keyword of keywordArray) {
           // 階層データを再帰的に検索
@@ -24,7 +31,6 @@ export class TariffSearchService {
         continue
       }
     }
-
     return results
   }
 
@@ -74,13 +80,11 @@ export class TariffSearchService {
   async searchByHSCode(hsCodes: string) {
     const results: any[] = []
     const hsCodesArray = hsCodes.split(',')
-    // indexファイルから章リストを取得
-    const indexData = await import('./tariffdata/index.json')
-    for (const chapter of indexData.chapters) {
+    for (const chapter of this.getChapters()) {
       try {
         // 各章のデータファイルを動的にインポート
         const chapterData = await import(
-          `./tariffdata/j_${chapter.chapter.padStart(2, '0')}_tariff_data.json`
+          `./tariffdata/j_${chapter}_tariff_data.json`
         )
         for (const hsCode of hsCodesArray) {
           // HSコードで検索
@@ -96,35 +100,6 @@ export class TariffSearchService {
         continue
       }
     }
-    return results
-  }
-
-  /** 税率を比較する */
-  async compareTaxRates(keyword: string) {
-    const results: any[] = []
-
-    // indexファイルから章リストを取得
-    const indexData = await import('./tariffdata/index.json')
-
-    for (const chapter of indexData.chapters) {
-      try {
-        // 各章のデータファイルを動的にインポート
-        const chapterData = await import(
-          `./tariffdata/j_${chapter.chapter.padStart(2, '0')}_tariff_data.json`
-        )
-
-        // キーワードで検索し、税率情報を比較用に整理
-        this.searchForTaxComparison(
-          chapterData.default || chapterData,
-          keyword,
-          results
-        )
-      } catch (error) {
-        // ファイルが存在しない場合はスキップ
-        continue
-      }
-    }
-
     return results
   }
 
@@ -159,62 +134,6 @@ export class TariffSearchService {
           results,
           chapterInfo
         )
-      }
-    }
-  }
-
-  /** 税率比較用の検索 */
-  private searchForTaxComparison(
-    items: any[],
-    keyword: string,
-    results: any[]
-  ) {
-    for (const item of items) {
-      // 説明文にキーワードが含まれ、かつ税率データがある場合
-      if (
-        item.desc &&
-        item.desc.toLowerCase().includes(keyword.toLowerCase()) &&
-        item.rate &&
-        Object.keys(item.rate).length > 0
-      ) {
-        // 主要な税率を抽出して比較しやすい形に整理
-        const taxRates: any = {}
-
-        // 基本税率
-        if (item.rate['基本']) taxRates['基本'] = item.rate['基本']
-        if (item.rate['暫定']) taxRates['暫定'] = item.rate['暫定']
-        if (item.rate['WTO協定']) taxRates['WTO協定'] = item.rate['WTO協定']
-
-        // EPA税率（主要なもの）
-        const majorEPAs = [
-          'EPA_CPTPP',
-          'EPA_RCEP_アセアン豪州NZ',
-          'EPA_RCEP_中国',
-          'EPA_RCEP_韓国',
-          'EPA_欧州連合',
-          'EPA_英国',
-        ]
-        majorEPAs.forEach((epa) => {
-          if (item.rate[epa]) taxRates[epa] = item.rate[epa]
-        })
-
-        // 特恵税率
-        if (item.rate['特恵']) taxRates['特恵'] = item.rate['特恵']
-        if (item.rate['特別特恵']) taxRates['特別特恵'] = item.rate['特別特恵']
-
-        results.push({
-          stat_code: item.stat_code,
-          hs_code: item.hs_code,
-          desc: item.desc,
-          tax_rates: taxRates,
-          unit: item.unit,
-          level: item.level,
-        })
-      }
-
-      // 子要素がある場合は再帰的に検索
-      if (item.children && item.children.length > 0) {
-        this.searchForTaxComparison(item.children, keyword, results)
       }
     }
   }
