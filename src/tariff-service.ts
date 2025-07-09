@@ -1,3 +1,5 @@
+import { hrtime } from 'process'
+
 export class TariffSearchService {
   /**章番号の配列を返す */
   getChapters() {
@@ -11,6 +13,7 @@ export class TariffSearchService {
   /** 関税データを検索する */
   async searchTariffData(keywords: string) {
     const results: any[] = []
+    const hitCount: Record<string, number> = {}
     const keywordArray = keywords.split(',')
     for (const chapter of this.getChapters()) {
       try {
@@ -23,7 +26,8 @@ export class TariffSearchService {
           this.searchItemsRecursively(
             chapterData.default || chapterData,
             keyword,
-            results
+            results,
+            hitCount
           )
         }
       } catch (error) {
@@ -31,7 +35,7 @@ export class TariffSearchService {
         continue
       }
     }
-    return results
+    return { results, hitCount }
   }
 
   /** 部注・章注を検索する */
@@ -72,7 +76,6 @@ export class TariffSearchService {
     } catch (error) {
       throw new Error(`部注・章注の検索中にエラーが発生しました: ${error}`)
     }
-
     return results
   }
 
@@ -142,7 +145,8 @@ export class TariffSearchService {
   private searchItemsRecursively(
     items: any[],
     keyword: string,
-    results: any[]
+    results: any[],
+    hitCount: Record<string, number>
   ) {
     for (const item of items) {
       // 説明文にキーワードが含まれているかチェック
@@ -150,6 +154,8 @@ export class TariffSearchService {
         item.desc &&
         item.desc.toLowerCase().includes(keyword.toLowerCase())
       ) {
+        if (!hitCount[keyword]) hitCount[keyword] = 0
+        hitCount[keyword]++
         results.push({
           stat_code: item.stat_code,
           hs_code: item.hs_code,
@@ -163,7 +169,7 @@ export class TariffSearchService {
 
       // 子要素がある場合は再帰的に検索
       if (item.children && item.children.length > 0) {
-        this.searchItemsRecursively(item.children, keyword, results)
+        this.searchItemsRecursively(item.children, keyword, results, hitCount)
       }
     }
   }

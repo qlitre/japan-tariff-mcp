@@ -6,6 +6,7 @@ import { HTTPException } from 'hono/http-exception'
 import { Hono } from 'hono'
 import type { Env } from 'hono'
 import { TariffSearchService } from './tariff-service.js'
+import { ms } from 'zod/v4/locales'
 
 export const getMcpServer = async (c: Context<Env>) => {
   const server = new McpServer({
@@ -22,7 +23,13 @@ export const getMcpServer = async (c: Context<Env>) => {
     { keywords: z.string() },
     async ({ keywords }) => {
       try {
-        const results = await searchService.searchTariffData(keywords)
+        const { results, hitCount } =
+          await searchService.searchTariffData(keywords)
+        let msg = ''
+        if (results.length > 30) {
+          msg =
+            '最大件数の30より多くの情報がヒットしました。hitCountを参考にして必要に応じて再検索を実行してください。'
+        }
         return {
           content: [
             {
@@ -31,7 +38,9 @@ export const getMcpServer = async (c: Context<Env>) => {
                 {
                   keywords,
                   found: results.length,
-                  results: results.slice(0, 10), // 最大10件まで返す
+                  message: msg,
+                  hitCount: hitCount,
+                  results: results.slice(0, 30),
                 },
                 null,
                 2
@@ -121,44 +130,6 @@ export const getMcpServer = async (c: Context<Env>) => {
             {
               type: 'text',
               text: `HSコード検索エラー: ${
-                error instanceof Error ? error.message : 'Unknown error'
-              }`,
-            },
-          ],
-        }
-      }
-    }
-  )
-
-  server.tool(
-    'compareTaxRates',
-    '商品名から各協定の税率を比較します',
-    { keyword: z.string() },
-    async ({ keyword }) => {
-      try {
-        const results = await searchService.compareTaxRates(keyword)
-        return {
-          content: [
-            {
-              type: 'text',
-              text: JSON.stringify(
-                {
-                  keyword,
-                  found: results.length,
-                  results: results.slice(0, 5), // 最大5件まで返す
-                },
-                null,
-                2
-              ),
-            },
-          ],
-        }
-      } catch (error) {
-        return {
-          content: [
-            {
-              type: 'text',
-              text: `税率比較エラー: ${
                 error instanceof Error ? error.message : 'Unknown error'
               }`,
             },
