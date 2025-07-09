@@ -1,5 +1,3 @@
-import { hrtime } from 'process'
-
 export class TariffSearchService {
   /**章番号の配列を返す */
   getChapters() {

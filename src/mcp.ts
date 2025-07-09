@@ -6,7 +6,6 @@ import { HTTPException } from 'hono/http-exception'
 import { Hono } from 'hono'
 import type { Env } from 'hono'
 import { TariffSearchService } from './tariff-service.js'
-import { ms } from 'zod/v4/locales'
 
 export const getMcpServer = async (c: Context<Env>) => {
   const server = new McpServer({
