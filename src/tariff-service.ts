@@ -113,7 +113,8 @@ export class TariffSearchService {
   ) {
     for (const item of items) {
       // HSコードが一致するかチェック（部分一致も含む）
-      if (item.hs_code && item.hs_code.includes(hsCode)) {
+      const hsCodeFull = item.stat_code + '.' + item.hs_code
+      if (hsCodeFull.startsWith(hsCode)) {
         results.push({
           chapter: chapterInfo.chapter,
           chapter_title: chapterInfo.title,
