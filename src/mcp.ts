@@ -13,13 +13,12 @@ export const getMcpServer = async (c: Context<Env>) => {
     version: '0.0.1',
   })
 
-  // TariffSearchServiceのインスタンスを作成
   const searchService = new TariffSearchService()
 
   server.tool(
     'searchTariff',
     '関税データをキーワード(カンマ区切り可)で検索します',
-    { keywords: z.string() },
+    { keywords: z.string().min(1) },
     async ({ keywords }) => {
       try {
         const { results, hitCount } =
@@ -65,7 +64,7 @@ export const getMcpServer = async (c: Context<Env>) => {
   server.tool(
     'searchNotes',
     '部注・章注をキーワードで検索します',
-    { keyword: z.string() },
+    { keyword: z.string().min(1) },
     async ({ keyword }) => {
       try {
         const results = await searchService.searchNotesData(keyword)
@@ -141,7 +140,7 @@ export const getMcpServer = async (c: Context<Env>) => {
   server.tool(
     'getLawDetail',
     '法令コードから他法令の詳細情報を取得します',
-    { law_code: z.string() },
+    { law_code: z.string().length(2) },
     async ({ law_code }) => {
       try {
         const lawDetails = await searchService.getLawDetails(law_code)

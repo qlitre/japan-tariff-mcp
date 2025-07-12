@@ -12,22 +12,22 @@ export class TariffSearchService {
   async searchTariffData(keywords: string) {
     const results: any[] = []
     const hitCount: Record<string, number> = {}
-    const keywordArray = keywords.split(',')
+    const keywordArray = keywords
+      .split(',')
+      .map((w) => w.trim().toLocaleLowerCase())
     for (const chapter of this.getChapters()) {
       try {
         // 各章のデータファイルを動的にインポート
         const chapterData = await import(
           `./tariffdata/j_${chapter}_tariff_data.json`
         )
-        for (const keyword of keywordArray) {
-          // 階層データを再帰的に検索
-          this.searchItemsRecursively(
-            chapterData.default || chapterData,
-            keyword.trim(),
-            results,
-            hitCount
-          )
-        }
+        // 階層データを再帰的に検索
+        this.searchItemsRecursively(
+          chapterData.default || chapterData,
+          keywordArray,
+          results,
+          hitCount
+        )
       } catch (error) {
         // ファイルが存在しない場合はスキップ
         continue
@@ -80,22 +80,22 @@ export class TariffSearchService {
   /** HSコードから関税データを検索する */
   async searchByHSCode(hsCodes: string) {
     const results: any[] = []
-    const hsCodesArray = hsCodes.split(',')
+    const hsCodesArray = hsCodes
+      .split(',')
+      .map((h) => h.trim().toLocaleLowerCase())
     for (const chapter of this.getChapters()) {
       try {
         // 各章のデータファイルを動的にインポート
         const chapterData = await import(
           `./tariffdata/j_${chapter}_tariff_data.json`
         )
-        for (const hsCode of hsCodesArray) {
-          // HSコードで検索
-          this.searchHSCodeRecursively(
-            chapterData.default || chapterData,
-            hsCode.trim(),
-            results,
-            chapter
-          )
-        }
+        // HSコードで検索
+        this.searchHSCodeRecursively(
+          chapterData.default || chapterData,
+          hsCodesArray,
+          results,
+          chapter
+        )
       } catch (error) {
         // ファイルが存在しない場合はスキップ
         continue
@@ -107,14 +107,18 @@ export class TariffSearchService {
   /** HSコードを再帰的に検索 */
   private searchHSCodeRecursively(
     items: any[],
-    hsCode: string,
+    hsCodesArray: string[],
     results: any[],
     chapterInfo: any
   ) {
     for (const item of items) {
-      // HSコードが一致するかチェック（部分一致も含む）
-      const hsCodeFull = item.stat_code + '.' + item.hs_code
-      if (hsCodeFull.startsWith(hsCode)) {
+      let f = false
+      for (const hsCode of hsCodesArray) {
+        // HSコードが一致するかチェック（部分一致も含む）
+        const hsCodeFull = item.stat_code + '.' + item.hs_code
+        if (hsCodeFull.startsWith(hsCode)) f = true
+      }
+      if (f) {
         results.push({
           chapter: chapterInfo.chapter,
           chapter_title: chapterInfo.title,
@@ -127,12 +131,11 @@ export class TariffSearchService {
           level: item.level,
         })
       }
-
       // 子要素がある場合は再帰的に検索
       if (item.children && item.children.length > 0) {
         this.searchHSCodeRecursively(
           item.children,
-          hsCode,
+          hsCodesArray,
           results,
           chapterInfo
         )
@@ -143,18 +146,20 @@ export class TariffSearchService {
   /** 階層データを再帰的に検索 */
   private searchItemsRecursively(
     items: any[],
-    keyword: string,
+    keywordsArray: string[],
     results: any[],
     hitCount: Record<string, number>
   ) {
     for (const item of items) {
-      // 説明文にキーワードが含まれているかチェック
-      if (
-        item.desc &&
-        item.desc.toLowerCase().includes(keyword.toLowerCase())
-      ) {
-        if (!hitCount[keyword]) hitCount[keyword] = 0
-        hitCount[keyword]++
+      let f = false
+      for (const keyword of keywordsArray) {
+        if (item.desc.toLowerCase().includes(keyword)) f = true
+        if (f) {
+          if (!hitCount[keyword]) hitCount[keyword] = 0
+          hitCount[keyword]++
+        }
+      }
+      if (f) {
         results.push({
           stat_code: item.stat_code,
           hs_code: item.hs_code,
@@ -165,10 +170,14 @@ export class TariffSearchService {
           level: item.level,
         })
       }
-
       // 子要素がある場合は再帰的に検索
       if (item.children && item.children.length > 0) {
-        this.searchItemsRecursively(item.children, keyword, results, hitCount)
+        this.searchItemsRecursively(
+          item.children,
+          keywordsArray,
+          results,
+          hitCount
+        )
       }
     }
   }
