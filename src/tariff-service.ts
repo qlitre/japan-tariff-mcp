@@ -23,7 +23,7 @@ export class TariffSearchService {
           // 階層データを再帰的に検索
           this.searchItemsRecursively(
             chapterData.default || chapterData,
-            keyword,
+            keyword.trim(),
             results,
             hitCount
           )
@@ -91,7 +91,7 @@ export class TariffSearchService {
           // HSコードで検索
           this.searchHSCodeRecursively(
             chapterData.default || chapterData,
-            hsCode,
+            hsCode.trim(),
             results,
             chapter
           )
