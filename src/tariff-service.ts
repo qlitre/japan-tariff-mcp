@@ -1,3 +1,38 @@
+interface TariffItem {
+  level: number
+  stat_code: string
+  hs_code: string
+  desc: string
+  rate: Record<string, any>
+  unit: Record<string, any>
+  law: string[]
+  children?: TariffItem[]
+}
+
+interface TariffSearchResult {
+  stat_code: string
+  hs_code: string
+  desc: string
+  rate: Record<string, any>
+  unit: Record<string, any>
+  law: string[]
+  level: number
+  chapter?: string
+  chapter_title?: string
+}
+
+interface NoteSearchResult {
+  type: 'section_note' | 'chapter_note'
+  chapter: string
+  chapter_title: string
+  content: string
+}
+
+interface LawDetailResult {
+  法令コード: string
+  [key: string]: any
+}
+
 export class TariffSearchService {
   /**章番号の配列を返す */
   getChapters() {
@@ -10,7 +45,7 @@ export class TariffSearchService {
   }
   /** 関税データを検索する */
   async searchTariffData(keywords: string) {
-    const results: any[] = []
+    const results: TariffSearchResult[] = []
     const hitCount: Record<string, number> = {}
     const keywordArray = keywords
       .split(',')
@@ -38,7 +73,7 @@ export class TariffSearchService {
 
   /** 部注・章注を検索する */
   async searchNotesData(keyword: string) {
-    const results: any[] = []
+    const results: NoteSearchResult[] = []
 
     try {
       // indexファイルから部注・章注データを取得
@@ -79,7 +114,7 @@ export class TariffSearchService {
 
   /** HSコードから関税データを検索する */
   async searchByHSCode(hsCodes: string) {
-    const results: any[] = []
+    const results: TariffSearchResult[] = []
     const hsCodesArray = hsCodes
       .split(',')
       .map((h) => h.trim().toLocaleLowerCase())
@@ -106,9 +141,9 @@ export class TariffSearchService {
 
   /** HSコードを再帰的に検索 */
   private searchHSCodeRecursively(
-    items: any[],
+    items: TariffItem[],
     hsCodesArray: string[],
-    results: any[],
+    results: TariffSearchResult[],
     chapterInfo: any
   ) {
     for (const item of items) {
@@ -145,9 +180,9 @@ export class TariffSearchService {
 
   /** 階層データを再帰的に検索 */
   private searchItemsRecursively(
-    items: any[],
+    items: TariffItem[],
     keywordsArray: string[],
-    results: any[],
+    results: TariffSearchResult[],
     hitCount: Record<string, number>
   ) {
     for (const item of items) {
@@ -188,7 +223,7 @@ export class TariffSearchService {
       // import_law_table.jsonから法令情報を取得
       const lawTable = await import('./tariffdata/import_law_table.json')
       const lawData = (lawTable.default || lawTable) as Record<string, any>
-      const lawDetails: any[] = []
+      const lawDetails: LawDetailResult[] = []
 
       // 複数の法令コードがカンマ区切りで入っている場合を想定
       const codes = lawCodes.split(',').map((code) => code.trim())
