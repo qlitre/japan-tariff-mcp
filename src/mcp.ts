@@ -16,8 +16,8 @@ export const getMcpServer = async (c: Context<Env>) => {
   const searchService = new TariffSearchService()
 
   server.tool(
-    'searchTariff',
-    '関税データをキーワード(カンマ区切り可)で検索します',
+    'searchTariffByKeywords',
+    'Search tariff data by keywords (comma-separated)',
     { keywords: z.string().min(1) },
     async ({ keywords }) => {
       try {
@@ -62,8 +62,55 @@ export const getMcpServer = async (c: Context<Env>) => {
   )
 
   server.tool(
+    'searchTariffByKeyword',
+    'Search tariff data by single keyword',
+    { keyword: z.string().min(1) },
+    async ({ keyword }) => {
+      try {
+        const { results, hitCount } =
+          await searchService.searchTariffData(keyword)
+        let msg = ''
+        if (results.length > 30) {
+          msg =
+            '最大件数の30より多くの情報がヒットしました。hitCountを参考にして必要に応じて再検索を実行してください。'
+        }
+        return {
+          content: [
+            {
+              type: 'text',
+              text: JSON.stringify(
+                {
+                  keyword,
+                  found: results.length,
+                  message: msg,
+                  hitCount: hitCount,
+                  results: results.slice(0, 30),
+                },
+                null,
+                2
+              ),
+            },
+          ],
+        }
+      } catch (error) {
+        return {
+          content: [
+            {
+              type: 'text',
+              text: `検索エラー: ${
+                error instanceof Error ? error.message : 'Unknown error'
+              }`,
+            },
+          ],
+        }
+      }
+    }
+  )
+
+
+  server.tool(
     'searchNotes',
-    '部注・章注をキーワードで検索します',
+    'Search section and chapter notes by keyword',
     { keyword: z.string().min(1) },
     async ({ keyword }) => {
       try {
@@ -101,7 +148,7 @@ export const getMcpServer = async (c: Context<Env>) => {
 
   server.tool(
     'searchByHSCode',
-    'HSコード(カンマ区切り可)から関税データを検索します',
+    'Search tariff data by HS codes (comma-separated)',
     { hs_codes: z.string().min(1) },
     async ({ hs_codes }) => {
       try {
@@ -139,7 +186,7 @@ export const getMcpServer = async (c: Context<Env>) => {
 
   server.tool(
     'getLawDetail',
-    '法令コードから他法令の詳細情報を取得します',
+    'Get detailed information of other laws by law code',
     { law_code: z.string().length(2) },
     async ({ law_code }) => {
       try {
