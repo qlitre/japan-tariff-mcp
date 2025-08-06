@@ -23,10 +23,11 @@ export const getMcpServer = async (c: Context<Env>) => {
       try {
         const { results, hitCount } =
           await searchService.searchTariffData(keywords)
+        const limit=30
         let msg = ''
-        if (results.length > 30) {
+        if (results.length > limit) {
           msg =
-            '最大件数の30より多くの情報がヒットしました。hitCountを参考にして必要に応じて再検索を実行してください。'
+            `More than the maximum limit of ${limit} items were found. Please refer to hitCount and re-search if necessary.`
         }
         return {
           content: [
@@ -38,7 +39,7 @@ export const getMcpServer = async (c: Context<Env>) => {
                   found: results.length,
                   message: msg,
                   hitCount: hitCount,
-                  results: results.slice(0, 30),
+                  results: results.slice(0, limit),
                 },
                 null,
                 2
@@ -72,7 +73,7 @@ export const getMcpServer = async (c: Context<Env>) => {
         let msg = ''
         if (results.length > 30) {
           msg =
-            '最大件数の30より多くの情報がヒットしました。hitCountを参考にして必要に応じて再検索を実行してください。'
+            'More than the maximum limit of 30 items were found. Please refer to hitCount and re-search if necessary.'
         }
         return {
           content: [

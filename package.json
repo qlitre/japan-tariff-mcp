@@ -1,5 +1,5 @@
 {
-  "name": "hono-mcp-test",
+  "name": "japan-tariff-mcp",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy --minify",
