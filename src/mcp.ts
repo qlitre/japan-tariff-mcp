@@ -23,11 +23,10 @@ export const getMcpServer = async (c: Context<Env>) => {
       try {
         const { results, hitCount } =
           await searchService.searchTariffData(keywords)
-        const limit=30
+        const limit = 30
         let msg = ''
         if (results.length > limit) {
-          msg =
-            `More than the maximum limit of ${limit} items were found. Please refer to hitCount and re-search if necessary.`
+          msg = `More than the maximum limit of ${limit} items were found. Please refer to hitCount and re-search if necessary.`
         }
         return {
           content: [
@@ -107,7 +106,6 @@ export const getMcpServer = async (c: Context<Env>) => {
       }
     }
   )
-
 
   server.tool(
     'searchNotes',

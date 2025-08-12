@@ -34,3 +34,7 @@ lerna-debug.log*
 repomix-output.xml
 wrangler.jsonc
 repomix.sh
+
+# python
+.idea
+myvenv
