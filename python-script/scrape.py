@@ -63,7 +63,10 @@ def row_to_node(row):
     if f:
         for i, key in enumerate(rate_keys):
             if rate_start_idx + i < len(row) - 3:  # 単位I、単位II、lawを除く
-                rates[key] = row[rate_start_idx + i].strip() if row[rate_start_idx + i] else ""
+                if row[rate_start_idx + i]:
+                    rates[key] = row[rate_start_idx + i].strip()
+                else:
+                    rates[key]=""
 
         # 単位情報（関税率の後、law の前の2つ）
         unit_i = row[-3] if len(row) >= 3 else ""
