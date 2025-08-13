@@ -11,13 +11,14 @@ export const getMcpServer = async (c: Context<Env>) => {
   const server = new McpServer({
     name: 'japan-tariff-mcp',
     version: '0.0.1',
+    details: '',
   })
 
   const searchService = new TariffSearchService()
 
   server.tool(
     'searchTariffByKeywords',
-    'Search tariff data by keywords (comma-separated)',
+    'Search tariff data by Japanese keywords (comma-separated, use Japanese keywords for best results)',
     { keywords: z.string().min(1) },
     async ({ keywords }) => {
       try {
@@ -62,54 +63,8 @@ export const getMcpServer = async (c: Context<Env>) => {
   )
 
   server.tool(
-    'searchTariffByKeyword',
-    'Search tariff data by single keyword',
-    { keyword: z.string().min(1) },
-    async ({ keyword }) => {
-      try {
-        const { results, hitCount } =
-          await searchService.searchTariffData(keyword)
-        let msg = ''
-        if (results.length > 30) {
-          msg =
-            'More than the maximum limit of 30 items were found. Please refer to hitCount and re-search if necessary.'
-        }
-        return {
-          content: [
-            {
-              type: 'text',
-              text: JSON.stringify(
-                {
-                  keyword,
-                  found: results.length,
-                  message: msg,
-                  hitCount: hitCount,
-                  results: results.slice(0, 30),
-                },
-                null,
-                2
-              ),
-            },
-          ],
-        }
-      } catch (error) {
-        return {
-          content: [
-            {
-              type: 'text',
-              text: `検索エラー: ${
-                error instanceof Error ? error.message : 'Unknown error'
-              }`,
-            },
-          ],
-        }
-      }
-    }
-  )
-
-  server.tool(
     'searchNotes',
-    'Search section and chapter notes by keyword',
+    'Search section and chapter notes by Japanese keyword (use Japanese keyword for best results)',
     { keyword: z.string().min(1) },
     async ({ keyword }) => {
       try {

@@ -24,7 +24,6 @@ interface TariffSearchResult {
 interface NoteSearchResult {
   type: 'section_note' | 'chapter_note'
   chapter: string
-  chapter_title: string
   content: string
 }
 
@@ -88,8 +87,7 @@ export class TariffSearchService {
           results.push({
             type: 'section_note',
             chapter: chapter.chapter,
-            chapter_title: chapter.title,
-            content: chapter.section_note,
+            content: chapter.section_note
           })
         }
 
@@ -101,7 +99,6 @@ export class TariffSearchService {
           results.push({
             type: 'chapter_note',
             chapter: chapter.chapter,
-            chapter_title: chapter.title,
             content: chapter.chapter_note,
           })
         }
