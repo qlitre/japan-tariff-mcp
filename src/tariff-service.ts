@@ -37,6 +37,7 @@ export class TariffSearchService {
   getChapters() {
     const ret = []
     for (let i = 1; i < 98; i++) {
+      // 欠番
       if (i == 77) continue
       ret.push(String(i).padStart(2, '0'))
     }
@@ -57,7 +58,7 @@ export class TariffSearchService {
         )
         // 階層データを再帰的に検索
         this.searchItemsRecursively(
-          chapterData.default || chapterData,
+          chapterData,
           keywordArray,
           results,
           hitCount
@@ -68,6 +69,45 @@ export class TariffSearchService {
       }
     }
     return { results, hitCount }
+  }
+
+  /** 階層データを再帰的に検索 */
+  private searchItemsRecursively(
+    items: TariffItem[],
+    keywordsArray: string[],
+    results: TariffSearchResult[],
+    hitCount: Record<string, number>
+  ) {
+    for (const item of items) {
+      let f = false
+      for (const keyword of keywordsArray) {
+        if (item.desc.toLowerCase().includes(keyword)) f = true
+        if (f) {
+          if (!hitCount[keyword]) hitCount[keyword] = 0
+          hitCount[keyword]++
+        }
+      }
+      if (f) {
+        results.push({
+          stat_code: item.stat_code,
+          hs_code: item.hs_code,
+          desc: item.desc,
+          rate: item.rate,
+          unit: item.unit,
+          law: item.law,
+          level: item.level,
+        })
+      }
+      // 子要素がある場合は再帰的に検索
+      if (item.children && item.children.length > 0) {
+        this.searchItemsRecursively(
+          item.children,
+          keywordsArray,
+          results,
+          hitCount
+        )
+      }
+    }
   }
 
   /** 部注・章注を検索する */
@@ -170,45 +210,6 @@ export class TariffSearchService {
           hsCodesArray,
           results,
           chapterInfo
-        )
-      }
-    }
-  }
-
-  /** 階層データを再帰的に検索 */
-  private searchItemsRecursively(
-    items: TariffItem[],
-    keywordsArray: string[],
-    results: TariffSearchResult[],
-    hitCount: Record<string, number>
-  ) {
-    for (const item of items) {
-      let f = false
-      for (const keyword of keywordsArray) {
-        if (item.desc.toLowerCase().includes(keyword)) f = true
-        if (f) {
-          if (!hitCount[keyword]) hitCount[keyword] = 0
-          hitCount[keyword]++
-        }
-      }
-      if (f) {
-        results.push({
-          stat_code: item.stat_code,
-          hs_code: item.hs_code,
-          desc: item.desc,
-          rate: item.rate,
-          unit: item.unit,
-          law: item.law,
-          level: item.level,
-        })
-      }
-      // 子要素がある場合は再帰的に検索
-      if (item.children && item.children.length > 0) {
-        this.searchItemsRecursively(
-          item.children,
-          keywordsArray,
-          results,
-          hitCount
         )
       }
     }
