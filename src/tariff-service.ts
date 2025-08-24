@@ -163,10 +163,9 @@ export class TariffSearchService {
         )
         // HSコードで検索
         this.searchHSCodeRecursively(
-          chapterData.default || chapterData,
+          chapterData,
           hsCodesArray,
           results,
-          chapter
         )
       } catch (error) {
         // ファイルが存在しない場合はスキップ
@@ -181,7 +180,6 @@ export class TariffSearchService {
     items: TariffItem[],
     hsCodesArray: string[],
     results: TariffSearchResult[],
-    chapterInfo: any
   ) {
     for (const item of items) {
       let f = false
@@ -192,8 +190,6 @@ export class TariffSearchService {
       }
       if (f) {
         results.push({
-          chapter: chapterInfo.chapter,
-          chapter_title: chapterInfo.title,
           stat_code: item.stat_code,
           hs_code: item.hs_code,
           desc: item.desc,
@@ -209,7 +205,6 @@ export class TariffSearchService {
           item.children,
           hsCodesArray,
           results,
-          chapterInfo
         )
       }
     }
