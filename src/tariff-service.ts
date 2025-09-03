@@ -81,8 +81,8 @@ export class TariffSearchService {
     for (const item of items) {
       let f = false
       for (const keyword of keywordsArray) {
-        if (item.desc.toLowerCase().includes(keyword)) f = true
-        if (f) {
+        if (item.desc.toLowerCase().includes(keyword)) {
+          f = true
           if (!hitCount[keyword]) hitCount[keyword] = 0
           hitCount[keyword]++
         }
@@ -127,7 +127,7 @@ export class TariffSearchService {
           results.push({
             type: 'section_note',
             chapter: chapter.chapter,
-            content: chapter.section_note
+            content: chapter.section_note,
           })
         }
 
@@ -162,11 +162,7 @@ export class TariffSearchService {
           `./tariffdata/j_${chapter}_tariff_data.json`
         )
         // HSコードで検索
-        this.searchHSCodeRecursively(
-          chapterData,
-          hsCodesArray,
-          results,
-        )
+        this.searchHSCodeRecursively(chapterData, hsCodesArray, results)
       } catch (error) {
         // ファイルが存在しない場合はスキップ
         continue
@@ -179,7 +175,7 @@ export class TariffSearchService {
   private searchHSCodeRecursively(
     items: TariffItem[],
     hsCodesArray: string[],
-    results: TariffSearchResult[],
+    results: TariffSearchResult[]
   ) {
     for (const item of items) {
       let f = false
@@ -201,11 +197,7 @@ export class TariffSearchService {
       }
       // 子要素がある場合は再帰的に検索
       if (item.children && item.children.length > 0) {
-        this.searchHSCodeRecursively(
-          item.children,
-          hsCodesArray,
-          results,
-        )
+        this.searchHSCodeRecursively(item.children, hsCodesArray, results)
       }
     }
   }
