@@ -7,6 +7,7 @@ import json
 import time
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+VERSION = '2025_04_01'
 
 
 def extract_level(td) -> int:
@@ -66,7 +67,7 @@ def row_to_node(row):
                 if row[rate_start_idx + i]:
                     rates[key] = row[rate_start_idx + i].strip()
                 else:
-                    rates[key]=""
+                    rates[key] = ""
 
         # 単位情報（関税率の後、law の前の2つ）
         unit_i = row[-3] if len(row) >= 3 else ""
@@ -122,20 +123,21 @@ def build_forest(que):
 
 def inherit_stat_codes(forest):
     """親のstat_codeを子ノードに引き継ぐ"""
+
     def propagate_stat_code(node, parent_stat_code=None):
         # 現在のノードのstat_codeが空で、親のstat_codeがある場合は引き継ぐ
         if not node["stat_code"] and parent_stat_code:
             node["stat_code"] = parent_stat_code
-        
+
         # 子ノードに対して再帰的に処理
         current_stat_code = node["stat_code"] if node["stat_code"] else parent_stat_code
         for child in node.get("children", []):
             propagate_stat_code(child, current_stat_code)
-    
+
     # 森の各ルートノードから開始
     for root in forest:
         propagate_stat_code(root)
-    
+
     return forest
 
 
@@ -149,7 +151,6 @@ def create_index_entry(forest, chapter_num):
             count += count_items(node.get("children", []))
         return count
 
-    
     total_items = count_items(forest)
 
     return {
@@ -196,29 +197,29 @@ def fetch_chapter_note(chapter_num):
 def get_section_from_chapter(chapter_num):
     """類番号から部番号を取得"""
     section_mapping = {
-        (1, 5): 1,   # 第1部: 動物及び動物性生産品
+        (1, 5): 1,  # 第1部: 動物及び動物性生産品
         (6, 14): 2,  # 第2部: 植物性生産品
-        (15, 15): 3, # 第3部: 動物性、植物性又は微生物性の油脂等
-        (16, 24): 4, # 第4部: 調製食料品、飲料、たばこ等
-        (25, 27): 5, # 第5部: 鉱物性生産品
-        (28, 38): 6, # 第6部: 化学工業の生産品
-        (39, 40): 7, # 第7部: プラスチック及びゴム等
-        (41, 43): 8, # 第8部: 皮革・毛皮・容器等
-        (44, 46): 9, # 第9部: 木材・コルク・わら製品等
-        (47, 49): 10, # 第10部: パルプ・紙・印刷物
-        (50, 63): 11, # 第11部: 紡織用繊維及びその製品
-        (64, 67): 12, # 第12部: 履物、帽子、傘、羽毛等
-        (68, 70): 13, # 第13部: 石、陶磁、ガラス製品等
-        (71, 71): 14, # 第14部: 真珠、貴石、貨幣等
-        (72, 83): 15, # 第15部: 卑金属及びその製品
-        (84, 85): 16, # 第16部: 機械・電気機器・映像音声機器等
-        (86, 89): 17, # 第17部: 車両、航空機、船舶等
-        (90, 92): 18, # 第18部: 精密機器、医療機器、楽器等
-        (93, 93): 19, # 第19部: 武器等
-        (94, 96): 20, # 第20部: 雑品
-        (97, 97): 21, # 第21部: 美術品等
+        (15, 15): 3,  # 第3部: 動物性、植物性又は微生物性の油脂等
+        (16, 24): 4,  # 第4部: 調製食料品、飲料、たばこ等
+        (25, 27): 5,  # 第5部: 鉱物性生産品
+        (28, 38): 6,  # 第6部: 化学工業の生産品
+        (39, 40): 7,  # 第7部: プラスチック及びゴム等
+        (41, 43): 8,  # 第8部: 皮革・毛皮・容器等
+        (44, 46): 9,  # 第9部: 木材・コルク・わら製品等
+        (47, 49): 10,  # 第10部: パルプ・紙・印刷物
+        (50, 63): 11,  # 第11部: 紡織用繊維及びその製品
+        (64, 67): 12,  # 第12部: 履物、帽子、傘、羽毛等
+        (68, 70): 13,  # 第13部: 石、陶磁、ガラス製品等
+        (71, 71): 14,  # 第14部: 真珠、貴石、貨幣等
+        (72, 83): 15,  # 第15部: 卑金属及びその製品
+        (84, 85): 16,  # 第16部: 機械・電気機器・映像音声機器等
+        (86, 89): 17,  # 第17部: 車両、航空機、船舶等
+        (90, 92): 18,  # 第18部: 精密機器、医療機器、楽器等
+        (93, 93): 19,  # 第19部: 武器等
+        (94, 96): 20,  # 第20部: 雑品
+        (97, 97): 21,  # 第21部: 美術品等
     }
-    
+
     for (start, end), section in section_mapping.items():
         if start <= chapter_num <= end:
             return section
@@ -226,13 +227,13 @@ def get_section_from_chapter(chapter_num):
 
 
 def job():
-    base_url = "https://www.customs.go.jp/tariff/2025_04_01/data/"
+    base_url = f"https://www.customs.go.jp/tariff/{VERSION}/data/"
     all_indices = []
-    
+
     # データ保存用ディレクトリの作成
-    data_dir = Path(BASE_DIR ,"src","tariffdata")
+    data_dir = Path(BASE_DIR, "src", "tariffdata")
     data_dir.mkdir(exist_ok=True)
-    
+
     for i in range(1, 98):
         if i == 77:
             # 欠番
@@ -252,7 +253,7 @@ def job():
             que.append(tmp)
 
         forest = build_forest(que)
-        
+
         # stat_codeを親から子に引き継ぐ
         forest = inherit_stat_codes(forest)
 
@@ -265,7 +266,7 @@ def job():
         section_num = get_section_from_chapter(i)
         section_note = fetch_section_note(section_num) if section_num else ""
         chapter_note = fetch_chapter_note(i)
-        
+
         # インデックス情報を生成
         index_entry = create_index_entry(forest, i)
         index_entry["section_note"] = section_note
@@ -283,6 +284,7 @@ def job():
 
     print(f"\nインデックスファイルを {index_file} に保存しました")
     print(f"総計: {master_index['total_chapters']}類, {master_index['total_items']}アイテム")
+
 
 if __name__ == "__main__":
     job()
