@@ -11,16 +11,27 @@ export const getMcpServer = async (c: Context<Env>) => {
   const server = new McpServer({
     name: 'japan-tariff-mcp',
     version: '0.0.1',
-    details: '',
   })
 
   const searchService = new TariffSearchService()
 
-  server.tool(
+  
+
+  server.registerTool(
     'searchTariffByKeywords',
-    'Search tariff data by Japanese keywords (comma-separated, use Japanese keywords for best results)',
-    { keywords: z.string().min(1) },
-    async ({ keywords }) => {
+    {
+      title: 'Search Tariff By Keywords',
+      description:
+        'Search tariff data by Japanese keywords (comma-separated, use Japanese keywords for best results)',
+      inputSchema: {
+        keywords: z.string().min(1),
+      },
+    },
+    async (params: { keywords?: string } | undefined) => {
+      if (!params?.keywords) {
+        throw new Error('keywords is required')
+      }
+      const keywords = params.keywords
       try {
         const { results, hitCount } =
           await searchService.searchTariffData(keywords)
@@ -62,11 +73,21 @@ export const getMcpServer = async (c: Context<Env>) => {
     }
   )
 
-  server.tool(
+  server.registerTool(
     'searchNotes',
-    'Search section and chapter notes by Japanese keyword (use Japanese keyword for best results)',
-    { keyword: z.string().min(1) },
-    async ({ keyword }) => {
+    {
+      title: 'Search Notes',
+      description:
+        'Search section and chapter notes by Japanese keyword (use Japanese keyword for best results)',
+      inputSchema: {
+        keyword: z.string().min(1),
+      },
+    },
+    async (params: { keyword?: string } | undefined) => {
+      if (!params?.keyword) {
+        throw new Error('keyword is required')
+      }
+      const keyword = params.keyword
       try {
         const results = await searchService.searchNotesData(keyword)
         return {
@@ -100,11 +121,20 @@ export const getMcpServer = async (c: Context<Env>) => {
     }
   )
 
-  server.tool(
+  server.registerTool(
     'searchByHSCode',
-    'Search tariff data by HS codes (comma-separated)',
-    { hs_codes: z.string().min(1) },
-    async ({ hs_codes }) => {
+    {
+      title: 'Search By HS Code',
+      description: 'Search tariff data by HS codes (comma-separated)',
+      inputSchema: {
+        hs_codes: z.string().min(1),
+      },
+    },
+    async (params: { hs_codes?: string } | undefined) => {
+      if (!params?.hs_codes) {
+        throw new Error('hs_codes is required')
+      }
+      const hs_codes = params.hs_codes
       try {
         const results = await searchService.searchByHSCode(hs_codes)
         return {
@@ -138,11 +168,20 @@ export const getMcpServer = async (c: Context<Env>) => {
     }
   )
 
-  server.tool(
+  server.registerTool(
     'getLawDetail',
-    'Get detailed information of other laws by law code',
-    { law_code: z.string().length(2) },
-    async ({ law_code }) => {
+    {
+      title: 'Get Law Detail',
+      description: 'Get detailed information of other laws by law code',
+      inputSchema: {
+        law_code: z.string().length(2),
+      },
+    },
+    async (params: { law_code?: string } | undefined) => {
+      if (!params?.law_code) {
+        throw new Error('law_code is required')
+      }
+      const law_code = params.law_code
       try {
         const lawDetails = await searchService.getLawDetails(law_code)
         return {
