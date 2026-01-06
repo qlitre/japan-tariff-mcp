@@ -72,7 +72,6 @@
 - アイテム数と説明
 - 各種協定税率（EPA、RCEP、WTO等）
 
-
 ## 設定ファイル
 
 ### wrangler.jsonc

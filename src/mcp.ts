@@ -15,8 +15,6 @@ export const getMcpServer = async (c: Context<Env>) => {
 
   const searchService = new TariffSearchService()
 
-  
-
   server.registerTool(
     'searchTariffByKeywords',
     {

@@ -4071,7 +4071,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": ["FD", "AN"],
+            "law": ["FD"],
             "children": []
           },
           {
@@ -4112,7 +4112,7 @@
               "I": "",
               "II": "KG"
             },
-            "law": ["FD", "AN"],
+            "law": ["FD"],
             "children": []
           }
         ]
@@ -4155,7 +4155,7 @@
           "I": "",
           "II": "KG"
         },
-        "law": ["FD", "AN"],
+        "law": ["FD"],
         "children": []
       }
     ]
@@ -4359,7 +4359,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": ["IL", "FD", "AN"],
+                "law": ["IL", "FD"],
                 "children": []
               },
               {
@@ -4400,7 +4400,7 @@
                   "I": "",
                   "II": "KG"
                 },
-                "law": ["IL", "FD", "AN"],
+                "law": ["IL", "FD"],
                 "children": []
               }
             ]
