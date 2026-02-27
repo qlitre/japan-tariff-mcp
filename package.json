@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@hono/mcp": "^0.2.0",
-    "@modelcontextprotocol/sdk": "^1.22.0",
+    "@modelcontextprotocol/sdk": "^1.27.1",
     "agents": "^0.0.93",
     "dotenv": "^17.3.1",
     "drizzle-orm": "^0.43.1",
