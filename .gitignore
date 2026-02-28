@@ -31,8 +31,8 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+
 repomix-output.xml
-wrangler.jsonc
 repomix.sh
 
 # python
