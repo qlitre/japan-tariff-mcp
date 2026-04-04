@@ -13,7 +13,7 @@
     "agents": "^0.0.93",
     "dotenv": "^17.4.0",
     "drizzle-orm": "^0.43.1",
-    "hono": "^4.12.3",
+    "hono": "^4.12.10",
     "hono-rate-limiter": "^0.4.2"
   },
   "devDependencies": {
