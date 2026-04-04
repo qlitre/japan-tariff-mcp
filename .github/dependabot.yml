@@ -1,11 +1,8 @@
 version: 2
 updates:
-  - package-ecosystem: 'npm'
-    directory: '/'
+  - package-ecosystem: "npm"
+    directory: "/"
+    rebase-strategy: "auto"
     schedule:
-      interval: 'monthly'
-      day: 'friday'
-    groups:
-      dependencies:
-      patterns:
-        - '*'
+      interval: "monthly"
+      day: "friday"
