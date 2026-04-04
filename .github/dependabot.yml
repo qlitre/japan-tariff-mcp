@@ -5,3 +5,7 @@ updates:
     schedule:
       interval: 'monthly'
       day: 'friday'
+    groups:
+      dependencies:
+      patterns:
+        - '*'
