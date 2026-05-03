@@ -11,7 +11,7 @@
     "@hono/mcp": "^0.2.0",
     "@modelcontextprotocol/sdk": "^1.22.0",
     "agents": "^0.0.93",
-    "dotenv": "^17.4.0",
+    "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
     "hono": "^4.12.10",
     "hono-rate-limiter": "^0.4.2"
