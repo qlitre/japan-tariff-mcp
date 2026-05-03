@@ -37,40 +37,40 @@
     "@ai-sdk/provider-utils" "2.2.8"
     zod-to-json-schema "^3.24.1"
 
-"@cloudflare/kv-asset-handler@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/@cloudflare/kv-asset-handler/-/kv-asset-handler-0.4.2.tgz#b6b8eab81f0f9d8378e219dd321df20280e3bbd2"
-  integrity sha512-SIOD2DxrRRwQ+jgzlXCqoEFiKOFqaPjhnNTGKXSRLvp1HiOvapLaFG2kEr9dYQTYe8rKrd9uvDUzmAITeNyaHQ==
+"@cloudflare/kv-asset-handler@0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@cloudflare/kv-asset-handler/-/kv-asset-handler-0.5.0.tgz#d448d971aca78c04c39432a862298fb77f295527"
+  integrity sha512-jxQYkj8dSIzc0cD6cMMNdOc1UVjqSqu8BZdor5s8cGjW2I8BjODt/kWPVdY+u9zj3ms75Q5qaZgnxUad83+eAg==
 
-"@cloudflare/unenv-preset@2.16.0":
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/@cloudflare/unenv-preset/-/unenv-preset-2.16.0.tgz#b100f147ce5244d6713fa37dbf999d51f9c3d1a8"
-  integrity sha512-8ovsRpwzPoEqPUzoErAYVv8l3FMZNeBVQfJTvtzP4AgLSRGZISRfuChFxHWUQd3n6cnrwkuTGxT+2cGo8EsyYg==
+"@cloudflare/unenv-preset@2.16.1":
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/@cloudflare/unenv-preset/-/unenv-preset-2.16.1.tgz#d4a3df263ddbfde855bca268be79ea6062856a54"
+  integrity sha512-ECxObrMfyTl5bhQf/lZCXwo5G6xX9IAUo+nDMKK4SZ8m4Jvvxp52vilxyySSWh2YTZz8+HQ07qGH/2rEom1vDw==
 
-"@cloudflare/workerd-darwin-64@1.20260401.1":
-  version "1.20260401.1"
-  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-darwin-64/-/workerd-darwin-64-1.20260401.1.tgz#a37fe6aca8c7712d0314d47953477cff2c2857fc"
-  integrity sha512-ZSmceM70jH6k+/62VkEcmMNzrpr4kSctkX5Lsgqv38KktfhPY/hsh75y1lRoPWS3H3kgMa4p2pUSlidZR1u2hw==
+"@cloudflare/workerd-darwin-64@1.20260430.1":
+  version "1.20260430.1"
+  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-darwin-64/-/workerd-darwin-64-1.20260430.1.tgz#1dbf994e7a02d5014254e237fb28157309401a5e"
+  integrity sha512-ADohZUHf7NBvPp2PdZig2Opxx+hDkk3ve7jrTne3JRx9kDSB73zc4LzcEeEN8LKkbAcqZmvfRJfpChSlusu0lA==
 
-"@cloudflare/workerd-darwin-arm64@1.20260401.1":
-  version "1.20260401.1"
-  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-darwin-arm64/-/workerd-darwin-arm64-1.20260401.1.tgz#6598cc160e9b32df58ca4960e20d3cf070c27573"
-  integrity sha512-7UKWF+IUZ3NXMVPsDg8Cjg0r58b+uYlfvs5Yt8bvtU+geCtW4P2MxRHmRSEo8SryckXOJjb/b8tcncgCykFu8g==
+"@cloudflare/workerd-darwin-arm64@1.20260430.1":
+  version "1.20260430.1"
+  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-darwin-arm64/-/workerd-darwin-arm64-1.20260430.1.tgz#6e9953dfa763eb946f65fdfb77597668a6f21077"
+  integrity sha512-/DoYC/1wHs+YRZzzqSQg1/EHB4hiv1yV5U8FnmapRRIzVaPtnt+ApeOXeMrIdKidgKOI8TqQzgBU8xbIM7Cl4Q==
 
-"@cloudflare/workerd-linux-64@1.20260401.1":
-  version "1.20260401.1"
-  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-linux-64/-/workerd-linux-64-1.20260401.1.tgz#aac037e99950c6c994f0c3bd4642e97009aeec29"
-  integrity sha512-MDWUH/0bvL/l9aauN8zEddyYOXId1OueqrUCXXENNJ95R/lSmF6OgGVuXaYhoIhxQkNiEJ/0NOlnVYj9mJq4dw==
+"@cloudflare/workerd-linux-64@1.20260430.1":
+  version "1.20260430.1"
+  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-linux-64/-/workerd-linux-64-1.20260430.1.tgz#638efe9cc38c6ba31d1de5d09cbb3e7e9d30bb6f"
+  integrity sha512-koJhBWvEVZPKCVFtMLp2iMHlYr+lFCF47wGbnlKdHVlemV0zTxJEyHI8aLlrhPLhBmOmYLp46rXw09/qJkRIhQ==
 
-"@cloudflare/workerd-linux-arm64@1.20260401.1":
-  version "1.20260401.1"
-  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-linux-arm64/-/workerd-linux-arm64-1.20260401.1.tgz#c227543b130f19d939be06b95052105d13ba080e"
-  integrity sha512-UgkzpMzVWM/bwbo3vjCTg2aoKfGcUhiEoQoDdo6RGWvbHRJyLVZ4VQCG9ZcISiztkiS2ICCoYOtPy6M/lV6Gcw==
+"@cloudflare/workerd-linux-arm64@1.20260430.1":
+  version "1.20260430.1"
+  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-linux-arm64/-/workerd-linux-arm64-1.20260430.1.tgz#05940bc745d4c70eccb8341ef9bd30e72faa1d93"
+  integrity sha512-hMdapNAzNQZDXGGkg4Slydc3fRJP5FUZLJVVcZCW/+imhhJro9Z1rv5n/wfR+txKoSWhTYR8eOp8Pyi2bzLzlw==
 
-"@cloudflare/workerd-windows-64@1.20260401.1":
-  version "1.20260401.1"
-  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-windows-64/-/workerd-windows-64-1.20260401.1.tgz#7f44007d13839ff53db5897c6d957a354fc63cfd"
-  integrity sha512-HBLzcQF5iF4Qv20tQ++pG7xs3OsCnaIbc+GAi6fmhUKZhvmzvml/jwrQzLJ+MPm0cQo41K5OO/U3T4S8tvJetQ==
+"@cloudflare/workerd-windows-64@1.20260430.1":
+  version "1.20260430.1"
+  resolved "https://registry.yarnpkg.com/@cloudflare/workerd-windows-64/-/workerd-windows-64-1.20260430.1.tgz#5240fb60d9f2879d70e1a106fbcea2a3f9295efe"
+  integrity sha512-jS3ffixjb5USOwz4frw4WzCz0HrjVxkgyU3WiYb06N7hBAfN6eOrveAJ4QRef0+suK4V1vQFoB1oKdRBsXe9Dw==
 
 "@cspotcode/source-map-support@0.8.1":
   version "0.8.1"
@@ -999,15 +999,15 @@ mime-types@^3.0.0, mime-types@^3.0.1:
   dependencies:
     mime-db "^1.54.0"
 
-miniflare@4.20260401.0:
-  version "4.20260401.0"
-  resolved "https://registry.yarnpkg.com/miniflare/-/miniflare-4.20260401.0.tgz#281770ee2669d629818150698f49db63bc24a5a9"
-  integrity sha512-lngHPzZFN9sxYG/mhzvnWiBMNVAN5MsO/7g32ttJ07rymtiK/ZBalODTKb8Od+BQdlU5DOR4CjVt9NydjnUyYg==
+miniflare@4.20260430.0:
+  version "4.20260430.0"
+  resolved "https://registry.yarnpkg.com/miniflare/-/miniflare-4.20260430.0.tgz#a0fa385c7ef397eead1219635b2ca09eb82195a7"
+  integrity sha512-MWvMm3Siho9Yj7lbJZidLs8hbrRvIcOrif2mnsHQZdvoKfedpea+GaN8XJxbpRcq0B2WzNI1BB1ihdnqes3/ZA==
   dependencies:
     "@cspotcode/source-map-support" "0.8.1"
     sharp "^0.34.5"
-    undici "7.24.4"
-    workerd "1.20260401.1"
+    undici "7.24.8"
+    workerd "1.20260430.1"
     ws "8.18.0"
     youch "4.1.0-beta.10"
 
@@ -1340,10 +1340,10 @@ undici-types@~7.18.0:
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-7.18.2.tgz#29357a89e7b7ca4aef3bf0fd3fd0cd73884229e9"
   integrity sha512-AsuCzffGHJybSaRrmr5eHr81mwJU3kjw6M+uprWvCXiNeN9SOGwQ3Jn8jb8m3Z6izVgknn1R0FTCEAP2QrLY/w==
 
-undici@7.24.4:
-  version "7.24.4"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-7.24.4.tgz#873bce680d7c6354c941399fd4e8ea4563de4ea7"
-  integrity sha512-BM/JzwwaRXxrLdElV2Uo6cTLEjhSb3WXboncJamZ15NgUURmvlXvxa6xkwIOILIjPNo9i8ku136ZvWV0Uly8+w==
+undici@7.24.8:
+  version "7.24.8"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-7.24.8.tgz#8207d06a68955d4420e50468f2749e940b3eb4cf"
+  integrity sha512-6KQ/+QxK49Z/p3HO6E5ZCZWNnCasyZLa5ExaVYyvPxUwKtbCPMKELJOqh7EqOle0t9cH/7d2TaaTRRa6Nhs4YQ==
 
 unenv@2.0.0-rc.24:
   version "2.0.0-rc.24"
@@ -1381,30 +1381,30 @@ which@^2.0.1:
   dependencies:
     isexe "^2.0.0"
 
-workerd@1.20260401.1:
-  version "1.20260401.1"
-  resolved "https://registry.yarnpkg.com/workerd/-/workerd-1.20260401.1.tgz#9e90b462faaa6a80ebc3e28cc5402954669295b0"
-  integrity sha512-mUYCd+ohaWJWF5nhDzxugWaAD/DM8Dw0ze3B7bu8JaA7S70+XQJXcvcvwE8C4qGcxSdCyqjsrFzqxKubECDwzg==
+workerd@1.20260430.1:
+  version "1.20260430.1"
+  resolved "https://registry.yarnpkg.com/workerd/-/workerd-1.20260430.1.tgz#b7749f5b4036e3477dcb0c71eea151ed5dfda46b"
+  integrity sha512-KEgIWyiw3Jmn+DCd/L3ePo5fmiiYb/UcwKvDWPf/nLLOiwShDFzDSsegU5NY/JcwgvO/QsLHVi2FYrbkcXNY5Q==
   optionalDependencies:
-    "@cloudflare/workerd-darwin-64" "1.20260401.1"
-    "@cloudflare/workerd-darwin-arm64" "1.20260401.1"
-    "@cloudflare/workerd-linux-64" "1.20260401.1"
-    "@cloudflare/workerd-linux-arm64" "1.20260401.1"
-    "@cloudflare/workerd-windows-64" "1.20260401.1"
+    "@cloudflare/workerd-darwin-64" "1.20260430.1"
+    "@cloudflare/workerd-darwin-arm64" "1.20260430.1"
+    "@cloudflare/workerd-linux-64" "1.20260430.1"
+    "@cloudflare/workerd-linux-arm64" "1.20260430.1"
+    "@cloudflare/workerd-windows-64" "1.20260430.1"
 
-wrangler@^4.80.0:
-  version "4.80.0"
-  resolved "https://registry.yarnpkg.com/wrangler/-/wrangler-4.80.0.tgz#ed73b62a16396c8522248bbe0748c2cdc1903404"
-  integrity sha512-2ZKF7uPeOZy65BGk3YfvqBCPo/xH1MrAlMmH9mVP+tCNBrTUMnwOHSj1HrZHgR8LttkAqhko0fGz+I4ax1rzyQ==
+wrangler@^4.87.0:
+  version "4.87.0"
+  resolved "https://registry.yarnpkg.com/wrangler/-/wrangler-4.87.0.tgz#ccc274e23734224bbcf4c3e8ed60b8ff581aed63"
+  integrity sha512-lfhfKwLfQlowwgV0xhlYgE9fU3n0I30d4ccGY/rTCEm/n42Mjvlr0Ng3ZPNqlsrsKBcDR531V7dsPkgELvrk/Q==
   dependencies:
-    "@cloudflare/kv-asset-handler" "0.4.2"
-    "@cloudflare/unenv-preset" "2.16.0"
+    "@cloudflare/kv-asset-handler" "0.5.0"
+    "@cloudflare/unenv-preset" "2.16.1"
     blake3-wasm "2.1.5"
     esbuild "0.27.3"
-    miniflare "4.20260401.0"
+    miniflare "4.20260430.0"
     path-to-regexp "6.3.0"
     unenv "2.0.0-rc.24"
-    workerd "1.20260401.1"
+    workerd "1.20260430.1"
   optionalDependencies:
     fsevents "~2.3.2"
 
