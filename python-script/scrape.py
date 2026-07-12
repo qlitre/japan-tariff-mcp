@@ -7,7 +7,7 @@ import json
 import time
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-VERSION = '2026_04_01'
+VERSION = '2026_07_09'
 
 
 def extract_level(td) -> int:
@@ -163,7 +163,7 @@ def create_index_entry(forest, chapter_num):
 def create_master_index(all_indices):
     """全体のマスターインデックスを作成"""
     return {
-        "created_at": "2025-06-17",
+        "version": VERSION,
         "total_chapters": len(all_indices),
         "total_items": sum(idx["total_items"] for idx in all_indices),
         "chapters": all_indices
