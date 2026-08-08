@@ -8,13 +8,12 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
-    "@hono/mcp": "^0.2.0",
-    "@modelcontextprotocol/sdk": "^1.22.0",
+    "@modelcontextprotocol/server": "^2.0.0",
     "agents": "^0.0.93",
     "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
     "hono": "^4.12.32",
-    "hono-rate-limiter": "^0.4.2"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "^26.1.2",
