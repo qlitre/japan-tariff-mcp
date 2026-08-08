@@ -1,5 +1,7 @@
-import { StreamableHTTPTransport } from '@hono/mcp'
-import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js'
+import {
+  McpServer,
+  WebStandardStreamableHTTPServerTransport,
+} from '@modelcontextprotocol/server'
 import { z } from 'zod'
 import { Context } from 'hono'
 import { HTTPException } from 'hono/http-exception'
@@ -21,9 +23,9 @@ export const getMcpServer = async (c: Context<Env>) => {
       title: 'Search Tariff By Keywords',
       description:
         'Search tariff data by Japanese keywords (comma-separated, use Japanese keywords for best results)',
-      inputSchema: {
+      inputSchema: z.object({
         keywords: z.string().min(1),
-      },
+      }),
     },
     async (params: { keywords?: string } | undefined) => {
       if (!params?.keywords) {
@@ -77,9 +79,9 @@ export const getMcpServer = async (c: Context<Env>) => {
       title: 'Search Notes',
       description:
         'Search section and chapter notes by Japanese keyword (use Japanese keyword for best results)',
-      inputSchema: {
+      inputSchema: z.object({
         keyword: z.string().min(1),
-      },
+      }),
     },
     async (params: { keyword?: string } | undefined) => {
       if (!params?.keyword) {
@@ -124,9 +126,9 @@ export const getMcpServer = async (c: Context<Env>) => {
     {
       title: 'Search By HS Code',
       description: 'Search tariff data by HS codes (comma-separated)',
-      inputSchema: {
+      inputSchema: z.object({
         hs_codes: z.string().min(1),
-      },
+      }),
     },
     async (params: { hs_codes?: string } | undefined) => {
       if (!params?.hs_codes) {
@@ -171,9 +173,9 @@ export const getMcpServer = async (c: Context<Env>) => {
     {
       title: 'Get Law Detail',
       description: 'Get detailed information of other laws by law code',
-      inputSchema: {
+      inputSchema: z.object({
         law_code: z.string().length(2),
-      },
+      }),
     },
     async (params: { law_code?: string } | undefined) => {
       if (!params?.law_code) {
@@ -218,9 +220,11 @@ const app = new Hono()
 
 app.all('/', async (c) => {
   const mcpServer = await getMcpServer(c)
-  const transport = new StreamableHTTPTransport()
+  const transport = new WebStandardStreamableHTTPServerTransport({
+    sessionIdGenerator: undefined,
+  })
   await mcpServer.connect(transport)
-  return transport.handleRequest(c)
+  return transport.handleRequest(c.req.raw)
 })
 
 app.onError((err, c) => {
