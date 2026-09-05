@@ -13,11 +13,11 @@
     "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
     "hono": "^4.13.5",
-    "zod": "^4.4.3"
+    "zod": "^4.5.2"
   },
   "devDependencies": {
-    "@types/node": "^26.1.2",
+    "@types/node": "^26.4.0",
     "prettier": "^3.9.6",
-    "wrangler": "^4.115.0"
+    "wrangler": "^4.127.1"
   }
 }
