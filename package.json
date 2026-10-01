@@ -8,16 +8,16 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
-    "@modelcontextprotocol/server": "^2.0.0",
+    "@modelcontextprotocol/server": "^2.1.0",
     "agents": "^0.0.93",
     "dotenv": "^17.4.2",
-    "drizzle-orm": "^0.45.2",
+    "drizzle-orm": "^0.45.3",
     "hono": "^4.13.12",
-    "zod": "^4.5.2"
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@types/node": "^26.4.0",
     "prettier": "^3.9.6",
-    "wrangler": "^4.127.1"
+    "wrangler": "^4.142.0"
   }
 }
