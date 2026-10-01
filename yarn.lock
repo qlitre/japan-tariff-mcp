@@ -871,10 +871,10 @@ hasown@^2.0.2:
   dependencies:
     function-bind "^1.1.2"
 
-hono@^4.13.5:
-  version "4.13.5"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-4.13.5.tgz#3df9463c4668a0321c39515309f5891e388e9709"
-  integrity sha512-O6+/eCYRkzzzy0rPWwKLiGBR1nFuUPZynnwjxN1MBA62NNqbT0wQEzQyK2gSO5yDIDB336sXQleAhOHrzlYyKw==
+hono@^4.13.9:
+  version "4.13.9"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.13.9.tgz#682943308ab2f228012460d596a9af58090a1528"
+  integrity sha512-7dMkQmZoC4E6F7AtaQSPhlWAdnBti+j7rreMZl8QB4jFiEhP9TWbGWUMi8WYzBCgmgulxuvLQupKqo+Co6Omyg==
 
 http-errors@2.0.0, http-errors@^2.0.0:
   version "2.0.0"
