@@ -7,7 +7,7 @@ import json
 import time
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-VERSION = '2026_07_09'
+VERSION = '2026_08_08'
 
 
 def extract_level(td) -> int:
