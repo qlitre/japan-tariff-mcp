@@ -11,7 +11,7 @@
     "@modelcontextprotocol/server": "^2.1.0",
     "agents": "^0.0.93",
     "dotenv": "^17.4.2",
-    "drizzle-orm": "^0.45.3",
+    "drizzle-orm": "^0.45.4",
     "hono": "^4.13.14",
     "zod": "^4.6.5"
   },
