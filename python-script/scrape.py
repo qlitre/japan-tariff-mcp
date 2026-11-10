@@ -7,7 +7,7 @@ import json
 import time
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-VERSION = '2026_08_08'
+VERSION = '2026_10_31'
 
 
 def extract_level(td) -> int:
@@ -172,7 +172,8 @@ def create_master_index(all_indices):
 
 def fetch_section_note(section_num):
     """部注を取得"""
-    url = f"https://www.kanzei.or.jp/statistical/popcontent/note/tariff/hs1dig/j/{section_num:02d}"
+    section_num = str(section_num)
+    url = f"https://apps.kanzei.jp/statistical/popcontent/note/tariff/hs1dig/j/{section_num.zfill(2)}"
     try:
         r = requests.get(url, timeout=10)
         r.raise_for_status()
@@ -184,7 +185,8 @@ def fetch_section_note(section_num):
 
 def fetch_chapter_note(chapter_num):
     """類注を取得"""
-    url = f"https://www.kanzei.or.jp/statistical/popcontent/note/tariff/hs2dig/j/{chapter_num:02d}"
+    chapter_num = str(chapter_num)
+    url = f"https://apps.kanzei.jp/statistical/popcontent/note/tariff/hs2dig/j/{chapter_num.zfill(2)}"
     try:
         r = requests.get(url, timeout=10)
         r.raise_for_status()
